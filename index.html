@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Global Pulse - 海外社媒热点运营工作台</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main>
+      <section id="dashboard" class="toolbar">
+        <div>
+          <p class="eyebrow">Platform Filter</p>
+          <h2>今日热点工作台</h2>
+        </div>
+        <div class="filters" aria-label="平台筛选">
+          <button class="filter-button active" data-platform="all">全部</button>
+          <button class="filter-button" data-platform="x">X / Twitter</button>
+          <button class="filter-button" data-platform="instagram">Instagram</button>
+          <button class="filter-button" data-platform="tiktok">TikTok</button>
+          <button class="filter-button" data-platform="facebook">Facebook</button>
+        </div>
+      </section>
+
+      <section class="metrics" aria-label="关键指标">
+        <article>
+          <span>已核验热点</span>
+          <strong>17</strong>
+          <p>按平台分区列出热点，数量不强行一致，优先覆盖可复盘议题。</p>
+        </article>
+        <article>
+          <span>来源覆盖</span>
+          <strong>9</strong>
+          <p>新闻媒体、趋势追踪页、平台账号与可复盘报道。</p>
+        </article>
+        <article>
+          <span>参考账号</span>
+          <strong>51</strong>
+          <p>只放可模仿的自媒体、创作者、记者与内容型账号。</p>
+        </article>
+      </section>
+
+      <section class="trend-directory" aria-label="各平台热点列表">
+        <div class="section-title compact-title">
+          <p class="eyebrow">Trend List</p>
+          <h2>各平台热点列表</h2>
+        </div>
+        <div class="trend-list full-trend-list" id="trendList" aria-live="polite"></div>
+      </section>
+
+      <section class="account-directory" aria-label="热点及对应账号">
+        <div class="section-title compact-title">
+          <p class="eyebrow">Account Match</p>
+          <h2>热点及对应可模仿账号</h2>
+        </div>
+        <div id="accountDirectory" class="directory-grid"></div>
+      </section>
+
+      <section class="grid">
+        <aside class="analysis-panel">
+          <p class="eyebrow">Operator View</p>
+          <h2>海外运营判断</h2>
+          <div id="platformInsight" class="insight-box"></div>
+          <div class="risk-box">
+            <h3>今日风险提醒</h3>
+            <ul>
+              <li>政治、宗教、身份议题只做事实型表达，避免品牌立场被误读。</li>
+              <li>使用热点音频、图片或赛事素材前，确认版权和平台商用规则。</li>
+              <li>跨平台复用内容时，重新写首句和封面文案，避免算法判定低质量搬运。</li>
+            </ul>
+          </div>
+        </aside>
+      </section>
+
+      <section id="playbook" class="playbook">
+        <div class="section-title">
+          <p class="eyebrow">Execution Playbook</p>
+          <h2>不同平台的运营打法</h2>
+        </div>
+        <div class="playbook-grid">
+          <article>
+            <h3>X / Twitter</h3>
+            <p>适合实时观点、行业评论、数据拆解和创始人账号发声。先用短观点切入，再用 thread 做论证。</p>
+            <strong>建议动作</strong>
+            <ul>
+              <li>热点出现后 30 分钟内发布观点。</li>
+              <li>用 1 个强判断 + 2 个事实依据提高转发率。</li>
+              <li>评论头部 KOL 帖子获取早期曝光。</li>
+            </ul>
+          </article>
+          <article>
+            <h3>Instagram</h3>
+            <p>适合视觉化总结、生活方式表达、Reels 和 Carousel 教程。品牌调性比速度更重要。</p>
+            <strong>建议动作</strong>
+            <ul>
+              <li>把热点拆成 5 页轮播：背景、原因、影响、案例、行动。</li>
+              <li>Reels 前 2 秒用问题或反差画面留人。</li>
+              <li>Story 使用投票和问答收集用户偏好。</li>
+            </ul>
+          </article>
+          <article>
+            <h3>TikTok</h3>
+            <p>适合趋势音频、挑战、真实体验和轻量科普。优先跟形式，再植入品牌观点。</p>
+            <strong>建议动作</strong>
+            <ul>
+              <li>同一热点做 3 个 hook 测试，保留完播率最高版本。</li>
+              <li>使用 native 口吻，避免广告感开场。</li>
+              <li>在评论区置顶补充购买、下载或关注入口。</li>
+            </ul>
+          </article>
+          <article>
+            <h3>Facebook</h3>
+            <p>适合社区讨论、长文解释、本地化活动和群组扩散。信任感和实用性优先。</p>
+            <strong>建议动作</strong>
+            <ul>
+              <li>把热点转成社区问题，邀请用户分享经验。</li>
+              <li>在 Group 中发布更细分的本地场景内容。</li>
+              <li>搭配活动、优惠或直播提升转化。</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+    </main>
+
+    <footer>
+      <p>Global Pulse demo - 为海外运营团队设计的每日社媒趋势分析网站。</p>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
