@@ -1,3 +1,5 @@
+const DATA_URL = "data/trends.json";
+
 const platformMeta = {
   x: {
     name: "X / Twitter",
@@ -17,7 +19,7 @@ const platformMeta = {
   }
 };
 
-const trends = [
+let trends = [
   {
     platform: "x",
     title: "美国队 Balogun 红牌禁赛被撤销引发争议",
@@ -318,7 +320,7 @@ const trends = [
   }
 ];
 
-const audienceMap = {
+let audienceMap = {
   "美国队 Balogun 红牌禁赛被撤销引发争议": {
     audience: "美国足球迷、世界杯观众、体育评论账号、关注规则公平性的泛体育用户。",
     motivation: "这类受众关心的不只是球员本身，而是“规则是否公平”“主队是否被针对”“权力是否影响体育”。争议越清晰，评论和转发越容易被点燃。",
@@ -557,6 +559,39 @@ filterButtons.forEach((button) => {
   });
 });
 
-renderTrends();
-renderInsight();
-renderAccountDirectory();
+async function loadDailyData() {
+  const dataUpdatedAt = document.querySelector("#dataUpdatedAt");
+
+  try {
+    const response = await fetch(DATA_URL, { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const data = await response.json();
+    if (Array.isArray(data.trends) && data.trends.length > 0) {
+      trends = data.trends;
+    }
+    if (data.audienceMap && typeof data.audienceMap === "object") {
+      audienceMap = { ...audienceMap, ...data.audienceMap };
+    }
+    if (data.generatedAt && dataUpdatedAt) {
+      const updated = new Date(data.generatedAt);
+      dataUpdatedAt.textContent = `数据源：公开热点源每日自动更新，更新时间 ${updated.toLocaleString("zh-CN")}`;
+    }
+  } catch (error) {
+    if (dataUpdatedAt) {
+      dataUpdatedAt.textContent = "数据源：当前显示内置样例；自动更新数据暂不可用";
+    }
+    console.warn("Daily trend data unavailable:", error);
+  }
+}
+
+async function initApp() {
+  await loadDailyData();
+  renderTrends();
+  renderInsight();
+  renderAccountDirectory();
+}
+
+initApp();
