@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T02:08:02.906846+00:00",
+  "generatedAt": "2026-07-08T09:59:15.003057+00:00",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -62,16 +62,16 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：USA fall asleep in Seattle and it’s tchau Ronaldo | World Cup Daily – video",
+      "title": "实时讨论：Argentina avert disaster with controversial late comeback | World Cup Daily – video",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 75,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Nick Ames and Sid Lowe as error-prone USA are picked off by Belgium and Cristiano Ronaldo bids farewell to the World Cup for ...",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Barney Ronay and Alexander Abnos as Argentina pull off an all-time great World Cup comeback against Egypt Continue reading...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/07/usa-fall-asleep-in-seattle-and-its-tchau-ronaldo-world-cup-daily-video"
+          "url": "https://www.theguardian.com/football/video/2026/jul/08/argentina-avert-disaster-with-late-controversial-comeback-world-cup-daily-video"
         }
       ],
       "accounts": [
@@ -244,7 +244,7 @@
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
+          "label": "Guardian Sport",
           "url": "https://www.theguardian.com/football/2026/jul/07/argentina-egypt-world-cup-2026-last-16-match-report"
         }
       ],
@@ -323,16 +323,16 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：USA fall asleep in Seattle and it’s tchau Ronaldo | World Cup Daily – video",
+      "title": "短视频趋势：Argentina avert disaster with controversial late comeback | World Cup Daily – video",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 84,
+      "heat": 78,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Nick Ames and Sid Lowe as error-prone USA are picked off by Belgium and Cristiano Ronaldo bids farewell to the World Cup for ...",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Barney Ronay and Alexander Abnos as Argentina pull off an all-time great World Cup comeback against Egypt Continue reading...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/07/usa-fall-asleep-in-seattle-and-its-tchau-ronaldo-world-cup-daily-video"
+          "url": "https://www.theguardian.com/football/video/2026/jul/08/argentina-avert-disaster-with-late-controversial-comeback-world-cup-daily-video"
         }
       ],
       "accounts": [
@@ -497,16 +497,16 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt",
+      "title": "社区话题：Why Jude Bellingham’s world is bigger than most of us can understand",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 77,
+      "heat": 70,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The golden rule of football? Never write off Lionel Messi. Just when it looked like his dream of leading Argentina to the bicampeonato was in tatters, the 39-year-old came to his country’s r...",
+      "summary": "公开来源显示该议题正在发酵：The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak Djokovic There has never been an English footballer quite like Jude Belling...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/07/argentina-egypt-world-cup-2026-last-16-match-report"
+          "url": "https://www.theguardian.com/football/2026/jul/07/genius-jude-bellingham-becoming-one-of-englands-leaders"
         }
       ],
       "accounts": [
@@ -536,7 +536,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：USA fall asleep in Seattle and it’s tchau Ronaldo | World Cup Daily – video": {
+    "实时讨论：Argentina avert disaster with controversial late comeback | World Cup Daily – video": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -581,7 +581,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：USA fall asleep in Seattle and it’s tchau Ronaldo | World Cup Daily – video": {
+    "短视频趋势：Argentina avert disaster with controversial late comeback | World Cup Daily – video": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -611,7 +611,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt": {
+    "社区话题：Why Jude Bellingham’s world is bigger than most of us can understand": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
