@@ -1,12 +1,41 @@
 {
-  "generatedAt": "2026-07-07T01:58:29.004912+00:00",
+  "generatedAt": "2026-07-08T02:08:02.906846+00:00",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
+      "title": "实时讨论：French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racis...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@FabrizioRomano",
+          "why": "快讯式标题和高频更新"
+        },
+        {
+          "name": "@benedictevans",
+          "why": "科技趋势大图景"
+        },
+        {
+          "name": "@MarketingBrew",
+          "why": "营销新闻角度"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! For Mexico City 1986, Saint-Étienne 1998 and Gelsenkirchen 2006, do not read Mexico City 2026. History told us England simply do not progr...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
@@ -33,9 +62,67 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：USA fall asleep in Seattle and it’s tchau Ronaldo | World Cup Daily – video",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Nick Ames and Sid Lowe as error-prone USA are picked off by Belgium and Cristiano Ronaldo bids farewell to the World Cup for ...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/jul/07/usa-fall-asleep-in-seattle-and-its-tchau-ronaldo-world-cup-daily-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@FabrizioRomano",
+          "why": "快讯式标题和高频更新"
+        },
+        {
+          "name": "@benedictevans",
+          "why": "科技趋势大图景"
+        },
+        {
+          "name": "@MarketingBrew",
+          "why": "营销新闻角度"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Switzerland knock out Colombia on penalties to reach World Cup quarter-finals",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Davinson Sánchez looked to the heavens. Cucho Hernández trudged back to his teammates. By the end, the pair’s penalty misses sent the Colombian team to the grass in anguish as Switzerland da...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/switzerland-colombia-world-cup-2026-last-16-match-report"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@FabrizioRomano",
+          "why": "快讯式标题和高频更新"
+        },
+        {
+          "name": "@benedictevans",
+          "why": "科技趋势大图景"
+        },
+        {
+          "name": "@MarketingBrew",
+          "why": "营销新闻角度"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：Follow Pep and find scoring options: Maresca’s Manchester City in-tray",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
+      "heat": 76,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：New manager needs to gain true backing from the hierarchy by stepping out from Guardiola’s shadow How Enzo Maresca follows Pep Guardiola is the searing question he has to answer – from fans,...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
@@ -43,93 +130,6 @@
         {
           "label": "Guardian Football",
           "url": "https://www.theguardian.com/football/2026/jun/29/follow-pep-and-find-scoring-options-marescas-manchester-city-in-tray"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
-        },
-        {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
-        },
-        {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 86,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：From taking the photo that became the most-liked post on Instagram as of recording, to developing film in the stadium toilets, legendary World Cup photographer Shaun Botterill speaks with Gu...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/artanddesign/video/2026/jun/30/from-developing-photos-in-a-toilet-to-a-viral-messi-shot-40-years-shooting-the-world-cup-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
-        },
-        {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
-        },
-        {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：All of the critiques of this tournament have proven valid and warranted, even as the action on the pitch has delighted us • Predict the winner | Daily podcast | Download our app The football...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jun/29/world-cup-criticism"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
-        },
-        {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
-        },
-        {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：For all Cape Verde’s heroics, Africa’s World Cup could and perhaps should have been better | Jonathan Wilson",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Egypt and Morocco are in the last 16 after shootouts, but the continent’s pyramid appears to be getting broader rather than much higher For Africa, this World Cup feels like one of those cla...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/04/for-all-cape-verdes-heroics-africas-world-cup-could-and-perhaps-should-have-been-better"
         }
       ],
       "accounts": [
@@ -178,74 +178,74 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps",
+      "title": "视觉热点：Djokovic sees off Auger-Aliassime in Wimbledon epic to set up Sinner semi-final",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography UK parents warned over posting images of children amid AI sexual abuse f...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@oldloserinbrooklyn",
-          "why": "潮流趋势解释"
-        },
-        {
-          "name": "@devonleecarlson",
-          "why": "生活方式和怀旧视觉"
-        },
-        {
-          "name": "@thetennisletter",
-          "why": "体育热点图文快发"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Football Daily | France’s fab front four make them incomparable World Cup favourites",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 70,
+      "heat": 87,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! We can all agree the Geopolitics World Cup has gone on far too long, so Football Daily is pleased to announce it is over. It monopolises e...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/01/frances-fab-front-four-make-them-incomparable-world-cup-favourites"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@oldloserinbrooklyn",
-          "why": "潮流趋势解释"
-        },
-        {
-          "name": "@devonleecarlson",
-          "why": "生活方式和怀旧视觉"
-        },
-        {
-          "name": "@thetennisletter",
-          "why": "体育热点图文快发"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Arthur Fery outlasts Grigor Dimitrov in thriller to extend Wimbledon fairytale",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Briton beats fellow wildcard 7-5, 3-6, 4-6, 6-4, 7-6 (7) Fery will play No 9 seed Flavio Cobolli in quarter-finals Nearly four hours into the most significant occasion of his career, deep in...",
+      "summary": "公开来源显示该议题正在发酵：Novak Djokovic wins 7-6 (10), 3-6, 6-3, 6-7 (4), 7-6 (4) Serb lauds ‘one of the best matches in my career’ On Monday night The Odyssey, ­Christopher Nolan’s three-hour epic about one man’s h...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/jul/06/arthur-fery-grigor-dimitrov-thriller-extend-wimbledon-fairytale"
+          "url": "https://www.theguardian.com/sport/2026/jul/07/novak-djokovic-wins-felix-auger-aliassime-wimbledon-epic-tennis"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@oldloserinbrooklyn",
+          "why": "潮流趋势解释"
+        },
+        {
+          "name": "@devonleecarlson",
+          "why": "生活方式和怀旧视觉"
+        },
+        {
+          "name": "@thetennisletter",
+          "why": "体育热点图文快发"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Wimbledon 2026 quarter-finals: Djokovic beats Auger-Aliassime in five-set marathon – as it happened",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Novak Djokovic beat Felix Auger-Aliassime in Wimbledon’s longest-ever quarter-final, while Karolina Muchova saw off Naomi Osaka and Jannik Sinner also won Now a love hold for Struff, who’s s...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/live/2026/jul/07/wimbledon-2026-quarter-finals-sinner-osaka-djokovic-and-gauff-in-action-live"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@oldloserinbrooklyn",
+          "why": "潮流趋势解释"
+        },
+        {
+          "name": "@devonleecarlson",
+          "why": "生活方式和怀旧视觉"
+        },
+        {
+          "name": "@thetennisletter",
+          "why": "体育热点图文快发"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The golden rule of football? Never write off Lionel Messi. Just when it looked like his dream of leading Argentina to the bicampeonato was in tatters, the 39-year-old came to his country’s r...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/07/argentina-egypt-world-cup-2026-last-16-match-report"
         }
       ],
       "accounts": [
@@ -265,9 +265,38 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racis...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@zachking",
+          "why": "高完成度视觉反转"
+        },
+        {
+          "name": "@colinandsamir",
+          "why": "创作者经济拆解"
+        },
+        {
+          "name": "@marketingexamined",
+          "why": "营销案例短内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! For Mexico City 1986, Saint-Étienne 1998 and Gelsenkirchen 2006, do not read Mexico City 2026. History told us England simply do not progr...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
@@ -294,9 +323,67 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：USA fall asleep in Seattle and it’s tchau Ronaldo | World Cup Daily – video",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 84,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Nick Ames and Sid Lowe as error-prone USA are picked off by Belgium and Cristiano Ronaldo bids farewell to the World Cup for ...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/jul/07/usa-fall-asleep-in-seattle-and-its-tchau-ronaldo-world-cup-daily-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@zachking",
+          "why": "高完成度视觉反转"
+        },
+        {
+          "name": "@colinandsamir",
+          "why": "创作者经济拆解"
+        },
+        {
+          "name": "@marketingexamined",
+          "why": "营销案例短内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Switzerland knock out Colombia on penalties to reach World Cup quarter-finals",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 85,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Davinson Sánchez looked to the heavens. Cucho Hernández trudged back to his teammates. By the end, the pair’s penalty misses sent the Colombian team to the grass in anguish as Switzerland da...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/switzerland-colombia-world-cup-2026-last-16-match-report"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@zachking",
+          "why": "高完成度视觉反转"
+        },
+        {
+          "name": "@colinandsamir",
+          "why": "创作者经济拆解"
+        },
+        {
+          "name": "@marketingexamined",
+          "why": "营销案例短内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Follow Pep and find scoring options: Maresca’s Manchester City in-tray",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
+      "heat": 77,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：New manager needs to gain true backing from the hierarchy by stepping out from Guardiola’s shadow How Enzo Maresca follows Pep Guardiola is the searing question he has to answer – from fans,...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
@@ -304,93 +391,6 @@
         {
           "label": "Guardian Football",
           "url": "https://www.theguardian.com/football/2026/jun/29/follow-pep-and-find-scoring-options-marescas-manchester-city-in-tray"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@zachking",
-          "why": "高完成度视觉反转"
-        },
-        {
-          "name": "@colinandsamir",
-          "why": "创作者经济拆解"
-        },
-        {
-          "name": "@marketingexamined",
-          "why": "营销案例短内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：From taking the photo that became the most-liked post on Instagram as of recording, to developing film in the stadium toilets, legendary World Cup photographer Shaun Botterill speaks with Gu...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/artanddesign/video/2026/jun/30/from-developing-photos-in-a-toilet-to-a-viral-messi-shot-40-years-shooting-the-world-cup-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@zachking",
-          "why": "高完成度视觉反转"
-        },
-        {
-          "name": "@colinandsamir",
-          "why": "创作者经济拆解"
-        },
-        {
-          "name": "@marketingexamined",
-          "why": "营销案例短内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：All of the critiques of this tournament have proven valid and warranted, even as the action on the pitch has delighted us • Predict the winner | Daily podcast | Download our app The football...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jun/29/world-cup-criticism"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@zachking",
-          "why": "高完成度视觉反转"
-        },
-        {
-          "name": "@colinandsamir",
-          "why": "创作者经济拆解"
-        },
-        {
-          "name": "@marketingexamined",
-          "why": "营销案例短内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：For all Cape Verde’s heroics, Africa’s World Cup could and perhaps should have been better | Jonathan Wilson",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Egypt and Morocco are in the last 16 after shootouts, but the continent’s pyramid appears to be getting broader rather than much higher For Africa, this World Cup feels like one of those cla...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/04/for-all-cape-verdes-heroics-africas-world-cup-could-and-perhaps-should-have-been-better"
         }
       ],
       "accounts": [
@@ -468,16 +468,16 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：My Mexico 1986 memories of Maradona, the Azteca and a commentary faux pas | David Pleat",
+      "title": "社区话题：Switzerland beat Colombia on penalties: World Cup 2026 last 16 – as it happened",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 78,
+      "heat": 86,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Working at the 1986 World Cup match was unforgettable thanks to the most controversial goal in history and then the best I have seen live When I took my first television work with ITV at the...",
+      "summary": "公开来源显示该议题正在发酵：Switzerland reached the quarter-finals of the World Cup for the first time since 1954 by beating Colombia 4-3 on penalties “I like coffee. I like chocolate. I like knockout football. I’ve co...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/03/england-mexico-world-cup-2026-azteca-stadium-diego-maradona-argentina"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live"
         }
       ],
       "accounts": [
@@ -497,16 +497,16 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：AI prey: why watchdogs are telling parents to protect children from nudification apps",
+      "title": "社区话题：Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography UK parents warned over posting images of children amid AI sexual abuse f...",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The golden rule of football? Never write off Lionel Messi. Just when it looked like his dream of leading Argentina to the bicampeonato was in tatters, the 39-year-old came to his country’s r...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/07/argentina-egypt-world-cup-2026-last-16-match-report"
         }
       ],
       "accounts": [
@@ -526,7 +526,22 @@
     }
   ],
   "audienceMap": {
+    "实时讨论：French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：USA fall asleep in Seattle and it’s tchau Ronaldo | World Cup Daily – video": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Switzerland knock out Colombia on penalties to reach World Cup quarter-finals": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -536,62 +551,47 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：For all Cape Verde’s heroics, Africa’s World Cup could and perhaps should have been better | Jonathan Wilson": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "视觉热点：From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps": {
+    "视觉热点：Djokovic sees off Auger-Aliassime in Wimbledon epic to set up Sinner semi-final": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Football Daily | France’s fab front four make them incomparable World Cup favourites": {
+    "视觉热点：Wimbledon 2026 quarter-finals: Djokovic beats Auger-Aliassime in five-set marathon – as it happened": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Arthur Fery outlasts Grigor Dimitrov in thriller to extend Wimbledon fairytale": {
+    "视觉热点：Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "短视频趋势：French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：USA fall asleep in Seattle and it’s tchau Ronaldo | World Cup Daily – video": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Switzerland knock out Colombia on penalties to reach World Cup quarter-finals": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "短视频趋势：Follow Pep and find scoring options: Maresca’s Manchester City in-tray": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：For all Cape Verde’s heroics, Africa’s World Cup could and perhaps should have been better | Jonathan Wilson": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -606,12 +606,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：My Mexico 1986 memories of Maradona, the Azteca and a commentary faux pas | David Pleat": {
+    "社区话题：Switzerland beat Colombia on penalties: World Cup 2026 last 16 – as it happened": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：AI prey: why watchdogs are telling parents to protect children from nudification apps": {
+    "社区话题：Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
