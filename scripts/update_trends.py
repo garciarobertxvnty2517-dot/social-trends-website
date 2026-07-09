@@ -157,6 +157,85 @@ ACCOUNT_POOLS = {
 
 USED_ACCOUNT_COMBOS = {key: set() for key in PLATFORM_CONFIG}
 
+# Override the broad creator pools above with micro-creator candidates.
+# These are intentionally not official accounts or mega creators. Follower
+# counts change, so the UI labels them as estimates and recommends a final
+# check before outreach or paid collaboration.
+ACCOUNT_POOLS = {
+    "football": [
+        {"name": "@Alwys_ChsngFPL", "followers": "<10万，FPL 小号", "why": "Fantasy football 数据和差异化选题"},
+        {"name": "@elliottvenis", "followers": "约5万", "why": "足球/体育预测类内容节奏"},
+        {"name": "@goalflexo", "followers": "约2万", "why": "足球短视频和球星热点二创"},
+        {"name": "@marfawe", "followers": "约2万", "why": "世界杯图文梗和球迷口吻"},
+        {"name": "@igoeLFC", "followers": "<10万需复核", "why": "垂直球迷号标题和情绪表达"},
+        {"name": "@TacticsJournal", "followers": "<10万需复核", "why": "战术拆解和长图文表达"},
+    ],
+    "ai_tech": [
+        {"name": "@ImKushanK", "followers": "约5万", "why": "AI 自动化教学和工具演示"},
+        {"name": "@Bennettxai", "followers": "<10万需复核", "why": "AI 自动化实操内容"},
+        {"name": "@marcinteodoru", "followers": "约4.1万", "why": "AI 视觉内容和教程表达"},
+        {"name": "@Ivy_Dinma", "followers": "约1.2万-5万", "why": "AI 营销和业务运营内容"},
+        {"name": "@lifeof_scoop", "followers": "<10万需复核", "why": "本地 newsletter 和 AI 小生意拆解"},
+        {"name": "@exploraX_", "followers": "<10万需复核", "why": "AI 自动化和增长观点"},
+    ],
+    "marketing_creator": [
+        {"name": "@ChelseaUGC", "followers": "约4万", "why": "UGC 创作者变现和家居内容"},
+        {"name": "@patrickcolpron", "followers": "约4万", "why": "餐厅/本地营销和创作者增长"},
+        {"name": "@SocialJesi", "followers": "<10万需复核", "why": "社媒营销技巧和轻量教学"},
+        {"name": "@lifeof_scoop", "followers": "<10万需复核", "why": "newsletter 增长案例"},
+        {"name": "@Ivy_Dinma", "followers": "约1.2万-5万", "why": "AI 营销和业务运营内容"},
+        {"name": "@nathanallebach", "followers": "约5万", "why": "品牌人格化和社媒观点"},
+    ],
+    "fashion_lifestyle": [
+        {"name": "@carleygoodmenu", "followers": "约3.2万", "why": "妈妈生活方式和真实日常"},
+        {"name": "@hannahmarieden", "followers": "约2.4万", "why": "Seattle mom blogger，本地家庭生活内容"},
+        {"name": "@biancamillerwrites", "followers": "约2万", "why": "生活方式/写作者个人叙事"},
+        {"name": "@judge_vondab", "followers": "约5万", "why": "家庭与个人生活议题表达"},
+        {"name": "@ciarachanelself", "followers": "约6.1万", "why": "生活化短内容和亲和力"},
+        {"name": "@lifewithmrsjamaica", "followers": "约6万", "why": "家庭生活与日常互动"},
+    ],
+    "food_travel": [
+        {"name": "@feastlondon", "followers": "约4万", "why": "伦敦美食探店和评分结构"},
+        {"name": "@thechowdown", "followers": "约4.1万", "why": "地区美食博客和菜品特写"},
+        {"name": "@appetitefoodie", "followers": "约5万+", "why": "伦敦本地美食内容"},
+        {"name": "@foodwmel", "followers": "约8.1千", "why": "Manchester/London 小体量咖啡美食号"},
+        {"name": "@bayarea_fooddreamz", "followers": "约9.6万", "why": "本地美食探店和高互动标题"},
+        {"name": "@patrickcolpron", "followers": "约4万", "why": "餐厅营销和探店视角"},
+    ],
+    "parenting_safety": [
+        {"name": "@carleygoodmenu", "followers": "约3.2万", "why": "妈妈日常和家庭消费内容"},
+        {"name": "@hannahmarieden", "followers": "约2.4万", "why": "亲子活动和家庭生活"},
+        {"name": "@baby.toddler.teacher", "followers": "<10万需复核", "why": "儿童发展和育儿教学"},
+        {"name": "@judge_vondab", "followers": "约5万", "why": "家庭议题和个人故事"},
+        {"name": "@ciarachanelself", "followers": "约6.1万", "why": "亲子/生活化短视频表达"},
+        {"name": "@lifewithmrsjamaica", "followers": "约6万", "why": "家庭日常和社群互动"},
+    ],
+    "facebook_marketing": [
+        {"name": "@ChelseaUGC", "followers": "约4万", "why": "UGC 变现和小体量商业内容"},
+        {"name": "@patrickcolpron", "followers": "约4万", "why": "本地商家社媒增长"},
+        {"name": "@SocialJesi", "followers": "<10万需复核", "why": "社媒技巧和服务型内容"},
+        {"name": "@lifeof_scoop", "followers": "<10万需复核", "why": "本地 newsletter 增长"},
+        {"name": "@Ivy_Dinma", "followers": "约1.2万-5万", "why": "AI 营销和业务运营"},
+        {"name": "@nathanallebach", "followers": "约5万", "why": "品牌社媒人格化"},
+    ],
+    "video_reaction": [
+        {"name": "@goalflexo", "followers": "约2万", "why": "足球 Reels/短视频二创"},
+        {"name": "@marfawe", "followers": "约2万", "why": "世界杯短梗和视觉模板"},
+        {"name": "@ChelseaUGC", "followers": "约4万", "why": "UGC 镜头结构和口播"},
+        {"name": "@marcinteodoru", "followers": "约4.1万", "why": "AI 视觉短内容"},
+        {"name": "@foodwmel", "followers": "约8.1千", "why": "小体量美食短视频节奏"},
+        {"name": "@appetitefoodie", "followers": "约5万+", "why": "本地探店短视频"},
+    ],
+    "news_analysis": [
+        {"name": "@lifeof_scoop", "followers": "<10万需复核", "why": "本地 newsletter 视角"},
+        {"name": "@nathanallebach", "followers": "约5万", "why": "社媒观点和品牌人格化"},
+        {"name": "@SocialJesi", "followers": "<10万需复核", "why": "社媒技巧轻量解释"},
+        {"name": "@Ivy_Dinma", "followers": "约1.2万-5万", "why": "业务运营和 AI 营销观点"},
+        {"name": "@patrickcolpron", "followers": "约4万", "why": "本地商业和餐饮社媒视角"},
+        {"name": "@Bennettxai", "followers": "<10万需复核", "why": "AI 自动化实操拆解"},
+    ],
+}
+
 
 def fetch_text(url):
     request = urllib.request.Request(
