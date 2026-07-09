@@ -252,6 +252,28 @@ main {
   margin: 0;
 }
 
+.translation-box {
+  background: #eef6ff;
+  border: 1px solid #cfe5ff;
+  border-radius: 8px;
+  color: var(--ink);
+  margin: 10px 0;
+  padding: 10px 12px;
+}
+
+.translation-summary {
+  background: #fbfdff;
+  border-left: 3px solid var(--blue);
+  margin-top: 10px;
+  padding: 8px 0 8px 12px;
+}
+
+.directory-original {
+  color: var(--muted);
+  font-size: 13px;
+  margin: -2px 0 8px;
+}
+
 .meta-row {
   display: flex;
   flex-wrap: wrap;
