@@ -471,6 +471,14 @@ function renderTrendCard(trend) {
     motivation: "用户关注热点背后的情绪、利益变化和可参与讨论点。",
     mode: trend.operation
   };
+  const translatedTitle = trend.titleZh && trend.titleZh !== trend.title ? `
+    <div class="translation-box">
+      <strong>中文标题：</strong>${trend.titleZh}
+    </div>
+  ` : "";
+  const translatedSummary = trend.summaryZh ? `
+    <p class="translation-summary"><strong>中文摘要：</strong>${trend.summaryZh.replace(/^中文翻译：/, "")}</p>
+  ` : "";
 
   return `
     <article class="trend-card">
@@ -481,7 +489,9 @@ function renderTrendCard(trend) {
           <span class="pill">${trend.topic}</span>
         </div>
         <h3>${trend.title}</h3>
+        ${translatedTitle}
         <p>${trend.summary}</p>
+        ${translatedSummary}
         <div class="audience-box">
           <p><strong>背后受众：</strong>${audience.audience}</p>
           <p><strong>关注动机：</strong>${audience.motivation}</p>
@@ -527,7 +537,8 @@ function renderAccountDirectory() {
         <h3>${meta.name}</h3>
         ${platformTrends.map((trend) => `
           <div class="directory-item">
-            <strong>${trend.title}</strong>
+            <strong>${trend.titleZh || trend.title}</strong>
+            ${trend.titleZh ? `<p class="directory-original">${trend.title}</p>` : ""}
             <div class="account-row">${renderAccounts(trend.accounts)}</div>
           </div>
         `).join("")}
