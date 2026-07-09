@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T06:17:47.957937+00:00",
+  "generatedAt": "2026-07-09T06:30:17.302700+00:00",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -20,16 +20,16 @@
       ],
       "accounts": [
         {
+          "name": "@brfootball",
+          "why": "足球二创视觉和短梗"
+        },
+        {
+          "name": "@TheEuropeanLad",
+          "why": "球迷视角和争议讨论"
+        },
+        {
           "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
-        },
-        {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
-        },
-        {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
+          "why": "足球快讯标题和转会/赛事节奏"
         }
       ]
     },
@@ -52,15 +52,15 @@
       "accounts": [
         {
           "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
+          "why": "足球快讯标题和转会/赛事节奏"
         },
         {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
+          "name": "@MenInBlazers",
+          "why": "足球文化梗和球迷口吻"
         },
         {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
+          "name": "@TrollFootball",
+          "why": "体育 meme 反应速度"
         }
       ]
     },
@@ -82,16 +82,16 @@
       ],
       "accounts": [
         {
-          "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
+          "name": "@MenInBlazers",
+          "why": "足球文化梗和球迷口吻"
         },
         {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
+          "name": "@thefootballarena",
+          "why": "足球数据和观点图文"
         },
         {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
+          "name": "@TheEuropeanLad",
+          "why": "球迷视角和争议讨论"
         }
       ]
     },
@@ -114,15 +114,15 @@
       "accounts": [
         {
           "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
+          "why": "足球快讯标题和转会/赛事节奏"
         },
         {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
+          "name": "@TrollFootball",
+          "why": "体育 meme 反应速度"
         },
         {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
+          "name": "@brfootball",
+          "why": "足球二创视觉和短梗"
         }
       ]
     },
@@ -144,16 +144,16 @@
       ],
       "accounts": [
         {
-          "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
+          "name": "@TheEuropeanLad",
+          "why": "球迷视角和争议讨论"
         },
         {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
+          "name": "@MenInBlazers",
+          "why": "足球文化梗和球迷口吻"
         },
         {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
+          "name": "@thefootballarena",
+          "why": "足球数据和观点图文"
         }
       ]
     },
@@ -175,16 +175,16 @@
       ],
       "accounts": [
         {
-          "name": "@oldloserinbrooklyn",
-          "why": "潮流趋势解释"
+          "name": "@brfootball",
+          "why": "足球二创视觉和短梗"
         },
         {
-          "name": "@devonleecarlson",
-          "why": "生活方式和怀旧视觉"
+          "name": "@TrollFootball",
+          "why": "体育 meme 反应速度"
         },
         {
-          "name": "@thetennisletter",
-          "why": "体育热点图文快发"
+          "name": "@FabrizioRomano",
+          "why": "足球快讯标题和转会/赛事节奏"
         }
       ]
     },
@@ -206,16 +206,16 @@
       ],
       "accounts": [
         {
-          "name": "@oldloserinbrooklyn",
-          "why": "潮流趋势解释"
+          "name": "@brfootball",
+          "why": "足球二创视觉和短梗"
         },
         {
-          "name": "@devonleecarlson",
-          "why": "生活方式和怀旧视觉"
+          "name": "@thefootballarena",
+          "why": "足球数据和观点图文"
         },
         {
-          "name": "@thetennisletter",
-          "why": "体育热点图文快发"
+          "name": "@TrollFootball",
+          "why": "体育 meme 反应速度"
         }
       ]
     },
@@ -237,16 +237,16 @@
       ],
       "accounts": [
         {
-          "name": "@oldloserinbrooklyn",
-          "why": "潮流趋势解释"
+          "name": "@benedictevans",
+          "why": "科技趋势大图景"
         },
         {
-          "name": "@devonleecarlson",
-          "why": "生活方式和怀旧视觉"
+          "name": "@rowancheung",
+          "why": "AI 新闻快讯和工具拆解"
         },
         {
-          "name": "@thetennisletter",
-          "why": "体育热点图文快发"
+          "name": "@stratechery",
+          "why": "科技商业模式拆解"
         }
       ]
     },
@@ -268,16 +268,16 @@
       ],
       "accounts": [
         {
-          "name": "@oldloserinbrooklyn",
-          "why": "潮流趋势解释"
+          "name": "@MarketingBrew",
+          "why": "营销新闻角度"
         },
         {
-          "name": "@devonleecarlson",
-          "why": "生活方式和怀旧视觉"
+          "name": "@mattnavarra",
+          "why": "社媒平台更新快讯"
         },
         {
-          "name": "@thetennisletter",
-          "why": "体育热点图文快发"
+          "name": "@colinandsamir",
+          "why": "创作者经济分析"
         }
       ]
     },
@@ -299,16 +299,16 @@
       ],
       "accounts": [
         {
-          "name": "@zachking",
-          "why": "高完成度视觉反转"
+          "name": "@TheEuropeanLad",
+          "why": "球迷视角和争议讨论"
         },
         {
-          "name": "@colinandsamir",
-          "why": "创作者经济拆解"
+          "name": "@brfootball",
+          "why": "足球二创视觉和短梗"
         },
         {
-          "name": "@marketingexamined",
-          "why": "营销案例短内容"
+          "name": "@thefootballarena",
+          "why": "足球数据和观点图文"
         }
       ]
     },
@@ -330,16 +330,16 @@
       ],
       "accounts": [
         {
-          "name": "@zachking",
-          "why": "高完成度视觉反转"
+          "name": "@TrollFootball",
+          "why": "体育 meme 反应速度"
         },
         {
-          "name": "@colinandsamir",
-          "why": "创作者经济拆解"
+          "name": "@MenInBlazers",
+          "why": "足球文化梗和球迷口吻"
         },
         {
-          "name": "@marketingexamined",
-          "why": "营销案例短内容"
+          "name": "@FabrizioRomano",
+          "why": "足球快讯标题和转会/赛事节奏"
         }
       ]
     },
@@ -361,16 +361,16 @@
       ],
       "accounts": [
         {
-          "name": "@zachking",
-          "why": "高完成度视觉反转"
+          "name": "@TrollFootball",
+          "why": "体育 meme 反应速度"
         },
         {
-          "name": "@colinandsamir",
-          "why": "创作者经济拆解"
+          "name": "@FabrizioRomano",
+          "why": "足球快讯标题和转会/赛事节奏"
         },
         {
-          "name": "@marketingexamined",
-          "why": "营销案例短内容"
+          "name": "@brfootball",
+          "why": "足球二创视觉和短梗"
         }
       ]
     },
@@ -392,16 +392,16 @@
       ],
       "accounts": [
         {
-          "name": "@zachking",
-          "why": "高完成度视觉反转"
+          "name": "@brfootball",
+          "why": "足球二创视觉和短梗"
         },
         {
-          "name": "@colinandsamir",
-          "why": "创作者经济拆解"
+          "name": "@FabrizioRomano",
+          "why": "足球快讯标题和转会/赛事节奏"
         },
         {
-          "name": "@marketingexamined",
-          "why": "营销案例短内容"
+          "name": "@TrollFootball",
+          "why": "体育 meme 反应速度"
         }
       ]
     },
@@ -423,16 +423,16 @@
       ],
       "accounts": [
         {
-          "name": "@zachking",
-          "why": "高完成度视觉反转"
+          "name": "@FabrizioRomano",
+          "why": "足球快讯标题和转会/赛事节奏"
         },
         {
-          "name": "@colinandsamir",
-          "why": "创作者经济拆解"
+          "name": "@TheEuropeanLad",
+          "why": "球迷视角和争议讨论"
         },
         {
-          "name": "@marketingexamined",
-          "why": "营销案例短内容"
+          "name": "@brfootball",
+          "why": "足球二创视觉和短梗"
         }
       ]
     },
@@ -454,16 +454,16 @@
       ],
       "accounts": [
         {
-          "name": "Mari Smith",
-          "why": "Facebook 营销教学"
+          "name": "@thefootballarena",
+          "why": "足球数据和观点图文"
         },
         {
-          "name": "Jon Loomer",
-          "why": "Meta 广告实操拆解"
+          "name": "@TheEuropeanLad",
+          "why": "球迷视角和争议讨论"
         },
         {
-          "name": "Scary Mommy",
-          "why": "父母社群讨论语气"
+          "name": "@MenInBlazers",
+          "why": "足球文化梗和球迷口吻"
         }
       ]
     },
@@ -485,16 +485,16 @@
       ],
       "accounts": [
         {
-          "name": "Mari Smith",
-          "why": "Facebook 营销教学"
+          "name": "@FabrizioRomano",
+          "why": "足球快讯标题和转会/赛事节奏"
         },
         {
-          "name": "Jon Loomer",
-          "why": "Meta 广告实操拆解"
+          "name": "@MenInBlazers",
+          "why": "足球文化梗和球迷口吻"
         },
         {
-          "name": "Scary Mommy",
-          "why": "父母社群讨论语气"
+          "name": "@TrollFootball",
+          "why": "体育 meme 反应速度"
         }
       ]
     },
@@ -516,16 +516,16 @@
       ],
       "accounts": [
         {
-          "name": "Mari Smith",
-          "why": "Facebook 营销教学"
+          "name": "@brfootball",
+          "why": "足球二创视觉和短梗"
         },
         {
-          "name": "Jon Loomer",
-          "why": "Meta 广告实操拆解"
+          "name": "@TrollFootball",
+          "why": "体育 meme 反应速度"
         },
         {
-          "name": "Scary Mommy",
-          "why": "父母社群讨论语气"
+          "name": "@FabrizioRomano",
+          "why": "足球快讯标题和转会/赛事节奏"
         }
       ]
     },
@@ -547,16 +547,16 @@
       ],
       "accounts": [
         {
-          "name": "Mari Smith",
-          "why": "Facebook 营销教学"
+          "name": "@TheEuropeanLad",
+          "why": "球迷视角和争议讨论"
         },
         {
-          "name": "Jon Loomer",
-          "why": "Meta 广告实操拆解"
+          "name": "@FabrizioRomano",
+          "why": "足球快讯标题和转会/赛事节奏"
         },
         {
-          "name": "Scary Mommy",
-          "why": "父母社群讨论语气"
+          "name": "@MenInBlazers",
+          "why": "足球文化梗和球迷口吻"
         }
       ]
     }
