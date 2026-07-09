@@ -1,48 +1,21 @@
 {
-  "generatedAt": "2026-07-08T09:59:15.003057+00:00",
+  "generatedAt": "2026-07-09T06:17:47.957937+00:00",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+      "title": "实时讨论：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
+      "titleZh": "实时讨论：政治家、喜剧演员和硬道理经销商： Kylian Mbappé如何成为本届世界杯之王",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racis...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
-        },
-        {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
-        },
-        {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
+      "heat": 82,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! For Mexico City 1986, Saint-Étienne 1998 and Gelsenkirchen 2006, do not read Mexico City 2026. History told us England simply do not progr...",
+      "summary": "公开来源显示该议题正在发酵：The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s tournament This has been the World Cup of characters...",
+      "summaryZh": "中文翻译：这位法国人是一名足球运动员、长笛演奏家和戏剧演员。毫无疑问，他是今年比赛中最激动人心、最引人注目的人物。这是世界杯的角色……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/06/football-daily-email-england-gwc-mexico"
+          "url": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
         }
       ],
       "accounts": [
@@ -63,15 +36,79 @@
     {
       "platform": "x",
       "title": "实时讨论：Argentina avert disaster with controversial late comeback | World Cup Daily – video",
+      "titleZh": "实时讨论：阿根廷通过有争议的晚复出避免了灾难|世界杯日报–视频",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
+      "heat": 77,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Barney Ronay and Alexander Abnos as Argentina pull off an all-time great World Cup comeback against Egypt Continue reading...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、阿奇·林德-塔特（ Archie Rhind-Tutt ）、巴尼·罗内（ Barney Ronay ）和亚历山大·阿布诺斯（ Alexander Abnos ）",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
           "url": "https://www.theguardian.com/football/video/2026/jul/08/argentina-avert-disaster-with-late-controversial-comeback-world-cup-daily-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@FabrizioRomano",
+          "why": "快讯式标题和高频更新"
+        },
+        {
+          "name": "@benedictevans",
+          "why": "科技趋势大图景"
+        },
+        {
+          "name": "@MarketingBrew",
+          "why": "营销新闻角度"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：A World Cup free agent XI: summer bargains and top targets among clubless players",
+      "titleZh": "实时讨论：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
+      "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@FabrizioRomano",
+          "why": "快讯式标题和高频更新"
+        },
+        {
+          "name": "@benedictevans",
+          "why": "科技趋势大图景"
+        },
+        {
+          "name": "@MarketingBrew",
+          "why": "营销新闻角度"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：England to get bank holiday if team win World Cup, Starmer expected to announce",
+      "titleZh": "实时讨论：如果球队赢得世界杯，英格兰将获得银行假期， Starmer预计将宣布",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Prime minister understood to be poised to give England a day off should the nation’s team bring home the trophy for first time since 1966 Keir Starmer is planning to announce a bank holiday ...",
+      "summaryZh": "中文翻译：据了解，如果国家队自1966年以来首次将奖杯带回家，总理将准备给英格兰休息一天Keir Starmer计划宣布银行假期......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/england-to-get-bank-holiday-if-team-win-world-cup-starmer-expected-to-announce"
         }
       ],
       "accounts": [
@@ -92,10 +129,12 @@
     {
       "platform": "x",
       "title": "实时讨论：Switzerland knock out Colombia on penalties to reach World Cup quarter-finals",
+      "titleZh": "实时讨论：瑞士在罚球方面击败哥伦比亚，进入世界杯四分之一决赛",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
+      "heat": 68,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Davinson Sánchez looked to the heavens. Cucho Hernández trudged back to his teammates. By the end, the pair’s penalty misses sent the Colombian team to the grass in anguish as Switzerland da...",
+      "summaryZh": "中文翻译：戴维森·桑切斯仰望天空。库乔·埃尔南德斯跋涉着回到队友身边。最后，两人的点球失误让哥伦比亚队痛苦地走到了草地上，因为瑞士队...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -119,46 +158,81 @@
       ]
     },
     {
-      "platform": "x",
-      "title": "实时讨论：Follow Pep and find scoring options: Maresca’s Manchester City in-tray",
-      "topic": "实时讨论、新闻发酵、观点交锋",
+      "platform": "instagram",
+      "title": "视觉热点：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
+      "titleZh": "视觉热点：政治家、喜剧演员和硬道理经销商： Kylian Mbappé如何成为本届世界杯之王",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s tournament This has been the World Cup of characters...",
+      "summaryZh": "中文翻译：这位法国人是一名足球运动员、长笛演奏家和戏剧演员。毫无疑问，他是今年比赛中最激动人心、最引人注目的人物。这是世界杯的角色……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@oldloserinbrooklyn",
+          "why": "潮流趋势解释"
+        },
+        {
+          "name": "@devonleecarlson",
+          "why": "生活方式和怀旧视觉"
+        },
+        {
+          "name": "@thetennisletter",
+          "why": "体育热点图文快发"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：A World Cup free agent XI: summer bargains and top targets among clubless players",
+      "titleZh": "视觉热点：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 90,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
+      "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@oldloserinbrooklyn",
+          "why": "潮流趋势解释"
+        },
+        {
+          "name": "@devonleecarlson",
+          "why": "生活方式和怀旧视觉"
+        },
+        {
+          "name": "@thetennisletter",
+          "why": "体育热点图文快发"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps",
+      "titleZh": "视觉热点：人工智能猎物：为什么看门狗告诉家长要保护儿童免受裸体应用程序的侵害",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 76,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：New manager needs to gain true backing from the hierarchy by stepping out from Guardiola’s shadow How Enzo Maresca follows Pep Guardiola is the searing question he has to answer – from fans,...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jun/29/follow-pep-and-find-scoring-options-marescas-manchester-city-in-tray"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@FabrizioRomano",
-          "why": "快讯式标题和高频更新"
-        },
-        {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
-        },
-        {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 78,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：From taking the photo that became the most-liked post on Instagram as of recording, to developing film in the stadium toilets, legendary World Cup photographer Shaun Botterill speaks with Gu...",
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography UK parents warned over posting images of children amid AI sexual abuse f...",
+      "summaryZh": "中文翻译：随着成像工具变得越来越复杂，在线掠夺者正在使用儿童图像制作极端色情作品。英国父母警告说，在人工智能性虐待中张贴儿童图像。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/artanddesign/video/2026/jun/30/from-developing-photos-in-a-toilet-to-a-viral-messi-shot-40-years-shooting-the-world-cup-video"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps"
         }
       ],
       "accounts": [
@@ -178,74 +252,18 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Djokovic sees off Auger-Aliassime in Wimbledon epic to set up Sinner semi-final",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Novak Djokovic wins 7-6 (10), 3-6, 6-3, 6-7 (4), 7-6 (4) Serb lauds ‘one of the best matches in my career’ On Monday night The Odyssey, ­Christopher Nolan’s three-hour epic about one man’s h...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/jul/07/novak-djokovic-wins-felix-auger-aliassime-wimbledon-epic-tennis"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@oldloserinbrooklyn",
-          "why": "潮流趋势解释"
-        },
-        {
-          "name": "@devonleecarlson",
-          "why": "生活方式和怀旧视觉"
-        },
-        {
-          "name": "@thetennisletter",
-          "why": "体育热点图文快发"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Wimbledon 2026 quarter-finals: Djokovic beats Auger-Aliassime in five-set marathon – as it happened",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Novak Djokovic beat Felix Auger-Aliassime in Wimbledon’s longest-ever quarter-final, while Karolina Muchova saw off Naomi Osaka and Jannik Sinner also won Now a love hold for Struff, who’s s...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/live/2026/jul/07/wimbledon-2026-quarter-finals-sinner-osaka-djokovic-and-gauff-in-action-live"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@oldloserinbrooklyn",
-          "why": "潮流趋势解释"
-        },
-        {
-          "name": "@devonleecarlson",
-          "why": "生活方式和怀旧视觉"
-        },
-        {
-          "name": "@thetennisletter",
-          "why": "体育热点图文快发"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt",
+      "title": "视觉热点：How social media is changing Wimbledon from eminent tournament to ‘bucket list’ event",
+      "titleZh": "视觉热点：社交媒体如何将温布尔登从知名锦标赛转变为“愿望清单”赛事",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 68,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The golden rule of football? Never write off Lionel Messi. Just when it looked like his dream of leading Argentina to the bicampeonato was in tatters, the 39-year-old came to his country’s r...",
+      "summary": "公开来源显示该议题正在发酵：From high-profile influencers to live ticket-queue tracking, some fear aggressive marketing is ruining championships From photos of influencers in crisp white linen dresses posing in front o...",
+      "summaryZh": "中文翻译：从备受瞩目的网红到现场门票队列追踪，有些人担心激进的营销会破坏冠军赛从网红穿着清爽的白色亚麻连衣裙在前面摆姿势的照片到……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/jul/07/argentina-egypt-world-cup-2026-last-16-match-report"
+          "url": "https://www.theguardian.com/sport/2026/jul/08/how-social-media-hype-is-changing-wimbledon-from-distinguished-tournament-to-tourist-event"
         }
       ],
       "accounts": [
@@ -265,45 +283,18 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+      "title": "短视频趋势：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
+      "titleZh": "短视频趋势：政治家、喜剧演员和硬道理经销商： Kylian Mbappé如何成为本届世界杯之王",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racis...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@zachking",
-          "why": "高完成度视觉反转"
-        },
-        {
-          "name": "@colinandsamir",
-          "why": "创作者经济拆解"
-        },
-        {
-          "name": "@marketingexamined",
-          "why": "营销案例短内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 86,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! For Mexico City 1986, Saint-Étienne 1998 and Gelsenkirchen 2006, do not read Mexico City 2026. History told us England simply do not progr...",
+      "summary": "公开来源显示该议题正在发酵：The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s tournament This has been the World Cup of characters...",
+      "summaryZh": "中文翻译：这位法国人是一名足球运动员、长笛演奏家和戏剧演员。毫无疑问，他是今年比赛中最激动人心、最引人注目的人物。这是世界杯的角色……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/06/football-daily-email-england-gwc-mexico"
+          "url": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
         }
       ],
       "accounts": [
@@ -324,10 +315,12 @@
     {
       "platform": "tiktok",
       "title": "短视频趋势：Argentina avert disaster with controversial late comeback | World Cup Daily – video",
+      "titleZh": "短视频趋势：阿根廷通过有争议的晚复出避免了灾难|世界杯日报–视频",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
+      "heat": 80,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Barney Ronay and Alexander Abnos as Argentina pull off an all-time great World Cup comeback against Egypt Continue reading...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、阿奇·林德-塔特（ Archie Rhind-Tutt ）、巴尼·罗内（ Barney Ronay ）和亚历山大·阿布诺斯（ Alexander Abnos ）",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -352,11 +345,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：A World Cup free agent XI: summer bargains and top targets among clubless players",
+      "titleZh": "短视频趋势：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 77,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
+      "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@zachking",
+          "why": "高完成度视觉反转"
+        },
+        {
+          "name": "@colinandsamir",
+          "why": "创作者经济拆解"
+        },
+        {
+          "name": "@marketingexamined",
+          "why": "营销案例短内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Switzerland knock out Colombia on penalties to reach World Cup quarter-finals",
+      "titleZh": "短视频趋势：瑞士在罚球方面击败哥伦比亚，进入世界杯四分之一决赛",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 85,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Davinson Sánchez looked to the heavens. Cucho Hernández trudged back to his teammates. By the end, the pair’s penalty misses sent the Colombian team to the grass in anguish as Switzerland da...",
+      "summaryZh": "中文翻译：戴维森·桑切斯仰望天空。库乔·埃尔南德斯跋涉着回到队友身边。最后，两人的点球失误让哥伦比亚队痛苦地走到了草地上，因为瑞士队...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -381,16 +407,18 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Follow Pep and find scoring options: Maresca’s Manchester City in-tray",
+      "title": "短视频趋势：Uefa could block Russia returning to football in potential new clash with Fifa",
+      "titleZh": "短视频趋势：欧足联可能会在与国际足联的潜在新冲突中阻止俄罗斯重返足球",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：New manager needs to gain true backing from the hierarchy by stepping out from Guardiola’s shadow How Enzo Maresca follows Pep Guardiola is the searing question he has to answer – from fans,...",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Russia banned since full-scale invasion of Ukraine Many national associations opposed to reintegration Uefa is prepared to block the return of Russian teams to international football after t...",
+      "summaryZh": "中文翻译：自全面入侵乌克兰以来，俄罗斯一直被禁止许多反对重新融入欧洲足联的国家协会准备阻止俄罗斯球队在...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jun/29/follow-pep-and-find-scoring-options-marescas-manchester-city-in-tray"
+          "url": "https://www.theguardian.com/football/2026/jul/08/uefa-ioc-fifa-russia-football-teams-ukraine-invasion"
         }
       ],
       "accounts": [
@@ -410,74 +438,80 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! For Mexico City 1986, Saint-Étienne 1998 and Gelsenkirchen 2006, do not read Mexico City 2026. History told us England simply do not progr...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/06/football-daily-email-england-gwc-mexico"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "Mari Smith",
-          "why": "Facebook 营销教学"
-        },
-        {
-          "name": "Jon Loomer",
-          "why": "Meta 广告实操拆解"
-        },
-        {
-          "name": "Scary Mommy",
-          "why": "父母社群讨论语气"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Follow Pep and find scoring options: Maresca’s Manchester City in-tray",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：New manager needs to gain true backing from the hierarchy by stepping out from Guardiola’s shadow How Enzo Maresca follows Pep Guardiola is the searing question he has to answer – from fans,...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jun/29/follow-pep-and-find-scoring-options-marescas-manchester-city-in-tray"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "Mari Smith",
-          "why": "Facebook 营销教学"
-        },
-        {
-          "name": "Jon Loomer",
-          "why": "Meta 广告实操拆解"
-        },
-        {
-          "name": "Scary Mommy",
-          "why": "父母社群讨论语气"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Switzerland beat Colombia on penalties: World Cup 2026 last 16 – as it happened",
+      "title": "社区话题：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
+      "titleZh": "社区话题：政治家、喜剧演员和硬道理经销商： Kylian Mbappé如何成为本届世界杯之王",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 86,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Switzerland reached the quarter-finals of the World Cup for the first time since 1954 by beating Colombia 4-3 on penalties “I like coffee. I like chocolate. I like knockout football. I’ve co...",
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s tournament This has been the World Cup of characters...",
+      "summaryZh": "中文翻译：这位法国人是一名足球运动员、长笛演奏家和戏剧演员。毫无疑问，他是今年比赛中最激动人心、最引人注目的人物。这是世界杯的角色……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "Mari Smith",
+          "why": "Facebook 营销教学"
+        },
+        {
+          "name": "Jon Loomer",
+          "why": "Meta 广告实操拆解"
+        },
+        {
+          "name": "Scary Mommy",
+          "why": "父母社群讨论语气"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：England to get bank holiday if team win World Cup, Starmer expected to announce",
+      "titleZh": "社区话题：如果球队赢得世界杯，英格兰将获得银行假期， Starmer预计将宣布",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Prime minister understood to be poised to give England a day off should the nation’s team bring home the trophy for first time since 1966 Keir Starmer is planning to announce a bank holiday ...",
+      "summaryZh": "中文翻译：据了解，如果国家队自1966年以来首次将奖杯带回家，总理将准备给英格兰休息一天Keir Starmer计划宣布银行假期......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/england-to-get-bank-holiday-if-team-win-world-cup-starmer-expected-to-announce"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "Mari Smith",
+          "why": "Facebook 营销教学"
+        },
+        {
+          "name": "Jon Loomer",
+          "why": "Meta 广告实操拆解"
+        },
+        {
+          "name": "Scary Mommy",
+          "why": "父母社群讨论语气"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Uefa could block Russia returning to football in potential new clash with Fifa",
+      "titleZh": "社区话题：欧足联可能会在与国际足联的潜在新冲突中阻止俄罗斯重返足球",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 89,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Russia banned since full-scale invasion of Ukraine Many national associations opposed to reintegration Uefa is prepared to block the return of Russian teams to international football after t...",
+      "summaryZh": "中文翻译：自全面入侵乌克兰以来，俄罗斯一直被禁止许多反对重新融入欧洲足联的国家协会准备阻止俄罗斯球队在...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/08/uefa-ioc-fifa-russia-football-teams-ukraine-invasion"
         }
       ],
       "accounts": [
@@ -498,10 +532,12 @@
     {
       "platform": "facebook",
       "title": "社区话题：Why Jude Bellingham’s world is bigger than most of us can understand",
+      "titleZh": "社区话题：为什么Jude Bellingham的世界比我们大多数人所能理解的更大",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 70,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak Djokovic There has never been an English footballer quite like Jude Belling...",
+      "summaryZh": "中文翻译：拥有一切的神童有野心扮演詹姆斯·邦德，但目前他更让人想起诺瓦克·德约科维奇从未有过像裘德·贝林这样的英国足球运动员……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -526,12 +562,7 @@
     }
   ],
   "audienceMap": {
-    "实时讨论：French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’": {
+    "实时讨论：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -541,42 +572,42 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：A World Cup free agent XI: summer bargains and top targets among clubless players": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：England to get bank holiday if team win World Cup, Starmer expected to announce": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Switzerland knock out Colombia on penalties to reach World Cup quarter-finals": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Follow Pep and find scoring options: Maresca’s Manchester City in-tray": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video": {
+    "视觉热点：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Djokovic sees off Auger-Aliassime in Wimbledon epic to set up Sinner semi-final": {
+    "视觉热点：A World Cup free agent XI: summer bargains and top targets among clubless players": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Wimbledon 2026 quarter-finals: Djokovic beats Auger-Aliassime in five-set marathon – as it happened": {
+    "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt": {
+    "视觉热点：How social media is changing Wimbledon from eminent tournament to ‘bucket list’ event": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’": {
+    "短视频趋势：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -586,27 +617,32 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：A World Cup free agent XI: summer bargains and top targets among clubless players": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "短视频趋势：Switzerland knock out Colombia on penalties to reach World Cup quarter-finals": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Follow Pep and find scoring options: Maresca’s Manchester City in-tray": {
+    "短视频趋势：Uefa could block Russia returning to football in potential new clash with Fifa": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’": {
+    "社区话题：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Follow Pep and find scoring options: Maresca’s Manchester City in-tray": {
+    "社区话题：England to get bank holiday if team win World Cup, Starmer expected to announce": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Switzerland beat Colombia on penalties: World Cup 2026 last 16 – as it happened": {
+    "社区话题：Uefa could block Russia returning to football in potential new clash with Fifa": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
