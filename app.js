@@ -460,7 +460,9 @@ function renderSources(sources) {
 
 function renderAccounts(accounts) {
   return accounts.map((account) => `
-    <span class="account-chip" title="${account.why}">${account.name} - ${account.why}</span>
+    <span class="account-chip" title="${account.why}">
+      ${account.name}${account.followers ? ` · ${account.followers}` : " · <10万粉丝需复核"} - ${account.why}
+    </span>
   `).join("");
 }
 
