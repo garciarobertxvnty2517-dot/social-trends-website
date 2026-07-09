@@ -4,6 +4,7 @@ import json
 import re
 import sys
 import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -21,6 +22,8 @@ FEEDS = [
     ("Guardian Football", "https://www.theguardian.com/football/rss"),
     ("Guardian Sport", "https://www.theguardian.com/sport/rss"),
 ]
+
+TRANSLATION_CACHE = {}
 
 PLATFORM_CONFIG = {
     "x": {
@@ -94,6 +97,39 @@ def clean(text):
     text = re.sub(r"<[^>]+>", " ", text or "")
     text = re.sub(r"\s+", " ", text).strip()
     return text
+
+
+def translate_to_zh(text):
+    text = clean(text)
+    if not text:
+        return ""
+    if re.search(r"[\u4e00-\u9fff]", text):
+        return text
+    if text in TRANSLATION_CACHE:
+        return TRANSLATION_CACHE[text]
+
+    # Keep requests short and predictable for the free public translation endpoint.
+    query = text[:450]
+    url = "https://api.mymemory.translated.net/get?" + urllib.parse.urlencode({
+        "q": query,
+        "langpair": "en|zh-CN",
+    })
+    try:
+        request = urllib.request.Request(
+            url,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; SocialTrendsBot/1.0)"},
+        )
+        with urllib.request.urlopen(request, timeout=20) as response:
+            payload = json.loads(response.read().decode("utf-8", errors="replace"))
+        translated = clean(payload.get("responseData", {}).get("translatedText", ""))
+        if not translated:
+            translated = text
+    except Exception as exc:
+        print(f"translation failed: {exc}", file=sys.stderr)
+        translated = text
+    TRANSLATION_CACHE[text] = translated
+    time.sleep(0.35)
+    return translated
 
 
 def parse_date(value):
@@ -203,18 +239,32 @@ def trend_title(platform, item):
     return f"{prefix}：{item['title']}"
 
 
+def trend_title_zh(platform, item):
+    prefix = {
+        "x": "实时讨论",
+        "instagram": "视觉热点",
+        "tiktok": "短视频趋势",
+        "facebook": "社区话题",
+    }[platform]
+    return f"{prefix}：{translate_to_zh(item['title'])}"
+
+
 def make_trend(platform, item, index):
     config = PLATFORM_CONFIG[platform]
     title = trend_title(platform, item)
+    title_zh = trend_title_zh(platform, item)
     summary = item.get("description") or item["title"]
     summary = summary[:190] + ("..." if len(summary) > 190 else "")
+    summary_zh = translate_to_zh(summary)
     return {
         "platform": platform,
         "title": title,
+        "titleZh": title_zh,
         "topic": config["topic"],
         "heat": heat_for(item, platform, index),
         "sentiment": sentiment_for(item),
         "summary": f"公开来源显示该议题正在发酵：{summary}",
+        "summaryZh": f"中文翻译：{summary_zh}",
         "operation": config["operation"],
         "sources": [
             {"label": item["source"], "url": item["link"]}
