@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T06:30:17.302700+00:00",
+  "generatedAt": "2026-07-09T06:36:41.082733+00:00",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -20,16 +20,19 @@
       ],
       "accounts": [
         {
-          "name": "@brfootball",
-          "why": "足球二创视觉和短梗"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@TheEuropeanLad",
-          "why": "球迷视角和争议讨论"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -51,16 +54,19 @@
       ],
       "accounts": [
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@MenInBlazers",
-          "why": "足球文化梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@TrollFootball",
-          "why": "体育 meme 反应速度"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -82,16 +88,19 @@
       ],
       "accounts": [
         {
-          "name": "@MenInBlazers",
-          "why": "足球文化梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@thefootballarena",
-          "why": "足球数据和观点图文"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@TheEuropeanLad",
-          "why": "球迷视角和争议讨论"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -113,16 +122,19 @@
       ],
       "accounts": [
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@TrollFootball",
-          "why": "体育 meme 反应速度"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@brfootball",
-          "why": "足球二创视觉和短梗"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -144,16 +156,19 @@
       ],
       "accounts": [
         {
-          "name": "@TheEuropeanLad",
-          "why": "球迷视角和争议讨论"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@MenInBlazers",
-          "why": "足球文化梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@thefootballarena",
-          "why": "足球数据和观点图文"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -175,16 +190,19 @@
       ],
       "accounts": [
         {
-          "name": "@brfootball",
-          "why": "足球二创视觉和短梗"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@TrollFootball",
-          "why": "体育 meme 反应速度"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -206,16 +224,19 @@
       ],
       "accounts": [
         {
-          "name": "@brfootball",
-          "why": "足球二创视觉和短梗"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@thefootballarena",
-          "why": "足球数据和观点图文"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@TrollFootball",
-          "why": "体育 meme 反应速度"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -237,16 +258,19 @@
       ],
       "accounts": [
         {
-          "name": "@benedictevans",
-          "why": "科技趋势大图景"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@rowancheung",
-          "why": "AI 新闻快讯和工具拆解"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@stratechery",
-          "why": "科技商业模式拆解"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -268,16 +292,19 @@
       ],
       "accounts": [
         {
-          "name": "@MarketingBrew",
-          "why": "营销新闻角度"
+          "name": "@ChelseaUGC",
+          "followers": "约4万",
+          "why": "UGC 创作者变现和家居内容"
         },
         {
-          "name": "@mattnavarra",
-          "why": "社媒平台更新快讯"
+          "name": "@nathanallebach",
+          "followers": "约5万",
+          "why": "品牌人格化和社媒观点"
         },
         {
-          "name": "@colinandsamir",
-          "why": "创作者经济分析"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -299,16 +326,19 @@
       ],
       "accounts": [
         {
-          "name": "@TheEuropeanLad",
-          "why": "球迷视角和争议讨论"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@brfootball",
-          "why": "足球二创视觉和短梗"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@thefootballarena",
-          "why": "足球数据和观点图文"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -330,16 +360,19 @@
       ],
       "accounts": [
         {
-          "name": "@TrollFootball",
-          "why": "体育 meme 反应速度"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@MenInBlazers",
-          "why": "足球文化梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -361,16 +394,19 @@
       ],
       "accounts": [
         {
-          "name": "@TrollFootball",
-          "why": "体育 meme 反应速度"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@brfootball",
-          "why": "足球二创视觉和短梗"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -392,16 +428,19 @@
       ],
       "accounts": [
         {
-          "name": "@brfootball",
-          "why": "足球二创视觉和短梗"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@TrollFootball",
-          "why": "体育 meme 反应速度"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -423,16 +462,19 @@
       ],
       "accounts": [
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@TheEuropeanLad",
-          "why": "球迷视角和争议讨论"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@brfootball",
-          "why": "足球二创视觉和短梗"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -454,16 +496,19 @@
       ],
       "accounts": [
         {
-          "name": "@thefootballarena",
-          "why": "足球数据和观点图文"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@TheEuropeanLad",
-          "why": "球迷视角和争议讨论"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@MenInBlazers",
-          "why": "足球文化梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -485,16 +530,19 @@
       ],
       "accounts": [
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@MenInBlazers",
-          "why": "足球文化梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@TrollFootball",
-          "why": "体育 meme 反应速度"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -516,16 +564,19 @@
       ],
       "accounts": [
         {
-          "name": "@brfootball",
-          "why": "足球二创视觉和短梗"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@TrollFootball",
-          "why": "体育 meme 反应速度"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -547,16 +598,19 @@
       ],
       "accounts": [
         {
-          "name": "@TheEuropeanLad",
-          "why": "球迷视角和争议讨论"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@FabrizioRomano",
-          "why": "足球快讯标题和转会/赛事节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@MenInBlazers",
-          "why": "足球文化梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     }
