@@ -80,6 +80,83 @@ PLATFORM_CONFIG = {
     },
 }
 
+ACCOUNT_POOLS = {
+    "football": [
+        {"name": "@FabrizioRomano", "why": "足球快讯标题和转会/赛事节奏"},
+        {"name": "@MenInBlazers", "why": "足球文化梗和球迷口吻"},
+        {"name": "@TrollFootball", "why": "体育 meme 反应速度"},
+        {"name": "@thefootballarena", "why": "足球数据和观点图文"},
+        {"name": "@brfootball", "why": "足球二创视觉和短梗"},
+        {"name": "@TheEuropeanLad", "why": "球迷视角和争议讨论"},
+    ],
+    "ai_tech": [
+        {"name": "@swyx", "why": "AI 开发者视角"},
+        {"name": "@benedictevans", "why": "科技趋势大图景"},
+        {"name": "@alliekmiller", "why": "AI 应用和商业化表达"},
+        {"name": "@rowancheung", "why": "AI 新闻快讯和工具拆解"},
+        {"name": "@mckaywrigley", "why": "AI 产品演示与观点"},
+        {"name": "@stratechery", "why": "科技商业模式拆解"},
+    ],
+    "marketing_creator": [
+        {"name": "@MarketingBrew", "why": "营销新闻角度"},
+        {"name": "@marketingexamined", "why": "营销案例短内容"},
+        {"name": "@KatelynBourgoin", "why": "消费者心理拆解"},
+        {"name": "@gregisenberg", "why": "创业和内容商业化观点"},
+        {"name": "@colinandsamir", "why": "创作者经济分析"},
+        {"name": "@mattnavarra", "why": "社媒平台更新快讯"},
+    ],
+    "fashion_lifestyle": [
+        {"name": "@oldloserinbrooklyn", "why": "潮流趋势解释"},
+        {"name": "@devonleecarlson", "why": "个人风格和怀旧视觉"},
+        {"name": "@matildadjerf", "why": "复古生活方式审美"},
+        {"name": "@wisdm8", "why": "青年文化和趋势拆解"},
+        {"name": "@best.dressed", "why": "穿搭叙事和视觉表达"},
+        {"name": "@theannaedit", "why": "生活方式清单化表达"},
+    ],
+    "food_travel": [
+        {"name": "@keith_lee125", "why": "真实试吃和评分结构"},
+        {"name": "@jordan_the_stallion8", "why": "食品和文化梗讲述"},
+        {"name": "@eatlikeagirl", "why": "食物故事和旅行语境"},
+        {"name": "@londonfoodbabes", "why": "本地美食热点"},
+        {"name": "@eitan", "why": "美食短视频节奏"},
+        {"name": "@food52", "why": "食物生活方式包装"},
+    ],
+    "parenting_safety": [
+        {"name": "Common Sense Media", "why": "家庭科技教育内容"},
+        {"name": "Dr. Becky at Good Inside", "why": "家长心理和教育表达"},
+        {"name": "Scary Mommy", "why": "父母社群讨论语气"},
+        {"name": "The Holderness Family", "why": "家庭场景和幽默表达"},
+        {"name": "Laura Clery", "why": "生活化喜剧表达"},
+        {"name": "Raising Good Humans", "why": "亲子议题播客式拆解"},
+    ],
+    "facebook_marketing": [
+        {"name": "Mari Smith", "why": "Facebook 营销教学"},
+        {"name": "Jon Loomer", "why": "Meta 广告实操拆解"},
+        {"name": "Neil Patel", "why": "中小企业营销教育"},
+        {"name": "Social Media Examiner", "why": "平台更新解释"},
+        {"name": "HubSpot", "why": "B2B 内容营销模板"},
+        {"name": "Amy Porterfield", "why": "课程和社群转化内容"},
+    ],
+    "video_reaction": [
+        {"name": "@zachking", "why": "高完成度视觉反转"},
+        {"name": "@ryantrahan", "why": "系列化叙事和挑战"},
+        {"name": "@airrack", "why": "大型挑战和快节奏剪辑"},
+        {"name": "@ishowspeed", "why": "强情绪反应内容"},
+        {"name": "@alanchikinchow", "why": "短剧和系列化叙事"},
+        {"name": "@khaby.lame", "why": "极简反应式表达"},
+    ],
+    "news_analysis": [
+        {"name": "@MorningBrew", "why": "新闻摘要包装"},
+        {"name": "@axios", "why": "短句新闻解释结构"},
+        {"name": "@semafor", "why": "国际新闻背景化表达"},
+        {"name": "@mattnavarra", "why": "社媒新闻快讯"},
+        {"name": "@TaylorLorenz", "why": "互联网文化报道视角"},
+        {"name": "@CaseyNewton", "why": "平台政策和科技新闻分析"},
+    ],
+}
+
+USED_ACCOUNT_COMBOS = {key: set() for key in PLATFORM_CONFIG}
+
 
 def fetch_text(url):
     request = urllib.request.Request(
@@ -229,6 +306,82 @@ def sentiment_for(item):
     return "high"
 
 
+def item_categories(item):
+    text = f"{item['title']} {item.get('description', '')}".lower()
+    categories = []
+    checks = [
+        ("football", ["football", "soccer", "world cup", "premier league", "mbapp", "haaland", "fifa", "england"]),
+        ("ai_tech", ["ai", "artificial intelligence", "openai", "meta", "cloud", "data center", "technology", "tech"]),
+        ("marketing_creator", ["creator", "marketing", "brand", "advertising", "influencer", "social media"]),
+        ("fashion_lifestyle", ["fashion", "style", "celebrity", "instagram", "photo", "beauty", "nostalgia"]),
+        ("food_travel", ["food", "restaurant", "strawberr", "wimbledon", "travel", "eating", "recipe"]),
+        ("parenting_safety", ["teen", "child", "parent", "school", "safety", "ban", "privacy", "age"]),
+        ("facebook_marketing", ["facebook", "meta", "ads", "business", "community", "reels"]),
+        ("video_reaction", ["tiktok", "video", "meme", "viral", "reaction", "youtube", "shorts"]),
+    ]
+    for category, keywords in checks:
+        if any(keyword in text for keyword in keywords):
+            categories.append(category)
+    if not categories:
+        categories.append("news_analysis")
+    return categories
+
+
+def platform_default_category(platform):
+    return {
+        "x": "news_analysis",
+        "instagram": "fashion_lifestyle",
+        "tiktok": "video_reaction",
+        "facebook": "facebook_marketing",
+    }[platform]
+
+
+def accounts_for_item(platform, item, index):
+    categories = item_categories(item)
+    primary_category = categories[0] if categories else platform_default_category(platform)
+
+    pool = []
+    seen = set()
+    for account in ACCOUNT_POOLS.get(primary_category, []):
+        if account["name"] in seen:
+            continue
+        seen.add(account["name"])
+        pool.append(account)
+
+    if len(pool) < 3:
+        for account in ACCOUNT_POOLS[platform_default_category(platform)]:
+            if account["name"] not in seen:
+                seen.add(account["name"])
+                pool.append(account)
+
+    digest = hashlib.sha1(f"{platform}:{item['title']}:{index}".encode("utf-8")).hexdigest()
+    seed = int(digest[:8], 16)
+    used = USED_ACCOUNT_COMBOS.setdefault(platform, set())
+
+    for attempt in range(max(12, len(pool) * 2)):
+        offset = (seed + attempt * 3 + index) % len(pool)
+        stride = 1 + ((seed >> (attempt % 12)) % max(1, len(pool) - 1))
+        picked = []
+        picked_names = set()
+        cursor = offset
+        guard = 0
+        while len(picked) < 3 and guard < len(pool) * 3:
+            account = pool[cursor % len(pool)]
+            if account["name"] not in picked_names:
+                picked.append(account)
+                picked_names.add(account["name"])
+            cursor += stride
+            guard += 1
+        combo = tuple(account["name"] for account in picked)
+        if len(combo) == 3 and combo not in used:
+            used.add(combo)
+            return picked
+
+    picked = pool[:3]
+    used.add(tuple(account["name"] for account in picked))
+    return picked
+
+
 def trend_title(platform, item):
     prefix = {
         "x": "实时讨论",
@@ -269,7 +422,7 @@ def make_trend(platform, item, index):
         "sources": [
             {"label": item["source"], "url": item["link"]}
         ],
-        "accounts": config["accounts"],
+        "accounts": accounts_for_item(platform, item, index),
     }
 
 
