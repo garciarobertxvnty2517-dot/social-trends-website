@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T12:19:42.513301+00:00",
+  "generatedAt": "2026-07-10T12:11:02.277297+00:00",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -38,35 +38,103 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：France’s match with Morocco sums up this diverse, multicultural World Cup",
-      "titleZh": "实时讨论：法国与摩洛哥的比赛总结了这场多元化、多元文化的世界杯",
+      "title": "实时讨论：Going first in a penalty shootout gives teams an advantage … or does it?",
+      "titleZh": "实时讨论：在点球大战中排名第一会给球队带来优势……还是会？",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
+      "heat": 77,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Ninety-nine players at the tournament were born in France. Six of them could line up for Morocco in the quarter-final By Get French Football News When Ayyoub Bouaddi steps on to the pitch in...",
-      "summaryZh": "中文翻译：比赛中有九十九名球员出生在法国。当Ayyoub Bouaddi踏上球场时，他们中的六人可以在四分之一决赛中为摩洛哥排队。",
+      "summary": "公开来源显示该议题正在发酵：Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find observing a coin toss th...",
+      "summaryZh": "中文翻译：在过去的15场世界杯枪战中，有13场是由排名第二的球队赢得的。Opta Analyst在观看了120分钟的足球比赛后，您可能会发现没有看到投掷硬币......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/09/france-morocco-diverse-multicultural-world-cup-tournament-quarter-final"
+          "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second"
         }
       ],
       "accounts": [
         {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        },
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Exit strategies: how and why 27% of World Cup coaches have left their jobs",
+      "titleZh": "实时讨论：退出策略： 27%的世界杯教练离职的方式和原因",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown Sabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after Tunisia lost on penal...",
+      "summaryZh": "中文翻译：13名教练被解雇或离开了他们的国家队–这是一个完整的Sabri Lamouchi 1月14日被任命接替Sami Trabelsi突尼斯在罚球失利后...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs"
+        }
+      ],
+      "accounts": [
         {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
         },
         {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Police officer hurt amid violent disorder in London after France beat Morocco",
+      "titleZh": "实时讨论：在法国击败摩洛哥后，伦敦警察在暴力骚乱中受伤",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Four arrests after Edgware Road incidents, say police Teenager dies in France while celebrating team’s win A police officer has been hurt and several people were arrested after disorder in L...",
+      "summaryZh": "中文翻译：Edgware Road事件发生后，四人被捕，称法国警察青少年在庆祝球队获胜时死亡。一名警察受伤，几人在骚乱后被捕。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/2026/jul/10/violent-disorder-in-london-france-morocco-world-cup-police-officer-hurt-arrests"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -75,7 +143,7 @@
       "title": "实时讨论：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup",
       "titleZh": "实时讨论：“英格兰队培养的最佳球员” ：奥利斯从海耶斯崛起到世界杯",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
+      "heat": 71,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：One of the Bayern and France playmaker’s early coaches tells the story of how a move to Reading kickstarted a career If Michael Olise wins the World Cup , there will be a corner of a Hayes h...",
       "summaryZh": "中文翻译：这位拜仁和法国组织者的早期教练讲述了转向雷丁如何开启职业生涯的故事如果迈克尔·奥利斯赢得世界杯，那么海耶斯的角落将是……",
@@ -88,82 +156,14 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Argentina avert disaster with controversial late comeback | World Cup Daily – video",
-      "titleZh": "实时讨论：阿根廷通过有争议的晚复出避免了灾难|世界杯日报–视频",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 73,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Barney Ronay and Alexander Abnos as Argentina pull off an all-time great World Cup comeback against Egypt Continue reading...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、阿奇·林德-塔特（ Archie Rhind-Tutt ）、巴尼·罗内（ Barney Ronay ）和亚历山大·阿布诺斯（ Alexander Abnos ）",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/08/argentina-avert-disaster-with-late-controversial-comeback-world-cup-daily-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：A World Cup free agent XI: summer bargains and top targets among clubless players",
-      "titleZh": "实时讨论：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
-      "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players"
-        }
-      ],
-      "accounts": [
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@elliottvenis",
@@ -208,35 +208,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：A World Cup free agent XI: summer bargains and top targets among clubless players",
-      "titleZh": "视觉热点：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
+      "title": "视觉热点：Wimbledon 2026: Muchova beats Gauff in thriller to set up all-Czech final with Noskova – as it happened",
+      "titleZh": "视觉热点：2026年温布尔登网球公开赛： Muchova在惊悚片中击败Gauff ，与Noskova一起进入全捷克决赛",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 90,
+      "heat": 91,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
-      "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
+      "summary": "公开来源显示该议题正在发酵：It’s a first all-Czech Wimbledon women’s final after Karolina Muchova saved a match point in a dramatic final-set tie-break and Linda Noskova was nerveless against Marta Kostyuk Gauff does h...",
+      "summaryZh": "中文翻译：这是第一次全捷克温布尔登女子决赛，此前卡罗琳娜·穆乔娃（ Karolina Muchova ）在一场戏剧性的决赛中挽救了一个赛点，而琳达·诺斯科娃（ Linda Noskova ）在对阵玛塔·科斯秋克·高夫（ Marta Kostyuk Gauff",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/live/2026/jul/09/wimbledon-2026-karolina-muchova-coco-gauff-marta-kostyuk-linda-noskova-womens-semi-finals-tennis-live"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -344,18 +344,86 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：France’s match with Morocco sums up this diverse, multicultural World Cup",
-      "titleZh": "短视频趋势：法国与摩洛哥的比赛总结了这场多元化、多元文化的世界杯",
+      "title": "短视频趋势：Going first in a penalty shootout gives teams an advantage … or does it?",
+      "titleZh": "短视频趋势：在点球大战中排名第一会给球队带来优势……还是会？",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 90,
+      "heat": 77,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Ninety-nine players at the tournament were born in France. Six of them could line up for Morocco in the quarter-final By Get French Football News When Ayyoub Bouaddi steps on to the pitch in...",
-      "summaryZh": "中文翻译：比赛中有九十九名球员出生在法国。当Ayyoub Bouaddi踏上球场时，他们中的六人可以在四分之一决赛中为摩洛哥排队。",
+      "summary": "公开来源显示该议题正在发酵：Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find observing a coin toss th...",
+      "summaryZh": "中文翻译：在过去的15场世界杯枪战中，有13场是由排名第二的球队赢得的。Opta Analyst在观看了120分钟的足球比赛后，您可能会发现没有看到投掷硬币......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/09/france-morocco-diverse-multicultural-world-cup-tournament-quarter-final"
+          "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Exit strategies: how and why 27% of World Cup coaches have left their jobs",
+      "titleZh": "短视频趋势：退出策略： 27%的世界杯教练离职的方式和原因",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown Sabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after Tunisia lost on penal...",
+      "summaryZh": "中文翻译：13名教练被解雇或离开了他们的国家队–这是一个完整的Sabri Lamouchi 1月14日被任命接替Sami Trabelsi突尼斯在罚球失利后...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Police officer hurt amid violent disorder in London after France beat Morocco",
+      "titleZh": "短视频趋势：在法国击败摩洛哥后，伦敦警察在暴力骚乱中受伤",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Four arrests after Edgware Road incidents, say police Teenager dies in France while celebrating team’s win A police officer has been hurt and several people were arrested after disorder in L...",
+      "summaryZh": "中文翻译：Edgware Road事件发生后，四人被捕，称法国警察青少年在庆祝球队获胜时死亡。一名警察受伤，几人在骚乱后被捕。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/2026/jul/10/violent-disorder-in-london-france-morocco-world-cup-police-officer-hurt-arrests"
         }
       ],
       "accounts": [
@@ -381,7 +449,7 @@
       "title": "短视频趋势：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup",
       "titleZh": "短视频趋势：“英格兰队培养的最佳球员” ：奥利斯从海耶斯崛起到世界杯",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：One of the Bayern and France playmaker’s early coaches tells the story of how a move to Reading kickstarted a career If Michael Olise wins the World Cup , there will be a corner of a Hayes h...",
       "summaryZh": "中文翻译：这位拜仁和法国组织者的早期教练讲述了转向雷丁如何开启职业生涯的故事如果迈克尔·奥利斯赢得世界杯，那么海耶斯的角落将是……",
@@ -399,82 +467,14 @@
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Argentina avert disaster with controversial late comeback | World Cup Daily – video",
-      "titleZh": "短视频趋势：阿根廷通过有争议的晚复出避免了灾难|世界杯日报–视频",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Barney Ronay and Alexander Abnos as Argentina pull off an all-time great World Cup comeback against Egypt Continue reading...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、阿奇·林德-塔特（ Archie Rhind-Tutt ）、巴尼·罗内（ Barney Ronay ）和亚历山大·阿布诺斯（ Alexander Abnos ）",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/08/argentina-avert-disaster-with-late-controversial-comeback-world-cup-daily-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：A World Cup free agent XI: summer bargains and top targets among clubless players",
-      "titleZh": "短视频趋势：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
-      "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -514,18 +514,86 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup",
-      "titleZh": "社区话题：“英格兰队培养的最佳球员” ：奥利斯从海耶斯崛起到世界杯",
+      "title": "社区话题：Going first in a penalty shootout gives teams an advantage … or does it?",
+      "titleZh": "社区话题：在点球大战中排名第一会给球队带来优势……还是会？",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：One of the Bayern and France playmaker’s early coaches tells the story of how a move to Reading kickstarted a career If Michael Olise wins the World Cup , there will be a corner of a Hayes h...",
-      "summaryZh": "中文翻译：这位拜仁和法国组织者的早期教练讲述了转向雷丁如何开启职业生涯的故事如果迈克尔·奥利斯赢得世界杯，那么海耶斯的角落将是……",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find observing a coin toss th...",
+      "summaryZh": "中文翻译：在过去的15场世界杯枪战中，有13场是由排名第二的球队赢得的。Opta Analyst在观看了120分钟的足球比赛后，您可能会发现没有看到投掷硬币......",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/09/best-player-england-developed-michael-olise-2026-world-cup-france"
+          "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Exit strategies: how and why 27% of World Cup coaches have left their jobs",
+      "titleZh": "社区话题：退出策略： 27%的世界杯教练离职的方式和原因",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown Sabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after Tunisia lost on penal...",
+      "summaryZh": "中文翻译：13名教练被解雇或离开了他们的国家队–这是一个完整的Sabri Lamouchi 1月14日被任命接替Sami Trabelsi突尼斯在罚球失利后...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Police officer hurt amid violent disorder in London after France beat Morocco",
+      "titleZh": "社区话题：在法国击败摩洛哥后，伦敦警察在暴力骚乱中受伤",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Four arrests after Edgware Road incidents, say police Teenager dies in France while celebrating team’s win A police officer has been hurt and several people were arrested after disorder in L...",
+      "summaryZh": "中文翻译：Edgware Road事件发生后，四人被捕，称法国警察青少年在庆祝球队获胜时死亡。一名警察受伤，几人在骚乱后被捕。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/2026/jul/10/violent-disorder-in-london-france-morocco-world-cup-police-officer-hurt-arrests"
         }
       ],
       "accounts": [
@@ -535,82 +603,14 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Why Jude Bellingham’s world is bigger than most of us can understand",
-      "titleZh": "社区话题：为什么Jude Bellingham的世界比我们大多数人所能理解的更大",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak Djokovic There has never been an English footballer quite like Jude Belling...",
-      "summaryZh": "中文翻译：拥有一切的神童有野心扮演詹姆斯·邦德，但目前他更让人想起诺瓦克·德约科维奇从未有过像裘德·贝林这样的英国足球运动员……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/07/genius-jude-bellingham-becoming-one-of-englands-leaders"
-        }
-      ],
-      "accounts": [
+        },
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：AI prey: why watchdogs are telling parents to protect children from nudification apps",
-      "titleZh": "社区话题：人工智能猎物：为什么看门狗告诉家长要保护儿童免受裸体应用程序的侵害",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography UK parents warned over posting images of children amid AI sexual abuse f...",
-      "summaryZh": "中文翻译：随着成像工具变得越来越复杂，在线掠夺者正在使用儿童图像制作极端色情作品。英国父母警告说，在人工智能性虐待中张贴儿童图像。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
         }
       ]
     }
@@ -621,7 +621,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：France’s match with Morocco sums up this diverse, multicultural World Cup": {
+    "实时讨论：Going first in a penalty shootout gives teams an advantage … or does it?": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Exit strategies: how and why 27% of World Cup coaches have left their jobs": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Police officer hurt amid violent disorder in London after France beat Morocco": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -631,22 +641,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Argentina avert disaster with controversial late comeback | World Cup Daily – video": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：A World Cup free agent XI: summer bargains and top targets among clubless players": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "视觉热点：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：A World Cup free agent XI: summer bargains and top targets among clubless players": {
+    "视觉热点：Wimbledon 2026: Muchova beats Gauff in thriller to set up all-Czech final with Noskova – as it happened": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -666,7 +666,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：France’s match with Morocco sums up this diverse, multicultural World Cup": {
+    "短视频趋势：Going first in a penalty shootout gives teams an advantage … or does it?": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Exit strategies: how and why 27% of World Cup coaches have left their jobs": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Police officer hurt amid violent disorder in London after France beat Morocco": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -676,32 +686,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Argentina avert disaster with controversial late comeback | World Cup Daily – video": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：A World Cup free agent XI: summer bargains and top targets among clubless players": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "社区话题：Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup": {
+    "社区话题：Going first in a penalty shootout gives teams an advantage … or does it?": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Why Jude Bellingham’s world is bigger than most of us can understand": {
+    "社区话题：Exit strategies: how and why 27% of World Cup coaches have left their jobs": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：AI prey: why watchdogs are telling parents to protect children from nudification apps": {
+    "社区话题：Police officer hurt amid violent disorder in London after France beat Morocco": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
