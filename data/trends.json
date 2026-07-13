@@ -1,5 +1,6 @@
 {
-  "generatedAt": "2026-07-12T09:10:16.795107+00:00",
+  "generatedAt": "2026-07-13T01:51:36.984833+00:00",
+  "generatedAtBeijing": "2026-07-13 09:51",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -174,18 +175,18 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
-      "titleZh": "视觉热点：欧盟订购Meta以改变Instagram和Facebook的“成瘾设计”",
+      "title": "视觉热点：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won",
+      "titleZh": "视觉热点：“这是一个正义的案例。“圣战”：对抗Meta和谷歌的律师–并赢得了",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
-      "summaryZh": "中文翻译：欧盟当局表示，该公司使用“令人上瘾的设计”违反了数字安全法。",
+      "heat": 86,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：When Mark Lanier and his young client Kaley faced the tech giants in an LA courtroom earlier this year, it seemed a bigger battle than David v Goliath. But they scored a landmark victory, pr...",
+      "summaryZh": "中文翻译：今年早些时候，当马克·拉尼尔（ Mark Lanier ）和他的年轻客户凯利（ Kaley ）在洛杉矶的法庭上面对科技巨头时，这似乎比戴维（ David ）与歌利亚（ Goliath ）之间的战斗但他们取得了具有里程碑意义的胜利……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview"
         }
       ],
       "accounts": [
@@ -208,10 +209,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
+      "titleZh": "视觉热点：欧盟订购Meta以改变Instagram和Facebook的“成瘾设计”",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
+      "summaryZh": "中文翻译：欧盟当局表示，该公司使用“令人上瘾的设计”违反了数字安全法。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：A World Cup free agent XI: summer bargains and top targets among clubless players",
       "titleZh": "视觉热点：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 90,
+      "heat": 88,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
       "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
@@ -224,19 +259,19 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -245,7 +280,7 @@
       "title": "视觉热点：Linda Noskova fends off Muchova fightback to win first grand slam title at Wimbledon",
       "titleZh": "视觉热点：琳达·诺斯科娃（ Linda Noskova ）抵挡了穆乔娃（ Muchova ）的反击，赢得了温布尔登网球",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Ninth seed beats fellow Czech 6-2, 5-7, 6-3 Muchova falls short in second major final As one of her worst nightmares on a tennis court appeared to be unfolding before her disbelieving eyes, ...",
       "summaryZh": "中文翻译：九号种子以6比2、5比7、6比3击败捷克同胞穆乔娃在第二大决赛中落后，因为她在网球场上最糟糕的噩梦之一似乎正在她不相信的眼睛前展开，...",
@@ -263,9 +298,9 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@Ivy_Dinma",
@@ -275,36 +310,36 @@
       ]
     },
     {
-      "platform": "instagram",
-      "title": "视觉热点：Warping the World Cup: the rise of homespun ‘photographs’",
-      "titleZh": "视觉热点：扭曲世界杯：本土“照片”的崛起",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
+      "platform": "tiktok",
+      "title": "短视频趋势：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won",
+      "titleZh": "短视频趋势：“这是一个正义的案例。“圣战”：对抗Meta和谷歌的律师–并赢得了",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 81,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Using a digital flat-bed scanner, our picture editor Jonny Weeks adapts some of his favourite images from the tournament and explores the trend of alternative photography Although I’ve edite...",
-      "summaryZh": "中文翻译：使用数码平板扫描仪，我们的图片编辑Jonny Weeks改编了一些他最喜欢的比赛图片，并探索了替代摄影的趋势虽然我编辑了...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "summary": "公开来源显示该议题正在发酵：When Mark Lanier and his young client Kaley faced the tech giants in an LA courtroom earlier this year, it seemed a bigger battle than David v Goliath. But they scored a landmark victory, pr...",
+      "summaryZh": "中文翻译：今年早些时候，当马克·拉尼尔（ Mark Lanier ）和他的年轻客户凯利（ Kaley ）在洛杉矶的法庭上面对科技巨头时，这似乎比戴维（ David ）与歌利亚（ Goliath ）之间的战斗但他们取得了具有里程碑意义的胜利……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/ng-interactive/2026/jul/09/warping-the-world-cup-rise-homespun-photographs"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -313,7 +348,7 @@
       "title": "短视频趋势：Going first in a penalty shootout gives teams an advantage … or does it?",
       "titleZh": "短视频趋势：在点球大战中排名第一会给球队带来优势……还是会？",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
+      "heat": 77,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find observing a coin toss th...",
       "summaryZh": "中文翻译：在过去的15场世界杯枪战中，有13场是由排名第二的球队赢得的。Opta Analyst在观看了120分钟的足球比赛后，您可能会发现没有看到投掷硬币......",
@@ -326,19 +361,19 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -347,7 +382,7 @@
       "title": "短视频趋势：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
       "titleZh": "短视频趋势：欧盟订购Meta以改变Instagram和Facebook的“成瘾设计”",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
+      "heat": 81,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
       "summaryZh": "中文翻译：欧盟当局表示，该公司使用“令人上瘾的设计”违反了数字安全法。",
@@ -365,14 +400,14 @@
           "why": "AI 自动化和增长观点"
         },
         {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -381,7 +416,7 @@
       "title": "短视频趋势：Exit strategies: how and why 27% of World Cup coaches have left their jobs",
       "titleZh": "短视频趋势：退出策略： 27%的世界杯教练离职的方式和原因",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
+      "heat": 69,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown Sabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after Tunisia lost on penal...",
       "summaryZh": "中文翻译：13名教练被解雇或离开了他们的国家队–这是一个完整的Sabri Lamouchi 1月14日被任命接替Sami Trabelsi突尼斯在罚球失利后...",
@@ -394,19 +429,19 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -415,7 +450,7 @@
       "title": "短视频趋势：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup",
       "titleZh": "短视频趋势：“英格兰队培养的最佳球员” ：奥利斯从海耶斯崛起到世界杯",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：One of the Bayern and France playmaker’s early coaches tells the story of how a move to Reading kickstarted a career If Michael Olise wins the World Cup , there will be a corner of a Hayes h...",
       "summaryZh": "中文翻译：这位拜仁和法国组织者的早期教练讲述了转向雷丁如何开启职业生涯的故事如果迈克尔·奥利斯赢得世界杯，那么海耶斯的角落将是……",
@@ -428,43 +463,9 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：A World Cup free agent XI: summer bargains and top targets among clubless players",
-      "titleZh": "短视频趋势：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
-      "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -472,9 +473,43 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won",
+      "titleZh": "社区话题：“这是一个正义的案例。“圣战”：对抗Meta和谷歌的律师–并赢得了",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 89,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：When Mark Lanier and his young client Kaley faced the tech giants in an LA courtroom earlier this year, it seemed a bigger battle than David v Goliath. But they scored a landmark victory, pr...",
+      "summaryZh": "中文翻译：今年早些时候，当马克·拉尼尔（ Mark Lanier ）和他的年轻客户凯利（ Kaley ）在洛杉矶的法庭上面对科技巨头时，这似乎比戴维（ David ）与歌利亚（ Goliath ）之间的战斗但他们取得了具有里程碑意义的胜利……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -483,7 +518,7 @@
       "title": "社区话题：Going first in a penalty shootout gives teams an advantage … or does it?",
       "titleZh": "社区话题：在点球大战中排名第一会给球队带来优势……还是会？",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find observing a coin toss th...",
       "summaryZh": "中文翻译：在过去的15场世界杯枪战中，有13场是由排名第二的球队赢得的。Opta Analyst在观看了120分钟的足球比赛后，您可能会发现没有看到投掷硬币......",
@@ -496,19 +531,19 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -517,7 +552,7 @@
       "title": "社区话题：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
       "titleZh": "社区话题：欧盟订购Meta以改变Instagram和Facebook的“成瘾设计”",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
+      "heat": 85,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
       "summaryZh": "中文翻译：欧盟当局表示，该公司使用“令人上瘾的设计”违反了数字安全法。",
@@ -535,9 +570,9 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@marcinteodoru",
@@ -551,7 +586,7 @@
       "title": "社区话题：Exit strategies: how and why 27% of World Cup coaches have left their jobs",
       "titleZh": "社区话题：退出策略： 27%的世界杯教练离职的方式和原因",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 77,
+      "heat": 75,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown Sabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after Tunisia lost on penal...",
       "summaryZh": "中文翻译：13名教练被解雇或离开了他们的国家队–这是一个完整的Sabri Lamouchi 1月14日被任命接替Sami Trabelsi突尼斯在罚球失利后...",
@@ -564,53 +599,19 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup",
-      "titleZh": "社区话题：“英格兰队培养的最佳球员” ：奥利斯从海耶斯崛起到世界杯",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：One of the Bayern and France playmaker’s early coaches tells the story of how a move to Reading kickstarted a career If Michael Olise wins the World Cup , there will be a corner of a Hayes h...",
-      "summaryZh": "中文翻译：这位拜仁和法国组织者的早期教练讲述了转向雷丁如何开启职业生涯的故事如果迈克尔·奥利斯赢得世界杯，那么海耶斯的角落将是……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/09/best-player-england-developed-michael-olise-2026-world-cup-france"
-        }
-      ],
-      "accounts": [
+        },
         {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     }
@@ -641,6 +642,11 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "视觉热点：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "视觉热点：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
@@ -656,10 +662,10 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Warping the World Cup: the rise of homespun ‘photographs’": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    "短视频趋势：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：Going first in a penalty shootout gives teams an advantage … or does it?": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
@@ -681,10 +687,10 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：A World Cup free agent XI: summer bargains and top targets among clubless players": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "社区话题：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Going first in a penalty shootout gives teams an advantage … or does it?": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
@@ -697,11 +703,6 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Exit strategies: how and why 27% of World Cup coaches have left their jobs": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
