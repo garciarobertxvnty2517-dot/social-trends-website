@@ -69,10 +69,15 @@ main {
 }
 
 .data-updated {
-  color: var(--muted);
+  background: var(--blue-soft);
+  border: 1px solid #cfe5ff;
+  border-radius: 999px;
+  color: var(--blue);
+  display: inline-flex;
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 800;
   margin: 8px 0 0;
+  padding: 7px 11px;
 }
 
 .filters {
