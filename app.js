@@ -588,13 +588,21 @@ async function loadDailyData() {
     if (data.audienceMap && typeof data.audienceMap === "object") {
       audienceMap = { ...audienceMap, ...data.audienceMap };
     }
-    if (data.generatedAt && dataUpdatedAt) {
-      const updated = new Date(data.generatedAt);
-      dataUpdatedAt.textContent = `数据源：公开热点源每日自动更新，更新时间 ${updated.toLocaleString("zh-CN")}`;
+    if ((data.generatedAt || data.generatedAtBeijing) && dataUpdatedAt) {
+      const updated = data.generatedAt ? new Date(data.generatedAt) : null;
+      const beijingTime = data.generatedAtBeijing || updated.toLocaleString("zh-CN", {
+        timeZone: "Asia/Shanghai",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit"
+      });
+      dataUpdatedAt.textContent = `消息更新时间：${beijingTime}（北京时间）｜数据源：公开热点源每日自动更新`;
     }
   } catch (error) {
     if (dataUpdatedAt) {
-      dataUpdatedAt.textContent = "数据源：当前显示内置样例；自动更新数据暂不可用";
+      dataUpdatedAt.textContent = "消息更新时间：自动更新数据暂不可用，当前显示内置样例";
     }
     console.warn("Daily trend data unavailable:", error);
   }
