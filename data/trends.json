@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T01:51:36.984833+00:00",
-  "generatedAtBeijing": "2026-07-13 09:51",
+  "generatedAt": "2026-07-13T12:20:27.907584+00:00",
+  "generatedAtBeijing": "2026-07-13 20:20",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -277,35 +277,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Linda Noskova fends off Muchova fightback to win first grand slam title at Wimbledon",
-      "titleZh": "视觉热点：琳达·诺斯科娃（ Linda Noskova ）抵挡了穆乔娃（ Muchova ）的反击，赢得了温布尔登网球",
+      "title": "视觉热点：Wimbledon agony for teenager Cruz Hewitt as he bids farewell to junior tennis",
+      "titleZh": "视觉热点：青少年克鲁兹·休伊特告别青少年网球比赛时的温布尔登痛苦",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
+      "heat": 82,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Ninth seed beats fellow Czech 6-2, 5-7, 6-3 Muchova falls short in second major final As one of her worst nightmares on a tennis court appeared to be unfolding before her disbelieving eyes, ...",
-      "summaryZh": "中文翻译：九号种子以6比2、5比7、6比3击败捷克同胞穆乔娃在第二大决赛中落后，因为她在网球场上最糟糕的噩梦之一似乎正在她不相信的眼睛前展开，...",
+      "summary": "公开来源显示该议题正在发酵：Australian loses boys’ final to Jordan Lee of US 4-6, 6-4, 7-5 Two-hour match will likely be 17-year-old’s last as a junior Cruz Hewitt has vowed to blossom again at Wimbledon as he brushed ...",
+      "summaryZh": "中文翻译：澳大利亚队以4-6,6-4,7-5输给了乔丹·李两小时的比赛可能是17岁的最后一场比赛，因为大三的克鲁兹·休伊特（ Cruz Hewitt ）发誓要在温布尔登（ Wimbledon ）再次开花...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/jul/11/linda-noskova-karolina-muchova-wimbledon-tennis-womens-final"
+          "url": "https://www.theguardian.com/sport/2026/jul/13/wimbledon-cruz-hewitt-jordan-lee-boys-final"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -657,7 +657,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Linda Noskova fends off Muchova fightback to win first grand slam title at Wimbledon": {
+    "视觉热点：Wimbledon agony for teenager Cruz Hewitt as he bids farewell to junior tennis": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
