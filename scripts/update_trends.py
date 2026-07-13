@@ -8,6 +8,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 
@@ -539,8 +540,12 @@ def main():
                 "mode": config["operation"],
             }
 
+    generated_at = datetime.now(timezone.utc)
+    generated_at_beijing = generated_at.astimezone(ZoneInfo("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M")
+
     payload = {
-        "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "generatedAt": generated_at.isoformat(),
+        "generatedAtBeijing": generated_at_beijing,
         "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
         "trends": trends,
         "audienceMap": audience_map,
