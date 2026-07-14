@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T12:20:27.907584+00:00",
-  "generatedAtBeijing": "2026-07-13 20:20",
+  "generatedAt": "2026-07-14T07:30:19.815752+00:00",
+  "generatedAtBeijing": "2026-07-14 15:30",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -107,59 +107,25 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup",
-      "titleZh": "实时讨论：“英格兰队培养的最佳球员” ：奥利斯从海耶斯崛起到世界杯",
+      "title": "实时讨论：France unleashed: reinvention could earn Deschamps all-time great status",
+      "titleZh": "实时讨论：法国解放：重塑可以赢得Deschamps有史以来的伟大地位",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：One of the Bayern and France playmaker’s early coaches tells the story of how a move to Reading kickstarted a career If Michael Olise wins the World Cup , there will be a corner of a Hayes h...",
-      "summaryZh": "中文翻译：这位拜仁和法国组织者的早期教练讲述了转向雷丁如何开启职业生涯的故事如果迈克尔·奥利斯赢得世界杯，那么海耶斯的角落将是……",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Head coach has found a way to get the best out of his glittering attack and has a second World Cup in sight It was a night when, as Didier Deschamps put it, the light went out by half-time. ...",
+      "summaryZh": "中文翻译：主教练已经找到了一种方法来充分利用他闪闪发光的攻击，并即将举行第二届世界杯。正如Didier Deschamps所说，这是一个夜晚，灯光熄灭了半场。...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/09/best-player-england-developed-michael-olise-2026-world-cup-france"
+          "url": "https://www.theguardian.com/football/2026/jul/13/france-didier-deschamps-kylian-mbappe-michael-olise-spain-world-cup-semi-final"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：A World Cup free agent XI: summer bargains and top targets among clubless players",
-      "titleZh": "实时讨论：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
-      "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -167,9 +133,43 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@elliottvenis",
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says",
+      "titleZh": "实时讨论：澳大利亚在线安全监管机构称，年轻男性报告的“性骚扰”比其他任何年龄组都多",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：In six months last year, more than 2,000 such complaints were made to eSafety Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podc...",
+      "summaryZh": "中文翻译：在去年的六个月内，向eSafety投诉了2,000多起此类投诉关注我们的澳大利亚新闻直播博客以获取最新动态获取我们的突发新闻电子邮件、免费应用或每日新闻播客...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/13/young-men-report-more-sextortion-than-any-other-age-group-australias-online-safety-watchdog-says-ntwnfb"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -243,69 +243,69 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：A World Cup free agent XI: summer bargains and top targets among clubless players",
-      "titleZh": "视觉热点：世界杯自由球员XI ：无俱乐部球员的夏季特价和顶级目标",
+      "title": "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps",
+      "titleZh": "视觉热点：人工智能猎物：为什么看门狗告诉家长要保护儿童免受裸体应用程序的侵害",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 88,
+      "heat": 76,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few have made an impact o...",
-      "summaryZh": "中文翻译：拥有2750万Instagram粉丝和未来不透明的前锋的守门员使我们的球队球员寻找新的俱乐部随着后起之秀和邪教英雄的出现，很少有人能对……",
+      "summary": "公开来源显示该议题正在发酵：As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography UK parents warned over posting images of children amid AI sexual abuse f...",
+      "summaryZh": "中文翻译：随着成像工具变得越来越复杂，在线掠夺者正在使用儿童图像制作极端色情作品。英国父母警告说，在人工智能性虐待中张贴儿童图像。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Wimbledon agony for teenager Cruz Hewitt as he bids farewell to junior tennis",
-      "titleZh": "视觉热点：青少年克鲁兹·休伊特告别青少年网球比赛时的温布尔登痛苦",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 82,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Australian loses boys’ final to Jordan Lee of US 4-6, 6-4, 7-5 Two-hour match will likely be 17-year-old’s last as a junior Cruz Hewitt has vowed to blossom again at Wimbledon as he brushed ...",
-      "summaryZh": "中文翻译：澳大利亚队以4-6,6-4,7-5输给了乔丹·李两小时的比赛可能是17岁的最后一场比赛，因为大三的克鲁兹·休伊特（ Cruz Hewitt ）发誓要在温布尔登（ Wimbledon ）再次开花...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/jul/13/wimbledon-cruz-hewitt-jordan-lee-boys-final"
-        }
-      ],
-      "accounts": [
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Alonso ‘optimistic’ he can thrive at Chelsea and avoid coaching carousel",
+      "titleZh": "视觉热点：阿隆索“乐观” ，他可以在切尔西茁壮成长，避免执教旋转木马",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Only time will tell if the former Leverkusen manager will become yet another victim of the constant churn at Stamford Bridge If Xabi Alonso arrived at Chelsea under any illusions about the e...",
+      "summaryZh": "中文翻译：只有时间才能证明这位前勒沃库森经理是否会成为斯坦福桥不断流失的另一个受害者如果Xabi Alonso在切尔西的任何幻想中来到这里......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/13/xabi-alonso-chelsea-premier-league"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -447,35 +447,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup",
-      "titleZh": "短视频趋势：“英格兰队培养的最佳球员” ：奥利斯从海耶斯崛起到世界杯",
+      "title": "短视频趋势：France unleashed: reinvention could earn Deschamps all-time great status",
+      "titleZh": "短视频趋势：法国解放：重塑可以赢得Deschamps有史以来的伟大地位",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：One of the Bayern and France playmaker’s early coaches tells the story of how a move to Reading kickstarted a career If Michael Olise wins the World Cup , there will be a corner of a Hayes h...",
-      "summaryZh": "中文翻译：这位拜仁和法国组织者的早期教练讲述了转向雷丁如何开启职业生涯的故事如果迈克尔·奥利斯赢得世界杯，那么海耶斯的角落将是……",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Head coach has found a way to get the best out of his glittering attack and has a second World Cup in sight It was a night when, as Didier Deschamps put it, the light went out by half-time. ...",
+      "summaryZh": "中文翻译：主教练已经找到了一种方法来充分利用他闪闪发光的攻击，并即将举行第二届世界杯。正如Didier Deschamps所说，这是一个夜晚，灯光熄灭了半场。...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/09/best-player-england-developed-michael-olise-2026-world-cup-france"
+          "url": "https://www.theguardian.com/football/2026/jul/13/france-didier-deschamps-kylian-mbappe-michael-olise-spain-world-cup-semi-final"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -632,12 +632,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup": {
+    "实时讨论：France unleashed: reinvention could earn Deschamps all-time great status": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：A World Cup free agent XI: summer bargains and top targets among clubless players": {
+    "实时讨论：Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -652,12 +652,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：A World Cup free agent XI: summer bargains and top targets among clubless players": {
+    "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Wimbledon agony for teenager Cruz Hewitt as he bids farewell to junior tennis": {
+    "视觉热点：Alonso ‘optimistic’ he can thrive at Chelsea and avoid coaching carousel": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -682,7 +682,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘Best player England has developed’: Olise’s rise from Hayes to the World Cup": {
+    "短视频趋势：France unleashed: reinvention could earn Deschamps all-time great status": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
