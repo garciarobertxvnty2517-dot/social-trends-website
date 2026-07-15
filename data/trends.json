@@ -1,158 +1,22 @@
 {
-  "generatedAt": "2026-07-14T07:30:19.815752+00:00",
-  "generatedAtBeijing": "2026-07-14 15:30",
+  "generatedAt": "2026-07-15T09:22:38.444766+00:00",
+  "generatedAtBeijing": "2026-07-15 17:22",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：Going first in a penalty shootout gives teams an advantage … or does it?",
-      "titleZh": "实时讨论：在点球大战中排名第一会给球队带来优势……还是会？",
+      "title": "实时讨论：UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
+      "titleZh": "实时讨论：鼓励16岁和17岁的英国人遵守午夜社交媒体宵禁",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find observing a coin toss th...",
-      "summaryZh": "中文翻译：在过去的15场世界杯枪战中，有13场是由排名第二的球队赢得的。Opta Analyst在观看了120分钟的足球比赛后，您可能会发现没有看到投掷硬币......",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
-      "titleZh": "实时讨论：欧盟订购Meta以改变Instagram和Facebook的“成瘾设计”",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
-      "summaryZh": "中文翻译：欧盟当局表示，该公司使用“令人上瘾的设计”违反了数字安全法。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Exit strategies: how and why 27% of World Cup coaches have left their jobs",
-      "titleZh": "实时讨论：退出策略： 27%的世界杯教练离职的方式和原因",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 83,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown Sabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after Tunisia lost on penal...",
-      "summaryZh": "中文翻译：13名教练被解雇或离开了他们的国家队–这是一个完整的Sabri Lamouchi 1月14日被任命接替Sami Trabelsi突尼斯在罚球失利后...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：France unleashed: reinvention could earn Deschamps all-time great status",
-      "titleZh": "实时讨论：法国解放：重塑可以赢得Deschamps有史以来的伟大地位",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Head coach has found a way to get the best out of his glittering attack and has a second World Cup in sight It was a night when, as Didier Deschamps put it, the light went out by half-time. ...",
-      "summaryZh": "中文翻译：主教练已经找到了一种方法来充分利用他闪闪发光的攻击，并即将举行第二届世界杯。正如Didier Deschamps所说，这是一个夜晚，灯光熄灭了半场。...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/13/france-didier-deschamps-kylian-mbappe-michael-olise-spain-world-cup-semi-final"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says",
-      "titleZh": "实时讨论：澳大利亚在线安全监管机构称，年轻男性报告的“性骚扰”比其他任何年龄组都多",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：In six months last year, more than 2,000 such complaints were made to eSafety Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podc...",
-      "summaryZh": "中文翻译：在去年的六个月内，向eSafety投诉了2,000多起此类投诉关注我们的澳大利亚新闻直播博客以获取最新动态获取我们的突发新闻电子邮件、免费应用或每日新闻播客...",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Midnight to 6am block on some apps is latest stage of Labour’s bid to protect young people from online harms Sixteen and 17-year-olds are to be encouraged to observe a midnight social media ...",
+      "summaryZh": "中文翻译：一些应用程序的午夜至早上6点街区是工党保护年轻人免受在线伤害的最新阶段。鼓励16岁和17岁的孩子观看午夜社交媒体......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/13/young-men-report-more-sextortion-than-any-other-age-group-australias-online-safety-watchdog-says-ntwnfb"
+          "url": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew"
         }
       ],
       "accounts": [
@@ -174,36 +38,172 @@
       ]
     },
     {
-      "platform": "instagram",
-      "title": "视觉热点：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won",
-      "titleZh": "视觉热点：“这是一个正义的案例。“圣战”：对抗Meta和谷歌的律师–并赢得了",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 86,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：When Mark Lanier and his young client Kaley faced the tech giants in an LA courtroom earlier this year, it seemed a bigger battle than David v Goliath. But they scored a landmark victory, pr...",
-      "summaryZh": "中文翻译：今年早些时候，当马克·拉尼尔（ Mark Lanier ）和他的年轻客户凯利（ Kaley ）在洛杉矶的法庭上面对科技巨头时，这似乎比戴维（ David ）与歌利亚（ Goliath ）之间的战斗但他们取得了具有里程碑意义的胜利……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "platform": "x",
+      "title": "实时讨论：Going first in a penalty shootout gives teams an advantage … or does it?",
+      "titleZh": "实时讨论：在点球大战中排名第一会给球队带来优势……还是会？",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find observing a coin toss th...",
+      "summaryZh": "中文翻译：在过去的15场世界杯枪战中，有13场是由排名第二的球队赢得的。Opta Analyst在观看了120分钟的足球比赛后，您可能会发现没有看到投掷硬币......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Love and hate collide: England v Argentina is not simply a grudge match | Jonathan Liew",
+      "titleZh": "实时讨论：爱与恨的碰撞：英格兰对阿根廷不仅仅是一场怨恨比赛| Jonathan Liew",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 77,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Look beyond the flashpoints and flare-ups and perhaps this is the greatest and most romantic of footballing rivalries It’s about the ball, right up until the moment it isn’t. On Sunday after...",
+      "summaryZh": "中文翻译：超越闪点和爆发，也许这是最伟大、最浪漫的足球对抗。这是关于球，直到它不是。在周日之后……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/15/england-v-argentina-world-cup-2026-love-hate-grudge-match"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
+      "titleZh": "实时讨论：欧盟订购Meta以改变Instagram和Facebook的“成瘾设计”",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
+      "summaryZh": "中文翻译：欧盟当局表示，该公司使用“令人上瘾的设计”违反了数字安全法。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Didier Deschamps pays price for breaking free from the shackles that led him to glory | Jonathan Wilson",
+      "titleZh": "实时讨论：迪迪埃·德尚（ Didier Deschamps ）为摆脱带领他走向辉煌的枷锁付出了代价|乔纳森·威尔逊",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：France finally let loose all their attacking power in this tournament and yet when the big test came against Spain they were too open Maybe Didier Deschamps was right all along. He has been ...",
+      "summaryZh": "中文翻译：法国终于在这场比赛中放弃了所有的攻击力，但当对阵西班牙的重大考验来临时，他们太开放了，也许迪迪埃·德尚一直都是对的。他一直……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/14/didier-deschamps-france-spain-2026-world-cup-semi-final-dallas"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
+      "titleZh": "视觉热点：鼓励16岁和17岁的英国人遵守午夜社交媒体宵禁",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 91,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Midnight to 6am block on some apps is latest stage of Labour’s bid to protect young people from online harms Sixteen and 17-year-olds are to be encouraged to observe a midnight social media ...",
+      "summaryZh": "中文翻译：一些应用程序的午夜至早上6点街区是工党保护年轻人免受在线伤害的最新阶段。鼓励16岁和17岁的孩子观看午夜社交媒体......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -243,21 +243,26 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps",
-      "titleZh": "视觉热点：人工智能猎物：为什么看门狗告诉家长要保护儿童免受裸体应用程序的侵害",
+      "title": "视觉热点：Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
+      "titleZh": "视觉热点：诉讼声称， Meta使用人工智能来标记休假被解雇的工人",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
+      "heat": 89,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography UK parents warned over posting images of children amid AI sexual abuse f...",
-      "summaryZh": "中文翻译：随着成像工具变得越来越复杂，在线掠夺者正在使用儿童图像制作极端色情作品。英国父母警告说，在人工智能性虐待中张贴儿童图像。",
+      "summary": "公开来源显示该议题正在发酵：Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffs Dozens of Meta employees have sued the social media compa...",
+      "summaryZh": "中文翻译：数十名员工提起的诉讼称，休产假或残疾假的人被不成比例地选中进行裁员。数十名Meta员工起诉了社交媒体公司。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps"
+          "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit"
         }
       ],
       "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
@@ -267,62 +272,57 @@
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Alonso ‘optimistic’ he can thrive at Chelsea and avoid coaching carousel",
-      "titleZh": "视觉热点：阿隆索“乐观” ，他可以在切尔西茁壮成长，避免执教旋转木马",
+      "title": "视觉热点：Hilton fires employee who sent racist message via social media to Aces star Chelsea Gray",
+      "titleZh": "视觉热点：希尔顿解雇通过社交媒体向Aces球星Chelsea Gray发送种族主义信息的员工",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
+      "heat": 74,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Only time will tell if the former Leverkusen manager will become yet another victim of the constant churn at Stamford Bridge If Xabi Alonso arrived at Chelsea under any illusions about the e...",
-      "summaryZh": "中文翻译：只有时间才能证明这位前勒沃库森经理是否会成为斯坦福桥不断流失的另一个受害者如果Xabi Alonso在切尔西的任何幻想中来到这里......",
+      "summary": "公开来源显示该议题正在发酵：Hilton says employee violated company policy Gray shared racist message on Instagram Abuse follows threats against Alyssa Thomas Hilton Grand Vacations has fired an employee who sent a racia...",
+      "summaryZh": "中文翻译：希尔顿表示，在Alyssa Thomas Hilton Grand Vacations受到威胁后，员工违反了公司政策， Gray在Instagram上分享了种族主义信息。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/13/xabi-alonso-chelsea-premier-league"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/jul/15/hilton-grand-vacations-fires-employee-racist-message-chelsea-gray-las-vegas-aces-wnba"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won",
-      "titleZh": "短视频趋势：“这是一个正义的案例。“圣战”：对抗Meta和谷歌的律师–并赢得了",
+      "title": "短视频趋势：UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
+      "titleZh": "短视频趋势：鼓励16岁和17岁的英国人遵守午夜社交媒体宵禁",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 88,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：When Mark Lanier and his young client Kaley faced the tech giants in an LA courtroom earlier this year, it seemed a bigger battle than David v Goliath. But they scored a landmark victory, pr...",
-      "summaryZh": "中文翻译：今年早些时候，当马克·拉尼尔（ Mark Lanier ）和他的年轻客户凯利（ Kaley ）在洛杉矶的法庭上面对科技巨头时，这似乎比戴维（ David ）与歌利亚（ Goliath ）之间的战斗但他们取得了具有里程碑意义的胜利……",
+      "summary": "公开来源显示该议题正在发酵：Midnight to 6am block on some apps is latest stage of Labour’s bid to protect young people from online harms Sixteen and 17-year-olds are to be encouraged to observe a midnight social media ...",
+      "summaryZh": "中文翻译：一些应用程序的午夜至早上6点街区是工党保护年轻人免受在线伤害的最新阶段。鼓励16岁和17岁的孩子观看午夜社交媒体......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview"
+          "url": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew"
         }
       ],
       "accounts": [
@@ -332,14 +332,14 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -379,10 +379,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：Love and hate collide: England v Argentina is not simply a grudge match | Jonathan Liew",
+      "titleZh": "短视频趋势：爱与恨的碰撞：英格兰对阿根廷不仅仅是一场怨恨比赛| Jonathan Liew",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Look beyond the flashpoints and flare-ups and perhaps this is the greatest and most romantic of footballing rivalries It’s about the ball, right up until the moment it isn’t. On Sunday after...",
+      "summaryZh": "中文翻译：超越闪点和爆发，也许这是最伟大、最浪漫的足球对抗。这是关于球，直到它不是。在周日之后……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/15/england-v-argentina-world-cup-2026-love-hate-grudge-match"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
       "titleZh": "短视频趋势：欧盟订购Meta以改变Instagram和Facebook的“成瘾设计”",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
       "summaryZh": "中文翻译：欧盟当局表示，该公司使用“令人上瘾的设计”违反了数字安全法。",
@@ -395,121 +429,87 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Exit strategies: how and why 27% of World Cup coaches have left their jobs",
-      "titleZh": "短视频趋势：退出策略： 27%的世界杯教练离职的方式和原因",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 69,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown Sabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after Tunisia lost on penal...",
-      "summaryZh": "中文翻译：13名教练被解雇或离开了他们的国家队–这是一个完整的Sabri Lamouchi 1月14日被任命接替Sami Trabelsi突尼斯在罚球失利后...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：France unleashed: reinvention could earn Deschamps all-time great status",
-      "titleZh": "短视频趋势：法国解放：重塑可以赢得Deschamps有史以来的伟大地位",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Head coach has found a way to get the best out of his glittering attack and has a second World Cup in sight It was a night when, as Didier Deschamps put it, the light went out by half-time. ...",
-      "summaryZh": "中文翻译：主教练已经找到了一种方法来充分利用他闪闪发光的攻击，并即将举行第二届世界杯。正如Didier Deschamps所说，这是一个夜晚，灯光熄灭了半场。...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/13/france-didier-deschamps-kylian-mbappe-michael-olise-spain-world-cup-semi-final"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won",
-      "titleZh": "社区话题：“这是一个正义的案例。“圣战”：对抗Meta和谷歌的律师–并赢得了",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 89,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：When Mark Lanier and his young client Kaley faced the tech giants in an LA courtroom earlier this year, it seemed a bigger battle than David v Goliath. But they scored a landmark victory, pr...",
-      "summaryZh": "中文翻译：今年早些时候，当马克·拉尼尔（ Mark Lanier ）和他的年轻客户凯利（ Kaley ）在洛杉矶的法庭上面对科技巨头时，这似乎比戴维（ David ）与歌利亚（ Goliath ）之间的战斗但他们取得了具有里程碑意义的胜利……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
         },
         {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Didier Deschamps pays price for breaking free from the shackles that led him to glory | Jonathan Wilson",
+      "titleZh": "短视频趋势：迪迪埃·德尚（ Didier Deschamps ）为摆脱带领他走向辉煌的枷锁付出了代价|乔纳森·威尔逊",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 84,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：France finally let loose all their attacking power in this tournament and yet when the big test came against Spain they were too open Maybe Didier Deschamps was right all along. He has been ...",
+      "summaryZh": "中文翻译：法国终于在这场比赛中放弃了所有的攻击力，但当对阵西班牙的重大考验来临时，他们太开放了，也许迪迪埃·德尚一直都是对的。他一直……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/14/didier-deschamps-france-spain-2026-world-cup-semi-final-dallas"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
+      "titleZh": "社区话题：鼓励16岁和17岁的英国人遵守午夜社交媒体宵禁",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Midnight to 6am block on some apps is latest stage of Labour’s bid to protect young people from online harms Sixteen and 17-year-olds are to be encouraged to observe a midnight social media ...",
+      "summaryZh": "中文翻译：一些应用程序的午夜至早上6点街区是工党保护年轻人免受在线伤害的最新阶段。鼓励16岁和17岁的孩子观看午夜社交媒体......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -549,10 +549,44 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：Love and hate collide: England v Argentina is not simply a grudge match | Jonathan Liew",
+      "titleZh": "社区话题：爱与恨的碰撞：英格兰对阿根廷不仅仅是一场怨恨比赛| Jonathan Liew",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Look beyond the flashpoints and flare-ups and perhaps this is the greatest and most romantic of footballing rivalries It’s about the ball, right up until the moment it isn’t. On Sunday after...",
+      "summaryZh": "中文翻译：超越闪点和爆发，也许这是最伟大、最浪漫的足球对抗。这是关于球，直到它不是。在周日之后……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/15/england-v-argentina-world-cup-2026-love-hate-grudge-match"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
       "titleZh": "社区话题：欧盟订购Meta以改变Instagram和Facebook的“成瘾设计”",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 85,
+      "heat": 83,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
       "summaryZh": "中文翻译：欧盟当局表示，该公司使用“令人上瘾的设计”违反了数字安全法。",
@@ -565,11 +599,6 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
@@ -578,46 +607,27 @@
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Exit strategies: how and why 27% of World Cup coaches have left their jobs",
-      "titleZh": "社区话题：退出策略： 27%的世界杯教练离职的方式和原因",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown Sabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after Tunisia lost on penal...",
-      "summaryZh": "中文翻译：13名教练被解雇或离开了他们的国家队–这是一个完整的Sabri Lamouchi 1月14日被任命接替Sami Trabelsi突尼斯在罚球失利后...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     }
   ],
   "audienceMap": {
+    "实时讨论：UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Going first in a penalty shootout gives teams an advantage … or does it?": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Love and hate collide: England v Argentina is not simply a grudge match | Jonathan Liew": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -627,22 +637,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Exit strategies: how and why 27% of World Cup coaches have left their jobs": {
+    "实时讨论：Didier Deschamps pays price for breaking free from the shackles that led him to glory | Jonathan Wilson": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：France unleashed: reinvention could earn Deschamps all-time great status": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won": {
+    "视觉热点：UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -652,17 +652,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps": {
+    "视觉热点：Meta used AI to tag workers who took leave to be laid off, lawsuit claims": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Alonso ‘optimistic’ he can thrive at Chelsea and avoid coaching carousel": {
+    "视觉热点：Hilton fires employee who sent racist message via social media to Aces star Chelsea Gray": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won": {
+    "短视频趋势：UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -672,22 +672,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Love and hate collide: England v Argentina is not simply a grudge match | Jonathan Liew": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "短视频趋势：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Exit strategies: how and why 27% of World Cup coaches have left their jobs": {
+    "短视频趋势：Didier Deschamps pays price for breaking free from the shackles that led him to glory | Jonathan Wilson": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：France unleashed: reinvention could earn Deschamps all-time great status": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "社区话题：‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won": {
+    "社区话题：UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -697,12 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook": {
+    "社区话题：Love and hate collide: England v Argentina is not simply a grudge match | Jonathan Liew": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Exit strategies: how and why 27% of World Cup coaches have left their jobs": {
+    "社区话题：Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
