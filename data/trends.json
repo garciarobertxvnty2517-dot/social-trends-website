@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T07:18:43.996241+00:00",
-  "generatedAtBeijing": "2026-07-18 15:18",
+  "generatedAt": "2026-07-19T09:17:25.660997+00:00",
+  "generatedAtBeijing": "2026-07-19 17:17",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -107,18 +107,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：World Cup of memes: Japan fans, Beckham unbothered and a simmering bromance",
-      "titleZh": "实时讨论：迷因世界杯：日本球迷、无忧无虑的贝克汉姆和酝酿中的兄弟情谊",
+      "title": "实时讨论：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage",
+      "titleZh": "实时讨论：Goooool v目标：英语使用者涌向Telemundo ，热闹地报道世界杯",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
+      "heat": 71,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：A tournament with more teams and more games has been filled with euphoria, heartbreak, and these weird and wonderful viral moments As a Japanese supporter exclaimed to a television camera, “...",
-      "summaryZh": "中文翻译：一场有更多球队和更多比赛的比赛充满了兴奋、心碎和这些奇怪而美妙的病毒时刻。一位日本支持者对电视摄像机喊道： “……",
+      "summary": "公开来源显示该议题正在发酵：The Spanish-language broadcaster has won over millions of US viewers with its energetic commentary during games Soccer fans looking to watch the 2026 World Cup on US television have been pre...",
+      "summaryZh": "中文翻译：这家西班牙语广播公司凭借其在比赛期间的精力充沛的评论赢得了数百万美国观众。足球迷希望在美国电视上观看2026年世界杯。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers"
         }
       ],
       "accounts": [
@@ -128,6 +128,35 @@
           "why": "战术拆解和长图文表达"
         },
         {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
+      "titleZh": "实时讨论：因凡蒂诺与特朗普的浮士德式交易已经玷污了足球最大的舞台",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility Ever since the United States won the r...",
+      "summaryZh": "中文翻译：国际足联主席向美国领导人寻求影响力。相反，国际足联主席将足球与政治纠缠在一起，损害了比赛的可信度自从美国赢得比赛以来……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
@@ -136,23 +165,28 @@
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
-      "platform": "x",
-      "title": "实时讨论：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage",
-      "titleZh": "实时讨论：Goooool v目标：英语使用者涌向Telemundo ，热闹地报道世界杯",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 69,
+      "platform": "instagram",
+      "title": "视觉热点：The summer of the underdog: why outsiders are the most compelling sights in sport | Natalie Tan",
+      "titleZh": "视觉热点：失败者的夏天：为什么局外人是体育运动中最引人注目的景点| Natalie Tan",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 91,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The Spanish-language broadcaster has won over millions of US viewers with its energetic commentary during games Soccer fans looking to watch the 2026 World Cup on US television have been pre...",
-      "summaryZh": "中文翻译：这家西班牙语广播公司凭借其在比赛期间的精力充沛的评论赢得了数百万美国观众。足球迷希望在美国电视上观看2026年世界杯。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "summary": "公开来源显示该议题正在发酵：Thanks to Arthur Fery, Maja Chwalinska and Cape Verde, we have been blessed with a glut of unexpected stories of late “Where has he been?” Gary Neville said of Vozinha, the Cape Verde goalke...",
+      "summaryZh": "中文翻译：多亏了Arthur Fery、Maja Chwalinska和佛得角，我们最近有幸听到了一大堆意想不到的故事： “他去哪儿了？“加里·内维尔谈到佛得角门将沃齐尼亚……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers"
+          "url": "https://www.theguardian.com/sport/2026/jul/17/the-summer-of-the-underdog-why-outsiders-are-the-most-compelling-sights-in-sport"
         }
       ],
       "accounts": [
@@ -162,9 +196,9 @@
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -178,7 +212,7 @@
       "title": "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps",
       "titleZh": "视觉热点：人工智能猎物：为什么看门狗告诉家长要保护儿童免受裸体应用程序的侵害",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 80,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography UK parents warned over posting images of children amid AI sexual abuse f...",
       "summaryZh": "中文翻译：随着成像工具变得越来越复杂，在线掠夺者正在使用儿童图像制作极端色情作品。英国父母警告说，在人工智能性虐待中张贴儿童图像。",
@@ -191,14 +225,14 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@Ivy_Dinma",
@@ -212,7 +246,7 @@
       "title": "视觉热点：‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream?",
       "titleZh": "视觉热点：“对抗性服装” ：服装是否旨在混淆即将成为主流的面部识别系统？",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
+      "heat": 74,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Designers say that as well as offering a degree of protection from surveillance, their clothes make a powerful fashion statement about the importance of privacy As facial recognition technol...",
       "summaryZh": "中文翻译：设计师说，除了提供某种程度的保护免受监控之外，他们的衣服还对隐私的重要性做出了强有力的时尚陈述。面部识别技术……",
@@ -225,19 +259,19 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -246,7 +280,7 @@
       "title": "视觉热点：Can AI equalize political campaign ads – or will it remain a tool for spreading lies?",
       "titleZh": "视觉热点：人工智能是否可以平衡政治竞选广告，或者它仍然是传播谎言的工具？",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
+      "heat": 74,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Political campaigns are increasingly deploying AI and deepfakes to further their messaging, and the scale of spread has experts concerned From the comfort of his bed, Jonathan Rinaldi, a pol...",
       "summaryZh": "中文翻译：政治运动越来越多地部署人工智能和deepfakes来进一步传播信息，传播的规模让专家们感到担忧从舒适的床上，政治家乔纳森·里纳尔迪（ Jonathan Rinaldi ） ……",
@@ -259,53 +293,19 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Fox’s US World Cup summer: wild mispronunciations, Corden’s sad beers and Lowe’s excellence",
-      "titleZh": "视觉热点：福克斯的美国世界杯夏天：疯狂的错误发音，科登的悲伤啤酒和劳的卓越",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The broadcaster’s tournament coverage was a mix of flat and fizz. It could also have been a long farewell with World Cup rights up for grabs Goodbye, then, to Fox, to its band of upbeat Brit...",
-      "summaryZh": "中文翻译：广播公司的比赛覆盖面是平坦和起泡的混合体。它也可能是一个漫长的告别与世界杯权利抓住再见,然后,福克斯,乐观的英国乐队…",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -413,69 +413,103 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：World Cup of memes: Japan fans, Beckham unbothered and a simmering bromance",
-      "titleZh": "短视频趋势：迷因世界杯：日本球迷、无忧无虑的贝克汉姆和酝酿中的兄弟情谊",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：A tournament with more teams and more games has been filled with euphoria, heartbreak, and these weird and wonderful viral moments As a Japanese supporter exclaimed to a television camera, “...",
-      "summaryZh": "中文翻译：一场有更多球队和更多比赛的比赛充满了兴奋、心碎和这些奇怪而美妙的病毒时刻。一位日本支持者对电视摄像机喊道： “……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage",
       "titleZh": "短视频趋势：Goooool v目标：英语使用者涌向Telemundo ，热闹地报道世界杯",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
+      "heat": 75,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：The Spanish-language broadcaster has won over millions of US viewers with its energetic commentary during games Soccer fans looking to watch the 2026 World Cup on US television have been pre...",
       "summaryZh": "中文翻译：这家西班牙语广播公司凭借其在比赛期间的精力充沛的评论赢得了数百万美国观众。足球迷希望在美国电视上观看2026年世界杯。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Sport",
+          "label": "Guardian Technology",
           "url": "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers"
         }
       ],
       "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
+      "titleZh": "短视频趋势：因凡蒂诺与特朗普的浮士德式交易已经玷污了足球最大的舞台",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility Ever since the United States won the r...",
+      "summaryZh": "中文翻译：国际足联主席向美国领导人寻求影响力。相反，国际足联主席将足球与政治纠缠在一起，损害了比赛的可信度自从美国赢得比赛以来……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says",
+      "titleZh": "社区话题：美国参议员说， Meta试图摧毁举报人Sarah Wynn-Williams",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Republican Josh Hawley accuses Mark Zuckerberg’s firm of relentlessly pursuing and attempting to bankrupt her A US senator has accused Meta of using lawfare in “efforts to destroy” a whistle...",
+      "summaryZh": "中文翻译：共和党人乔什·霍利（ Josh Hawley ）指责马克·扎克伯格（ Mark Zuckerberg ）的公司无情地追求并试图让她破产。一位美国参议员指责梅塔（ Meta ）利用法律“努力摧毁”口哨......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -484,7 +518,7 @@
       "title": "社区话题：The social media ban sceptic: are we getting it wrong on kids, tech and mental health?",
       "titleZh": "社区话题：社交媒体禁令持怀疑态度：我们在孩子、科技和心理健康方面弄错了吗？",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 80,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Psychologist Candice Odgers has studied adolescent mental health for 25 years. She fears the current debate around smartphones obscures some of the biggest issues facing teenagers – from the...",
       "summaryZh": "中文翻译：心理学家Candice Odgers研究青少年心理健康已有25年。她担心目前围绕智能手机的争论掩盖了青少年面临的一些最大问题--从...",
@@ -497,11 +531,6 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
@@ -510,6 +539,11 @@
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -518,7 +552,7 @@
       "title": "社区话题：Heartbreak for England, again | World Cup Daily – video",
       "titleZh": "社区话题：英格兰再次心碎|世界杯日报–视频",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 78,
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin , Jonathan Wilson and Nicky Bandini as England lose 2-1 to Argentina in the World Cup semi-finals Continue reading...",
       "summaryZh": "中文翻译：Max Rushden与Barry Glendenning ， John Brewin ， Jonathan Wilson和Nicky Bandini一起在世界杯半决赛中英格兰队以2-1输给阿根廷队。继续阅读...",
@@ -531,45 +565,6 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage",
-      "titleZh": "社区话题：Goooool v目标：英语使用者涌向Telemundo ，热闹地报道世界杯",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The Spanish-language broadcaster has won over millions of US viewers with its energetic commentary during games Soccer fans looking to watch the 2026 World Cup on US television have been pre...",
-      "summaryZh": "中文翻译：这家西班牙语广播公司凭借其在比赛期间的精力充沛的评论赢得了数百万美国观众。足球迷希望在美国电视上观看2026年世界杯。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
@@ -578,40 +573,45 @@
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：AI prey: why watchdogs are telling parents to protect children from nudification apps",
-      "titleZh": "社区话题：人工智能猎物：为什么看门狗告诉家长要保护儿童免受裸体应用程序的侵害",
+      "title": "社区话题：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage",
+      "titleZh": "社区话题：Goooool v目标：英语使用者涌向Telemundo ，热闹地报道世界杯",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography UK parents warned over posting images of children amid AI sexual abuse f...",
-      "summaryZh": "中文翻译：随着成像工具变得越来越复杂，在线掠夺者正在使用儿童图像制作极端色情作品。英国父母警告说，在人工智能性虐待中张贴儿童图像。",
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The Spanish-language broadcaster has won over millions of US viewers with its energetic commentary during games Soccer fans looking to watch the 2026 World Cup on US television have been pre...",
+      "summaryZh": "中文翻译：这家西班牙语广播公司凭借其在比赛期间的精力充沛的评论赢得了数百万美国观众。足球迷希望在美国电视上观看2026年世界杯。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps"
+          "url": "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     }
@@ -632,15 +632,20 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：World Cup of memes: Japan fans, Beckham unbothered and a simmering bromance": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Infantino’s Faustian bargain with Trump has stained football’s biggest stage": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "视觉热点：The summer of the underdog: why outsiders are the most compelling sights in sport | Natalie Tan": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
@@ -653,11 +658,6 @@
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：Can AI equalize political campaign ads – or will it remain a tool for spreading lies?": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Fox’s US World Cup summer: wild mispronunciations, Corden’s sad beers and Lowe’s excellence": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -677,15 +677,20 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：World Cup of memes: Japan fans, Beckham unbothered and a simmering bromance": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Infantino’s Faustian bargain with Trump has stained football’s biggest stage": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "社区话题：Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：The social media ban sceptic: are we getting it wrong on kids, tech and mental health?": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
@@ -698,11 +703,6 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：AI prey: why watchdogs are telling parents to protect children from nudification apps": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
