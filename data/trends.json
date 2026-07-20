@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-07-19T09:17:25.660997+00:00",
-  "generatedAtBeijing": "2026-07-19 17:17",
+  "generatedAt": "2026-07-20T11:30:50.753314+00:00",
+  "generatedAtBeijing": "2026-07-20 19:30",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：Didier Deschamps pays price for breaking free from the shackles that led him to glory | Jonathan Wilson",
-      "titleZh": "实时讨论：迪迪埃·德尚（ Didier Deschamps ）为摆脱带领他走向辉煌的枷锁付出了代价|乔纳森·威尔逊",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 91,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：France finally let loose all their attacking power in this tournament and yet when the big test came against Spain they were too open Maybe Didier Deschamps was right all along. He has been ...",
-      "summaryZh": "中文翻译：法国终于在这场比赛中放弃了所有的攻击力，但当对阵西班牙的重大考验来临时，他们太开放了，也许迪迪埃·德尚一直都是对的。他一直……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/14/didier-deschamps-france-spain-2026-world-cup-semi-final-dallas"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：The social media ban sceptic: are we getting it wrong on kids, tech and mental health?",
       "titleZh": "实时讨论：社交媒体禁令持怀疑态度：我们在孩子、科技和心理健康方面弄错了吗？",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
+      "heat": 80,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Psychologist Candice Odgers has studied adolescent mental health for 25 years. She fears the current debate around smartphones obscures some of the biggest issues facing teenagers – from the...",
       "summaryZh": "中文翻译：心理学家Candice Odgers研究青少年心理健康已有25年。她担心目前围绕智能手机的争论掩盖了青少年面临的一些最大问题--从...",
@@ -55,9 +21,9 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@exploraX_",
@@ -65,145 +31,179 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Heartbreak for England, again | World Cup Daily – video",
-      "titleZh": "实时讨论：英格兰再次心碎|世界杯日报–视频",
+      "title": "实时讨论：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
+      "titleZh": "实时讨论：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 83,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin , Jonathan Wilson and Nicky Bandini as England lose 2-1 to Argentina in the World Cup semi-finals Continue reading...",
-      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning ， John Brewin ， Jonathan Wilson和Nicky Bandini一起在世界杯半决赛中英格兰队以2-1输给阿根廷队。继续阅读...",
+      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
+      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/16/heartbreak-for-england-again-world-cup-daily-video"
+          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
         }
       ],
       "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：England take India ODI series after Duckett’s ton and Bethell’s brilliant star turn",
+      "titleZh": "实时讨论：在Duckett的吨级和Bethell的辉煌明星转身之后，英格兰采取印度ODI系列",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：3rd ODI: England, 387-3, bt India, 360-7, by 27 runs Rohit Sharma hits searing century but India fall short After a cascade of wickets during the much-criticised Test here six weeks ago came...",
+      "summaryZh": "中文翻译：第三个ODI ：英格兰， 387-3 ，印度， 360-7 ，由27运行Rohit Sharma命中灼热的世纪，但印度落后六周前在这里备受批评的测试期间出现了一连串的小门......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/jul/19/england-take-india-odi-series-after-ducketts-ton-and-bethells-brilliant-star-turn"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage",
-      "titleZh": "实时讨论：Goooool v目标：英语使用者涌向Telemundo ，热闹地报道世界杯",
+      "title": "实时讨论：Spain are world champions - World Cup Daily",
+      "titleZh": "实时讨论：西班牙是世界冠军-每日世界杯",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 71,
+      "heat": 81,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The Spanish-language broadcaster has won over millions of US viewers with its energetic commentary during games Soccer fans looking to watch the 2026 World Cup on US television have been pre...",
-      "summaryZh": "中文翻译：这家西班牙语广播公司凭借其在比赛期间的精力充沛的评论赢得了数百万美国观众。足球迷希望在美国电视上观看2026年世界杯。",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup. Rate, review, share on Apple Podcasts and join the conversation on ema...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、约翰·布鲁因（ John Brewin ）、乔纳森·威尔逊（ Jonathan Wilson ）和希德在Apple Podcast上评分、评论、分享，并在ema上加入对话……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Experts warn of rise in sadistic online exploitation of vulnerable children",
+      "titleZh": "实时讨论：专家警告说，对弱势儿童的虐待性在线剥削有所增加",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos...",
+      "summaryZh": "中文翻译：全球掠夺者强迫儿童伤害自己或制作儿童性虐待材料的案例增加掠夺者强迫儿童制作性照片和视频的案例...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers"
+          "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-      "titleZh": "实时讨论：因凡蒂诺与特朗普的浮士德式交易已经玷污了足球最大的舞台",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility Ever since the United States won the r...",
-      "summaryZh": "中文翻译：国际足联主席向美国领导人寻求影响力。相反，国际足联主席将足球与政治纠缠在一起，损害了比赛的可信度自从美国赢得比赛以来……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：The summer of the underdog: why outsiders are the most compelling sights in sport | Natalie Tan",
-      "titleZh": "视觉热点：失败者的夏天：为什么局外人是体育运动中最引人注目的景点| Natalie Tan",
+      "title": "视觉热点：Experts warn of rise in sadistic online exploitation of vulnerable children",
+      "titleZh": "视觉热点：专家警告说，对弱势儿童的虐待性在线剥削有所增加",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 91,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Thanks to Arthur Fery, Maja Chwalinska and Cape Verde, we have been blessed with a glut of unexpected stories of late “Where has he been?” Gary Neville said of Vozinha, the Cape Verde goalke...",
-      "summaryZh": "中文翻译：多亏了Arthur Fery、Maja Chwalinska和佛得角，我们最近有幸听到了一大堆意想不到的故事： “他去哪儿了？“加里·内维尔谈到佛得角门将沃齐尼亚……",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos...",
+      "summaryZh": "中文翻译：全球掠夺者强迫儿童伤害自己或制作儿童性虐待材料的案例增加掠夺者强迫儿童制作性照片和视频的案例...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/jul/17/the-summer-of-the-underdog-why-outsiders-are-the-most-compelling-sights-in-sport"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
         }
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -259,78 +259,39 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Can AI equalize political campaign ads – or will it remain a tool for spreading lies?",
-      "titleZh": "视觉热点：人工智能是否可以平衡政治竞选广告，或者它仍然是传播谎言的工具？",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Political campaigns are increasingly deploying AI and deepfakes to further their messaging, and the scale of spread has experts concerned From the comfort of his bed, Jonathan Rinaldi, a pol...",
-      "summaryZh": "中文翻译：政治运动越来越多地部署人工智能和deepfakes来进一步传播信息，传播的规模让专家们感到担忧从舒适的床上，政治家乔纳森·里纳尔迪（ Jonathan Rinaldi ） ……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：Didier Deschamps pays price for breaking free from the shackles that led him to glory | Jonathan Wilson",
-      "titleZh": "短视频趋势：迪迪埃·德尚（ Didier Deschamps ）为摆脱带领他走向辉煌的枷锁付出了代价|乔纳森·威尔逊",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 92,
+      "platform": "instagram",
+      "title": "视觉热点：Trump show offers fitting fever-dream end to a World Cup of excess and damage",
+      "titleZh": "视觉热点：特朗普秀为世界杯的过剩和破坏提供了合适的发烧-梦想的结束",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 73,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：France finally let loose all their attacking power in this tournament and yet when the big test came against Spain they were too open Maybe Didier Deschamps was right all along. He has been ...",
-      "summaryZh": "中文翻译：法国终于在这场比赛中放弃了所有的攻击力，但当对阵西班牙的重大考验来临时，他们太开放了，也许迪迪埃·德尚一直都是对的。他一直……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "summary": "公开来源显示该议题正在发酵：Football appeared a sideshow for much of the last afternoon of a tournament nurtured to indulge the cult of the individual It ended almost as Gianni Infantino and Donald Trump had planned. E...",
+      "summaryZh": "中文翻译：足球出现在比赛的最后一个下午的大部分时间里，旨在放纵对个人的崇拜。它几乎按照詹尼·因凡蒂诺（ Gianni Infantino ）和唐纳德·特朗普（ Donald Trump ）的计划结束了。E...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/14/didier-deschamps-france-spain-2026-world-cup-semi-final-dallas"
+          "url": "https://www.theguardian.com/football/2026/jul/20/donald-trump-world-cup-excess-damage-football"
         }
       ],
       "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
         {
           "name": "@goalflexo",
           "followers": "约2万",
@@ -340,6 +301,11 @@
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -348,7 +314,7 @@
       "title": "短视频趋势：The social media ban sceptic: are we getting it wrong on kids, tech and mental health?",
       "titleZh": "短视频趋势：社交媒体禁令持怀疑态度：我们在孩子、科技和心理健康方面弄错了吗？",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 90,
+      "heat": 92,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Psychologist Candice Odgers has studied adolescent mental health for 25 years. She fears the current debate around smartphones obscures some of the biggest issues facing teenagers – from the...",
       "summaryZh": "中文翻译：心理学家Candice Odgers研究青少年心理健康已有25年。她担心目前围绕智能手机的争论掩盖了青少年面临的一些最大问题--从...",
@@ -361,9 +327,9 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@marcinteodoru",
@@ -371,29 +337,68 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Heartbreak for England, again | World Cup Daily – video",
-      "titleZh": "短视频趋势：英格兰再次心碎|世界杯日报–视频",
+      "title": "短视频趋势：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
+      "titleZh": "短视频趋势：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
+      "heat": 72,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin , Jonathan Wilson and Nicky Bandini as England lose 2-1 to Argentina in the World Cup semi-finals Continue reading...",
-      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning ， John Brewin ， Jonathan Wilson和Nicky Bandini一起在世界杯半决赛中英格兰队以2-1输给阿根廷队。继续阅读...",
+      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
+      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/16/heartbreak-for-england-again-world-cup-daily-video"
+          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
         }
       ],
       "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：England take India ODI series after Duckett’s ton and Bethell’s brilliant star turn",
+      "titleZh": "短视频趋势：在Duckett的吨级和Bethell的辉煌明星转身之后，英格兰采取印度ODI系列",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：3rd ODI: England, 387-3, bt India, 360-7, by 27 runs Rohit Sharma hits searing century but India fall short After a cascade of wickets during the much-criticised Test here six weeks ago came...",
+      "summaryZh": "中文翻译：第三个ODI ：英格兰， 387-3 ，印度， 360-7 ，由27运行Rohit Sharma命中灼热的世纪，但印度落后六周前在这里备受批评的测试期间出现了一连串的小门......",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/jul/19/england-take-india-odi-series-after-ducketts-ton-and-bethells-brilliant-star-turn"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
         {
           "name": "@marfawe",
           "followers": "约2万",
@@ -403,35 +408,30 @@
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage",
-      "titleZh": "短视频趋势：Goooool v目标：英语使用者涌向Telemundo ，热闹地报道世界杯",
+      "title": "短视频趋势：Spain are world champions - World Cup Daily",
+      "titleZh": "短视频趋势：西班牙是世界冠军-每日世界杯",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
+      "heat": 74,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The Spanish-language broadcaster has won over millions of US viewers with its energetic commentary during games Soccer fans looking to watch the 2026 World Cup on US television have been pre...",
-      "summaryZh": "中文翻译：这家西班牙语广播公司凭借其在比赛期间的精力充沛的评论赢得了数百万美国观众。足球迷希望在美国电视上观看2026年世界杯。",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup. Rate, review, share on Apple Podcasts and join the conversation on ema...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、约翰·布鲁因（ John Brewin ）、乔纳森·威尔逊（ Jonathan Wilson ）和希德在Apple Podcast上评分、评论、分享，并在ema上加入对话……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@TacticsJournal",
@@ -439,60 +439,26 @@
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-      "titleZh": "短视频趋势：因凡蒂诺与特朗普的浮士德式交易已经玷污了足球最大的舞台",
+      "title": "短视频趋势：Experts warn of rise in sadistic online exploitation of vulnerable children",
+      "titleZh": "短视频趋势：专家警告说，对弱势儿童的虐待性在线剥削有所增加",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
+      "heat": 79,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility Ever since the United States won the r...",
-      "summaryZh": "中文翻译：国际足联主席向美国领导人寻求影响力。相反，国际足联主席将足球与政治纠缠在一起，损害了比赛的可信度自从美国赢得比赛以来……",
+      "summary": "公开来源显示该议题正在发酵：Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos...",
+      "summaryZh": "中文翻译：全球掠夺者强迫儿童伤害自己或制作儿童性虐待材料的案例增加掠夺者强迫儿童制作性照片和视频的案例...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says",
-      "titleZh": "社区话题：美国参议员说， Meta试图摧毁举报人Sarah Wynn-Williams",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Republican Josh Hawley accuses Mark Zuckerberg’s firm of relentlessly pursuing and attempting to bankrupt her A US senator has accused Meta of using lawfare in “efforts to destroy” a whistle...",
-      "summaryZh": "中文翻译：共和党人乔什·霍利（ Josh Hawley ）指责马克·扎克伯格（ Mark Zuckerberg ）的公司无情地追求并试图让她破产。一位美国参议员指责梅塔（ Meta ）利用法律“努力摧毁”口哨......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley"
+          "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
         }
       ],
       "accounts": [
@@ -518,7 +484,7 @@
       "title": "社区话题：The social media ban sceptic: are we getting it wrong on kids, tech and mental health?",
       "titleZh": "社区话题：社交媒体禁令持怀疑态度：我们在孩子、科技和心理健康方面弄错了吗？",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 78,
+      "heat": 80,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Psychologist Candice Odgers has studied adolescent mental health for 25 years. She fears the current debate around smartphones obscures some of the biggest issues facing teenagers – from the...",
       "summaryZh": "中文翻译：心理学家Candice Odgers研究青少年心理健康已有25年。她担心目前围绕智能手机的争论掩盖了青少年面临的一些最大问题--从...",
@@ -531,6 +497,11 @@
       ],
       "accounts": [
         {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
@@ -539,35 +510,30 @@
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Heartbreak for England, again | World Cup Daily – video",
-      "titleZh": "社区话题：英格兰再次心碎|世界杯日报–视频",
+      "title": "社区话题：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
+      "titleZh": "社区话题：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
+      "heat": 87,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin , Jonathan Wilson and Nicky Bandini as England lose 2-1 to Argentina in the World Cup semi-finals Continue reading...",
-      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning ， John Brewin ， Jonathan Wilson和Nicky Bandini一起在世界杯半决赛中英格兰队以2-1输给阿根廷队。继续阅读...",
+      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
+      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/16/heartbreak-for-england-again-world-cup-daily-video"
+          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@igoeLFC",
@@ -575,9 +541,43 @@
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Experts warn of rise in sadistic online exploitation of vulnerable children",
+      "titleZh": "社区话题：专家警告说，对弱势儿童的虐待性在线剥削有所增加",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 70,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos...",
+      "summaryZh": "中文翻译：全球掠夺者强迫儿童伤害自己或制作儿童性虐待材料的案例增加掠夺者强迫儿童制作性照片和视频的案例...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -617,32 +617,32 @@
     }
   ],
   "audienceMap": {
-    "实时讨论：Didier Deschamps pays price for breaking free from the shackles that led him to glory | Jonathan Wilson": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：The social media ban sceptic: are we getting it wrong on kids, tech and mental health?": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Heartbreak for England, again | World Cup Daily – video": {
+    "实时讨论：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage": {
+    "实时讨论：England take India ODI series after Duckett’s ton and Bethell’s brilliant star turn": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Infantino’s Faustian bargain with Trump has stained football’s biggest stage": {
+    "实时讨论：Spain are world champions - World Cup Daily": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：The summer of the underdog: why outsiders are the most compelling sights in sport | Natalie Tan": {
+    "实时讨论：Experts warn of rise in sadistic online exploitation of vulnerable children": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "视觉热点：Experts warn of rise in sadistic online exploitation of vulnerable children": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,47 +657,47 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Can AI equalize political campaign ads – or will it remain a tool for spreading lies?": {
+    "视觉热点：Trump show offers fitting fever-dream end to a World Cup of excess and damage": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "短视频趋势：Didier Deschamps pays price for breaking free from the shackles that led him to glory | Jonathan Wilson": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：The social media ban sceptic: are we getting it wrong on kids, tech and mental health?": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Heartbreak for England, again | World Cup Daily – video": {
+    "短视频趋势：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Goooool v goal: English speakers flock to Telemundo for lively World Cup coverage": {
+    "短视频趋势：England take India ODI series after Duckett’s ton and Bethell’s brilliant star turn": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Infantino’s Faustian bargain with Trump has stained football’s biggest stage": {
+    "短视频趋势：Spain are world champions - World Cup Daily": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Experts warn of rise in sadistic online exploitation of vulnerable children": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "社区话题：The social media ban sceptic: are we getting it wrong on kids, tech and mental health?": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Heartbreak for England, again | World Cup Daily – video": {
+    "社区话题：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Experts warn of rise in sadistic online exploitation of vulnerable children": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
