@@ -1,56 +1,22 @@
 {
-  "generatedAt": "2026-07-21T10:09:42.001428+00:00",
-  "generatedAtBeijing": "2026-07-21 18:09",
+  "generatedAt": "2026-07-22T10:08:44.288003+00:00",
+  "generatedAtBeijing": "2026-07-22 18:08",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：A pioneer and a superstar, Kevin Keegan’s achievements were extraordinary",
-      "titleZh": "实时讨论：作为一名先驱和超级巨星，凯文·基根的成就非同寻常",
+      "title": "实时讨论：Headaches for Silicon Valley as China chips away at the US’s lead in the AI race",
+      "titleZh": "实时讨论：随着中国削弱美国在人工智能竞赛中的领先地位，硅谷头疼",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The former England manager may be remembered by many for his ‘I’d love it’ rant in 1996, but that should not obscure the remarkable nature of his football career Kevin Keegan, who has died a...",
-      "summaryZh": "中文翻译：这位前英格兰主教练在1996年的“我爱它”咆哮可能会被许多人铭记，但这不应该掩盖他的足球生涯凯文·基根（ Kevin Keegan ）的非凡本质。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-tribute-pioneer-superstar-liverpool-newcastle-hamburg-england"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
-      "titleZh": "实时讨论：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 83,
+      "heat": 85,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
-      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
+      "summary": "公开来源显示该议题正在发酵：Google’s AI struggles scream trouble as new Chinese models (again) throw US tech dominance into question Hello, I’m Blake Montgomery, writing to you after a double-header feature of Christop...",
+      "summaryZh": "中文翻译：谷歌的人工智能挣扎尖叫麻烦，因为新的中国模式（再次）使美国技术主导地位受到质疑您好，我是Blake Montgomery ，在Christop的双标题功能之后写信给你......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/20/china-google-ai-race"
         }
       ],
       "accounts": [
@@ -73,35 +39,103 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Experts warn of rise in sadistic online exploitation of vulnerable children",
-      "titleZh": "实时讨论：专家警告说，对弱势儿童的虐待性在线剥削有所增加",
+      "title": "实时讨论：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+      "titleZh": "实时讨论：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
+      "heat": 79,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos...",
-      "summaryZh": "中文翻译：全球掠夺者强迫儿童伤害自己或制作儿童性虐待材料的案例增加掠夺者强迫儿童制作性照片和视频的案例...",
+      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
         }
       ],
       "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
+      "titleZh": "实时讨论：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
+      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@exploraX_",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign",
+      "titleZh": "实时讨论：“夺回足球” ：塞普·布拉特（ Sepp Blatter ）加入西甲联赛主席，呼吁詹尼·因凡蒂诺（ Gianni Infantino ）辞职",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 84,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Blatter attacks successor as Fifa president Javier Tebas says system is ‘rotten at its core’ The Fifa president, Gianni Infantino, has come in for heavy criticism from his predecessor, Sepp ...",
+      "summaryZh": "中文翻译：布拉特袭击了继任者，因为国际足联主席哈维尔·特巴斯（ Javier Tebas ）表示系统“核心腐烂”国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）受到了他的前任塞普（ Sepp ）的严厉批评...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -110,7 +144,7 @@
       "title": "实时讨论：Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
       "titleZh": "实时讨论：因凡蒂诺与特朗普的浮士德式交易已经玷污了足球最大的舞台",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility Ever since the United States won the r...",
       "summaryZh": "中文翻译：国际足联主席向美国领导人寻求影响力。相反，国际足联主席将足球与政治纠缠在一起，损害了比赛的可信度自从美国赢得比赛以来……",
@@ -123,77 +157,43 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Spain are world champions | World Cup Daily",
-      "titleZh": "实时讨论：西班牙是世界冠军|每日世界杯",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup. Continue reading...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、约翰·布鲁因（ John Brewin ）、乔纳森·威尔逊（ Jonathan Wilson ）和希德·洛（ S",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/20/spain-are-world-champions-world-cup-daily"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Experts warn of rise in sadistic online exploitation of vulnerable children",
-      "titleZh": "视觉热点：专家警告说，对弱势儿童的虐待性在线剥削有所增加",
+      "title": "视觉热点：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+      "titleZh": "视觉热点：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
+      "heat": 89,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos...",
-      "summaryZh": "中文翻译：全球掠夺者强迫儿童伤害自己或制作儿童性虐待材料的案例增加掠夺者强迫儿童制作性照片和视频的案例...",
+      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@lifeof_scoop",
@@ -201,9 +201,9 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -311,25 +311,25 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：A pioneer and a superstar, Kevin Keegan’s achievements were extraordinary",
-      "titleZh": "短视频趋势：作为一名先驱和超级巨星，凯文·基根的成就非同寻常",
+      "title": "短视频趋势：Headaches for Silicon Valley as China chips away at the US’s lead in the AI race",
+      "titleZh": "短视频趋势：随着中国削弱美国在人工智能竞赛中的领先地位，硅谷头疼",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The former England manager may be remembered by many for his ‘I’d love it’ rant in 1996, but that should not obscure the remarkable nature of his football career Kevin Keegan, who has died a...",
-      "summaryZh": "中文翻译：这位前英格兰主教练在1996年的“我爱它”咆哮可能会被许多人铭记，但这不应该掩盖他的足球生涯凯文·基根（ Kevin Keegan ）的非凡本质。",
+      "heat": 91,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Google’s AI struggles scream trouble as new Chinese models (again) throw US tech dominance into question Hello, I’m Blake Montgomery, writing to you after a double-header feature of Christop...",
+      "summaryZh": "中文翻译：谷歌的人工智能挣扎尖叫麻烦，因为新的中国模式（再次）使美国技术主导地位受到质疑您好，我是Blake Montgomery ，在Christop的双标题功能之后写信给你......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-tribute-pioneer-superstar-liverpool-newcastle-hamburg-england"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/20/china-google-ai-race"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@TacticsJournal",
@@ -337,9 +337,43 @@
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+      "titleZh": "短视频趋势：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 71,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -348,7 +382,7 @@
       "title": "短视频趋势：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
       "titleZh": "短视频趋势：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
       "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
@@ -361,9 +395,43 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign",
+      "titleZh": "短视频趋势：“夺回足球” ：塞普·布拉特（ Sepp Blatter ）加入西甲联赛主席，呼吁詹尼·因凡蒂诺（ Gianni Infantino ）辞职",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Blatter attacks successor as Fifa president Javier Tebas says system is ‘rotten at its core’ The Fifa president, Gianni Infantino, has come in for heavy criticism from his predecessor, Sepp ...",
+      "summaryZh": "中文翻译：布拉特袭击了继任者，因为国际足联主席哈维尔·特巴斯（ Javier Tebas ）表示系统“核心腐烂”国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）受到了他的前任塞普（ Sepp ）的严厉批评...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@goalflexo",
@@ -371,43 +439,9 @@
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Experts warn of rise in sadistic online exploitation of vulnerable children",
-      "titleZh": "短视频趋势：专家警告说，对弱势儿童的虐待性在线剥削有所增加",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos...",
-      "summaryZh": "中文翻译：全球掠夺者强迫儿童伤害自己或制作儿童性虐待材料的案例增加掠夺者强迫儿童制作性照片和视频的案例...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -416,7 +450,7 @@
       "title": "短视频趋势：Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
       "titleZh": "短视频趋势：因凡蒂诺与特朗普的浮士德式交易已经玷污了足球最大的舞台",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility Ever since the United States won the r...",
       "summaryZh": "中文翻译：国际足联主席向美国领导人寻求影响力。相反，国际足联主席将足球与政治纠缠在一起，损害了比赛的可信度自从美国赢得比赛以来……",
@@ -434,9 +468,9 @@
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@marfawe",
@@ -446,26 +480,26 @@
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：Spain are world champions | World Cup Daily",
-      "titleZh": "短视频趋势：西班牙是世界冠军|每日世界杯",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup. Continue reading...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、约翰·布鲁因（ John Brewin ）、乔纳森·威尔逊（ Jonathan Wilson ）和希德·洛（ S",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "platform": "facebook",
+      "title": "社区话题：Headaches for Silicon Valley as China chips away at the US’s lead in the AI race",
+      "titleZh": "社区话题：随着中国削弱美国在人工智能竞赛中的领先地位，硅谷头疼",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Google’s AI struggles scream trouble as new Chinese models (again) throw US tech dominance into question Hello, I’m Blake Montgomery, writing to you after a double-header feature of Christop...",
+      "summaryZh": "中文翻译：谷歌的人工智能挣扎尖叫麻烦，因为新的中国模式（再次）使美国技术主导地位受到质疑您好，我是Blake Montgomery ，在Christop的双标题功能之后写信给你......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/20/spain-are-world-champions-world-cup-daily"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/20/china-google-ai-race"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@marfawe",
@@ -473,9 +507,43 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@elliottvenis",
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+      "titleZh": "社区话题：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 89,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -484,7 +552,7 @@
       "title": "社区话题：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
       "titleZh": "社区话题：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 89,
+      "heat": 85,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
       "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
@@ -497,87 +565,19 @@
       ],
       "accounts": [
         {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Experts warn of rise in sadistic online exploitation of vulnerable children",
-      "titleZh": "社区话题：专家警告说，对弱势儿童的虐待性在线剥削有所增加",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos...",
-      "summaryZh": "中文翻译：全球掠夺者强迫儿童伤害自己或制作儿童性虐待材料的案例增加掠夺者强迫儿童制作性照片和视频的案例...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Hits, misses and Muppets: the star-studded World Cup half-time show nobody asked for",
-      "titleZh": "社区话题：安打、失误和布偶：星光熠熠的世界杯半场表演，没有人要求",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：It zipped along, cramming in Shakira, Madonna and Coldplay, but football fans may not be convinced of need for this mid-match spectacle Like hydration breaks and Donald Trump’s ability to ge...",
-      "summaryZh": "中文翻译：它拉开了拉链，挤满了夏奇拉，麦当娜和酷玩乐队，但足球迷可能不相信需要这个赛季中期的奇观，比如补水休息和唐纳德特朗普的能力......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -617,7 +617,12 @@
     }
   ],
   "audienceMap": {
-    "实时讨论：A pioneer and a superstar, Kevin Keegan’s achievements were extraordinary": {
+    "实时讨论：Headaches for Silicon Valley as China chips away at the US’s lead in the AI race": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -627,7 +632,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Experts warn of rise in sadistic online exploitation of vulnerable children": {
+    "实时讨论：‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,12 +642,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Spain are world champions | World Cup Daily": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：Experts warn of rise in sadistic online exploitation of vulnerable children": {
+    "视觉热点：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -662,7 +662,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：A pioneer and a superstar, Kevin Keegan’s achievements were extraordinary": {
+    "短视频趋势：Headaches for Silicon Valley as China chips away at the US’s lead in the AI race": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -672,7 +677,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Experts warn of rise in sadistic online exploitation of vulnerable children": {
+    "短视频趋势：‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,22 +687,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Spain are world champions | World Cup Daily": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "社区话题：Headaches for Silicon Valley as China chips away at the US’s lead in the AI race": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Experts warn of rise in sadistic online exploitation of vulnerable children": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Hits, misses and Muppets: the star-studded World Cup half-time show nobody asked for": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
