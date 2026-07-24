@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T10:07:08.055225+00:00",
-  "generatedAtBeijing": "2026-07-23 18:07",
+  "generatedAt": "2026-07-24T10:00:21.021603+00:00",
+  "generatedAtBeijing": "2026-07-24 18:00",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -73,40 +73,6 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Football Daily | Chelsea’s financial shrug and Liverpool leaking players – what you may have missed",
-      "titleZh": "实时讨论：足球日报|切尔西的金融耸耸肩和利物浦泄密球员–您可能错过了什么",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 89,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! After the eye-watering excess of the Geopolitics World Cup, we can return to the modest, measured land of the domestic game. While our att...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！在地缘政治世界杯令人垂涎的过剩之后，我们可以回到国内比赛的温和，有分寸的土地。而我们的ATT...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/football-daily-email-liverpool-chelsea-manchester-city-what-you-may-have-missed"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
       "title": "实时讨论：England cannot afford trip to amputee World Cup – and the FA will not help",
       "titleZh": "实时讨论：英格兰承受不起截肢者世界杯之旅–英足总也无能为力",
       "topic": "实时讨论、新闻发酵、观点交锋",
@@ -123,36 +89,36 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@goalflexo",
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：A tournament that crossed borders: crunching the numbers on the diaspora World Cup",
-      "titleZh": "实时讨论：跨越国界的锦标赛：处理侨民世界杯的数字",
+      "title": "实时讨论：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
+      "titleZh": "实时讨论：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
+      "heat": 79,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Nationality in football is increasingly complex and the influence of players from the diaspora has never been higher at a World Cup “Nationality says where you come from. And I actually come...",
-      "summaryZh": "中文翻译：足球的国籍越来越复杂，在世界杯上，散居国外的球员的影响力从未如此之高， “国籍决定了你来自哪里。其实我来了……",
+      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
+      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/a-tournament-that-crossed-borders-crunching-the-numbers-on-the-diaspora-world-cup"
+          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
         }
       ],
       "accounts": [
@@ -170,6 +136,40 @@
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：The roaring 20s: how the current decade revolutionised cinema",
+      "titleZh": "实时讨论：咆哮的20年代：当前十年如何彻底改变电影",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 68,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of ...",
+      "summaryZh": "中文翻译：在新冠疫情爆发之前，电影的格局截然不同： YouTubers并没有主导票房，视频游戏衍生产品很少产生影响，小熊维尼还没有成为……的明星。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -243,44 +243,10 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps",
-      "titleZh": "视觉热点：人工智能猎物：为什么看门狗告诉家长要保护儿童免受裸体应用程序的侵害",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography UK parents warned over posting images of children amid AI sexual abuse f...",
-      "summaryZh": "中文翻译：随着成像工具变得越来越复杂，在线掠夺者正在使用儿童图像制作极端色情作品。英国父母警告说，在人工智能性虐待中张贴儿童图像。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 77,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -293,19 +259,53 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Splatoon Raiders review – Nintendo’s inky shooter fades to grey",
+      "titleZh": "视觉热点：Splatoon Raiders评论–任天堂的墨水射击游戏淡化为灰色",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 69,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Nintendo Switch 2 The single-player offshoot of the quirky and colourful multiplayer series is disappointingly run-of-the-mill Splatoon is among Nintendo’s most ingenious inventions of the l...",
+      "summaryZh": "中文翻译：Nintendo Switch 2古怪而丰富多彩的多人游戏系列的单人游戏分支令人失望的是，普通的Splatoon是任天堂最巧妙的发明之一......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/jul/21/splatoon-raiders-review-nintendo-switch-2"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -379,44 +379,10 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Chelsea’s financial shrug and Liverpool leaking players – what you may have missed",
-      "titleZh": "短视频趋势：足球日报|切尔西的金融耸耸肩和利物浦泄密球员–您可能错过了什么",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 69,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! After the eye-watering excess of the Geopolitics World Cup, we can return to the modest, measured land of the domestic game. While our att...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！在地缘政治世界杯令人垂涎的过剩之后，我们可以回到国内比赛的温和，有分寸的土地。而我们的ATT...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/football-daily-email-liverpool-chelsea-manchester-city-what-you-may-have-missed"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：England cannot afford trip to amputee World Cup – and the FA will not help",
       "titleZh": "短视频趋势：英格兰承受不起截肢者世界杯之旅–英足总也无能为力",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
+      "heat": 74,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in Mexico Every time Scott Rogers walks into St George’s...",
       "summaryZh": "中文翻译：在没有国家资金的情况下，英格兰成功的男子截肢者队伍正在努力筹集11月墨西哥锦标赛所需的£ 50,000每次斯科特罗杰斯走进圣乔治......",
@@ -429,14 +395,14 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@igoeLFC",
@@ -447,25 +413,25 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：A tournament that crossed borders: crunching the numbers on the diaspora World Cup",
-      "titleZh": "短视频趋势：跨越国界的锦标赛：处理侨民世界杯的数字",
+      "title": "短视频趋势：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
+      "titleZh": "短视频趋势：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 68,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Nationality in football is increasingly complex and the influence of players from the diaspora has never been higher at a World Cup “Nationality says where you come from. And I actually come...",
-      "summaryZh": "中文翻译：足球的国籍越来越复杂，在世界杯上，散居国外的球员的影响力从未如此之高， “国籍决定了你来自哪里。其实我来了……",
+      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
+      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/a-tournament-that-crossed-borders-crunching-the-numbers-on-the-diaspora-world-cup"
+          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@goalflexo",
@@ -473,9 +439,43 @@
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：The roaring 20s: how the current decade revolutionised cinema",
+      "titleZh": "短视频趋势：咆哮的20年代：当前十年如何彻底改变电影",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 73,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of ...",
+      "summaryZh": "中文翻译：在新冠疫情爆发之前，电影的格局截然不同： YouTubers并没有主导票房，视频游戏衍生产品很少产生影响，小熊维尼还没有成为……的明星。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Lawsuit Against Meta Over Social Media Addiction Is Dropped",
-      "titleZh": "社区话题：针对社交媒体成瘾的Meta诉讼已被撤销",
+      "title": "社区话题：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
+      "titleZh": "社区话题：挪威考虑对特朗普在世界杯红牌传奇中的角色提出国际足联道德投诉",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 68,
+      "heat": 77,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：For Meta, the move was a reprieve after it and YouTube were found guilty in another case in March of negligence and personal injury for their platforms’ addictive features.",
-      "summaryZh": "中文翻译：对于Meta来说，此举是一次缓刑， YouTube在3月的另一起案件中因其平台上瘾功能的疏忽和人身伤害而被判有罪。",
+      "summary": "公开来源显示该议题正在发酵：Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at...",
+      "summaryZh": "中文翻译：挪威联邦总统：国际足联在一个“滑坡”上打电话给Infantino ，要求审查Balogun的红色唐纳德特朗普在清除Folarin Balogun的强制性一场比赛禁令方面的作用。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     }
@@ -627,17 +627,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Chelsea’s financial shrug and Liverpool leaking players – what you may have missed": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：England cannot afford trip to amputee World Cup – and the FA will not help": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：A tournament that crossed borders: crunching the numbers on the diaspora World Cup": {
+    "实时讨论：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：The roaring 20s: how the current decade revolutionised cinema": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -652,12 +652,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：AI prey: why watchdogs are telling parents to protect children from nudification apps": {
+    "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
+    "视觉热点：Splatoon Raiders review – Nintendo’s inky shooter fades to grey": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -672,17 +672,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | Chelsea’s financial shrug and Liverpool leaking players – what you may have missed": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：England cannot afford trip to amputee World Cup – and the FA will not help": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：A tournament that crossed borders: crunching the numbers on the diaspora World Cup": {
+    "短视频趋势：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：The roaring 20s: how the current decade revolutionised cinema": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Lawsuit Against Meta Over Social Media Addiction Is Dropped": {
+    "社区话题：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
