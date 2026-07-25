@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-07-24T10:00:21.021603+00:00",
-  "generatedAtBeijing": "2026-07-24 18:00",
+  "generatedAt": "2026-07-25T08:36:53.512297+00:00",
+  "generatedAtBeijing": "2026-07-25 16:36",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：US teen drops Meta lawsuit on social media addiction days before trial",
-      "titleZh": "实时讨论：美国青少年在审判前几天放弃对社交媒体成瘾的Meta诉讼",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Withdrawn case marks a victory for the social media giant after earlier landmark loss at trial over addictive claims A Florida teen whose lawsuit claimed Meta ’s platforms were to blame ⁠for...",
-      "summaryZh": "中文翻译：撤回的案件标志着这家社交媒体巨头的胜利，此前这家社交媒体巨头在审判上瘾索赔时遭遇了具有里程碑意义的失败。一名佛罗里达州青少年的诉讼声称， Meta的平台应归咎于……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
       "titleZh": "实时讨论：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
       "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
@@ -55,9 +21,9 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Bennettxai",
@@ -65,26 +31,26 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：England cannot afford trip to amputee World Cup – and the FA will not help",
-      "titleZh": "实时讨论：英格兰承受不起截肢者世界杯之旅–英足总也无能为力",
+      "title": "实时讨论：Football Daily | Manchester United and the quest to make mythical midfield a reality",
+      "titleZh": "实时讨论：《足球日报》|曼联和让神话般的中场成为现实的追求",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in Mexico Every time Scott Rogers walks into St George’s...",
-      "summaryZh": "中文翻译：在没有国家资金的情况下，英格兰成功的男子截肢者队伍正在努力筹集11月墨西哥锦标赛所需的£ 50,000每次斯科特罗杰斯走进圣乔治......",
+      "heat": 89,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are onl...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！就像城市神话一样，你离蜘蛛的距离从不超过三英尺，现代足球传说告诉我们，曼联在……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help"
+          "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter"
         }
       ],
       "accounts": [
@@ -94,9 +60,9 @@
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@marfawe",
@@ -110,7 +76,7 @@
       "title": "实时讨论：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
       "titleZh": "实时讨论：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
       "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
@@ -119,6 +85,448 @@
         {
           "label": "Guardian Football",
           "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：The roaring 20s: how the current decade revolutionised cinema",
+      "titleZh": "实时讨论：咆哮的20年代：当前十年如何彻底改变电影",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 69,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of ...",
+      "summaryZh": "中文翻译：在新冠疫情爆发之前，电影的格局截然不同： YouTubers并没有主导票房，视频游戏衍生产品很少产生影响，小熊维尼还没有成为……的明星。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti",
+      "titleZh": "实时讨论：马尔迪尼证实，受危机影响的意大利已与瓜迪奥拉和安切洛蒂举行会谈",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Italy have failed to qualify for last three World Cups Guardiola is out of work while Ancelotti is still with Brazil The Italian football federation (FIGC) has talked to Pep Guardiola , the ...",
+      "summaryZh": "中文翻译：意大利未能获得过去三届瓜迪奥拉世界杯的资格，而安切洛蒂仍在巴西。意大利足球联合会（ FIGC ）已与瓜迪奥拉进行了交谈，瓜迪奥拉是...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+      "titleZh": "视觉热点：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 89,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
+      "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
+      "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Splatoon Raiders review – Nintendo’s inky shooter fades to grey",
+      "titleZh": "视觉热点：Splatoon Raiders评论–任天堂的墨水射击游戏淡化为灰色",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 71,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Nintendo Switch 2 The single-player offshoot of the quirky and colourful multiplayer series is disappointingly run-of-the-mill Splatoon is among Nintendo’s most ingenious inventions of the l...",
+      "summaryZh": "中文翻译：Nintendo Switch 2古怪而丰富多彩的多人游戏系列的单人游戏分支令人失望的是，普通的Splatoon是任天堂最巧妙的发明之一......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/jul/21/splatoon-raiders-review-nintendo-switch-2"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Lani Pallister puts years of setbacks behind her to spark Australia gold rush",
+      "titleZh": "视觉热点：拉尼·帕利斯特（ Lani Pallister ）将多年的挫折抛诸脑后，引发了澳大利亚的淘金热",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 80,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Australian wins 400m freestyle, Forrester stuns in 200m backstroke Women’s and men’s 4x100 freestyle relay teams cap dominant day one Lani Pallister has consigned years of struggle and setba...",
+      "summaryZh": "中文翻译：澳大利亚赢得400米自由泳， Forrester在200米仰泳中眩晕女子和男子4x100自由泳接力队主导第一天Lani Pallister已经委托多年的斗争和设置......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/jul/24/lani-pallister-opens-australias-commonwealth-games-tally-with-400m-freestyle-gold"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+      "titleZh": "短视频趋势：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Football Daily | Manchester United and the quest to make mythical midfield a reality",
+      "titleZh": "短视频趋势：《足球日报》|曼联和让神话般的中场成为现实的追求",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are onl...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！就像城市神话一样，你离蜘蛛的距离从不超过三英尺，现代足球传说告诉我们，曼联在……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
+      "titleZh": "短视频趋势：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 70,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
+      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：The roaring 20s: how the current decade revolutionised cinema",
+      "titleZh": "短视频趋势：咆哮的20年代：当前十年如何彻底改变电影",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 75,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of ...",
+      "summaryZh": "中文翻译：在新冠疫情爆发之前，电影的格局截然不同： YouTubers并没有主导票房，视频游戏衍生产品很少产生影响，小熊维尼还没有成为……的明星。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti",
+      "titleZh": "短视频趋势：马尔迪尼证实，受危机影响的意大利已与瓜迪奥拉和安切洛蒂举行会谈",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Italy have failed to qualify for last three World Cups Guardiola is out of work while Ancelotti is still with Brazil The Italian football federation (FIGC) has talked to Pep Guardiola , the ...",
+      "summaryZh": "中文翻译：意大利未能获得过去三届瓜迪奥拉世界杯的资格，而安切洛蒂仍在巴西。意大利足球联合会（ FIGC ）已与瓜迪奥拉进行了交谈，瓜迪奥拉是...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+      "titleZh": "社区话题：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 91,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Football Daily | Manchester United and the quest to make mythical midfield a reality",
+      "titleZh": "社区话题：《足球日报》|曼联和让神话般的中场成为现实的追求",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are onl...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！就像城市神话一样，你离蜘蛛的距离从不超过三英尺，现代足球传说告诉我们，曼联在……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter"
         }
       ],
       "accounts": [
@@ -136,414 +544,6 @@
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：The roaring 20s: how the current decade revolutionised cinema",
-      "titleZh": "实时讨论：咆哮的20年代：当前十年如何彻底改变电影",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of ...",
-      "summaryZh": "中文翻译：在新冠疫情爆发之前，电影的格局截然不同： YouTubers并没有主导票房，视频游戏衍生产品很少产生影响，小熊维尼还没有成为……的明星。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：US teen drops Meta lawsuit on social media addiction days before trial",
-      "titleZh": "视觉热点：美国青少年在审判前几天放弃对社交媒体成瘾的Meta诉讼",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 82,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Withdrawn case marks a victory for the social media giant after earlier landmark loss at trial over addictive claims A Florida teen whose lawsuit claimed Meta ’s platforms were to blame ⁠for...",
-      "summaryZh": "中文翻译：撤回的案件标志着这家社交媒体巨头的胜利，此前这家社交媒体巨头在审判上瘾索赔时遭遇了具有里程碑意义的失败。一名佛罗里达州青少年的诉讼声称， Meta的平台应归咎于……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-      "titleZh": "视觉热点：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
-      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
-      "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
-      "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Splatoon Raiders review – Nintendo’s inky shooter fades to grey",
-      "titleZh": "视觉热点：Splatoon Raiders评论–任天堂的墨水射击游戏淡化为灰色",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 69,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Nintendo Switch 2 The single-player offshoot of the quirky and colourful multiplayer series is disappointingly run-of-the-mill Splatoon is among Nintendo’s most ingenious inventions of the l...",
-      "summaryZh": "中文翻译：Nintendo Switch 2古怪而丰富多彩的多人游戏系列的单人游戏分支令人失望的是，普通的Splatoon是任天堂最巧妙的发明之一......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/jul/21/splatoon-raiders-review-nintendo-switch-2"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：US teen drops Meta lawsuit on social media addiction days before trial",
-      "titleZh": "短视频趋势：美国青少年在审判前几天放弃对社交媒体成瘾的Meta诉讼",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Withdrawn case marks a victory for the social media giant after earlier landmark loss at trial over addictive claims A Florida teen whose lawsuit claimed Meta ’s platforms were to blame ⁠for...",
-      "summaryZh": "中文翻译：撤回的案件标志着这家社交媒体巨头的胜利，此前这家社交媒体巨头在审判上瘾索赔时遭遇了具有里程碑意义的失败。一名佛罗里达州青少年的诉讼声称， Meta的平台应归咎于……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-      "titleZh": "短视频趋势：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
-      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：England cannot afford trip to amputee World Cup – and the FA will not help",
-      "titleZh": "短视频趋势：英格兰承受不起截肢者世界杯之旅–英足总也无能为力",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in Mexico Every time Scott Rogers walks into St George’s...",
-      "summaryZh": "中文翻译：在没有国家资金的情况下，英格兰成功的男子截肢者队伍正在努力筹集11月墨西哥锦标赛所需的£ 50,000每次斯科特罗杰斯走进圣乔治......",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
-      "titleZh": "短视频趋势：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
-      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：The roaring 20s: how the current decade revolutionised cinema",
-      "titleZh": "短视频趋势：咆哮的20年代：当前十年如何彻底改变电影",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of ...",
-      "summaryZh": "中文翻译：在新冠疫情爆发之前，电影的格局截然不同： YouTubers并没有主导票房，视频游戏衍生产品很少产生影响，小熊维尼还没有成为……的明星。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：US teen drops Meta lawsuit on social media addiction days before trial",
-      "titleZh": "社区话题：美国青少年在审判前几天放弃对社交媒体成瘾的Meta诉讼",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 90,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Withdrawn case marks a victory for the social media giant after earlier landmark loss at trial over addictive claims A Florida teen whose lawsuit claimed Meta ’s platforms were to blame ⁠for...",
-      "summaryZh": "中文翻译：撤回的案件标志着这家社交媒体巨头的胜利，此前这家社交媒体巨头在审判上瘾索赔时遭遇了具有里程碑意义的失败。一名佛罗里达州青少年的诉讼声称， Meta的平台应归咎于……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-      "titleZh": "社区话题：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 89,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
-      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -617,17 +617,12 @@
     }
   ],
   "audienceMap": {
-    "实时讨论：US teen drops Meta lawsuit on social media addiction days before trial": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：England cannot afford trip to amputee World Cup – and the FA will not help": {
+    "实时讨论：Football Daily | Manchester United and the quest to make mythical midfield a reality": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,10 +637,10 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：US teen drops Meta lawsuit on social media addiction days before trial": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    "实时讨论：Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "视觉热点：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
@@ -662,17 +657,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：US teen drops Meta lawsuit on social media addiction days before trial": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "视觉热点：Lani Pallister puts years of setbacks behind her to spark Australia gold rush": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "短视频趋势：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：England cannot afford trip to amputee World Cup – and the FA will not help": {
+    "短视频趋势：Football Daily | Manchester United and the quest to make mythical midfield a reality": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,12 +682,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：US teen drops Meta lawsuit on social media addiction days before trial": {
+    "短视频趋势：Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "社区话题：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
+    "社区话题：Football Daily | Manchester United and the quest to make mythical midfield a reality": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
