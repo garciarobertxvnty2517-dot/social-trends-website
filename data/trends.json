@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T08:36:53.512297+00:00",
-  "generatedAtBeijing": "2026-07-25 16:36",
+  "generatedAt": "2026-07-26T09:26:57.726136+00:00",
+  "generatedAtBeijing": "2026-07-26 17:26",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -141,35 +141,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti",
-      "titleZh": "实时讨论：马尔迪尼证实，受危机影响的意大利已与瓜迪奥拉和安切洛蒂举行会谈",
+      "title": "实时讨论：Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
+      "titleZh": "实时讨论：为什么TikTok的算法会让您陷入分手循环",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 81,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Italy have failed to qualify for last three World Cups Guardiola is out of work while Ancelotti is still with Brazil The Italian football federation (FIGC) has talked to Pep Guardiola , the ...",
-      "summaryZh": "中文翻译：意大利未能获得过去三届瓜迪奥拉世界杯的资格，而安切洛蒂仍在巴西。意大利足球联合会（ FIGC ）已与瓜迪奥拉进行了交谈，瓜迪奥拉是...",
+      "summary": "公开来源显示该议题正在发酵：As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
+      "summaryZh": "中文翻译：随着社交媒体公司面临对令人上瘾的设计功能的审查，心理健康专家引用了一系列分手内容作为未能保护用户的例子。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -209,10 +209,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
+      "titleZh": "视觉热点：利物浦伊罗拉时代首发击败桑德兰，但戈麦斯伤病加深了防守担忧",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 73,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Liverpool defeat Sunderland 4-2 in friendly in Nashville When Gomez went down, central defence formed by two teenagers The Andoni Iraola era at Liverpool opened with a victory over Sunderlan...",
+      "summaryZh": "中文翻译：利物浦以4-2击败桑德兰在纳什维尔的友谊赛当戈麦斯倒下时，由两名青少年组成的中央防守在利物浦的Andoni Iraola时代以战胜桑德兰而开局...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/26/liverpool-start-iraola-era-in-style-to-beat-sunderland-but-gomez-injury-puts-spotlight-on-defence"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -225,9 +259,9 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
@@ -235,77 +269,43 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Splatoon Raiders review – Nintendo’s inky shooter fades to grey",
-      "titleZh": "视觉热点：Splatoon Raiders评论–任天堂的墨水射击游戏淡化为灰色",
+      "title": "视觉热点：What links Horrible Histories and Gordon Brown’s neighbour? The bumper summer quiz",
+      "titleZh": "视觉热点：恐怖历史和戈登·布朗的邻居有什么联系？丰收夏季测验",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
+      "heat": 74,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Nintendo Switch 2 The single-player offshoot of the quirky and colourful multiplayer series is disappointingly run-of-the-mill Splatoon is among Nintendo’s most ingenious inventions of the l...",
-      "summaryZh": "中文翻译：Nintendo Switch 2古怪而丰富多彩的多人游戏系列的单人游戏分支令人失望的是，普通的Splatoon是任天堂最巧妙的发明之一......",
+      "summary": "公开来源显示该议题正在发酵：From award-winning Julies to golfers who were nearly the best, test your knowledge with this bumper summer quiz 1 What is now the world’s most populous city, according to the UN? 2 Which two...",
+      "summaryZh": "中文翻译：从屡获殊荣的Julies到近乎最好的高尔夫球手，通过这个丰富的夏季测验测试您的知识1根据联合国的数据，现在世界上人口最多的城市是什么？ 2哪两个……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/jul/21/splatoon-raiders-review-nintendo-switch-2"
+          "url": "https://www.theguardian.com/games/2026/jul/26/what-links-horrible-histories-and-gordon-browns-neighbour-the-bumper-summer-quiz"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Lani Pallister puts years of setbacks behind her to spark Australia gold rush",
-      "titleZh": "视觉热点：拉尼·帕利斯特（ Lani Pallister ）将多年的挫折抛诸脑后，引发了澳大利亚的淘金热",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Australian wins 400m freestyle, Forrester stuns in 200m backstroke Women’s and men’s 4x100 freestyle relay teams cap dominant day one Lani Pallister has consigned years of struggle and setba...",
-      "summaryZh": "中文翻译：澳大利亚赢得400米自由泳， Forrester在200米仰泳中眩晕女子和男子4x100自由泳接力队主导第一天Lani Pallister已经委托多年的斗争和设置......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/jul/24/lani-pallister-opens-australias-commonwealth-games-tally-with-400m-freestyle-gold"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -447,35 +447,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti",
-      "titleZh": "短视频趋势：马尔迪尼证实，受危机影响的意大利已与瓜迪奥拉和安切洛蒂举行会谈",
+      "title": "短视频趋势：Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
+      "titleZh": "短视频趋势：为什么TikTok的算法会让您陷入分手循环",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 77,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Italy have failed to qualify for last three World Cups Guardiola is out of work while Ancelotti is still with Brazil The Italian football federation (FIGC) has talked to Pep Guardiola , the ...",
-      "summaryZh": "中文翻译：意大利未能获得过去三届瓜迪奥拉世界杯的资格，而安切洛蒂仍在巴西。意大利足球联合会（ FIGC ）已与瓜迪奥拉进行了交谈，瓜迪奥拉是...",
+      "summary": "公开来源显示该议题正在发酵：As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
+      "summaryZh": "中文翻译：随着社交媒体公司面临对令人上瘾的设计功能的审查，心理健康专家引用了一系列分手内容作为未能保护用户的例子。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -637,7 +637,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti": {
+    "实时讨论：Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,17 +647,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
+    "视觉热点：Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Splatoon Raiders review – Nintendo’s inky shooter fades to grey": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Lani Pallister puts years of setbacks behind her to spark Australia gold rush": {
+    "视觉热点：What links Horrible Histories and Gordon Brown’s neighbour? The bumper summer quiz": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -682,7 +682,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti": {
+    "短视频趋势：Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
