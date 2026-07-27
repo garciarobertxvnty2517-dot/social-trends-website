@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T09:26:57.726136+00:00",
-  "generatedAtBeijing": "2026-07-26 17:26",
+  "generatedAt": "2026-07-27T04:52:43.558498+00:00",
+  "generatedAtBeijing": "2026-07-27 12:52",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -107,69 +107,69 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：The roaring 20s: how the current decade revolutionised cinema",
-      "titleZh": "实时讨论：咆哮的20年代：当前十年如何彻底改变电影",
+      "title": "实时讨论：Football Daily | Back to the playground of the disgustingly rich: it’s club football!",
+      "titleZh": "实时讨论：足球日报|回到令人作呕的富人的游乐场：这就是俱乐部足球！",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 69,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of ...",
-      "summaryZh": "中文翻译：在新冠疫情爆发之前，电影的格局截然不同： YouTubers并没有主导票房，视频游戏衍生产品很少产生影响，小熊维尼还没有成为……的明星。",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Hmmm, should I order in a pizza tonight ? How does this basic question translate to the monstrously rich, to those operating in the hundre...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！嗯，我今晚应该点披萨吗？这个基本问题如何转化为可怕的富人，转化为那些在食人族中运作的人……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/23/football-daily-email-jeff-bezos-liverpool"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
-      "titleZh": "实时讨论：为什么TikTok的算法会让您陷入分手循环",
+      "title": "实时讨论：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
+      "titleZh": "实时讨论：挪威考虑对特朗普在世界杯红牌传奇中的角色提出国际足联道德投诉",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
-      "summaryZh": "中文翻译：随着社交媒体公司面临对令人上瘾的设计功能的审查，心理健康专家引用了一系列分手内容作为未能保护用户的例子。",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at...",
+      "summaryZh": "中文翻译：挪威联邦总统：国际足联在一个“滑坡”上打电话给Infantino ，要求审查Balogun的红色唐纳德特朗普在清除Folarin Balogun的强制性一场比赛禁令方面的作用。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@exploraX_",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -209,44 +209,10 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
-      "titleZh": "视觉热点：利物浦伊罗拉时代首发击败桑德兰，但戈麦斯伤病加深了防守担忧",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 73,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Liverpool defeat Sunderland 4-2 in friendly in Nashville When Gomez went down, central defence formed by two teenagers The Andoni Iraola era at Liverpool opened with a victory over Sunderlan...",
-      "summaryZh": "中文翻译：利物浦以4-2击败桑德兰在纳什维尔的友谊赛当戈麦斯倒下时，由两名青少年组成的中央防守在利物浦的Andoni Iraola时代以战胜桑德兰而开局...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/26/liverpool-start-iraola-era-in-style-to-beat-sunderland-but-gomez-injury-puts-spotlight-on-defence"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
+      "heat": 81,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -259,9 +225,9 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@elliottvenis",
@@ -269,9 +235,43 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Tour de France 2026: Pogacar seals fifth title as Van der Poel wins incredible sprint on the Champs-Élysées – as it happened",
+      "titleZh": "视觉热点：环法自行车赛2026 ： Pogacar获得第五个冠军头衔， Van der Poel在香榭丽舍大街上赢得了令人难以置信的冲刺",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The shortened final stage provided incredible drama as Van der Poel held on to win a photo finish on the streets of Paris as Pogacar officially secured his fifth yellow jersey 75km to go The...",
+      "summaryZh": "中文翻译：缩短的最后阶段提供了令人难以置信的戏剧性，因为范德波尔在巴黎的街道上赢得了一张照片，因为Pogacar正式获得了他的第五件黄色球衣，长达75公里。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/live/2026/jul/26/tour-de-france-2026-final-stage-from-paris-champs-elysees-live"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -413,69 +413,69 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：The roaring 20s: how the current decade revolutionised cinema",
-      "titleZh": "短视频趋势：咆哮的20年代：当前十年如何彻底改变电影",
+      "title": "短视频趋势：Football Daily | Back to the playground of the disgustingly rich: it’s club football!",
+      "titleZh": "短视频趋势：足球日报|回到令人作呕的富人的游乐场：这就是俱乐部足球！",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of ...",
-      "summaryZh": "中文翻译：在新冠疫情爆发之前，电影的格局截然不同： YouTubers并没有主导票房，视频游戏衍生产品很少产生影响，小熊维尼还没有成为……的明星。",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Hmmm, should I order in a pizza tonight ? How does this basic question translate to the monstrously rich, to those operating in the hundre...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！嗯，我今晚应该点披萨吗？这个基本问题如何转化为可怕的富人，转化为那些在食人族中运作的人……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/23/football-daily-email-jeff-bezos-liverpool"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
-      "titleZh": "短视频趋势：为什么TikTok的算法会让您陷入分手循环",
+      "title": "短视频趋势：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
+      "titleZh": "短视频趋势：挪威考虑对特朗普在世界杯红牌传奇中的角色提出国际足联道德投诉",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
-      "summaryZh": "中文翻译：随着社交媒体公司面临对令人上瘾的设计功能的审查，心理健康专家引用了一系列分手内容作为未能保护用户的例子。",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at...",
+      "summaryZh": "中文翻译：挪威联邦总统：国际足联在一个“滑坡”上打电话给Infantino ，要求审查Balogun的红色唐纳德特朗普在清除Folarin Balogun的强制性一场比赛禁令方面的作用。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -632,12 +632,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：The roaring 20s: how the current decade revolutionised cinema": {
+    "实时讨论：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop": {
+    "实时讨论：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,12 +647,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries": {
+    "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
+    "视觉热点：Tour de France 2026: Pogacar seals fifth title as Van der Poel wins incredible sprint on the Champs-Élysées – as it happened": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -677,12 +677,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：The roaring 20s: how the current decade revolutionised cinema": {
+    "短视频趋势：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop": {
+    "短视频趋势：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
