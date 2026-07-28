@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T04:52:43.558498+00:00",
-  "generatedAtBeijing": "2026-07-27 12:52",
+  "generatedAt": "2026-07-28T04:29:41.521493+00:00",
+  "generatedAtBeijing": "2026-07-28 12:29",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,30 +39,30 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Football Daily | Manchester United and the quest to make mythical midfield a reality",
-      "titleZh": "实时讨论：《足球日报》|曼联和让神话般的中场成为现实的追求",
+      "title": "实时讨论：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
+      "titleZh": "实时讨论：足球日报|维尼修斯到阿森纳？俱乐部足球的军事工业综合体重新启动",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 89,
+      "heat": 77,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are onl...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！就像城市神话一样，你离蜘蛛的距离从不超过三英尺，现代足球传说告诉我们，曼联在……",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！如果这是注意力经济，那么没有比俱乐部足球更吸引注意力的人了。不满足于主宰体育议程……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter"
+          "url": "https://www.theguardian.com/football/2026/jul/27/football-daily-email-transfer-season"
         }
       ],
       "accounts": [
         {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@marfawe",
@@ -89,19 +89,53 @@
       ],
       "accounts": [
         {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video",
+      "titleZh": "实时讨论：《足球周刊》夏季邮袋： 2026年世界杯、淡季等，第一部分–视频",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson to answer your questions from the mailbag Continue reading...",
+      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、John Brewin和Jonathan Wilson一起从邮袋中回答您的问题。继续阅读...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -110,7 +144,7 @@
       "title": "实时讨论：Football Daily | Back to the playground of the disgustingly rich: it’s club football!",
       "titleZh": "实时讨论：足球日报|回到令人作呕的富人的游乐场：这就是俱乐部足球！",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Hmmm, should I order in a pizza tonight ? How does this basic question translate to the monstrously rich, to those operating in the hundre...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！嗯，我今晚应该点披萨吗？这个基本问题如何转化为可怕的富人，转化为那些在食人族中运作的人……",
@@ -123,53 +157,19 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-      "titleZh": "实时讨论：挪威考虑对特朗普在世界杯红牌传奇中的角色提出国际足联道德投诉",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at...",
-      "summaryZh": "中文翻译：挪威联邦总统：国际足联在一个“滑坡”上打电话给Infantino ，要求审查Balogun的红色唐纳德特朗普在清除Folarin Balogun的强制性一场比赛禁令方面的作用。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
-        }
-      ],
-      "accounts": [
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -209,10 +209,78 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
+      "titleZh": "视觉热点：足球日报|维尼修斯到阿森纳？俱乐部足球的军事工业综合体重新启动",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！如果这是注意力经济，那么没有比俱乐部足球更吸引注意力的人了。不满足于主宰体育议程……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/27/football-daily-email-transfer-season"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Fifa president Gianni Infantino accuses critics of spreading hate at World Cup",
+      "titleZh": "视觉热点：国际足联主席詹尼·因凡蒂诺指责批评者在世界杯上散布仇恨",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Infantino claims critics of World Cup ‘missed it all’ He again defends Balogun affair and treatment of Iran The Fifa president, Gianni Infantino , has launched an extraordinary attack at cri...",
+      "summaryZh": "中文翻译：因凡蒂诺声称世界杯的批评者“错过了一切”他再次为巴洛贡事件和伊朗的待遇辩护国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）对世界杯发起了非同寻常的攻击。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-hits-out-fifa-critics-hate-open-letter-world-cup"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
+      "heat": 77,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -230,82 +298,14 @@
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Tour de France 2026: Pogacar seals fifth title as Van der Poel wins incredible sprint on the Champs-Élysées – as it happened",
-      "titleZh": "视觉热点：环法自行车赛2026 ： Pogacar获得第五个冠军头衔， Van der Poel在香榭丽舍大街上赢得了令人难以置信的冲刺",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The shortened final stage provided incredible drama as Van der Poel held on to win a photo finish on the streets of Paris as Pogacar officially secured his fifth yellow jersey 75km to go The...",
-      "summaryZh": "中文翻译：缩短的最后阶段提供了令人难以置信的戏剧性，因为范德波尔在巴黎的街道上赢得了一张照片，因为Pogacar正式获得了他的第五件黄色球衣，长达75公里。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/live/2026/jul/26/tour-de-france-2026-final-stage-from-paris-champs-elysees-live"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：What links Horrible Histories and Gordon Brown’s neighbour? The bumper summer quiz",
-      "titleZh": "视觉热点：恐怖历史和戈登·布朗的邻居有什么联系？丰收夏季测验",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：From award-winning Julies to golfers who were nearly the best, test your knowledge with this bumper summer quiz 1 What is now the world’s most populous city, according to the UN? 2 Which two...",
-      "summaryZh": "中文翻译：从屡获殊荣的Julies到近乎最好的高尔夫球手，通过这个丰富的夏季测验测试您的知识1根据联合国的数据，现在世界上人口最多的城市是什么？ 2哪两个……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/jul/26/what-links-horrible-histories-and-gordon-browns-neighbour-the-bumper-summer-quiz"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -345,26 +345,21 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Manchester United and the quest to make mythical midfield a reality",
-      "titleZh": "短视频趋势：《足球日报》|曼联和让神话般的中场成为现实的追求",
+      "title": "短视频趋势：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
+      "titleZh": "短视频趋势：足球日报|维尼修斯到阿森纳？俱乐部足球的军事工业综合体重新启动",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 85,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are onl...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！就像城市神话一样，你离蜘蛛的距离从不超过三英尺，现代足球传说告诉我们，曼联在……",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！如果这是注意力经济，那么没有比俱乐部足球更吸引注意力的人了。不满足于主宰体育议程……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter"
+          "url": "https://www.theguardian.com/football/2026/jul/27/football-daily-email-transfer-season"
         }
       ],
       "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
@@ -374,6 +369,11 @@
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -413,10 +413,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video",
+      "titleZh": "短视频趋势：《足球周刊》夏季邮袋： 2026年世界杯、淡季等，第一部分–视频",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson to answer your questions from the mailbag Continue reading...",
+      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、John Brewin和Jonathan Wilson一起从邮袋中回答您的问题。继续阅读...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Football Daily | Back to the playground of the disgustingly rich: it’s club football!",
       "titleZh": "短视频趋势：足球日报|回到令人作呕的富人的游乐场：这就是俱乐部足球！",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Hmmm, should I order in a pizza tonight ? How does this basic question translate to the monstrously rich, to those operating in the hundre...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！嗯，我今晚应该点披萨吗？这个基本问题如何转化为可怕的富人，转化为那些在食人族中运作的人……",
@@ -429,53 +463,19 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-      "titleZh": "短视频趋势：挪威考虑对特朗普在世界杯红牌传奇中的角色提出国际足联道德投诉",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at...",
-      "summaryZh": "中文翻译：挪威联邦总统：国际足联在一个“滑坡”上打电话给Infantino ，要求审查Balogun的红色唐纳德特朗普在清除Folarin Balogun的强制性一场比赛禁令方面的作用。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -515,18 +515,18 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Football Daily | Manchester United and the quest to make mythical midfield a reality",
-      "titleZh": "社区话题：《足球日报》|曼联和让神话般的中场成为现实的追求",
+      "title": "社区话题：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
+      "titleZh": "社区话题：足球日报|维尼修斯到阿森纳？俱乐部足球的军事工业综合体重新启动",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 83,
+      "heat": 78,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are onl...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！就像城市神话一样，你离蜘蛛的距离从不超过三英尺，现代足球传说告诉我们，曼联在……",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！如果这是注意力经济，那么没有比俱乐部足球更吸引注意力的人了。不满足于主宰体育议程……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter"
+          "url": "https://www.theguardian.com/football/2026/jul/27/football-daily-email-transfer-season"
         }
       ],
       "accounts": [
@@ -536,9 +536,9 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@TacticsJournal",
@@ -622,7 +622,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Manchester United and the quest to make mythical midfield a reality": {
+    "实时讨论：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,12 +632,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
+    "实时讨论：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga": {
+    "实时讨论：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,17 +647,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
+    "视觉热点：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Fifa president Gianni Infantino accuses critics of spreading hate at World Cup": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Tour de France 2026: Pogacar seals fifth title as Van der Poel wins incredible sprint on the Champs-Élysées – as it happened": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：What links Horrible Histories and Gordon Brown’s neighbour? The bumper summer quiz": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,7 +667,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | Manchester United and the quest to make mythical midfield a reality": {
+    "短视频趋势：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,12 +677,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
+    "短视频趋势：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga": {
+    "短视频趋势：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,7 +692,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Football Daily | Manchester United and the quest to make mythical midfield a reality": {
+    "社区话题：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
