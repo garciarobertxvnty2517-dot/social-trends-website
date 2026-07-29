@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-07-28T04:29:41.521493+00:00",
-  "generatedAtBeijing": "2026-07-28 12:29",
+  "generatedAt": "2026-07-29T04:31:36.385750+00:00",
+  "generatedAtBeijing": "2026-07-29 12:31",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-      "titleZh": "实时讨论：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
+      "title": "实时讨论：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury",
+      "titleZh": "实时讨论：田纳西州律师告诉陪审团， Meta无视自己对青少年伤害的研究",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
+      "heat": 82,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
-      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
+      "summary": "公开来源显示该议题正在发酵：In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and...",
+      "summaryZh": "中文翻译：在开场陈述中，国家认为Meta自己的研究表明它伤害了青少年，而公司的律师指出透明度社交媒体公司Meta和...之间期待已久的审判",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -141,69 +141,69 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Football Daily | Back to the playground of the disgustingly rich: it’s club football!",
-      "titleZh": "实时讨论：足球日报|回到令人作呕的富人的游乐场：这就是俱乐部足球！",
+      "title": "实时讨论：Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?",
+      "titleZh": "实时讨论：足球转会传闻：曼联将签下尤文的弗朗西斯科·康塞桑？",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 71,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Hmmm, should I order in a pizza tonight ? How does this basic question translate to the monstrously rich, to those operating in the hundre...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！嗯，我今晚应该点披萨吗？这个基本问题如何转化为可怕的富人，转化为那些在食人族中运作的人……",
+      "summary": "公开来源显示该议题正在发酵：Today’s rumours are napping on the beach As sports fans everywhere eagerly await the resumption of cricket’s County Championship season , what better way to while away a few minutes than to ...",
+      "summaryZh": "中文翻译：今天的谣言正在海滩上打盹，世界各地的体育迷都在热切地等待板球郡锦标赛赛季的恢复，还有什么比……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/23/football-daily-email-jeff-bezos-liverpool"
+          "url": "https://www.theguardian.com/football/2026/jul/28/football-transfer-rumours-manchester-united-francisco-conceicao-juventus"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-      "titleZh": "视觉热点：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
+      "title": "视觉热点：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury",
+      "titleZh": "视觉热点：田纳西州律师告诉陪审团， Meta无视自己对青少年伤害的研究",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 89,
+      "heat": 72,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
-      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
+      "summary": "公开来源显示该议题正在发酵：In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and...",
+      "summaryZh": "中文翻译：在开场陈述中，国家认为Meta自己的研究表明它伤害了青少年，而公司的律师指出透明度社交媒体公司Meta和...之间期待已久的审判",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury"
         }
       ],
       "accounts": [
         {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -243,44 +243,10 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Fifa president Gianni Infantino accuses critics of spreading hate at World Cup",
-      "titleZh": "视觉热点：国际足联主席詹尼·因凡蒂诺指责批评者在世界杯上散布仇恨",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 83,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Infantino claims critics of World Cup ‘missed it all’ He again defends Balogun affair and treatment of Iran The Fifa president, Gianni Infantino , has launched an extraordinary attack at cri...",
-      "summaryZh": "中文翻译：因凡蒂诺声称世界杯的批评者“错过了一切”他再次为巴洛贡事件和伊朗的待遇辩护国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）对世界杯发起了非同寻常的攻击。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-hits-out-fifa-critics-hate-open-letter-world-cup"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 77,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -293,48 +259,82 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：What links Horrible Histories and Gordon Brown’s neighbour? The bumper summer quiz",
+      "titleZh": "视觉热点：恐怖历史和戈登·布朗的邻居有什么联系？丰收夏季测验",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：From award-winning Julies to golfers who were nearly the best, test your knowledge with this bumper summer quiz 1 What is now the world’s most populous city, according to the UN? 2 Which two...",
+      "summaryZh": "中文翻译：从屡获殊荣的Julies到近乎最好的高尔夫球手，通过这个丰富的夏季测验测试您的知识1根据联合国的数据，现在世界上人口最多的城市是什么？ 2哪两个……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/jul/26/what-links-horrible-histories-and-gordon-browns-neighbour-the-bumper-summer-quiz"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-      "titleZh": "短视频趋势：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
+      "title": "短视频趋势：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury",
+      "titleZh": "短视频趋势：田纳西州律师告诉陪审团， Meta无视自己对青少年伤害的研究",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
+      "heat": 79,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
-      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
+      "summary": "公开来源显示该议题正在发酵：In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and...",
+      "summaryZh": "中文翻译：在开场陈述中，国家认为Meta自己的研究表明它伤害了青少年，而公司的律师指出透明度社交媒体公司Meta和...之间期待已久的审判",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@Ivy_Dinma",
@@ -447,52 +447,52 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Back to the playground of the disgustingly rich: it’s club football!",
-      "titleZh": "短视频趋势：足球日报|回到令人作呕的富人的游乐场：这就是俱乐部足球！",
+      "title": "短视频趋势：Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?",
+      "titleZh": "短视频趋势：足球转会传闻：曼联将签下尤文的弗朗西斯科·康塞桑？",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
+      "heat": 68,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Hmmm, should I order in a pizza tonight ? How does this basic question translate to the monstrously rich, to those operating in the hundre...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！嗯，我今晚应该点披萨吗？这个基本问题如何转化为可怕的富人，转化为那些在食人族中运作的人……",
+      "summary": "公开来源显示该议题正在发酵：Today’s rumours are napping on the beach As sports fans everywhere eagerly await the resumption of cricket’s County Championship season , what better way to while away a few minutes than to ...",
+      "summaryZh": "中文翻译：今天的谣言正在海滩上打盹，世界各地的体育迷都在热切地等待板球郡锦标赛赛季的恢复，还有什么比……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/23/football-daily-email-jeff-bezos-liverpool"
+          "url": "https://www.theguardian.com/football/2026/jul/28/football-transfer-rumours-manchester-united-francisco-conceicao-juventus"
         }
       ],
       "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-      "titleZh": "社区话题：当Meta使用A.I.禁止Facebook和Instagram上的帐户时会发生什么",
+      "title": "社区话题：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury",
+      "titleZh": "社区话题：田纳西州律师告诉陪审团， Meta无视自己对青少年伤害的研究",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 91,
+      "heat": 87,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
-      "summaryZh": "中文翻译：用户表示，该技术错误地删除了他们的账号。为了解决这个问题，他们仍然不得不依靠人工智能。",
+      "summary": "公开来源显示该议题正在发酵：In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and...",
+      "summaryZh": "中文翻译：在开场陈述中，国家认为Meta自己的研究表明它伤害了青少年，而公司的律师指出透明度社交媒体公司Meta和...之间期待已久的审判",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury"
         }
       ],
       "accounts": [
@@ -502,9 +502,9 @@
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Bennettxai",
@@ -617,7 +617,7 @@
     }
   ],
   "audienceMap": {
-    "实时讨论：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
+    "实时讨论：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,12 +637,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
+    "实时讨论：Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
+    "视觉热点：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -652,17 +652,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Fifa president Gianni Infantino accuses critics of spreading hate at World Cup": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
+    "视觉热点：What links Horrible Histories and Gordon Brown’s neighbour? The bumper summer quiz": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "短视频趋势：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,12 +682,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
+    "短视频趋势：Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram": {
+    "社区话题：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
