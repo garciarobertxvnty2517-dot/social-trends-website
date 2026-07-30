@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-07-29T04:31:36.385750+00:00",
-  "generatedAtBeijing": "2026-07-29 12:31",
+  "generatedAt": "2026-07-30T04:22:22.404327+00:00",
+  "generatedAtBeijing": "2026-07-30 12:22",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury",
-      "titleZh": "实时讨论：田纳西州律师告诉陪审团， Meta无视自己对青少年伤害的研究",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and...",
-      "summaryZh": "中文翻译：在开场陈述中，国家认为Meta自己的研究表明它伤害了青少年，而公司的律师指出透明度社交媒体公司Meta和...之间期待已久的审判",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
       "titleZh": "实时讨论：足球日报|维尼修斯到阿森纳？俱乐部足球的军事工业综合体重新启动",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
+      "heat": 79,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda ...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！如果这是注意力经济，那么没有比俱乐部足球更吸引注意力的人了。不满足于主宰体育议程……",
@@ -55,43 +21,9 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
-      "titleZh": "实时讨论：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
-      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -99,9 +31,9 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -110,7 +42,7 @@
       "title": "实时讨论：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video",
       "titleZh": "实时讨论：《足球周刊》夏季邮袋： 2026年世界杯、淡季等，第一部分–视频",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 76,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson to answer your questions from the mailbag Continue reading...",
       "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、John Brewin和Jonathan Wilson一起从邮袋中回答您的问题。继续阅读...",
@@ -128,9 +60,9 @@
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -141,21 +73,26 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?",
-      "titleZh": "实时讨论：足球转会传闻：曼联将签下尤文的弗朗西斯科·康塞桑？",
+      "title": "实时讨论：Football Daily | Back to the playground of the disgustingly rich: it’s club football!",
+      "titleZh": "实时讨论：足球日报|回到令人作呕的富人的游乐场：这就是俱乐部足球！",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 71,
+      "heat": 83,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Today’s rumours are napping on the beach As sports fans everywhere eagerly await the resumption of cricket’s County Championship season , what better way to while away a few minutes than to ...",
-      "summaryZh": "中文翻译：今天的谣言正在海滩上打盹，世界各地的体育迷都在热切地等待板球郡锦标赛赛季的恢复，还有什么比……",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Hmmm, should I order in a pizza tonight ? How does this basic question translate to the monstrously rich, to those operating in the hundre...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！嗯，我今晚应该点披萨吗？这个基本问题如何转化为可怕的富人，转化为那些在食人族中运作的人……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/28/football-transfer-rumours-manchester-united-francisco-conceicao-juventus"
+          "url": "https://www.theguardian.com/football/2026/jul/23/football-daily-email-jeff-bezos-liverpool"
         }
       ],
       "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
@@ -165,45 +102,74 @@
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
-      "platform": "instagram",
-      "title": "视觉热点：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury",
-      "titleZh": "视觉热点：田纳西州律师告诉陪审团， Meta无视自己对青少年伤害的研究",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and...",
-      "summaryZh": "中文翻译：在开场陈述中，国家认为Meta自己的研究表明它伤害了青少年，而公司的律师指出透明度社交媒体公司Meta和...之间期待已久的审判",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "platform": "x",
+      "title": "实时讨论：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
+      "titleZh": "实时讨论：新面孔、课堂鸿沟和有缺陷的戏剧： 48支球队如何改变世界杯",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president ...",
+      "summaryZh": "中文翻译：第一届48支球队的世界杯既有正面也有负面--我们是否需要为64支球队的未来做好准备？ Gianni Infantino接替Sepp Blatter担任总裁还不到12个月……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@exploraX_",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Putellas, Batlle and León are gone: what will be left of Barcelona after latest exodus?",
+      "titleZh": "实时讨论：普特拉斯（ Putellas ）、巴特勒（ Batlle ）和莱昂（ León ）都不见了：在最近的大逃亡之后，巴塞罗那还剩下",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The European champions’ squad is falling apart … because of the men’s team’s struggles with financial fair play The joy of lifting all four trophies in 2025-26 has been short-lived for Barce...",
+      "summaryZh": "中文翻译：欧洲冠军球队正在分崩离析……因为男子球队在金融公平竞争中挣扎……对于Barce来说，在2025-26赛季举起所有四个奖杯的喜悦是短暂的……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/22/putellas-batlle-leon-barcelona-women-latest-summer-exodus"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -212,7 +178,7 @@
       "title": "视觉热点：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
       "titleZh": "视觉热点：足球日报|维尼修斯到阿森纳？俱乐部足球的军事工业综合体重新启动",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 82,
+      "heat": 84,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda ...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！如果这是注意力经济，那么没有比俱乐部足球更吸引注意力的人了。不满足于主宰体育议程……",
@@ -221,6 +187,40 @@
         {
           "label": "Guardian Football",
           "url": "https://www.theguardian.com/football/2026/jul/27/football-daily-email-transfer-season"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Football transfer rumours: Eli Junior Kroupi to boost Barcelona attack?",
+      "titleZh": "视觉热点：足球转会传闻： Eli Junior Kroupi将加大巴塞罗那的攻击力度？",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 71,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Today’s tittle-tattle is walking on sunshine After waving Robert Lewandowski off into the sunset at the end of last season, Barcelona are in need of a new striker. The only one on their book...",
+      "summaryZh": "中文翻译：上个赛季结束后，罗伯特·莱万多夫斯基（ Robert Lewandowski ）挥舞着日落，巴塞罗那需要一名新的前锋。他们书上唯一的一个……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/29/football-transfer-rumours-eli-junior-kroupi-barcelona-alvarez-joao-pedro"
         }
       ],
       "accounts": [
@@ -277,25 +277,25 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：What links Horrible Histories and Gordon Brown’s neighbour? The bumper summer quiz",
-      "titleZh": "视觉热点：恐怖历史和戈登·布朗的邻居有什么联系？丰收夏季测验",
+      "title": "视觉热点：Commonwealth Games 2026: 3x3 basketball golds for England and Australia, Scotland shine in pool on day six – as it happened",
+      "titleZh": "视觉热点：2026年英联邦运动会：英格兰和澳大利亚的3x3篮球金牌，苏格兰在第六天在泳池中闪耀–正如它发生的那样",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：From award-winning Julies to golfers who were nearly the best, test your knowledge with this bumper summer quiz 1 What is now the world’s most populous city, according to the UN? 2 Which two...",
-      "summaryZh": "中文翻译：从屡获殊荣的Julies到近乎最好的高尔夫球手，通过这个丰富的夏季测验测试您的知识1根据联合国的数据，现在世界上人口最多的城市是什么？ 2哪两个……",
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Scotland enjoyed an excellent evening in the pool and on the athletics track while Kate O’Connor won gold in the women’s heptathlon Men’s 200m freestyle James Guy qualifies for the final wit...",
+      "summaryZh": "中文翻译：苏格兰在游泳池和田径场上度过了一个美好的夜晚，而凯特·奥康纳（ Kate O’Connor ）在女子七项全能男子200米自由泳中获得金牌，詹姆斯·盖伊（ James Guy ）有资格获得最后的机智......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/jul/26/what-links-horrible-histories-and-gordon-browns-neighbour-the-bumper-summer-quiz"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/live/2026/jul/29/commonwealth-games-2026-swimming-athletics-weightlifting-netball-basketball-day-six-live"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -303,43 +303,9 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury",
-      "titleZh": "短视频趋势：田纳西州律师告诉陪审团， Meta无视自己对青少年伤害的研究",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and...",
-      "summaryZh": "中文翻译：在开场陈述中，国家认为Meta自己的研究表明它伤害了青少年，而公司的律师指出透明度社交媒体公司Meta和...之间期待已久的审判",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -348,7 +314,7 @@
       "title": "短视频趋势：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
       "titleZh": "短视频趋势：足球日报|维尼修斯到阿森纳？俱乐部足球的军事工业综合体重新启动",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
+      "heat": 87,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda ...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！如果这是注意力经济，那么没有比俱乐部足球更吸引注意力的人了。不满足于主宰体育议程……",
@@ -361,53 +327,19 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
-      "titleZh": "短视频趋势：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
-      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -416,7 +348,7 @@
       "title": "短视频趋势：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video",
       "titleZh": "短视频趋势：《足球周刊》夏季邮袋： 2026年世界杯、淡季等，第一部分–视频",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
+      "heat": 83,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson to answer your questions from the mailbag Continue reading...",
       "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、John Brewin和Jonathan Wilson一起从邮袋中回答您的问题。继续阅读...",
@@ -429,9 +361,9 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@goalflexo",
@@ -439,33 +371,67 @@
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?",
-      "titleZh": "短视频趋势：足球转会传闻：曼联将签下尤文的弗朗西斯科·康塞桑？",
+      "title": "短视频趋势：Football Daily | Back to the playground of the disgustingly rich: it’s club football!",
+      "titleZh": "短视频趋势：足球日报|回到令人作呕的富人的游乐场：这就是俱乐部足球！",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
+      "heat": 83,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Today’s rumours are napping on the beach As sports fans everywhere eagerly await the resumption of cricket’s County Championship season , what better way to while away a few minutes than to ...",
-      "summaryZh": "中文翻译：今天的谣言正在海滩上打盹，世界各地的体育迷都在热切地等待板球郡锦标赛赛季的恢复，还有什么比……",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Hmmm, should I order in a pizza tonight ? How does this basic question translate to the monstrously rich, to those operating in the hundre...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！嗯，我今晚应该点披萨吗？这个基本问题如何转化为可怕的富人，转化为那些在食人族中运作的人……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/28/football-transfer-rumours-manchester-united-francisco-conceicao-juventus"
+          "url": "https://www.theguardian.com/football/2026/jul/23/football-daily-email-jeff-bezos-liverpool"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
+      "titleZh": "短视频趋势：新面孔、课堂鸿沟和有缺陷的戏剧： 48支球队如何改变世界杯",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president ...",
+      "summaryZh": "中文翻译：第一届48支球队的世界杯既有正面也有负面--我们是否需要为64支球队的未来做好准备？ Gianni Infantino接替Sepp Blatter担任总裁还不到12个月……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@TacticsJournal",
@@ -473,43 +439,43 @@
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury",
-      "titleZh": "社区话题：田纳西州律师告诉陪审团， Meta无视自己对青少年伤害的研究",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and...",
-      "summaryZh": "中文翻译：在开场陈述中，国家认为Meta自己的研究表明它伤害了青少年，而公司的律师指出透明度社交媒体公司Meta和...之间期待已久的审判",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "platform": "tiktok",
+      "title": "短视频趋势：Putellas, Batlle and León are gone: what will be left of Barcelona after latest exodus?",
+      "titleZh": "短视频趋势：普特拉斯（ Putellas ）、巴特勒（ Batlle ）和莱昂（ León ）都不见了：在最近的大逃亡之后，巴塞罗那还剩下",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 73,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The European champions’ squad is falling apart … because of the men’s team’s struggles with financial fair play The joy of lifting all four trophies in 2025-26 has been short-lived for Barce...",
+      "summaryZh": "中文翻译：欧洲冠军球队正在分崩离析……因为男子球队在金融公平竞争中挣扎……对于Barce来说，在2025-26赛季举起所有四个奖杯的喜悦是短暂的……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/22/putellas-batlle-leon-barcelona-women-latest-summer-exodus"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@exploraX_",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -518,7 +484,7 @@
       "title": "社区话题：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
       "titleZh": "社区话题：足球日报|维尼修斯到阿森纳？俱乐部足球的军事工业综合体重新启动",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 78,
+      "heat": 80,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda ...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！如果这是注意力经济，那么没有比俱乐部足球更吸引注意力的人了。不满足于主宰体育议程……",
@@ -531,40 +497,6 @@
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew",
-      "titleZh": "社区话题：Tuchel宁愿放下英语比赛，也不愿承认自己的懦弱| Jonathan Liew",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the job How we talked. On late-night news shows, disembodied heads above a rol...",
-      "summaryZh": "中文翻译：英格兰队的教练表示，控球权不在球队的DNA中–这是一种观点，应该使他失去工作资格。在深夜的新闻节目中，无形的头颅在摇篮之上……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
-        }
-      ],
-      "accounts": [
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
@@ -583,51 +515,109 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-      "titleZh": "社区话题：挪威考虑对特朗普在世界杯红牌传奇中的角色提出国际足联道德投诉",
+      "title": "社区话题：Fifa opens disciplinary proceedings against Argentina over Falklands banner and final chaos",
+      "titleZh": "社区话题：国际足联就福克兰群岛旗帜和最终混乱对阿根廷提起纪律诉讼",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 77,
+      "heat": 74,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at...",
-      "summaryZh": "中文翻译：挪威联邦总统：国际足联在一个“滑坡”上打电话给Infantino ，要求审查Balogun的红色唐纳德特朗普在清除Folarin Balogun的强制性一场比赛禁令方面的作用。",
+      "summary": "公开来源显示该议题正在发酵：Players held banner after semi-final against England Paredes and Molina investigated over brawl after final Fifa has opened disciplinary ­proceedings against Argentina over the Falkland Isla...",
+      "summaryZh": "中文翻译：在对阵英格兰帕雷德斯的半决赛结束后，球员们举着旗帜，莫利纳在最后一场国际足联对阿根廷展开针对福克兰群岛的纪律诉讼后，对争吵进行了调查。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
+          "url": "https://www.theguardian.com/football/2026/jul/29/fifa-open-disciplinary-proceedings-against-argentina-over-falklands-banner-and-final-chaos"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@elliottvenis",
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy",
+      "titleZh": "社区话题：昆士兰州和北领地拒绝工党推动确保耗电量大的人工智能数据中心使用可再生能源",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Federal-state stoush comes as rating agency warns that electricity bills could skyrocket Follow our Australia news live blog for latest updates Get our breaking news email , free app or dail...",
+      "summaryZh": "中文翻译：随着评级机构警告电费可能飙升，联邦政府发布了最新消息关注我们的澳大利亚新闻直播博客获取我们的突发新闻电子邮件，免费应用程序或DAIL...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：‘Absolutely bananas’: San Francisco homes sell for $1m above asking price amid AI boom",
+      "titleZh": "社区话题：“绝对香蕉” ：在人工智能繁荣时期，旧金山的房屋售价比要价高出$ 100万",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Report finds widespread overbidding as rapid AI growth generates increased wealth in city where housing is scarce San Francisco’s AI boom has buyers spending unprecedented amounts of money o...",
+      "summaryZh": "中文翻译：报告发现，由于快速的人工智能增长在住房稀缺的城市创造了更多的财富，旧金山的人工智能热潮让买家花费了前所未有的金钱。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/us-news/2026/jul/07/san-francisco-home-sale-prices-ai"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,17 +627,27 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?": {
+    "实时讨论：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury": {
+    "实时讨论：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Putellas, Batlle and León are gone: what will be left of Barcelona after latest exodus?": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "视觉热点：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear": {
+    "视觉热点：Football transfer rumours: Eli Junior Kroupi to boost Barcelona attack?": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,22 +657,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：What links Horrible Histories and Gordon Brown’s neighbour? The bumper summer quiz": {
+    "视觉热点：Commonwealth Games 2026: 3x3 basketball golds for England and Australia, Scotland shine in pool on day six – as it happened": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,27 +672,37 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?": {
+    "短视频趋势：Football Daily | Back to the playground of the disgustingly rich: it’s club football!": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Meta disregarded its own research on teen harm, Tennessee lawyers tell jury": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Putellas, Batlle and León are gone: what will be left of Barcelona after latest exodus?": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "社区话题：Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew": {
+    "社区话题：Fifa opens disciplinary proceedings against Argentina over Falklands banner and final chaos": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga": {
+    "社区话题：Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：‘Absolutely bananas’: San Francisco homes sell for $1m above asking price amid AI boom": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
