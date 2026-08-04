@@ -1,82 +1,14 @@
 {
-  "generatedAt": "2026-08-03T04:47:40.797093+00:00",
-  "generatedAtBeijing": "2026-08-03 12:47",
+  "generatedAt": "2026-08-04T04:31:59.613846+00:00",
+  "generatedAtBeijing": "2026-08-04 12:31",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：Franco Baresi obituary",
-      "titleZh": "实时讨论：佛朗哥·巴雷西讣告",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 91,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Italian footballer who captained AC Milan for 15 of his 20 seasons, a period of unprecedented success for the club At a time when Italian football was known for the excellence of its defensi...",
-      "summaryZh": "中文翻译：意大利足球运动员，他在AC米兰的20个赛季中担任了15个赛季的队长，这是俱乐部前所未有的成功时期。当时意大利足球以其出色的防守而闻名……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-obituary"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video",
-      "titleZh": "实时讨论：《足球周刊》夏季邮袋： 2026年世界杯、淡季等，第一部分–视频",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson to answer your questions from the mailbag Continue reading...",
-      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、John Brewin和Jonathan Wilson一起从邮袋中回答您的问题。继续阅读...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened",
       "titleZh": "实时讨论：富时100指数创下自五个月前美国首次袭击伊朗以来的最佳月度表现",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
+      "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest since Donald Trump ordered renewed strikes T...",
       "summaryZh": "中文翻译：伦敦最大的公司无视中东的干扰，英国汽油价格上涨至每升约1.60 £ ，这是自唐纳德特朗普下令重新罢工以来的最高水平。",
@@ -89,14 +21,14 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Ivy_Dinma",
@@ -110,7 +42,7 @@
       "title": "实时讨论：Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronaldinho Effect",
       "titleZh": "实时讨论：营销噱头还是“非同寻常”的转移？拉文纳球迷乘坐罗纳尔迪尼奥效应的浪潮",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
+      "heat": 74,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Brazil legend’s decision to play in Serie C at 46 has divided fans – but the man who arranged the deal has high hopes On a scorching summer afternoon in Ravenna, a city far better known for ...",
       "summaryZh": "中文翻译：巴西传奇人物决定以46岁的身份参加意甲联赛，这让球迷们产生了分歧–但安排这笔交易的人对拉文纳一个炎热的夏日下午寄予厚望，拉文纳是一个以……而闻名的城市。",
@@ -123,14 +55,82 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Serena and Venus Williams set to play doubles in Cincinnati as US Open nears",
+      "titleZh": "实时讨论：随着美国公开赛的临近，塞雷娜和维纳斯威廉姆斯将在辛辛那提打双打",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Pair last played doubles at the 2022 US Open Serena returned to action at Wimbledon before injury US Open begins 31 August in New York Serena Williams and Venus Williams are ⁠set to make the...",
+      "summaryZh": "中文翻译：最后一对在2022年美国网球公开赛上打双打的塞雷娜在8月31日受伤前重返温布尔登美国网球公开赛纽约赛雷娜·威廉姆斯和维纳斯·威廉姆斯将成为...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/03/serena-williams-venus-williams-cincinnati-open-doubles"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
+      "titleZh": "实时讨论：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
+      "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/01/womens-football-continues-to-be-pawn-gianni-infantino-fifa-tenure"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -141,26 +141,21 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Football Daily | Will Gianni Infantino survive as Fifa president?",
-      "titleZh": "实时讨论：足球日报|詹尼·因凡蒂诺（ Gianni Infantino ）能否继续担任国际足联主席？",
+      "title": "实时讨论：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
+      "titleZh": "实时讨论：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 76,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! You have to hand it to Gianni Infantino, his timing was impeccable. After the relative on-field success of the Geopolitics World Cup, Fifa...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！你必须把它交给Gianni Infantino ，他的时机是无可挑剔的。在地缘政治世界杯取得相对成功之后，国际足联...",
+      "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
+      "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/31/football-daily-email-gianni-infantino-fifa"
+          "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
         }
       ],
       "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
@@ -170,35 +165,6 @@
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
-      "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 83,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
-      "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -209,52 +175,18 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：The five big beasts are gone: who will be the Premier League’s next alpha manager? | Jonathan Wilson",
-      "titleZh": "视觉热点：五大巨兽不见了：谁将成为英超联赛的下一任阿尔法经理？ |乔纳森·威尔逊",
+      "title": "视觉热点：Serena and Venus Williams set to play doubles in Cincinnati as US Open nears",
+      "titleZh": "视觉热点：随着美国公开赛的临近，塞雷娜和维纳斯威廉姆斯将在辛辛那提打双打",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Arsenal’s Mikel Arteta is perhaps best placed to fill the void but the coaching contenders are legion as another season looms This used to be a land of giants. This used to be a land where b...",
-      "summaryZh": "中文翻译：阿森纳的米克尔·阿尔特塔（ Mikel Arteta ）可能最适合填补这一空白，但教练竞争者是军团，因为另一个赛季即将到来。这曾经是巨人的土地。这里曾经是一片土地，在那里……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/02/premier-league-managers-arteta-alonso-de-zerbi-carrick-klopp-guardiola"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
-      "titleZh": "视觉热点：如果我们有正确的人工智能怎么办？作者： Eleanor Drage评论–避免世界末日",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 86,
+      "heat": 87,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers The AI ethicist Eleanor Drage believes that to thrive alongside artificial intel...",
-      "summaryZh": "中文翻译：这位学者雄心勃勃的技术伦理指南没有兑现其提供有意义答案的承诺。人工智能伦理学家埃莉诺·德拉格（ Eleanor Drage ）认为，与人工智能一起茁壮成长......",
+      "summary": "公开来源显示该议题正在发酵：Pair last played doubles at the 2022 US Open Serena returned to action at Wimbledon before injury US Open begins 31 August in New York Serena Williams and Venus Williams are ⁠set to make the...",
+      "summaryZh": "中文翻译：最后一对在2022年美国网球公开赛上打双打的塞雷娜在8月31日受伤前重返温布尔登美国网球公开赛纽约赛雷娜·威廉姆斯和维纳斯·威廉姆斯将成为...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/03/serena-williams-venus-williams-cincinnati-open-doubles"
         }
       ],
       "accounts": [
@@ -277,64 +209,166 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas",
-      "titleZh": "视觉热点：本周体育测验：英格兰对挪威、温布尔登和亚历克西娅·普特拉斯",
+      "title": "视觉热点：Emma Raducanu to miss US Open with leg injury in latest fitness setback",
+      "titleZh": "视觉热点：Emma Raducanu因腿部受伤错过美国公开赛",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Have you followed the big stories in football, tennis, rugby union, cricket, cycling, rugby league and swimming? Continue reading...",
-      "summaryZh": "中文翻译：您是否关注过足球、网球、橄榄球联盟、板球、自行车、橄榄球联赛和游泳方面的大故事？继续阅读...",
+      "heat": 88,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：2021 US Open champion out with stress fracture in leg Raducanu also missed Wimbledon through injury Emma Raducanu will miss the US Open because of the stress fracture in her right leg that s...",
+      "summaryZh": "中文翻译：2021年美国网球公开赛冠军拉杜卡努因腿部应力性骨折出局，也因受伤错过了温布尔登网球公开赛艾玛·拉杜卡努（ Emma Raducanu ）将错过美国网球公开赛，因为她的右腿应力性骨折...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/sport/2026/jul/10/sports-quiz-week-england-norway-wimbledon-putellas-football-tennis-rugby-cricket-cycling"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/03/emma-raducanu-leg-injury-us-open-tennis"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
+      "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
+      "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：The five big beasts are gone: who will be the Premier League’s next alpha manager? | Jonathan Wilson",
+      "titleZh": "视觉热点：五大巨兽不见了：谁将成为英超联赛的下一任阿尔法经理？ |乔纳森·威尔逊",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 68,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Arsenal’s Mikel Arteta is perhaps best placed to fill the void but the coaching contenders are legion as another season looms This used to be a land of giants. This used to be a land where b...",
+      "summaryZh": "中文翻译：阿森纳的米克尔·阿尔特塔（ Mikel Arteta ）可能最适合填补这一空白，但教练竞争者是军团，因为另一个赛季即将到来。这曾经是巨人的土地。这里曾经是一片土地，在那里……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/02/premier-league-managers-arteta-alonso-de-zerbi-carrick-klopp-guardiola"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Franco Baresi obituary",
-      "titleZh": "短视频趋势：佛朗哥·巴雷西讣告",
+      "title": "短视频趋势：FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened",
+      "titleZh": "短视频趋势：富时100指数创下自五个月前美国首次袭击伊朗以来的最佳月度表现",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
+      "heat": 78,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Italian footballer who captained AC Milan for 15 of his 20 seasons, a period of unprecedented success for the club At a time when Italian football was known for the excellence of its defensi...",
-      "summaryZh": "中文翻译：意大利足球运动员，他在AC米兰的20个赛季中担任了15个赛季的队长，这是俱乐部前所未有的成功时期。当时意大利足球以其出色的防守而闻名……",
+      "summary": "公开来源显示该议题正在发酵：Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest since Donald Trump ordered renewed strikes T...",
+      "summaryZh": "中文翻译：伦敦最大的公司无视中东的干扰，英国汽油价格上涨至每升约1.60 £ ，这是自唐纳德特朗普下令重新罢工以来的最高水平。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-obituary"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates"
         }
       ],
       "accounts": [
         {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronaldinho Effect",
+      "titleZh": "短视频趋势：营销噱头还是“非同寻常”的转移？拉文纳球迷乘坐罗纳尔迪尼奥效应的浪潮",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 89,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Brazil legend’s decision to play in Serie C at 46 has divided fans – but the man who arranged the deal has high hopes On a scorching summer afternoon in Ravenna, a city far better known for ...",
+      "summaryZh": "中文翻译：巴西传奇人物决定以46岁的身份参加意甲联赛，这让球迷们产生了分歧–但安排这笔交易的人对拉文纳一个炎热的夏日下午寄予厚望，拉文纳是一个以……而闻名的城市。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/01/marketing-stunt-or-extraordinary-transfer-ravenna-fans-ronaldinho"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@igoeLFC",
@@ -345,52 +379,18 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video",
-      "titleZh": "短视频趋势：《足球周刊》夏季邮袋： 2026年世界杯、淡季等，第一部分–视频",
+      "title": "短视频趋势：Serena and Venus Williams set to play doubles in Cincinnati as US Open nears",
+      "titleZh": "短视频趋势：随着美国公开赛的临近，塞雷娜和维纳斯威廉姆斯将在辛辛那提打双打",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 83,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson to answer your questions from the mailbag Continue reading...",
-      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、John Brewin和Jonathan Wilson一起从邮袋中回答您的问题。继续阅读...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened",
-      "titleZh": "短视频趋势：富时100指数创下自五个月前美国首次袭击伊朗以来的最佳月度表现",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest since Donald Trump ordered renewed strikes T...",
-      "summaryZh": "中文翻译：伦敦最大的公司无视中东的干扰，英国汽油价格上涨至每升约1.60 £ ，这是自唐纳德特朗普下令重新罢工以来的最高水平。",
+      "summary": "公开来源显示该议题正在发酵：Pair last played doubles at the 2022 US Open Serena returned to action at Wimbledon before injury US Open begins 31 August in New York Serena Williams and Venus Williams are ⁠set to make the...",
+      "summaryZh": "中文翻译：最后一对在2022年美国网球公开赛上打双打的塞雷娜在8月31日受伤前重返温布尔登美国网球公开赛纽约赛雷娜·威廉姆斯和维纳斯·威廉姆斯将成为...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/03/serena-williams-venus-williams-cincinnati-open-doubles"
         }
       ],
       "accounts": [
@@ -413,60 +413,21 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronaldinho Effect",
-      "titleZh": "短视频趋势：营销噱头还是“非同寻常”的转移？拉文纳球迷乘坐罗纳尔迪尼奥效应的浪潮",
+      "title": "短视频趋势：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
+      "titleZh": "短视频趋势：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Brazil legend’s decision to play in Serie C at 46 has divided fans – but the man who arranged the deal has high hopes On a scorching summer afternoon in Ravenna, a city far better known for ...",
-      "summaryZh": "中文翻译：巴西传奇人物决定以46岁的身份参加意甲联赛，这让球迷们产生了分歧–但安排这笔交易的人对拉文纳一个炎热的夏日下午寄予厚望，拉文纳是一个以……而闻名的城市。",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
+      "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/01/marketing-stunt-or-extraordinary-transfer-ravenna-fans-ronaldinho"
+          "url": "https://www.theguardian.com/football/2026/aug/01/womens-football-continues-to-be-pawn-gianni-infantino-fifa-tenure"
         }
       ],
       "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Will Gianni Infantino survive as Fifa president?",
-      "titleZh": "短视频趋势：足球日报|詹尼·因凡蒂诺（ Gianni Infantino ）能否继续担任国际足联主席？",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! You have to hand it to Gianni Infantino, his timing was impeccable. After the relative on-field success of the Geopolitics World Cup, Fifa...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！你必须把它交给Gianni Infantino ，他的时机是无可挑剔的。在地缘政治世界杯取得相对成功之后，国际足联...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/31/football-daily-email-gianni-infantino-fifa"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
@@ -476,23 +437,28 @@
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：Franco Baresi obituary",
-      "titleZh": "社区话题：佛朗哥·巴雷西讣告",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Italian footballer who captained AC Milan for 15 of his 20 seasons, a period of unprecedented success for the club At a time when Italian football was known for the excellence of its defensi...",
-      "summaryZh": "中文翻译：意大利足球运动员，他在AC米兰的20个赛季中担任了15个赛季的队长，这是俱乐部前所未有的成功时期。当时意大利足球以其出色的防守而闻名……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "platform": "tiktok",
+      "title": "短视频趋势：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
+      "titleZh": "短视频趋势：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
+      "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-obituary"
+          "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
         }
       ],
       "accounts": [
@@ -502,9 +468,9 @@
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -518,7 +484,7 @@
       "title": "社区话题：FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened",
       "titleZh": "社区话题：富时100指数创下自五个月前美国首次袭击伊朗以来的最佳月度表现",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 90,
+      "heat": 92,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest since Donald Trump ordered renewed strikes T...",
       "summaryZh": "中文翻译：伦敦最大的公司无视中东的干扰，英国汽油价格上涨至每升约1.60 £ ，这是自唐纳德特朗普下令重新罢工以来的最高水平。",
@@ -531,19 +497,19 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -552,7 +518,7 @@
       "title": "社区话题：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "社区话题：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 73,
+      "heat": 75,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -565,14 +531,14 @@
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
@@ -586,7 +552,7 @@
       "title": "社区话题：Franco Baresi was not only the captain but the moral heart of great Milan team",
       "titleZh": "社区话题：佛朗哥·巴雷西不仅是队长，也是伟大米兰队的道德核心",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：The late centre-back defined an era of Italian defending and his collection of honours is eternal proof of his class There are very few players who become bywords for their position, who enj...",
       "summaryZh": "中文翻译：这位已故的中后卫定义了一个意大利防守的时代，他的荣誉收藏是他职业的永恒证明很少有球员成为他们位置的代名词，他们...",
@@ -599,34 +565,58 @@
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Not so black and white: how Eddie Howe lost control at Newcastle in one summer | Louise Taylor",
+      "titleZh": "社区话题：不那么黑白分明： Eddie Howe如何在一个夏天失去了对纽卡斯尔的控制| Louise Taylor",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Everything was looking rosy for Howe at St James’ Park until Alexander Isak’s departure led to rushed signings and a messy season Last September, David Hopkinson, just installed as Newcastle...",
+      "summaryZh": "中文翻译：在圣詹姆斯公园，豪的一切看起来都很美好，直到亚历山大·伊萨克（ Alexander Isak ）的离开导致了匆忙的签约和一个混乱的赛季。去年9月，大卫·霍普金森（ David Hopkinson ）刚刚",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/jul/30/not-so-black-and-white-how-one-summer-saw-eddie-howe-lose-control-at-newcastle"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：Franco Baresi obituary": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
@@ -637,10 +627,30 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Will Gianni Infantino survive as Fifa president?": {
+    "实时讨论：Serena and Venus Williams set to play doubles in Cincinnati as US Open nears": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "视觉热点：Serena and Venus Williams set to play doubles in Cincinnati as US Open nears": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Emma Raducanu to miss US Open with leg injury in latest fitness setback": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
@@ -652,26 +662,6 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "短视频趋势：Franco Baresi obituary": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
@@ -682,15 +672,20 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | Will Gianni Infantino survive as Fifa president?": {
+    "短视频趋势：Serena and Venus Williams set to play doubles in Cincinnati as US Open nears": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Franco Baresi obituary": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "社区话题：FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
@@ -703,6 +698,11 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Franco Baresi was not only the captain but the moral heart of great Milan team": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Not so black and white: how Eddie Howe lost control at Newcastle in one summer | Louise Taylor": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
