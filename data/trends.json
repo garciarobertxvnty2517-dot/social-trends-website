@@ -1,39 +1,107 @@
 {
-  "generatedAt": "2026-08-06T04:31:39.555816+00:00",
-  "generatedAtBeijing": "2026-08-06 12:31",
+  "generatedAt": "2026-08-07T04:03:53.315991+00:00",
+  "generatedAtBeijing": "2026-08-07 12:03",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronaldinho Effect",
-      "titleZh": "实时讨论：营销噱头还是“非同寻常”的转移？拉文纳球迷乘坐罗纳尔迪尼奥效应的浪潮",
+      "title": "实时讨论：Argentina commemorate win against England at World Cup 2026 with special day",
+      "titleZh": "实时讨论：阿根廷用特别的日子纪念2026年世界杯对阵英格兰的胜利",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 76,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Brazil legend’s decision to play in Serie C at 46 has divided fans – but the man who arranged the deal has high hopes On a scorching summer afternoon in Ravenna, a city far better known for ...",
-      "summaryZh": "中文翻译：巴西传奇人物决定以46岁的身份参加意甲联赛，这让球迷们产生了分歧–但安排这笔交易的人对拉文纳一个炎热的夏日下午寄予厚望，拉文纳是一个以……而闻名的城市。",
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：National Football Teams Day established for 15 July Post-match celebrations included Falklands banner Argentina’s World Cup semi-final win over England last month is being commemorated by th...",
+      "summaryZh": "中文翻译：为7月15日设立的国家足球队日赛后庆祝活动包括福克兰群岛旗帜阿根廷上个月对英格兰队的世界杯半决赛胜利。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/01/marketing-stunt-or-extraordinary-transfer-ravenna-fans-ronaldinho"
+          "url": "https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears",
+      "titleZh": "实时讨论：餐厅、酒吧和剧院出于对隐私的担忧而禁止Meta的“间谍眼镜”",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Meta says safeguards are in place to prevent surreptitious filming, but some UK venues now prohibit them from being worn at all When Meta used superstar Kylie Jenner to promote its sleek new...",
+      "summaryZh": "中文翻译：Meta说，已经采取了保障措施来防止秘密拍摄，但当Meta使用超级明星Kylie Jenner来推广其时尚的新...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
+      "titleZh": "实时讨论：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
+      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -42,7 +110,7 @@
       "title": "实时讨论：Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
       "titleZh": "实时讨论：因凡蒂诺正在接受他的业力踢球，但为什么足球花了这么长时间来反抗国际足联？ | Jonathan Liew",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 83,
+      "heat": 79,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades the city of Salé, just a...",
       "summaryZh": "中文翻译：联合会领导人正在大门口集结力量，但在第一次提出出售其商业遗产和卡塔尔世界杯多年之后近几十年来，萨莱市只是一个...",
@@ -55,19 +123,19 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -76,7 +144,7 @@
       "title": "实时讨论：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "实时讨论：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
+      "heat": 68,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -94,82 +162,48 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
-      "titleZh": "实时讨论：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
-      "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
-      "platform": "x",
-      "title": "实时讨论：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
-      "titleZh": "实时讨论：新面孔、课堂鸿沟和有缺陷的戏剧： 48支球队如何改变世界杯",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 73,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president ...",
-      "summaryZh": "中文翻译：第一届48支球队的世界杯既有正面也有负面--我们是否需要为64支球队的未来做好准备？ Gianni Infantino接替Sepp Blatter担任总裁还不到12个月……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "platform": "instagram",
+      "title": "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
+      "titleZh": "视觉热点：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
+      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -178,7 +212,7 @@
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 83,
+      "heat": 81,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -191,53 +225,19 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘He’s tiny, dumpy and funny – so his BMX tricks are hilarious’: Tanuki: Pon’s Summer, an adorable slice-of-life adventure",
-      "titleZh": "视觉热点：“他很小，矮胖又有趣--所以他的BMX技巧很搞笑” ： Tanuki ： Pon’s Summer ，一场可爱的生活片段冒险",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Denkiworks’ debut lets players pull off tricks and pull pints in a stunning, Japan-inspired setting A freeloading tanuki, mounting debt, and a town full of possibilities will sound familiar ...",
-      "summaryZh": "中文翻译：Denkiworks的首次亮相让玩家可以在令人惊叹的日本风情中玩弄技巧和品脱。免费的tanuki ，不断增加的债务，一个充满可能性的小镇听起来很熟悉......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/aug/04/tanuki-pons-summer-bmx-adventure-japan"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@ImKushanK",
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -311,35 +311,103 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronaldinho Effect",
-      "titleZh": "短视频趋势：营销噱头还是“非同寻常”的转移？拉文纳球迷乘坐罗纳尔迪尼奥效应的浪潮",
+      "title": "短视频趋势：Argentina commemorate win against England at World Cup 2026 with special day",
+      "titleZh": "短视频趋势：阿根廷用特别的日子纪念2026年世界杯对阵英格兰的胜利",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 91,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Brazil legend’s decision to play in Serie C at 46 has divided fans – but the man who arranged the deal has high hopes On a scorching summer afternoon in Ravenna, a city far better known for ...",
-      "summaryZh": "中文翻译：巴西传奇人物决定以46岁的身份参加意甲联赛，这让球迷们产生了分歧–但安排这笔交易的人对拉文纳一个炎热的夏日下午寄予厚望，拉文纳是一个以……而闻名的城市。",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：National Football Teams Day established for 15 July Post-match celebrations included Falklands banner Argentina’s World Cup semi-final win over England last month is being commemorated by th...",
+      "summaryZh": "中文翻译：为7月15日设立的国家足球队日赛后庆祝活动包括福克兰群岛旗帜阿根廷上个月对英格兰队的世界杯半决赛胜利。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/01/marketing-stunt-or-extraordinary-transfer-ravenna-fans-ronaldinho"
+          "url": "https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@elliottvenis",
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears",
+      "titleZh": "短视频趋势：餐厅、酒吧和剧院出于对隐私的担忧而禁止Meta的“间谍眼镜”",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 88,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Meta says safeguards are in place to prevent surreptitious filming, but some UK venues now prohibit them from being worn at all When Meta used superstar Kylie Jenner to promote its sleek new...",
+      "summaryZh": "中文翻译：Meta说，已经采取了保障措施来防止秘密拍摄，但当Meta使用超级明星Kylie Jenner来推广其时尚的新...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
+      "titleZh": "短视频趋势：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
+      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -348,7 +416,7 @@
       "title": "短视频趋势：Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
       "titleZh": "短视频趋势：因凡蒂诺正在接受他的业力踢球，但为什么足球花了这么长时间来反抗国际足联？ | Jonathan Liew",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 82,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades the city of Salé, just a...",
       "summaryZh": "中文翻译：联合会领导人正在大门口集结力量，但在第一次提出出售其商业遗产和卡塔尔世界杯多年之后近几十年来，萨莱市只是一个...",
@@ -366,14 +434,14 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -382,7 +450,7 @@
       "title": "短视频趋势：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "短视频趋势：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
+      "heat": 82,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -412,53 +480,19 @@
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
-      "titleZh": "短视频趋势：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
-      "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "platform": "facebook",
+      "title": "社区话题：Argentina commemorate win against England at World Cup 2026 with special day",
+      "titleZh": "社区话题：阿根廷用特别的日子纪念2026年世界杯对阵英格兰的胜利",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：National Football Teams Day established for 15 July Post-match celebrations included Falklands banner Argentina’s World Cup semi-final win over England last month is being commemorated by th...",
+      "summaryZh": "中文翻译：为7月15日设立的国家足球队日赛后庆祝活动包括福克兰群岛旗帜阿根廷上个月对英格兰队的世界杯半决赛胜利。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
-      "titleZh": "短视频趋势：新面孔、课堂鸿沟和有缺陷的戏剧： 48支球队如何改变世界杯",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president ...",
-      "summaryZh": "中文翻译：第一届48支球队的世界杯既有正面也有负面--我们是否需要为64支球队的未来做好准备？ Gianni Infantino接替Sepp Blatter担任总裁还不到12个月……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
+          "url": "https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england"
         }
       ],
       "accounts": [
@@ -468,14 +502,82 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears",
+      "titleZh": "社区话题：餐厅、酒吧和剧院出于对隐私的担忧而禁止Meta的“间谍眼镜”",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Meta says safeguards are in place to prevent surreptitious filming, but some UK venues now prohibit them from being worn at all When Meta used superstar Kylie Jenner to promote its sleek new...",
+      "summaryZh": "中文翻译：Meta说，已经采取了保障措施来防止秘密拍摄，但当Meta使用超级明星Kylie Jenner来推广其时尚的新...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
+      "titleZh": "社区话题：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
+      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -484,7 +586,7 @@
       "title": "社区话题：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "社区话题：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 77,
+      "heat": 71,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -497,127 +599,35 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
         },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion",
-      "titleZh": "社区话题：为什么我永远不会被Meta的“变态”眼镜说服|意见",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：'Most people don’t want pervert glasses that can film us without our consent,' said a spokesperson from activist group Everyone Hates Elon. The group has launched a series of guerilla advert...",
-      "summaryZh": "中文翻译：“大多数人不想要未经我们同意就可以拍摄我们的变态眼镜，”活动组织“人人都讨厌埃隆”的发言人说。该集团推出了一系列游击广告……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley",
-      "titleZh": "社区话题：“如果我们不反击，我们就没有未来” ：这位记者对抗硅谷的“科技法西斯主义者”",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As Elon Musk, Peter Thiel and their peers have grown richer and more influential, Gil Durán argues they have all but abandoned democracy – and found the perfect government to enable them In ...",
-      "summaryZh": "中文翻译：随着埃隆·马斯克（ Elon Musk ）、彼得·蒂尔（ Peter Thiel ）和他们的同龄人变得越来越富有，越来越有影响力，吉尔·杜兰（ Gil Durán ）认为他们几乎已经放弃了民主，并找到了完美的政府来使他们能够……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Franco Baresi was not only the captain but the moral heart of great Milan team",
-      "titleZh": "社区话题：佛朗哥·巴雷西不仅是队长，也是伟大米兰队的道德核心",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The late centre-back defined an era of Italian defending and his collection of honours is eternal proof of his class There are very few players who become bywords for their position, who enj...",
-      "summaryZh": "中文翻译：这位已故的中后卫定义了一个意大利防守的时代，他的荣誉收藏是他职业的永恒证明很少有球员成为他们位置的代名词，他们...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-was-not-only-the-captain-but-the-moral-heart-of-sacchis-great-milan-team"
-        }
-      ],
-      "accounts": [
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronaldinho Effect": {
+    "实时讨论：Argentina commemorate win against England at World Cup 2026 with special day": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,22 +642,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
+    "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘He’s tiny, dumpy and funny – so his BMX tricks are hilarious’: Tanuki: Pon’s Summer, an adorable slice-of-life adventure": {
+    "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -662,7 +662,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronaldinho Effect": {
+    "短视频趋势：Argentina commemorate win against England at World Cup 2026 with special day": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,32 +687,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "社区话题：Argentina commemorate win against England at World Cup 2026 with special day": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "短视频趋势：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "社区话题：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Franco Baresi was not only the captain but the moral heart of great Milan team": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
