@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-08-07T04:03:53.315991+00:00",
-  "generatedAtBeijing": "2026-08-07 12:03",
+  "generatedAt": "2026-08-08T03:01:13.541732+00:00",
+  "generatedAtBeijing": "2026-08-08 11:01",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：Argentina commemorate win against England at World Cup 2026 with special day",
-      "titleZh": "实时讨论：阿根廷用特别的日子纪念2026年世界杯对阵英格兰的胜利",
+      "title": "实时讨论：New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "titleZh": "实时讨论：新墨西哥州法院命令Meta为损害儿童心理健康支付5.67亿美元$",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：National Football Teams Day established for 15 July Post-match celebrations included Falklands banner Argentina’s World Cup semi-final win over England last month is being commemorated by th...",
-      "summaryZh": "中文翻译：为7月15日设立的国家足球队日赛后庆祝活动包括福克兰群岛旗帜阿根廷上个月对英格兰队的世界杯半决赛胜利。",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Ruling comes as part of second phase of landmark trial that found social media company enabled harm against users A New Mexico court has ordered Meta, the parent company of Facebook, to pay ...",
+      "summaryZh": "中文翻译：这项裁决是具有里程碑意义的审判的第二阶段的一部分，该审判发现社交媒体公司对用户造成了伤害。新墨西哥州法院命令Facebook的母公司Meta支付...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -107,40 +107,6 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
-      "titleZh": "实时讨论：因凡蒂诺正在接受他的业力踢球，但为什么足球花了这么长时间来反抗国际足联？ | Jonathan Liew",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades the city of Salé, just a...",
-      "summaryZh": "中文翻译：联合会领导人正在大门口集结力量，但在第一次提出出售其商业遗产和卡塔尔世界杯多年之后近几十年来，萨莱市只是一个...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
       "title": "实时讨论：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "实时讨论：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "实时讨论、新闻发酵、观点交锋",
@@ -157,19 +123,53 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
+      "titleZh": "实时讨论：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 76,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
+      "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -209,10 +209,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
+      "titleZh": "视觉热点：因凡蒂诺的世界杯抛售崩溃震撼了足球，但国际足联的危机有着深刻而腐烂的根源",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and we...",
+      "summaryZh": "中文翻译：对于一个可能无法挽回的机构来说，这是非凡的几天，但这个故事可以追溯到2010年的决定有几十年什么都没有发生，我们......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -225,9 +259,9 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
@@ -235,38 +269,38 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：The ​games industry’s obsession with ​visual fidelity is costing them money and talent",
-      "titleZh": "视觉热点：游戏行业对视觉保真度的痴迷让他们付出了金钱和人才的代价",
+      "title": "视觉热点：Will Lankshear starts off in style to see Middlesbrough past Wrexham",
+      "titleZh": "视觉热点：威尔·兰克希尔（ Will Lankshear ）以风格出发，参观米德尔斯堡（ Middlesbrough ）",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
+      "heat": 84,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Big developers are discovering that the technical progress of photorealism doesn’t always translate into the creative spark that gives gamers joy – and keeps them playing • Don’t get Pushing...",
-      "summaryZh": "中文翻译：大型开发商发现，逼真的技术进步并不总是转化为给游戏玩家带来快乐并让他们继续玩游戏的创意火花•不要太激动……",
+      "summary": "公开来源显示该议题正在发酵：Will Lankshear’s debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round. Lankshear, a £10m summer signing from Tottenha...",
+      "summaryZh": "中文翻译：威尔·兰克希尔（ Will Lankshear ）的首次亮相确保了米德尔斯堡（ Middlesbrough ）在本赛季的胜利开始，因为他们在Carabao杯第一轮中以1比0击败了雷克瑟姆（ W Lankshear ，来自托特纳的£ 1000万夏季签约……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/aug/04/pushing-buttons-xbox-asha-sharma-games-industry-hyperrealism"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@Ivy_Dinma",
@@ -276,19 +310,19 @@
       ]
     },
     {
-      "platform": "instagram",
-      "title": "视觉热点：What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
-      "titleZh": "视觉热点：如果我们有正确的人工智能怎么办？作者： Eleanor Drage评论–避免世界末日",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers The AI ethicist Eleanor Drage believes that to thrive alongside artificial intel...",
-      "summaryZh": "中文翻译：这位学者雄心勃勃的技术伦理指南没有兑现其提供有意义答案的承诺。人工智能伦理学家埃莉诺·德拉格（ Eleanor Drage ）认为，与人工智能一起茁壮成长......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "platform": "tiktok",
+      "title": "短视频趋势：New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "titleZh": "短视频趋势：新墨西哥州法院命令Meta为损害儿童心理健康支付5.67亿美元$",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 91,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Ruling comes as part of second phase of landmark trial that found social media company enabled harm against users A New Mexico court has ordered Meta, the parent company of Facebook, to pay ...",
+      "summaryZh": "中文翻译：这项裁决是具有里程碑意义的审判的第二阶段的一部分，该审判发现社交媒体公司对用户造成了伤害。新墨西哥州法院命令Facebook的母公司Meta支付...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse"
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
         }
       ],
       "accounts": [
@@ -306,40 +340,6 @@
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Argentina commemorate win against England at World Cup 2026 with special day",
-      "titleZh": "短视频趋势：阿根廷用特别的日子纪念2026年世界杯对阵英格兰的胜利",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：National Football Teams Day established for 15 July Post-match celebrations included Falklands banner Argentina’s World Cup semi-final win over England last month is being commemorated by th...",
-      "summaryZh": "中文翻译：为7月15日设立的国家足球队日赛后庆祝活动包括福克兰群岛旗帜阿根廷上个月对英格兰队的世界杯半决赛胜利。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -413,44 +413,10 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
-      "titleZh": "短视频趋势：因凡蒂诺正在接受他的业力踢球，但为什么足球花了这么长时间来反抗国际足联？ | Jonathan Liew",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades the city of Salé, just a...",
-      "summaryZh": "中文翻译：联合会领导人正在大门口集结力量，但在第一次提出出售其商业遗产和卡塔尔世界杯多年之后近几十年来，萨莱市只是一个...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "短视频趋势：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 82,
+      "heat": 84,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -480,36 +446,70 @@
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：Argentina commemorate win against England at World Cup 2026 with special day",
-      "titleZh": "社区话题：阿根廷用特别的日子纪念2026年世界杯对阵英格兰的胜利",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：National Football Teams Day established for 15 July Post-match celebrations included Falklands banner Argentina’s World Cup semi-final win over England last month is being commemorated by th...",
-      "summaryZh": "中文翻译：为7月15日设立的国家足球队日赛后庆祝活动包括福克兰群岛旗帜阿根廷上个月对英格兰队的世界杯半决赛胜利。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "platform": "tiktok",
+      "title": "短视频趋势：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
+      "titleZh": "短视频趋势：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
+      "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england"
+          "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "titleZh": "社区话题：新墨西哥州法院命令Meta为损害儿童心理健康支付5.67亿美元$",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Ruling comes as part of second phase of landmark trial that found social media company enabled harm against users A New Mexico court has ordered Meta, the parent company of Facebook, to pay ...",
+      "summaryZh": "中文翻译：这项裁决是具有里程碑意义的审判的第二阶段的一部分，该审判发现社交媒体公司对用户造成了伤害。新墨西哥州法院命令Facebook的母公司Meta支付...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -617,7 +617,7 @@
     }
   ],
   "audienceMap": {
-    "实时讨论：Argentina commemorate win against England at World Cup 2026 with special day": {
+    "实时讨论：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,12 +632,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew": {
+    "实时讨论：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack": {
+    "实时讨论：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,22 +647,22 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
+    "视觉热点：Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：The ​games industry’s obsession with ​visual fidelity is costing them money and talent": {
+    "视觉热点：Will Lankshear starts off in style to see Middlesbrough past Wrexham": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "短视频趋势：Argentina commemorate win against England at World Cup 2026 with special day": {
+    "短视频趋势：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,17 +677,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Argentina commemorate win against England at World Cup 2026 with special day": {
+    "短视频趋势：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "社区话题：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
