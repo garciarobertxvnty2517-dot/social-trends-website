@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T03:01:13.541732+00:00",
-  "generatedAtBeijing": "2026-08-08 11:01",
+  "generatedAt": "2026-08-09T03:08:20.827188+00:00",
+  "generatedAtBeijing": "2026-08-09 11:08",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,69 +39,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears",
-      "titleZh": "实时讨论：餐厅、酒吧和剧院出于对隐私的担忧而禁止Meta的“间谍眼镜”",
+      "title": "实时讨论：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John",
+      "titleZh": "实时讨论：为什么超级毛茸茸的动物加入了音乐的破折号，跨越了足球的黑胶唱片前沿|艾玛·约翰",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
+      "heat": 70,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Meta says safeguards are in place to prevent surreptitious filming, but some UK venues now prohibit them from being worn at all When Meta used superstar Kylie Jenner to promote its sleek new...",
-      "summaryZh": "中文翻译：Meta说，已经采取了保障措施来防止秘密拍摄，但当Meta使用超级明星Kylie Jenner来推广其时尚的新...",
+      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is part of a trend to monetise ‘adjacent audiences’ as much as it is a nostalgia trip As someone born on the cusp of t...",
+      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一种将“邻近观众”货币化的趋势的一部分，因为这是一次怀旧之旅。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
-      "titleZh": "实时讨论：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
-      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -110,7 +76,7 @@
       "title": "实时讨论：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "实时讨论：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
+      "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -123,19 +89,19 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -144,7 +110,7 @@
       "title": "实时讨论：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
       "titleZh": "实时讨论：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
+      "heat": 78,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
       "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
@@ -157,53 +123,53 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
-      "platform": "instagram",
-      "title": "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
-      "titleZh": "视觉热点：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "platform": "x",
+      "title": "实时讨论：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
+      "titleZh": "实时讨论：Sky的DiJonai Carrington在因对Sophie Cunningham的严重犯规而被驱逐后发布了“白人特权”",
+      "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 75,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
-      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "summary": "公开来源显示该议题正在发酵：Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected...",
+      "summaryZh": "中文翻译：卡林顿在社交媒体上发布了克拉克的第八个技术触发一场比赛禁令，芝加哥天空的DiJonai Carrington被驱逐出局......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -212,7 +178,7 @@
       "title": "视觉热点：Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
       "titleZh": "视觉热点：因凡蒂诺的世界杯抛售崩溃震撼了足球，但国际足联的危机有着深刻而腐烂的根源",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and we...",
       "summaryZh": "中文翻译：对于一个可能无法挽回的机构来说，这是非凡的几天，但这个故事可以追溯到2010年的决定有几十年什么都没有发生，我们......",
@@ -225,19 +191,19 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -246,7 +212,7 @@
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
+      "heat": 81,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -259,9 +225,9 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@elliottvenis",
@@ -269,9 +235,9 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -280,7 +246,7 @@
       "title": "视觉热点：Will Lankshear starts off in style to see Middlesbrough past Wrexham",
       "titleZh": "视觉热点：威尔·兰克希尔（ Will Lankshear ）以风格出发，参观米德尔斯堡（ Middlesbrough ）",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 84,
+      "heat": 86,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Will Lankshear’s debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round. Lankshear, a £10m summer signing from Tottenha...",
       "summaryZh": "中文翻译：威尔·兰克希尔（ Will Lankshear ）的首次亮相确保了米德尔斯堡（ Middlesbrough ）在本赛季的胜利开始，因为他们在Carabao杯第一轮中以1比0击败了雷克瑟姆（ W Lankshear ，来自托特纳的£ 1000万夏季签约……",
@@ -293,9 +259,43 @@
       ],
       "accounts": [
         {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
+      "titleZh": "视觉热点：如果我们有正确的人工智能怎么办？作者： Eleanor Drage评论–避免世界末日",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers The AI ethicist Eleanor Drage believes that to thrive alongside artificial intel...",
+      "summaryZh": "中文翻译：The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers The AI ethicist Eleanor Drage believes that to thrive alongside artificial intel...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@lifeof_scoop",
@@ -303,9 +303,9 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -345,69 +345,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears",
-      "titleZh": "短视频趋势：餐厅、酒吧和剧院出于对隐私的担忧而禁止Meta的“间谍眼镜”",
+      "title": "短视频趋势：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John",
+      "titleZh": "短视频趋势：为什么超级毛茸茸的动物加入了音乐的破折号，跨越了足球的黑胶唱片前沿|艾玛·约翰",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 88,
+      "heat": 73,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Meta says safeguards are in place to prevent surreptitious filming, but some UK venues now prohibit them from being worn at all When Meta used superstar Kylie Jenner to promote its sleek new...",
-      "summaryZh": "中文翻译：Meta说，已经采取了保障措施来防止秘密拍摄，但当Meta使用超级明星Kylie Jenner来推广其时尚的新...",
+      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is part of a trend to monetise ‘adjacent audiences’ as much as it is a nostalgia trip As someone born on the cusp of t...",
+      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一种将“邻近观众”货币化的趋势的一部分，因为这是一次怀旧之旅。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@ImKushanK",
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
-      "titleZh": "短视频趋势：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
-      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -416,7 +382,7 @@
       "title": "短视频趋势：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "短视频趋势：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 84,
+      "heat": 86,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -450,7 +416,7 @@
       "title": "短视频趋势：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
       "titleZh": "短视频趋势：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
+      "heat": 74,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
       "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
@@ -463,19 +429,53 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
+      "titleZh": "短视频趋势：Sky的DiJonai Carrington在因对Sophie Cunningham的严重犯规而被驱逐后发布了“白人特权”",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected...",
+      "summaryZh": "中文翻译：卡林顿在社交媒体上发布了克拉克的第八个技术触发一场比赛禁令，芝加哥天空的DiJonai Carrington被驱逐出局......",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -515,69 +515,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears",
-      "titleZh": "社区话题：餐厅、酒吧和剧院出于对隐私的担忧而禁止Meta的“间谍眼镜”",
+      "title": "社区话题：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John",
+      "titleZh": "社区话题：为什么超级毛茸茸的动物加入了音乐的破折号，跨越了足球的黑胶唱片前沿|艾玛·约翰",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
+      "heat": 82,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Meta says safeguards are in place to prevent surreptitious filming, but some UK venues now prohibit them from being worn at all When Meta used superstar Kylie Jenner to promote its sleek new...",
-      "summaryZh": "中文翻译：Meta说，已经采取了保障措施来防止秘密拍摄，但当Meta使用超级明星Kylie Jenner来推广其时尚的新...",
+      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is part of a trend to monetise ‘adjacent audiences’ as much as it is a nostalgia trip As someone born on the cusp of t...",
+      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一种将“邻近观众”货币化的趋势的一部分，因为这是一次怀旧之旅。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
-      "titleZh": "社区话题：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
-      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -586,7 +552,7 @@
       "title": "社区话题：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "社区话题：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 71,
+      "heat": 73,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -599,19 +565,53 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
+      "titleZh": "社区话题：Sky的DiJonai Carrington在因对Sophie Cunningham的严重犯规而被驱逐后发布了“白人特权”",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected...",
+      "summaryZh": "中文翻译：卡林顿在社交媒体上发布了克拉克的第八个技术触发一场比赛禁令，芝加哥天空的DiJonai Carrington被驱逐出局......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     }
@@ -622,12 +622,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
+    "实时讨论：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,10 +637,10 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    "实时讨论：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "视觉热点：Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
@@ -662,17 +657,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
+    "视觉热点：What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "短视频趋势：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
+    "短视频趋势：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,22 +682,27 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "社区话题：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
+    "社区话题：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
