@@ -1,14 +1,82 @@
 {
-  "generatedAt": "2026-08-09T03:08:20.827188+00:00",
-  "generatedAtBeijing": "2026-08-09 11:08",
+  "generatedAt": "2026-08-10T03:19:14.752908+00:00",
+  "generatedAtBeijing": "2026-08-10 11:19",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
+    {
+      "platform": "x",
+      "title": "实时讨论：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
+      "titleZh": "实时讨论：“这是一种真正的艺术形式” ：尼日利亚守门员Maduka Okoye讲述乌迪内斯的高端时尚和生活",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 72,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinished business When Maduka Okoye visited Paris fashion week for the Jean Paul Gaultier show,...",
+      "summaryZh": "中文翻译：这位前沃特福德球员谈到了他的场外追求、世界杯的经验教训和未完成的事业。当Maduka Okoye参观巴黎时装周参加Jean Paul Gaultier时装秀时，...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
+      "titleZh": "实时讨论：“我肯定失去了粉丝” ：网红面临着对Meta “变态眼镜”内容的强烈反对",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 84,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hoo...",
+      "summaryZh": "中文翻译：内容创作者表示，使用Facebook所有者制作的“间谍眼镜”会引发大量负面评论。这几乎不是一段令人反感的视频。在环法自行车赛总决赛的喧嚣中， Oliver Hoo……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
     {
       "platform": "x",
       "title": "实时讨论：New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "titleZh": "实时讨论：新墨西哥州法院命令Meta为损害儿童心理健康支付5.67亿美元$",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 68,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Ruling comes as part of second phase of landmark trial that found social media company enabled harm against users A New Mexico court has ordered Meta, the parent company of Facebook, to pay ...",
       "summaryZh": "中文翻译：这项裁决是具有里程碑意义的审判的第二阶段的一部分，该审判发现社交媒体公司对用户造成了伤害。新墨西哥州法院命令Facebook的母公司Meta支付...",
@@ -21,9 +89,9 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@exploraX_",
@@ -31,43 +99,9 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John",
-      "titleZh": "实时讨论：为什么超级毛茸茸的动物加入了音乐的破折号，跨越了足球的黑胶唱片前沿|艾玛·约翰",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is part of a trend to monetise ‘adjacent audiences’ as much as it is a nostalgia trip As someone born on the cusp of t...",
-      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一种将“邻近观众”货币化的趋势的一部分，因为这是一次怀旧之旅。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -76,7 +110,7 @@
       "title": "实时讨论：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "实时讨论：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
+      "heat": 68,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -89,19 +123,19 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -110,7 +144,7 @@
       "title": "实时讨论：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
       "titleZh": "实时讨论：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
+      "heat": 76,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
       "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
@@ -123,53 +157,53 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
         },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
+      "titleZh": "视觉热点：“这是一种真正的艺术形式” ：尼日利亚守门员Maduka Okoye讲述乌迪内斯的高端时尚和生活",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 87,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinished business When Maduka Okoye visited Paris fashion week for the Jean Paul Gaultier show,...",
+      "summaryZh": "中文翻译：这位前沃特福德球员谈到了他的场外追求、世界杯的经验教训和未完成的事业。当Maduka Okoye参观巴黎时装周参加Jean Paul Gaultier时装秀时，...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
+        }
+      ],
+      "accounts": [
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
-      "titleZh": "实时讨论：Sky的DiJonai Carrington在因对Sophie Cunningham的严重犯规而被驱逐后发布了“白人特权”",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected...",
-      "summaryZh": "中文翻译：卡林顿在社交媒体上发布了克拉克的第八个技术触发一场比赛禁令，芝加哥天空的DiJonai Carrington被驱逐出局......",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -178,7 +212,7 @@
       "title": "视觉热点：Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
       "titleZh": "视觉热点：因凡蒂诺的世界杯抛售崩溃震撼了足球，但国际足联的危机有着深刻而腐烂的根源",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
+      "heat": 74,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and we...",
       "summaryZh": "中文翻译：对于一个可能无法挽回的机构来说，这是非凡的几天，但这个故事可以追溯到2010年的决定有几十年什么都没有发生，我们......",
@@ -191,19 +225,19 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -212,7 +246,7 @@
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -225,9 +259,9 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
@@ -235,128 +269,26 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Will Lankshear starts off in style to see Middlesbrough past Wrexham",
-      "titleZh": "视觉热点：威尔·兰克希尔（ Will Lankshear ）以风格出发，参观米德尔斯堡（ Middlesbrough ）",
+      "title": "视觉热点：Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas",
+      "titleZh": "视觉热点：本周体育测验：英格兰对挪威、温布尔登和亚历克西娅·普特拉斯",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 86,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Will Lankshear’s debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round. Lankshear, a £10m summer signing from Tottenha...",
-      "summaryZh": "中文翻译：威尔·兰克希尔（ Will Lankshear ）的首次亮相确保了米德尔斯堡（ Middlesbrough ）在本赛季的胜利开始，因为他们在Carabao杯第一轮中以1比0击败了雷克瑟姆（ W Lankshear ，来自托特纳的£ 1000万夏季签约……",
+      "heat": 72,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Have you followed the big stories in football, tennis, rugby union, cricket, cycling, rugby league and swimming? Continue reading...",
+      "summaryZh": "中文翻译：您是否关注过足球、网球、橄榄球联盟、板球、自行车、橄榄球联赛和游泳方面的大故事？继续阅读...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
-      "titleZh": "视觉热点：如果我们有正确的人工智能怎么办？作者： Eleanor Drage评论–避免世界末日",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers The AI ethicist Eleanor Drage believes that to thrive alongside artificial intel...",
-      "summaryZh": "中文翻译：The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers The AI ethicist Eleanor Drage believes that to thrive alongside artificial intel...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "titleZh": "短视频趋势：新墨西哥州法院命令Meta为损害儿童心理健康支付5.67亿美元$",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 91,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Ruling comes as part of second phase of landmark trial that found social media company enabled harm against users A New Mexico court has ordered Meta, the parent company of Facebook, to pay ...",
-      "summaryZh": "中文翻译：这项裁决是具有里程碑意义的审判的第二阶段的一部分，该审判发现社交媒体公司对用户造成了伤害。新墨西哥州法院命令Facebook的母公司Meta支付...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John",
-      "titleZh": "短视频趋势：为什么超级毛茸茸的动物加入了音乐的破折号，跨越了足球的黑胶唱片前沿|艾玛·约翰",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is part of a trend to monetise ‘adjacent audiences’ as much as it is a nostalgia trip As someone born on the cusp of t...",
-      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一种将“邻近观众”货币化的趋势的一部分，因为这是一次怀旧之旅。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
+          "url": "https://www.theguardian.com/sport/2026/jul/10/sports-quiz-week-england-norway-wimbledon-putellas-football-tennis-rugby-cricket-cycling"
         }
       ],
       "accounts": [
@@ -379,10 +311,112 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
+      "titleZh": "短视频趋势：“这是一种真正的艺术形式” ：尼日利亚守门员Maduka Okoye讲述乌迪内斯的高端时尚和生活",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 72,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinished business When Maduka Okoye visited Paris fashion week for the Jean Paul Gaultier show,...",
+      "summaryZh": "中文翻译：这位前沃特福德球员谈到了他的场外追求、世界杯的经验教训和未完成的事业。当Maduka Okoye参观巴黎时装周参加Jean Paul Gaultier时装秀时，...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
+      "titleZh": "短视频趋势：“我肯定失去了粉丝” ：网红面临着对Meta “变态眼镜”内容的强烈反对",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hoo...",
+      "summaryZh": "中文翻译：内容创作者表示，使用Facebook所有者制作的“间谍眼镜”会引发大量负面评论。这几乎不是一段令人反感的视频。在环法自行车赛总决赛的喧嚣中， Oliver Hoo……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "titleZh": "短视频趋势：新墨西哥州法院命令Meta为损害儿童心理健康支付5.67亿美元$",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 87,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Ruling comes as part of second phase of landmark trial that found social media company enabled harm against users A New Mexico court has ordered Meta, the parent company of Facebook, to pay ...",
+      "summaryZh": "中文翻译：这项裁决是具有里程碑意义的审判的第二阶段的一部分，该审判发现社交媒体公司对用户造成了伤害。新墨西哥州法院命令Facebook的母公司Meta支付...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
       "titleZh": "短视频趋势：女子足球在詹尼·因凡蒂诺（ Gianni Infantino ）的国际足联任期中继续被用作棋子|苏珊娜·拉克（ Suzanne Wrack",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
+      "heat": 84,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not having been deemed worth...",
       "summaryZh": "中文翻译：随着青年和高级预选赛的到来，国际足联在其主要锦标赛中出售股份的计划将严重影响女子比赛，尽管被认为不值得......",
@@ -416,7 +450,7 @@
       "title": "短视频趋势：There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
       "titleZh": "短视频趋势：不能松懈。受侮辱的Infantino必须在国际足联站稳脚跟，否则将被移除| Nick Ames",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
+      "heat": 72,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino ...",
       "summaryZh": "中文翻译：欧足联呼吁抵制和宣布不信任，必须成为推动推翻比赛全球领导者的开场白。没有时间围绕这个主题跳舞。Gianni Infantino...",
@@ -429,53 +463,53 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
-      "titleZh": "短视频趋势：Sky的DiJonai Carrington在因对Sophie Cunningham的严重犯规而被驱逐后发布了“白人特权”",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected...",
-      "summaryZh": "中文翻译：卡林顿在社交媒体上发布了克拉克的第八个技术触发一场比赛禁令，芝加哥天空的DiJonai Carrington被驱逐出局......",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "platform": "facebook",
+      "title": "社区话题：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
+      "titleZh": "社区话题：“我肯定失去了粉丝” ：网红面临着对Meta “变态眼镜”内容的强烈反对",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hoo...",
+      "summaryZh": "中文翻译：内容创作者表示，使用Facebook所有者制作的“间谍眼镜”会引发大量负面评论。这几乎不是一段令人反感的视频。在环法自行车赛总决赛的喧嚣中， Oliver Hoo……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -484,7 +518,7 @@
       "title": "社区话题：New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "titleZh": "社区话题：新墨西哥州法院命令Meta为损害儿童心理健康支付5.67亿美元$",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 77,
+      "heat": 75,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Ruling comes as part of second phase of landmark trial that found social media company enabled harm against users A New Mexico court has ordered Meta, the parent company of Facebook, to pay ...",
       "summaryZh": "中文翻译：这项裁决是具有里程碑意义的审判的第二阶段的一部分，该审判发现社交媒体公司对用户造成了伤害。新墨西哥州法院命令Facebook的母公司Meta支付...",
@@ -497,53 +531,19 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John",
-      "titleZh": "社区话题：为什么超级毛茸茸的动物加入了音乐的破折号，跨越了足球的黑胶唱片前沿|艾玛·约翰",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 82,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is part of a trend to monetise ‘adjacent audiences’ as much as it is a nostalgia trip As someone born on the cusp of t...",
-      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一种将“邻近观众”货币化的趋势的一部分，因为这是一次怀旧之旅。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -583,46 +583,51 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
-      "titleZh": "社区话题：Sky的DiJonai Carrington在因对Sophie Cunningham的严重犯规而被驱逐后发布了“白人特权”",
+      "title": "社区话题：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
+      "titleZh": "社区话题：Super Furry Animals涉足足球并不是Big Music抢钱的一部分| Emma John",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
+      "heat": 77,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected...",
-      "summaryZh": "中文翻译：卡林顿在社交媒体上发布了克拉克的第八个技术触发一场比赛禁令，芝加哥天空的DiJonai Carrington被驱逐出局......",
+      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the ...",
+      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一次怀旧之旅，而不是愤世嫉俗地试图将“邻近的观众”货币化。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
+    "实时讨论：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John": {
+    "实时讨论：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,10 +642,10 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    "视觉热点：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
@@ -652,22 +657,22 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Will Lankshear starts off in style to see Middlesbrough past Wrexham": {
+    "视觉热点：Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "短视频趋势：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
+    "短视频趋势：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John": {
+    "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,17 +687,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "社区话题：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
+    "社区话题：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Why Super Furry Animals joined music’s dash to cross over football’s vinyl frontier | Emma John": {
+    "社区话题：New Mexico court orders Meta to pay $567m over harms to children’s mental health": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham": {
+    "社区话题：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
