@@ -1,82 +1,14 @@
 {
-  "generatedAt": "2026-08-11T03:11:48.977442+00:00",
-  "generatedAtBeijing": "2026-08-11 11:11",
+  "generatedAt": "2026-08-12T03:29:34.326929+00:00",
+  "generatedAtBeijing": "2026-08-12 11:29",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
-      "titleZh": "实时讨论：“这是一种真正的艺术形式” ：尼日利亚守门员Maduka Okoye讲述乌迪内斯的高端时尚和生活",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinished business When Maduka Okoye visited Paris fashion week for the Jean Paul Gaultier show,...",
-      "summaryZh": "中文翻译：这位前沃特福德球员谈到了他的场外追求、世界杯的经验教训和未完成的事业。当Maduka Okoye参观巴黎时装周参加Jean Paul Gaultier时装秀时，...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol",
-      "titleZh": "实时讨论：Vondrousova的滑稽动作将网球兴奋剂测试置于聚光灯下–与足球的观点相去甚远| Tumaini Carayol",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former Wimbledon champion’s suspension comes as Mykhailo Mudryk returns for Chelsea, exposing stark contrast in processes In the months between the first announcement of Marketa Vondrousova’...",
-      "summaryZh": "中文翻译：前温布尔登网球公开赛冠军米哈伊洛·穆德里克（ Mykhailo Mudryk ）重返切尔西（ Chelsea ）时被停赛，这暴露了过程中的鲜明对比在Marketa Vondrousova首次宣布之间的几个月里......",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/10/marketa-vondrousova-doping-ban-tennis-wada-mykhailo-mudryk-chelsea-fa-return-football"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
       "titleZh": "实时讨论：“我肯定失去了粉丝” ：网红面临着对Meta “变态眼镜”内容的强烈反对",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
+      "heat": 86,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hoo...",
       "summaryZh": "中文翻译：内容创作者表示，使用Facebook所有者制作的“间谍眼镜”会引发大量负面评论。这几乎不是一段令人反感的视频。在环法自行车赛总决赛的喧嚣中， Oliver Hoo……",
@@ -94,14 +26,82 @@
           "why": "AI 自动化和增长观点"
         },
         {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Meta faces expensive child safety reckoning",
+      "titleZh": "实时讨论：Meta面临昂贵的儿童安全清算",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 77,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Also: Google executives jump ship in race for AI dominance Hello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Bla...",
+      "summaryZh": "中文翻译：此外：谷歌高管竞相争夺人工智能主导地位您好， TechScape读者！丹妮尔·阿布里尔（ Danielle Abril ） ，《卫报》关于人工智能和工作未来的重写系列的编辑，填补了布拉...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield",
+      "titleZh": "实时讨论：《足球日报》|利物浦、杰夫·贝索斯和安菲尔德球场上的任务悄悄溜走",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 85,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Far be it for Football Daily to make cheap gags [wait, what? – Football Daily Ed] relating to the involvement of Amazon founder and master...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！无论如何，《足球日报》都会制作廉价的噱头[等等，什么？ – Football Daily Ed]关于亚马逊创始人和大师的参与...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/11/football-daily-email-liverpool-jeff-bezos-and-co"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -162,82 +162,14 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
-      "titleZh": "视觉热点：“这是一种真正的艺术形式” ：尼日利亚守门员Maduka Okoye讲述乌迪内斯的高端时尚和生活",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinished business When Maduka Okoye visited Paris fashion week for the Jean Paul Gaultier show,...",
-      "summaryZh": "中文翻译：这位前沃特福德球员谈到了他的场外追求、世界杯的经验教训和未完成的事业。当Maduka Okoye参观巴黎时装周参加Jean Paul Gaultier时装秀时，...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol",
-      "titleZh": "视觉热点：Vondrousova的滑稽动作将网球兴奋剂测试置于聚光灯下–与足球的观点相去甚远| Tumaini Carayol",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 86,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former Wimbledon champion’s suspension comes as Mykhailo Mudryk returns for Chelsea, exposing stark contrast in processes In the months between the first announcement of Marketa Vondrousova’...",
-      "summaryZh": "中文翻译：前温布尔登网球公开赛冠军米哈伊洛·穆德里克（ Mykhailo Mudryk ）重返切尔西（ Chelsea ）时被停赛，这暴露了过程中的鲜明对比在Marketa Vondrousova首次宣布之间的几个月里......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/10/marketa-vondrousova-doping-ban-tennis-wada-mykhailo-mudryk-chelsea-fa-return-football"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -246,7 +178,7 @@
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
+      "heat": 83,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -259,6 +191,74 @@
       ],
       "accounts": [
         {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Arthur Fery ready to test himself at Masters level after Wimbledon run",
+      "titleZh": "视觉热点：亚瑟·费里（ Arthur Fery ）准备在温布尔登网球公开赛（ Wimbledon run ）结束后",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 86,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Briton reached SW19 semi-finals as a wildcard World No 36 has first-round bye in Cincinnati Arthur Fery believes he is at the start of a new chapter in his career as he returns to competitio...",
+      "summaryZh": "中文翻译：英国队进入了SW19半决赛，世界排名第36的通配符在辛辛那提首轮告别亚瑟·费里（ Arthur Fery ）认为，随着他重返比赛，他正处于职业生涯新篇章的开始......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/11/arthur-fery-cincinnati-open-wimbledon-2026-tennis"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas",
+      "titleZh": "视觉热点：本周体育测验：英格兰对挪威、温布尔登和亚历克西娅·普特拉斯",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 74,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Have you followed the big stories in football, tennis, rugby union, cricket, cycling, rugby league and swimming? Continue reading...",
+      "summaryZh": "中文翻译：您是否关注过足球、网球、橄榄球联盟、板球、自行车、橄榄球联赛和游泳方面的大故事？继续阅读...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/sport/2026/jul/10/sports-quiz-week-england-norway-wimbledon-putellas-football-tennis-rugby-cricket-cycling"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
@@ -277,103 +277,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas",
-      "titleZh": "视觉热点：本周体育测验：英格兰对挪威、温布尔登和亚历克西娅·普特拉斯",
+      "title": "视觉热点：Apple TV eyes US broadcast rights to the Open as foray into sports broadcasting continues",
+      "titleZh": "视觉热点：Apple TV关注美国公开赛的广播权，继续进军体育广播",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
+      "heat": 80,
       "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Have you followed the big stories in football, tennis, rugby union, cricket, cycling, rugby league and swimming? Continue reading...",
-      "summaryZh": "中文翻译：您是否关注过足球、网球、橄榄球联盟、板球、自行车、橄榄球联赛和游泳方面的大故事？继续阅读...",
+      "summary": "公开来源显示该议题正在发酵：NBC is current US broadcaster of tournament Streaming services making inroads into live sports Apple TV has joined the battle to win US rights to golf’s Open Championship in the streaming pl...",
+      "summaryZh": "中文翻译：美国全国广播公司（ NBC ）是美国锦标赛的当前广播公司流媒体服务正在进入直播体育Apple TV已经加入了争夺美国高尔夫公开锦标赛在流媒体平台上的权利的战斗......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/sport/2026/jul/10/sports-quiz-week-england-norway-wimbledon-putellas-football-tennis-rugby-cricket-cycling"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
-      "titleZh": "短视频趋势：“这是一种真正的艺术形式” ：尼日利亚守门员Maduka Okoye讲述乌迪内斯的高端时尚和生活",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinished business When Maduka Okoye visited Paris fashion week for the Jean Paul Gaultier show,...",
-      "summaryZh": "中文翻译：这位前沃特福德球员谈到了他的场外追求、世界杯的经验教训和未完成的事业。当Maduka Okoye参观巴黎时装周参加Jean Paul Gaultier时装秀时，...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol",
-      "titleZh": "短视频趋势：Vondrousova的滑稽动作将网球兴奋剂测试置于聚光灯下–与足球的观点相去甚远| Tumaini Carayol",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former Wimbledon champion’s suspension comes as Mykhailo Mudryk returns for Chelsea, exposing stark contrast in processes In the months between the first announcement of Marketa Vondrousova’...",
-      "summaryZh": "中文翻译：前温布尔登网球公开赛冠军米哈伊洛·穆德里克（ Mykhailo Mudryk ）重返切尔西（ Chelsea ）时被停赛，这暴露了过程中的鲜明对比在Marketa Vondrousova首次宣布之间的几个月里......",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/10/marketa-vondrousova-doping-ban-tennis-wada-mykhailo-mudryk-chelsea-fa-return-football"
+          "url": "https://www.theguardian.com/sport/2026/aug/11/apple-tv-eyes-us-broadcast-rights-to-the-open-as-foray-into-sports-broadcasting-continues"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营"
+        },
+        {
+          "name": "@ChelseaUGC",
+          "followers": "约4万",
+          "why": "UGC 变现和小体量商业内容"
+        },
+        {
+          "name": "@SocialJesi",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "社媒技巧和服务型内容"
         }
       ]
     },
@@ -382,7 +314,7 @@
       "title": "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
       "titleZh": "短视频趋势：“我肯定失去了粉丝” ：网红面临着对Meta “变态眼镜”内容的强烈反对",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
+      "heat": 76,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hoo...",
       "summaryZh": "中文翻译：内容创作者表示，使用Facebook所有者制作的“间谍眼镜”会引发大量负面评论。这几乎不是一段令人反感的视频。在环法自行车赛总决赛的喧嚣中， Oliver Hoo……",
@@ -400,6 +332,35 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Meta faces expensive child safety reckoning",
+      "titleZh": "短视频趋势：Meta面临昂贵的儿童安全清算",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Also: Google executives jump ship in race for AI dominance Hello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Bla...",
+      "summaryZh": "中文翻译：此外：谷歌高管竞相争夺人工智能主导地位您好， TechScape读者！丹妮尔·阿布里尔（ Danielle Abril ） ，《卫报》关于人工智能和工作未来的重写系列的编辑，填补了布拉...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
@@ -408,6 +369,45 @@
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield",
+      "titleZh": "短视频趋势：《足球日报》|利物浦、杰夫·贝索斯和安菲尔德球场上的任务悄悄溜走",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Far be it for Football Daily to make cheap gags [wait, what? – Football Daily Ed] relating to the involvement of Amazon founder and master...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！无论如何，《足球日报》都会制作廉价的噱头[等等，什么？ – Football Daily Ed]关于亚马逊创始人和大师的参与...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/11/football-daily-email-liverpool-jeff-bezos-and-co"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -481,44 +481,10 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol",
-      "titleZh": "社区话题：Vondrousova的滑稽动作将网球兴奋剂测试置于聚光灯下–与足球的观点相去甚远| Tumaini Carayol",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 93,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former Wimbledon champion’s suspension comes as Mykhailo Mudryk returns for Chelsea, exposing stark contrast in processes In the months between the first announcement of Marketa Vondrousova’...",
-      "summaryZh": "中文翻译：前温布尔登网球公开赛冠军米哈伊洛·穆德里克（ Mykhailo Mudryk ）重返切尔西（ Chelsea ）时被停赛，这暴露了过程中的鲜明对比在Marketa Vondrousova首次宣布之间的几个月里......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/10/marketa-vondrousova-doping-ban-tennis-wada-mykhailo-mudryk-chelsea-fa-return-football"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
       "title": "社区话题：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
       "titleZh": "社区话题：“我肯定失去了粉丝” ：网红面临着对Meta “变态眼镜”内容的强烈反对",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hoo...",
       "summaryZh": "中文翻译：内容创作者表示，使用Facebook所有者制作的“间谍眼镜”会引发大量负面评论。这几乎不是一段令人反感的视频。在环法自行车赛总决赛的喧嚣中， Oliver Hoo……",
@@ -536,9 +502,9 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@ImKushanK",
@@ -549,10 +515,78 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：Meta faces expensive child safety reckoning",
+      "titleZh": "社区话题：Meta面临昂贵的儿童安全清算",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Also: Google executives jump ship in race for AI dominance Hello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Bla...",
+      "summaryZh": "中文翻译：此外：谷歌高管竞相争夺人工智能主导地位您好， TechScape读者！丹妮尔·阿布里尔（ Danielle Abril ） ，《卫报》关于人工智能和工作未来的重写系列的编辑，填补了布拉...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield",
+      "titleZh": "社区话题：《足球日报》|利物浦、杰夫·贝索斯和安菲尔德球场上的任务悄悄溜走",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Far be it for Football Daily to make cheap gags [wait, what? – Football Daily Ed] relating to the involvement of Amazon founder and master...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！无论如何，《足球日报》都会制作廉价的噱头[等等，什么？ – Football Daily Ed]关于亚马逊创始人和大师的参与...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/11/football-daily-email-liverpool-jeff-bezos-and-co"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time",
       "titleZh": "社区话题：《足球日报》|自我强化、回击和过去的新闻：现在是何塞的时候了",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
+      "heat": 77,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! “You don’t do a documentary with a guy who wins nothing,” parps José Mourinho during the trailer for his shiny, new Netflix film, although...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ “你不会和一个一无所获的人一起拍纪录片，”何塞·穆里尼奥（ José Mourinho ）在预告片中讲述了他闪亮的新Netflix电影，尽管...",
@@ -565,69 +599,35 @@
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘People in Japan thought we made footy up’: Pro Jank Footy, the video game taking Australian rules to the world",
-      "titleZh": "社区话题：“日本人认为我们踢足球” ： Pro Jank Footy ，这款视频游戏将澳大利亚的规则带到世界各地",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 73,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Game developer David Ashby and Aunty Donna’s Broden Kelly talk about their chaotic and silly sport game – involving meat pies with legs and Ford Falcons on the oval Try explaining Australian...",
-      "summaryZh": "中文翻译：游戏开发商大卫·阿什比（ David Ashby ）和唐娜姨妈（ Aunty Donna ）的布罗登·凯利（ Broden Kelly ）谈论他们混乱而愚蠢的运动游戏--涉及腿肉馅饼和椭圆形的福特猎鹰（ Ford Falcons ）",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/aug/11/pro-jank-footy-video-game-australian-rules"
-        }
-      ],
-      "accounts": [
         {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Meta faces expensive child safety reckoning": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,17 +642,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Arthur Fery ready to test himself at Masters level after Wimbledon run": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -662,17 +657,22 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "视觉热点：Apple TV eyes US broadcast rights to the Open as foray into sports broadcasting continues": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Meta faces expensive child safety reckoning": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,22 +687,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Vondrousova’s antics put tennis doping tests in spotlight – a far cry from football’s view | Tumaini Carayol": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
     "社区话题：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time": {
+    "社区话题：Meta faces expensive child safety reckoning": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：‘People in Japan thought we made footy up’: Pro Jank Footy, the video game taking Australian rules to the world": {
+    "社区话题：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
