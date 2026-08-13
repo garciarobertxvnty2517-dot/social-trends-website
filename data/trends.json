@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T03:29:34.326929+00:00",
-  "generatedAtBeijing": "2026-08-12 11:29",
+  "generatedAt": "2026-08-13T03:33:32.813899+00:00",
+  "generatedAtBeijing": "2026-08-13 11:33",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,10 +39,44 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
+      "titleZh": "实时讨论：足球转会传闻： Folarin Balogun到托特纳姆？ Gabriel Jesus到那不勒斯？",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Today’s fluff is coming back with a better offer Bradley Barcola is firmly in Liverpool’s sights as they look to rebuild their attack in the post-Mohamed Salah era. The two-time Champions Le...",
+      "summaryZh": "中文翻译：布拉德利·巴科拉（ Bradley Barcola ）希望在后穆罕默德·萨拉赫（ Mohamed Salah ）时代重建自己的进攻，今天的蓬勃发展带来了更好的报价。两届冠军Le…",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：Meta faces expensive child safety reckoning",
       "titleZh": "实时讨论：Meta面临昂贵的儿童安全清算",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
+      "heat": 75,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Also: Google executives jump ship in race for AI dominance Hello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Bla...",
       "summaryZh": "中文翻译：此外：谷歌高管竞相争夺人工智能主导地位您好， TechScape读者！丹妮尔·阿布里尔（ Danielle Abril ） ，《卫报》关于人工智能和工作未来的重写系列的编辑，填补了布拉...",
@@ -55,87 +89,53 @@
       ],
       "accounts": [
         {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
+      "titleZh": "实时讨论：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
+      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield",
-      "titleZh": "实时讨论：《足球日报》|利物浦、杰夫·贝索斯和安菲尔德球场上的任务悄悄溜走",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Far be it for Football Daily to make cheap gags [wait, what? – Football Daily Ed] relating to the involvement of Amazon founder and master...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！无论如何，《足球日报》都会制作廉价的噱头[等等，什么？ – Football Daily Ed]关于亚马逊创始人和大师的参与...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/11/football-daily-email-liverpool-jeff-bezos-and-co"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time",
-      "titleZh": "实时讨论：《足球日报》|自我强化、回击和过去的新闻：现在是何塞的时候了",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! “You don’t do a documentary with a guy who wins nothing,” parps José Mourinho during the trailer for his shiny, new Netflix film, although...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ “你不会和一个一无所获的人一起拍纪录片，”何塞·穆里尼奥（ José Mourinho ）在预告片中讲述了他闪亮的新Netflix电影，尽管...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/10/football-daily-email-jose-mourinho-manchester-united"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -162,9 +162,9 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@marfawe",
@@ -175,10 +175,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
+      "titleZh": "视觉热点：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
+      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 83,
+      "heat": 81,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -191,10 +225,73 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Marvel Tōkon: Fighting Souls review – an anime-style rumble that’s rooting for you",
+      "titleZh": "视觉热点：Marvel Tōkon ： Fighting Souls评论–动漫风格的隆隆声，为您加油",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：PlayStation 5, PC; Arc System Works/Sony Interactive Entertainment With tremendous visuals and accessible controls, this superhero-themed fighter has the chops to inspire a new generation of...",
+      "summaryZh": "中文翻译：PlayStation 5、PC ； Arc System Works/Sony Interactive Entertainment这款超级英雄主题战斗机拥有强大的视觉效果和可访问的控件，可以激发新一代...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/aug/12/marvel-tokon-fighting-souls-review"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：League One 2026-27 preview: the contenders, hopefuls and strugglers",
+      "titleZh": "视觉热点：2026-27赛季联赛预告：竞争者、希望者和挣扎者",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Russell Martin’s new-look Leicester look set to challenge for promotion, while it could be a tough campaign for Notts County and AFC Wimbledon How did it come to this, that a club crowned Pr...",
+      "summaryZh": "中文翻译：罗素·马丁（ Russell Martin ）的新造型莱斯特（ Leicester ）看起来将面临晋升的挑战，而对于诺茨县（ Notts County ）和亚足联温布尔登（ AFC Wimbledon ）来说，这可能是一场艰难的运动。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/12/league-one-2026-27-preview-the-contenders-hopefuls-and-strugglers"
+        }
+      ],
+      "accounts": [
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
@@ -204,108 +301,11 @@
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Arthur Fery ready to test himself at Masters level after Wimbledon run",
-      "titleZh": "视觉热点：亚瑟·费里（ Arthur Fery ）准备在温布尔登网球公开赛（ Wimbledon run ）结束后",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 86,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Briton reached SW19 semi-finals as a wildcard World No 36 has first-round bye in Cincinnati Arthur Fery believes he is at the start of a new chapter in his career as he returns to competitio...",
-      "summaryZh": "中文翻译：英国队进入了SW19半决赛，世界排名第36的通配符在辛辛那提首轮告别亚瑟·费里（ Arthur Fery ）认为，随着他重返比赛，他正处于职业生涯新篇章的开始......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/11/arthur-fery-cincinnati-open-wimbledon-2026-tennis"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas",
-      "titleZh": "视觉热点：本周体育测验：英格兰对挪威、温布尔登和亚历克西娅·普特拉斯",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Have you followed the big stories in football, tennis, rugby union, cricket, cycling, rugby league and swimming? Continue reading...",
-      "summaryZh": "中文翻译：您是否关注过足球、网球、橄榄球联盟、板球、自行车、橄榄球联赛和游泳方面的大故事？继续阅读...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/sport/2026/jul/10/sports-quiz-week-england-norway-wimbledon-putellas-football-tennis-rugby-cricket-cycling"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Apple TV eyes US broadcast rights to the Open as foray into sports broadcasting continues",
-      "titleZh": "视觉热点：Apple TV关注美国公开赛的广播权，继续进军体育广播",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 80,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：NBC is current US broadcaster of tournament Streaming services making inroads into live sports Apple TV has joined the battle to win US rights to golf’s Open Championship in the streaming pl...",
-      "summaryZh": "中文翻译：美国全国广播公司（ NBC ）是美国锦标赛的当前广播公司流媒体服务正在进入直播体育Apple TV已经加入了争夺美国高尔夫公开锦标赛在流媒体平台上的权利的战斗......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/11/apple-tv-eyes-us-broadcast-rights-to-the-open-as-foray-into-sports-broadcasting-continues"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营"
-        },
-        {
-          "name": "@ChelseaUGC",
-          "followers": "约4万",
-          "why": "UGC 变现和小体量商业内容"
-        },
-        {
-          "name": "@SocialJesi",
-          "followers": "<10万需复核",
-          "why": "社媒技巧和服务型内容"
         }
       ]
     },
@@ -345,10 +345,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
+      "titleZh": "短视频趋势：足球转会传闻： Folarin Balogun到托特纳姆？ Gabriel Jesus到那不勒斯？",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 87,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Today’s fluff is coming back with a better offer Bradley Barcola is firmly in Liverpool’s sights as they look to rebuild their attack in the post-Mohamed Salah era. The two-time Champions Le...",
+      "summaryZh": "中文翻译：布拉德利·巴科拉（ Bradley Barcola ）希望在后穆罕默德·萨拉赫（ Mohamed Salah ）时代重建自己的进攻，今天的蓬勃发展带来了更好的报价。两届冠军Le…",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Meta faces expensive child safety reckoning",
       "titleZh": "短视频趋势：Meta面临昂贵的儿童安全清算",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Also: Google executives jump ship in race for AI dominance Hello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Bla...",
       "summaryZh": "中文翻译：此外：谷歌高管竞相争夺人工智能主导地位您好， TechScape读者！丹妮尔·阿布里尔（ Danielle Abril ） ，《卫报》关于人工智能和工作未来的重写系列的编辑，填补了布拉...",
@@ -361,14 +395,14 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@lifeof_scoop",
@@ -379,69 +413,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield",
-      "titleZh": "短视频趋势：《足球日报》|利物浦、杰夫·贝索斯和安菲尔德球场上的任务悄悄溜走",
+      "title": "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
+      "titleZh": "短视频趋势：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Far be it for Football Daily to make cheap gags [wait, what? – Football Daily Ed] relating to the involvement of Amazon founder and master...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！无论如何，《足球日报》都会制作廉价的噱头[等等，什么？ – Football Daily Ed]关于亚马逊创始人和大师的参与...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/11/football-daily-email-liverpool-jeff-bezos-and-co"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time",
-      "titleZh": "短视频趋势：《足球日报》|自我强化、回击和过去的新闻：现在是何塞的时候了",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
+      "heat": 68,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! “You don’t do a documentary with a guy who wins nothing,” parps José Mourinho during the trailer for his shiny, new Netflix film, although...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ “你不会和一个一无所获的人一起拍纪录片，”何塞·穆里尼奥（ José Mourinho ）在预告片中讲述了他闪亮的新Netflix电影，尽管...",
+      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
+      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/10/football-daily-email-jose-mourinho-manchester-united"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -515,10 +515,44 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
+      "titleZh": "社区话题：足球转会传闻： Folarin Balogun到托特纳姆？ Gabriel Jesus到那不勒斯？",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Today’s fluff is coming back with a better offer Bradley Barcola is firmly in Liverpool’s sights as they look to rebuild their attack in the post-Mohamed Salah era. The two-time Champions Le...",
+      "summaryZh": "中文翻译：布拉德利·巴科拉（ Bradley Barcola ）希望在后穆罕默德·萨拉赫（ Mohamed Salah ）时代重建自己的进攻，今天的蓬勃发展带来了更好的报价。两届冠军Le…",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：Meta faces expensive child safety reckoning",
       "titleZh": "社区话题：Meta面临昂贵的儿童安全清算",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 75,
+      "heat": 73,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Also: Google executives jump ship in race for AI dominance Hello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Bla...",
       "summaryZh": "中文翻译：此外：谷歌高管竞相争夺人工智能主导地位您好， TechScape读者！丹妮尔·阿布里尔（ Danielle Abril ） ，《卫报》关于人工智能和工作未来的重写系列的编辑，填补了布拉...",
@@ -536,9 +570,9 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@Bennettxai",
@@ -549,69 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield",
-      "titleZh": "社区话题：《足球日报》|利物浦、杰夫·贝索斯和安菲尔德球场上的任务悄悄溜走",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Far be it for Football Daily to make cheap gags [wait, what? – Football Daily Ed] relating to the involvement of Amazon founder and master...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！无论如何，《足球日报》都会制作廉价的噱头[等等，什么？ – Football Daily Ed]关于亚马逊创始人和大师的参与...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/11/football-daily-email-liverpool-jeff-bezos-and-co"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time",
-      "titleZh": "社区话题：《足球日报》|自我强化、回击和过去的新闻：现在是何塞的时候了",
+      "title": "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
+      "titleZh": "社区话题：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 77,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! “You don’t do a documentary with a guy who wins nothing,” parps José Mourinho during the trailer for his shiny, new Netflix film, although...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ “你不会和一个一无所获的人一起拍纪录片，”何塞·穆里尼奥（ José Mourinho ）在预告片中讲述了他闪亮的新Netflix电影，尽管...",
+      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
+      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/10/football-daily-email-jose-mourinho-manchester-united"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     }
@@ -622,17 +622,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Meta faces expensive child safety reckoning": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time": {
+    "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,22 +642,22 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Arthur Fery ready to test himself at Masters level after Wimbledon run": {
+    "视觉热点：Marvel Tōkon: Fighting Souls review – an anime-style rumble that’s rooting for you": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Apple TV eyes US broadcast rights to the Open as foray into sports broadcasting continues": {
+    "视觉热点：League One 2026-27 preview: the contenders, hopefuls and strugglers": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,17 +667,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "短视频趋势：Meta faces expensive child safety reckoning": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time": {
+    "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,17 +692,17 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
+    "社区话题：Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
     "社区话题：Meta faces expensive child safety reckoning": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time": {
+    "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
