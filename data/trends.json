@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T03:30:10.850037+00:00",
-  "generatedAtBeijing": "2026-08-14 11:30",
+  "generatedAt": "2026-08-15T02:19:34.006233+00:00",
+  "generatedAtBeijing": "2026-08-15 10:19",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,44 +39,10 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Meta faces expensive child safety reckoning",
-      "titleZh": "实时讨论：Meta面临昂贵的儿童安全清算",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Also: Google executives jump ship in race for AI dominance Hello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Bla...",
-      "summaryZh": "中文翻译：此外：谷歌高管竞相争夺人工智能主导地位您好， TechScape读者！丹妮尔·阿布里尔（ Danielle Abril ） ，《卫报》关于人工智能和工作未来的重写系列的编辑，填补了布拉...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "x",
       "title": "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
       "titleZh": "实时讨论：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
+      "heat": 87,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
       "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
@@ -110,7 +76,7 @@
       "title": "实时讨论：Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
       "titleZh": "实时讨论：因凡蒂诺正在接受他的业力踢球，但为什么足球花了这么长时间来反抗国际足联？ | Jonathan Liew",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades the city of Salé, just a...",
       "summaryZh": "中文翻译：联合会领导人正在大门口集结力量，但在第一次提出出售其商业遗产和卡塔尔世界杯多年之后近几十年来，萨莱市只是一个...",
@@ -123,19 +89,19 @@
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -144,7 +110,7 @@
       "title": "实时讨论：Schools across the US banned phones. Teens are demanding more offline support",
       "titleZh": "实时讨论：美国各地的学校都禁止使用手机。青少年需要更多线下支持",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 73,
+      "heat": 75,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：More students are advocating for their own digital wellbeing and developing programs to thrive in tech-free learning environments As students across the country return to school this month, ...",
       "summaryZh": "中文翻译：越来越多的学生正在倡导自己的数字福祉，并制定在无技术学习环境中茁壮成长的计划。随着全国各地的学生本月重返校园，...",
@@ -157,6 +123,11 @@
       ],
       "accounts": [
         {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
@@ -165,11 +136,40 @@
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
+      "titleZh": "实时讨论：Super Furry Animals涉足足球并不是Big Music抢钱的一部分| Emma John",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the ...",
+      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一次怀旧之旅，而不是愤世嫉俗地试图将“邻近的观众”货币化。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -243,44 +243,10 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：‘He has a very high ceiling’: Madjo makes instant mark on delayed Aston Villa bow",
-      "titleZh": "视觉热点：“他有一个非常高的天花板” ： Madjo在延迟的阿斯顿维拉弓上立刻留下了印记",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first there was the usual stuff: the wide smile...",
-      "summaryZh": "中文翻译：少年忍受了令人沮丧的等待，等待他的注册获得批准，但没有花时间在面对巴黎圣日耳曼的大舞台上展示自己的潜力。起初，有一件常见的事情：灿烂的微笑……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/13/aston-villa-brian-madjo-makes-mark-psg"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 77,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -293,19 +259,53 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Marvel Tōkon: Fighting Souls review – an anime-style rumble that’s rooting for you",
+      "titleZh": "视觉热点：Marvel Tōkon ： Fighting Souls评论–动漫风格的隆隆声，为您加油",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：PlayStation 5, PC; Arc System Works/Sony Interactive Entertainment With tremendous visuals and accessible controls, this superhero-themed fighter has the chops to inspire a new generation of...",
+      "summaryZh": "中文翻译：PlayStation 5、PC ； Arc System Works/Sony Interactive Entertainment这款超级英雄主题战斗机拥有强大的视觉效果和可访问的控件，可以激发新一代...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/aug/12/marvel-tokon-fighting-souls-review"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -345,44 +345,10 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Meta faces expensive child safety reckoning",
-      "titleZh": "短视频趋势：Meta面临昂贵的儿童安全清算",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Also: Google executives jump ship in race for AI dominance Hello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Bla...",
-      "summaryZh": "中文翻译：此外：谷歌高管竞相争夺人工智能主导地位您好， TechScape读者！丹妮尔·阿布里尔（ Danielle Abril ） ，《卫报》关于人工智能和工作未来的重写系列的编辑，填补了布拉...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
       "titleZh": "短视频趋势：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
+      "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
       "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
@@ -395,9 +361,9 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@marcinteodoru",
@@ -405,9 +371,9 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -416,7 +382,7 @@
       "title": "短视频趋势：Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
       "titleZh": "短视频趋势：因凡蒂诺正在接受他的业力踢球，但为什么足球花了这么长时间来反抗国际足联？ | Jonathan Liew",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
+      "heat": 80,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades the city of Salé, just a...",
       "summaryZh": "中文翻译：联合会领导人正在大门口集结力量，但在第一次提出出售其商业遗产和卡塔尔世界杯多年之后近几十年来，萨莱市只是一个...",
@@ -429,9 +395,9 @@
       ],
       "accounts": [
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@elliottvenis",
@@ -439,9 +405,9 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -450,7 +416,7 @@
       "title": "短视频趋势：Schools across the US banned phones. Teens are demanding more offline support",
       "titleZh": "短视频趋势：美国各地的学校都禁止使用手机。青少年需要更多线下支持",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
+      "heat": 85,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：More students are advocating for their own digital wellbeing and developing programs to thrive in tech-free learning environments As students across the country return to school this month, ...",
       "summaryZh": "中文翻译：越来越多的学生正在倡导自己的数字福祉，并制定在无技术学习环境中茁壮成长的计划。随着全国各地的学生本月重返校园，...",
@@ -468,14 +434,48 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
+      "titleZh": "短视频趋势：Super Furry Animals涉足足球并不是Big Music抢钱的一部分| Emma John",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the ...",
+      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一次怀旧之旅，而不是愤世嫉俗地试图将“邻近的观众”货币化。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -515,44 +515,10 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Meta faces expensive child safety reckoning",
-      "titleZh": "社区话题：Meta面临昂贵的儿童安全清算",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Also: Google executives jump ship in race for AI dominance Hello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Bla...",
-      "summaryZh": "中文翻译：此外：谷歌高管竞相争夺人工智能主导地位您好， TechScape读者！丹妮尔·阿布里尔（ Danielle Abril ） ，《卫报》关于人工智能和工作未来的重写系列的编辑，填补了布拉...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
       "title": "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
       "titleZh": "社区话题：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
       "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
@@ -565,14 +531,14 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Ivy_Dinma",
@@ -586,7 +552,7 @@
       "title": "社区话题：Schools across the US banned phones. Teens are demanding more offline support",
       "titleZh": "社区话题：美国各地的学校都禁止使用手机。青少年需要更多线下支持",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 68,
+      "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：More students are advocating for their own digital wellbeing and developing programs to thrive in tech-free learning environments As students across the country return to school this month, ...",
       "summaryZh": "中文翻译：越来越多的学生正在倡导自己的数字福祉，并制定在无技术学习环境中茁壮成长的计划。随着全国各地的学生本月重返校园，...",
@@ -604,9 +570,9 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@lifeof_scoop",
@@ -614,15 +580,44 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
+      "titleZh": "社区话题：Super Furry Animals涉足足球并不是Big Music抢钱的一部分| Emma John",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 77,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the ...",
+      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一次怀旧之旅，而不是愤世嫉俗地试图将“邻近的观众”货币化。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
     }
   ],
   "audienceMap": {
     "实时讨论：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Meta faces expensive child safety reckoning": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,6 +637,11 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
@@ -652,22 +652,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘He has a very high ceiling’: Madjo makes instant mark on delayed Aston Villa bow": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "视觉热点：Marvel Tōkon: Fighting Souls review – an anime-style rumble that’s rooting for you": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：Meta faces expensive child safety reckoning": {
+    "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,12 +682,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Meta faces expensive child safety reckoning": {
+    "社区话题：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -703,6 +698,11 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Schools across the US banned phones. Teens are demanding more offline support": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
