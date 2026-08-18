@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T02:34:23.648528+00:00",
-  "generatedAtBeijing": "2026-08-17 10:34",
+  "generatedAt": "2026-08-18T02:29:38.905257+00:00",
+  "generatedAtBeijing": "2026-08-18 10:29",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,10 +39,44 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
+      "titleZh": "实时讨论：沉没之城2回顾–乌克兰宇宙恐怖，地狱或高水位",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in the prosthet...",
+      "summaryZh": "中文翻译：PlayStation 5、Xbox Series S/X、PC ； Frogwares Frogwares的Lovecraftian动作恐怖充满了严酷的坚韧和纸浆平装魅力，尽管我站在假肢里有一些磨损的边缘……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/aug/17/the-sinking-city-2-review-ukrainian-playstation-5-xbox-series-pc-frogwares"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
       "titleZh": "实时讨论：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
+      "heat": 85,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
       "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
@@ -73,30 +107,30 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Gen Z flocks to BirdTok as birding takes flight: ‘It’s a craving for something real’",
-      "titleZh": "实时讨论：Z世代在观鸟飞翔时涌向BirdTok ： “这是对真实事物的渴望”",
+      "title": "实时讨论：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
+      "titleZh": "实时讨论：参议院听到，支持澳大利亚青少年社交媒体禁令的报告似乎含有人工智能幻觉",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Social media and Shazam-like birdsong apps drawing young people to hobby as they seek a gentler connection to the outside world Sorry Elon, but they’re not your kind of tweets. Social media ...",
-      "summaryZh": "中文翻译：社交媒体和类似Shazam的鸟鸣应用程序吸引了年轻人的兴趣，因为他们寻求与外界建立更温和的联系对不起， Elon ，但它们不是你的那种推文。社交媒体...",
+      "heat": 69,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news l...",
+      "summaryZh": "中文翻译：独家：《卫报》的分析发现，报告的一部分包含了不存在的学术文章的链接，但作者否认这些引用是由人工智能编造的。关注我们的澳大利亚新闻...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real"
+          "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@exploraX_",
@@ -107,59 +141,25 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
-      "titleZh": "实时讨论：Super Furry Animals涉足足球并不是Big Music抢钱的一部分| Emma John",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the ...",
-      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一次怀旧之旅，而不是愤世嫉俗地试图将“邻近的观众”货币化。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
-      "titleZh": "实时讨论：新面孔、课堂鸿沟和有缺陷的戏剧： 48支球队如何改变世界杯",
+      "title": "实时讨论：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
+      "titleZh": "实时讨论：足球日报| Pocognoli看起来像是苏格兰的新老板，但问题仍然存在：他能跳舞吗？",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 73,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president ...",
-      "summaryZh": "中文翻译：第一届48支球队的世界杯既有正面也有负面--我们是否需要为64支球队的未来做好准备？ Gianni Infantino接替Sepp Blatter担任总裁还不到12个月……",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002, he had a simple instruction . “When we are playing,” he s...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ 2002年，当Berti Vogts被任命为苏格兰第一位外国经理时，他得到了一个简单的指示。“当我们玩的时候，”他……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
+          "url": "https://www.theguardian.com/football/2026/aug/17/sebastien-pocognoli-scotland-football-daily-newsletter"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@TacticsJournal",
@@ -167,9 +167,9 @@
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -209,10 +209,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Arthur Fery gives Alex de Minaur stern test before bowing out in Cincinnati",
+      "titleZh": "视觉热点：亚瑟·费里（ Arthur Fery ）在辛辛那提鞠躬前对亚历克斯·德米诺尔（ Alex de Minaur",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Wimbledon semi-finalist loses 7-5, 7-6 in third round Disappointment on day of GB Davis Cup squad call-up The most pertinent question surrounding the rapidly blossoming career of Arthur Fery...",
+      "summaryZh": "中文翻译：温布尔登半决赛选手在第三轮以7比5和7比6输掉比赛英国戴维斯杯阵容征召当天失望围绕亚瑟·费里迅速蓬勃发展的职业生涯最相关的问题...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/17/arthur-fery-gives-alex-de-minaur-stern-test-before-bowing-out-in-cincinnati"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
       "titleZh": "视觉热点：因凡蒂诺的世界杯抛售崩溃震撼了足球，但国际足联的危机有着深刻而腐烂的根源",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
+      "heat": 72,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and we...",
       "summaryZh": "中文翻译：对于一个可能无法挽回的机构来说，这是非凡的几天，但这个故事可以追溯到2010年的决定有几十年什么都没有发生，我们......",
@@ -225,14 +259,14 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@TacticsJournal",
@@ -246,7 +280,7 @@
       "title": "视觉热点：Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
       "titleZh": "视觉热点：Asic警告称， Deepfake Anthony Albanese被用于名人骗局，骗取澳大利亚人的740万$",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 83,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Australia’s corporate watchdog says PM is the figure most commonly used in deepfakes to promote phoney investment opportunities Follow our Australia news live blog for latest updates Get our...",
       "summaryZh": "中文翻译：澳大利亚企业监管机构表示， PM是deepfake中最常用于推广虚假投资机会的数字。关注我们的澳大利亚新闻直播博客，了解最新动态。获取我们的...",
@@ -259,9 +293,9 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@exploraX_",
@@ -269,43 +303,9 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
-      "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
-      "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -345,10 +345,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
+      "titleZh": "短视频趋势：沉没之城2回顾–乌克兰宇宙恐怖，地狱或高水位",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in the prosthet...",
+      "summaryZh": "中文翻译：PlayStation 5、Xbox Series S/X、PC ； Frogwares Frogwares的Lovecraftian动作恐怖充满了严酷的坚韧和纸浆平装魅力，尽管我站在假肢里有一些磨损的边缘……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/aug/17/the-sinking-city-2-review-ukrainian-playstation-5-xbox-series-pc-frogwares"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
       "titleZh": "短视频趋势：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
+      "heat": 68,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
       "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
@@ -361,43 +395,43 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Gen Z flocks to BirdTok as birding takes flight: ‘It’s a craving for something real’",
-      "titleZh": "短视频趋势：Z世代在观鸟飞翔时涌向BirdTok ： “这是对真实事物的渴望”",
+      "title": "短视频趋势：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
+      "titleZh": "短视频趋势：参议院听到，支持澳大利亚青少年社交媒体禁令的报告似乎含有人工智能幻觉",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Social media and Shazam-like birdsong apps drawing young people to hobby as they seek a gentler connection to the outside world Sorry Elon, but they’re not your kind of tweets. Social media ...",
-      "summaryZh": "中文翻译：社交媒体和类似Shazam的鸟鸣应用程序吸引了年轻人的兴趣，因为他们寻求与外界建立更温和的联系对不起， Elon ，但它们不是你的那种推文。社交媒体...",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news l...",
+      "summaryZh": "中文翻译：独家：《卫报》的分析发现，报告的一部分包含了不存在的学术文章的链接，但作者否认这些引用是由人工智能编造的。关注我们的澳大利亚新闻...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real"
+          "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@marcinteodoru",
@@ -405,26 +439,26 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
-      "titleZh": "短视频趋势：Super Furry Animals涉足足球并不是Big Music抢钱的一部分| Emma John",
+      "title": "短视频趋势：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
+      "titleZh": "短视频趋势：足球日报| Pocognoli看起来像是苏格兰的新老板，但问题仍然存在：他能跳舞吗？",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the ...",
-      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一次怀旧之旅，而不是愤世嫉俗地试图将“邻近的观众”货币化。",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002, he had a simple instruction . “When we are playing,” he s...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ 2002年，当Berti Vogts被任命为苏格兰第一位外国经理时，他得到了一个简单的指示。“当我们玩的时候，”他……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
+          "url": "https://www.theguardian.com/football/2026/aug/17/sebastien-pocognoli-scotland-football-daily-newsletter"
         }
       ],
       "accounts": [
@@ -442,40 +476,6 @@
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
-      "titleZh": "短视频趋势：新面孔、课堂鸿沟和有缺陷的戏剧： 48支球队如何改变世界杯",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president ...",
-      "summaryZh": "中文翻译：第一届48支球队的世界杯既有正面也有负面--我们是否需要为64支球队的未来做好准备？ Gianni Infantino接替Sepp Blatter担任总裁还不到12个月……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -515,10 +515,44 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
+      "titleZh": "社区话题：沉没之城2回顾–乌克兰宇宙恐怖，地狱或高水位",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 90,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in the prosthet...",
+      "summaryZh": "中文翻译：PlayStation 5、Xbox Series S/X、PC ； Frogwares Frogwares的Lovecraftian动作恐怖充满了严酷的坚韧和纸浆平装魅力，尽管我站在假肢里有一些磨损的边缘……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/aug/17/the-sinking-city-2-review-ukrainian-playstation-5-xbox-series-pc-frogwares"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
       "titleZh": "社区话题：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
       "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
@@ -531,14 +565,14 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@Ivy_Dinma",
@@ -549,52 +583,18 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
-      "titleZh": "社区话题：Super Furry Animals涉足足球并不是Big Music抢钱的一部分| Emma John",
+      "title": "社区话题：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
+      "titleZh": "社区话题：参议院听到，支持澳大利亚青少年社交媒体禁令的报告似乎含有人工智能幻觉",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
+      "heat": 68,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the ...",
-      "summaryZh": "中文翻译：Cwmbran Celtic和威尔士独立摇滚乐队之间的赞助协议是一次怀旧之旅，而不是愤世嫉俗地试图将“邻近的观众”货币化。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion",
-      "titleZh": "社区话题：为什么我永远不会被Meta的“变态”眼镜说服|意见",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：'Most people don’t want pervert glasses that can film us without our consent,' said a spokesperson from activist group Everyone Hates Elon. The group has launched a series of guerilla advert...",
-      "summaryZh": "中文翻译：“大多数人不想要未经我们同意就可以拍摄我们的变态眼镜，”活动组织“人人都讨厌埃隆”的发言人说。该集团推出了一系列游击广告……",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news l...",
+      "summaryZh": "中文翻译：独家：《卫报》的分析发现，报告的一部分包含了不存在的学术文章的链接，但作者否认这些引用是由人工智能编造的。关注我们的澳大利亚新闻...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video"
+          "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
         }
       ],
       "accounts": [
@@ -622,27 +622,32 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Gen Z flocks to BirdTok as birding takes flight: ‘It’s a craving for something real’": {
+    "实时讨论：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup": {
+    "实时讨论：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Arthur Fery gives Alex de Minaur stern test before bowing out in Cincinnati": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,12 +662,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -672,17 +677,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Gen Z flocks to BirdTok as birding takes flight: ‘It’s a craving for something real’": {
+    "短视频趋势：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup": {
+    "短视频趋势：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,17 +692,17 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
+    "社区话题：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
     "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion": {
+    "社区话题：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
