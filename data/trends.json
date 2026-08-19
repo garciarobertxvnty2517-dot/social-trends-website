@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T02:29:38.905257+00:00",
-  "generatedAtBeijing": "2026-08-18 10:29",
+  "generatedAt": "2026-08-19T02:32:12.087680+00:00",
+  "generatedAtBeijing": "2026-08-19 10:32",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,10 +39,112 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：Patrick Vieira appointed as head coach of Senegal, the country of his birth",
+      "titleZh": "实时讨论：帕特里克·维埃拉（ Patrick Vieira ）被任命为出生国塞内加尔的主教练",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Senegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’...",
+      "summaryZh": "中文翻译：前阿森纳队长接替Pape Thiaw塞内加尔到达今年夏天塞内加尔世界杯的最后32场比赛，任命法国1998年世界杯冠军帕特里克·维埃拉为主教练，该国“...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Social media on trial as $200bn case against Facebook and Instagram begins",
+      "titleZh": "实时讨论：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
+      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Reel-ing it in: Meta is paying influencers to promote teen accounts",
+      "titleZh": "实时讨论：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
+      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
       "titleZh": "实时讨论：沉没之城2回顾–乌克兰宇宙恐怖，地狱或高水位",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in the prosthet...",
       "summaryZh": "中文翻译：PlayStation 5、Xbox Series S/X、PC ； Frogwares Frogwares的Lovecraftian动作恐怖充满了严酷的坚韧和纸浆平装魅力，尽管我站在假肢里有一些磨损的边缘……",
@@ -51,6 +153,40 @@
         {
           "label": "Guardian Technology",
           "url": "https://www.theguardian.com/games/2026/aug/17/the-sinking-city-2-review-ukrainian-playstation-5-xbox-series-pc-frogwares"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Social media on trial as $200bn case against Facebook and Instagram begins",
+      "titleZh": "视觉热点：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
+      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
         }
       ],
       "accounts": [
@@ -72,53 +208,19 @@
       ]
     },
     {
-      "platform": "x",
-      "title": "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
-      "titleZh": "实时讨论：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
-      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "platform": "instagram",
+      "title": "视觉热点：Reel-ing it in: Meta is paying influencers to promote teen accounts",
+      "titleZh": "视觉热点：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
+      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
-      "titleZh": "实时讨论：参议院听到，支持澳大利亚青少年社交媒体禁令的报告似乎含有人工智能幻觉",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 69,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news l...",
-      "summaryZh": "中文翻译：独家：《卫报》的分析发现，报告的一部分包含了不存在的学术文章的链接，但作者否认这些引用是由人工智能编造的。关注我们的澳大利亚新闻...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
         }
       ],
       "accounts": [
@@ -136,108 +238,6 @@
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
-      "titleZh": "实时讨论：足球日报| Pocognoli看起来像是苏格兰的新老板，但问题仍然存在：他能跳舞吗？",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 73,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002, he had a simple instruction . “When we are playing,” he s...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ 2002年，当Berti Vogts被任命为苏格兰第一位外国经理时，他得到了一个简单的指示。“当我们玩的时候，”他……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/17/sebastien-pocognoli-scotland-football-daily-newsletter"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
-      "titleZh": "视觉热点：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
-      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Arthur Fery gives Alex de Minaur stern test before bowing out in Cincinnati",
-      "titleZh": "视觉热点：亚瑟·费里（ Arthur Fery ）在辛辛那提鞠躬前对亚历克斯·德米诺尔（ Alex de Minaur",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Wimbledon semi-finalist loses 7-5, 7-6 in third round Disappointment on day of GB Davis Cup squad call-up The most pertinent question surrounding the rapidly blossoming career of Arthur Fery...",
-      "summaryZh": "中文翻译：温布尔登半决赛选手在第三轮以7比5和7比6输掉比赛英国戴维斯杯阵容征召当天失望围绕亚瑟·费里迅速蓬勃发展的职业生涯最相关的问题...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/17/arthur-fery-gives-alex-de-minaur-stern-test-before-bowing-out-in-cincinnati"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -277,35 +277,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
-      "titleZh": "视觉热点：Asic警告称， Deepfake Anthony Albanese被用于名人骗局，骗取澳大利亚人的740万$",
+      "title": "视觉热点：Enzo Maresca’s Manchester City opener was startlingly bad",
+      "titleZh": "视觉热点：恩佐·马雷斯卡的曼城揭幕战表现非常糟糕",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Australia’s corporate watchdog says PM is the figure most commonly used in deepfakes to promote phoney investment opportunities Follow our Australia news live blog for latest updates Get our...",
-      "summaryZh": "中文翻译：澳大利亚企业监管机构表示， PM是deepfake中最常用于推广虚假投资机会的数字。关注我们的澳大利亚新闻直播博客，了解最新动态。获取我们的...",
+      "heat": 87,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The Community Shield isn’t always a sign of things to come, but City’s form in their defeat to Arsenal is concerning in the wake of Pep Guardiola’s departure Sign up for our free newsletter ...",
+      "summaryZh": "中文翻译：社区盾牌并不总是未来的标志，但在瓜迪奥拉离开后，曼城击败阿森纳的形式令人担忧。注册我们的免费通讯...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@ImKushanK",
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -345,18 +345,52 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
-      "titleZh": "短视频趋势：沉没之城2回顾–乌克兰宇宙恐怖，地狱或高水位",
+      "title": "短视频趋势：Patrick Vieira appointed as head coach of Senegal, the country of his birth",
+      "titleZh": "短视频趋势：帕特里克·维埃拉（ Patrick Vieira ）被任命为出生国塞内加尔的主教练",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in the prosthet...",
-      "summaryZh": "中文翻译：PlayStation 5、Xbox Series S/X、PC ； Frogwares Frogwares的Lovecraftian动作恐怖充满了严酷的坚韧和纸浆平装魅力，尽管我站在假肢里有一些磨损的边缘……",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Senegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’...",
+      "summaryZh": "中文翻译：前阿森纳队长接替Pape Thiaw塞内加尔到达今年夏天塞内加尔世界杯的最后32场比赛，任命法国1998年世界杯冠军帕特里克·维埃拉为主教练，该国“...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Social media on trial as $200bn case against Facebook and Instagram begins",
+      "titleZh": "短视频趋势：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
+      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/aug/17/the-sinking-city-2-review-ukrainian-playstation-5-xbox-series-pc-frogwares"
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
         }
       ],
       "accounts": [
@@ -379,59 +413,25 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
-      "titleZh": "短视频趋势：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
+      "title": "短视频趋势：Reel-ing it in: Meta is paying influencers to promote teen accounts",
+      "titleZh": "短视频趋势：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
-      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
+      "heat": 82,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
+      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
         }
       ],
       "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
-      "titleZh": "短视频趋势：参议院听到，支持澳大利亚青少年社交媒体禁令的报告似乎含有人工智能幻觉",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news l...",
-      "summaryZh": "中文翻译：独家：《卫报》的分析发现，报告的一部分包含了不存在的学术文章的链接，但作者否认这些引用是由人工智能编造的。关注我们的澳大利亚新闻...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@marcinteodoru",
@@ -439,43 +439,43 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
-      "titleZh": "短视频趋势：足球日报| Pocognoli看起来像是苏格兰的新老板，但问题仍然存在：他能跳舞吗？",
+      "title": "短视频趋势：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
+      "titleZh": "短视频趋势：沉没之城2回顾–乌克兰宇宙恐怖，地狱或高水位",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002, he had a simple instruction . “When we are playing,” he s...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ 2002年，当Berti Vogts被任命为苏格兰第一位外国经理时，他得到了一个简单的指示。“当我们玩的时候，”他……",
+      "heat": 70,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in the prosthet...",
+      "summaryZh": "中文翻译：PlayStation 5、Xbox Series S/X、PC ； Frogwares Frogwares的Lovecraftian动作恐怖充满了严酷的坚韧和纸浆平装魅力，尽管我站在假肢里有一些磨损的边缘……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/17/sebastien-pocognoli-scotland-football-daily-newsletter"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/aug/17/the-sinking-city-2-review-ukrainian-playstation-5-xbox-series-pc-frogwares"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -515,10 +515,78 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：Social media on trial as $200bn case against Facebook and Instagram begins",
+      "titleZh": "社区话题：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
+      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Reel-ing it in: Meta is paying influencers to promote teen accounts",
+      "titleZh": "社区话题：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
+      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
       "titleZh": "社区话题：沉没之城2回顾–乌克兰宇宙恐怖，地狱或高水位",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 90,
+      "heat": 86,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in the prosthet...",
       "summaryZh": "中文翻译：PlayStation 5、Xbox Series S/X、PC ； Frogwares Frogwares的Lovecraftian动作恐怖充满了严酷的坚韧和纸浆平装魅力，尽管我站在假肢里有一些磨损的边缘……",
@@ -531,87 +599,19 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion",
-      "titleZh": "社区话题：“我不是间谍” ： Meta的智能眼镜如何引起意见分歧",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：While some users say the wearables have changed their lives, critics voice fears over safety and privacy With more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast...",
-      "summaryZh": "中文翻译：虽然一些用户说可穿戴设备改变了他们的生活，但批评者表达了对安全和隐私的担忧。据报道， Meta的雷朋智能眼镜在2025年售出了超过700万副。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
-        }
-      ],
-      "accounts": [
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
         },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
-      "titleZh": "社区话题：参议院听到，支持澳大利亚青少年社交媒体禁令的报告似乎含有人工智能幻觉",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news l...",
-      "summaryZh": "中文翻译：独家：《卫报》的分析发现，报告的一部分包含了不存在的学术文章的链接，但作者否认这些引用是由人工智能编造的。关注我们的澳大利亚新闻...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
-        }
-      ],
-      "accounts": [
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         }
       ]
     }
@@ -622,32 +622,32 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Patrick Vieira appointed as head coach of Senegal, the country of his birth": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Social media on trial as $200bn case against Facebook and Instagram begins": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
+    "视觉热点：Social media on trial as $200bn case against Facebook and Instagram begins": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Arthur Fery gives Alex de Minaur stern test before bowing out in Cincinnati": {
+    "视觉热点：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,7 +657,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns": {
+    "视觉热点：Enzo Maresca’s Manchester City opener was startlingly bad": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,22 +667,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Patrick Vieira appointed as head coach of Senegal, the country of his birth": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Social media on trial as $200bn case against Facebook and Instagram begins": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "短视频趋势：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,17 +692,17 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
+    "社区话题：Social media on trial as $200bn case against Facebook and Instagram begins": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
     "社区话题：The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：‘I’m not spying’: how Meta’s smartglasses have divided opinion": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
