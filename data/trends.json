@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T02:30:48.641193+00:00",
-  "generatedAtBeijing": "2026-08-20 10:30",
+  "generatedAt": "2026-08-21T02:37:42.963415+00:00",
+  "generatedAtBeijing": "2026-08-21 10:37",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,10 +39,78 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
+      "titleZh": "实时讨论：扎克伯格在儿童安全问题上撒谎， Meta举报人在具有里程碑意义的审判中作证",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the sa...",
+      "summaryZh": "中文翻译：Meta前安全工程师Arturo Béjar告诉陪审团科技公司， Meta意识到产品对儿童的潜在危害，在谈到安全问题时， Meta采取了“不要问，不要说”的策略。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Patrick Vieira appointed as head coach of Senegal, the country of his birth",
+      "titleZh": "实时讨论：帕特里克·维埃拉（ Patrick Vieira ）被任命为出生国塞内加尔的主教练",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Senegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’...",
+      "summaryZh": "中文翻译：前阿森纳队长接替Pape Thiaw塞内加尔到达今年夏天塞内加尔世界杯的最后32场比赛，任命法国1998年世界杯冠军帕特里克·维埃拉为主教练，该国“...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：Social media on trial as $200bn case against Facebook and Instagram begins",
       "titleZh": "实时讨论：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
+      "heat": 73,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
       "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
@@ -60,9 +128,9 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@ImKushanK",
@@ -73,103 +141,69 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
-      "titleZh": "实时讨论：参议院听到，支持澳大利亚青少年社交媒体禁令的报告似乎含有人工智能幻觉",
+      "title": "实时讨论：Sydney Swans confirm no other club representatives were in Melbourne hotel room",
+      "titleZh": "实时讨论：悉尼天鹅确认墨尔本酒店客房内没有其他俱乐部代表",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 71,
+      "heat": 75,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news l...",
-      "summaryZh": "中文翻译：独家：《卫报》的分析发现，报告的一部分包含了不存在的学术文章的链接，但作者否认这些引用是由人工智能编造的。关注我们的澳大利亚新闻...",
+      "summary": "公开来源显示该议题正在发酵：Coach Dean Cox faces media after five players banned for rest of season for breaching club standards Sydney Swans coach Dean Cox has admitted the culture at the embattled AFL club “isn’t per...",
+      "summaryZh": "中文翻译：在五名球员因违反俱乐部标准而被禁赛后，教练迪恩·考克斯（ Dean Cox ）面临媒体报道悉尼天鹅队（ Sydney Swans ）教练迪恩·考克斯（ Dean Cox ）承认，陷入困境的澳大利亚橄榄球俱乐部的文化“不符合",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/21/sydney-swans-incident-coach-apologises-ntwnfb"
         }
       ],
       "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
+      "titleZh": "视觉热点：扎克伯格在儿童安全问题上撒谎， Meta举报人在具有里程碑意义的审判中作证",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 90,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the sa...",
+      "summaryZh": "中文翻译：Meta前安全工程师Arturo Béjar告诉陪审团科技公司， Meta意识到产品对儿童的潜在危害，在谈到安全问题时， Meta采取了“不要问，不要说”的策略。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
-      "titleZh": "实时讨论：足球日报| Pocognoli看起来像是苏格兰的新老板，但问题仍然存在：他能跳舞吗？",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002, he had a simple instruction . “When we are playing,” he s...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ 2002年，当Berti Vogts被任命为苏格兰第一位外国经理时，他得到了一个简单的指示。“当我们玩的时候，”他……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/17/sebastien-pocognoli-scotland-football-daily-newsletter"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Premier League season preview: Arsenal to Fulham | Football Weekly video",
-      "titleZh": "实时讨论：英超联赛赛季预览：阿森纳到富勒姆|《足球周刊》视频",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Philippe Auclair for the first of our Premier League preview podcasts. Continue reading...",
-      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson、Philippe Auclair一起参加了我们的第一个英超联赛预览播客。继续阅读...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/aug/19/premier-league-season-preview-arsenal-to-fulham-football-weekly"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -178,7 +212,7 @@
       "title": "视觉热点：Social media on trial as $200bn case against Facebook and Instagram begins",
       "titleZh": "视觉热点：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
       "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
@@ -191,6 +225,11 @@
       ],
       "accounts": [
         {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
@@ -199,45 +238,40 @@
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
-      "titleZh": "视觉热点：因凡蒂诺的世界杯抛售崩溃震撼了足球，但国际足联的危机有着深刻而腐烂的根源",
+      "title": "视觉热点：Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
+      "titleZh": "视觉热点：意甲的管理旋转木马能否阻止国际米兰的统治地位？",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and we...",
-      "summaryZh": "中文翻译：对于一个可能无法挽回的机构来说，这是非凡的几天，但这个故事可以追溯到2010年的决定有几十年什么都没有发生，我们......",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlight And so, calcio’s “ third apocalypse ” has passed. A lot of Italians enjoyed the Worl...",
+      "summaryZh": "中文翻译：米兰、那不勒斯和亚特兰大都有新的主教练，因为意大利足球希望重返聚光灯下，因此，卡尔西奥的“第三次天启”已经过去。许多意大利人喜欢这个世界……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis"
+          "url": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -246,7 +280,7 @@
       "title": "视觉热点：Enzo Maresca’s Manchester City opener was startlingly bad",
       "titleZh": "视觉热点：恩佐·马雷斯卡的曼城揭幕战表现非常糟糕",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 89,
+      "heat": 87,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：The Community Shield isn’t always a sign of things to come, but City’s form in their defeat to Arsenal is concerning in the wake of Pep Guardiola’s departure Sign up for our free newsletter ...",
       "summaryZh": "中文翻译：社区盾牌并不总是未来的标志，但在瓜迪奥拉离开后，曼城击败阿森纳的形式令人担忧。注册我们的免费通讯...",
@@ -259,39 +293,10 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
-      "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
-      "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
-        }
-      ],
-      "accounts": [
+        },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
@@ -301,11 +306,6 @@
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -345,10 +345,112 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
+      "titleZh": "短视频趋势：新泽西州青少年放弃领头羊社交媒体成瘾诉讼",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
+      "summaryZh": "中文翻译：这起案件是九起重大人身伤害案件中的第三起，这些案件可能使Meta、YouTube、Snap和TikTok蒙受经济损失，并迫使他们改变其平台的设计。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
+      "titleZh": "短视频趋势：扎克伯格在儿童安全问题上撒谎， Meta举报人在具有里程碑意义的审判中作证",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the sa...",
+      "summaryZh": "中文翻译：Meta前安全工程师Arturo Béjar告诉陪审团科技公司， Meta意识到产品对儿童的潜在危害，在谈到安全问题时， Meta采取了“不要问，不要说”的策略。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Patrick Vieira appointed as head coach of Senegal, the country of his birth",
+      "titleZh": "短视频趋势：帕特里克·维埃拉（ Patrick Vieira ）被任命为出生国塞内加尔的主教练",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 73,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Senegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’...",
+      "summaryZh": "中文翻译：前阿森纳队长接替Pape Thiaw塞内加尔到达今年夏天塞内加尔世界杯的最后32场比赛，任命法国1998年世界杯冠军帕特里克·维埃拉为主教练，该国“...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Social media on trial as $200bn case against Facebook and Instagram begins",
       "titleZh": "短视频趋势：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
+      "heat": 68,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
       "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
@@ -361,121 +463,19 @@
       ],
       "accounts": [
         {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
-      "titleZh": "短视频趋势：参议院听到，支持澳大利亚青少年社交媒体禁令的报告似乎含有人工智能幻觉",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news l...",
-      "summaryZh": "中文翻译：独家：《卫报》的分析发现，报告的一部分包含了不存在的学术文章的链接，但作者否认这些引用是由人工智能编造的。关注我们的澳大利亚新闻...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
-      "titleZh": "短视频趋势：足球日报| Pocognoli看起来像是苏格兰的新老板，但问题仍然存在：他能跳舞吗？",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002, he had a simple instruction . “When we are playing,” he s...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！ 2002年，当Berti Vogts被任命为苏格兰第一位外国经理时，他得到了一个简单的指示。“当我们玩的时候，”他……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/17/sebastien-pocognoli-scotland-football-daily-newsletter"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Premier League season preview: Arsenal to Fulham | Football Weekly video",
-      "titleZh": "短视频趋势：英超联赛赛季预览：阿森纳到富勒姆|《足球周刊》视频",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 84,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Philippe Auclair for the first of our Premier League preview podcasts. Continue reading...",
-      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson、Philippe Auclair一起参加了我们的第一个英超联赛预览播客。继续阅读...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/aug/19/premier-league-season-preview-arsenal-to-fulham-football-weekly"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -515,18 +515,18 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Social media on trial as $200bn case against Facebook and Instagram begins",
-      "titleZh": "社区话题：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
+      "title": "社区话题：New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
+      "titleZh": "社区话题：新泽西州青少年放弃领头羊社交媒体成瘾诉讼",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
-      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
+      "summaryZh": "中文翻译：这起案件是九起重大人身伤害案件中的第三起，这些案件可能使Meta、YouTube、Snap和TikTok蒙受经济损失，并迫使他们改变其平台的设计。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html"
         }
       ],
       "accounts": [
@@ -549,25 +549,25 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
-      "titleZh": "社区话题：参议院听到，支持澳大利亚青少年社交媒体禁令的报告似乎含有人工智能幻觉",
+      "title": "社区话题：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
+      "titleZh": "社区话题：扎克伯格在儿童安全问题上撒谎， Meta举报人在具有里程碑意义的审判中作证",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 68,
+      "heat": 75,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news l...",
-      "summaryZh": "中文翻译：独家：《卫报》的分析发现，报告的一部分包含了不存在的学术文章的链接，但作者否认这些引用是由人工智能编造的。关注我们的澳大利亚新闻...",
+      "summary": "公开来源显示该议题正在发酵：Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the sa...",
+      "summaryZh": "中文翻译：Meta前安全工程师Arturo Béjar告诉陪审团科技公司， Meta意识到产品对儿童的潜在危害，在谈到安全问题时， Meta采取了“不要问，不要说”的策略。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
+          "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@ImKushanK",
@@ -575,43 +575,43 @@
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
-      "titleZh": "社区话题：“相信你的眼睛” ：大师们说英超联赛的诚信不容置疑",
+      "title": "社区话题：Social media on trial as $200bn case against Facebook and Instagram begins",
+      "titleZh": "社区话题：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the Premier League remains “e...",
-      "summaryZh": "中文翻译：首席执行官表示，在世界杯丑闻理查德·马斯特斯（ Richard Masters ）试图让球迷放心，英超联赛仍然是“应有的一切”。",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
+      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     }
@@ -622,32 +622,37 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Patrick Vieira appointed as head coach of Senegal, the country of his birth": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Social media on trial as $200bn case against Facebook and Instagram begins": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears": {
+    "实时讨论：Sydney Swans confirm no other club representatives were in Melbourne hotel room": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Premier League season preview: Arsenal to Fulham | Football Weekly video": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    "视觉热点：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：Social media on trial as $200bn case against Facebook and Instagram begins": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots": {
+    "视觉热点：Can a managerial merry-go-round in Serie A stop Inter’s dominance?": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,12 +662,22 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Patrick Vieira appointed as head coach of Senegal, the country of his birth": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -672,37 +687,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Premier League season preview: Arsenal to Fulham | Football Weekly video": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "社区话题：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
+    "社区话题：New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
     "社区话题：Social media on trial as $200bn case against Facebook and Instagram begins": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
