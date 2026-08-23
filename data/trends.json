@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T02:29:13.488017+00:00",
-  "generatedAtBeijing": "2026-08-22 10:29",
+  "generatedAt": "2026-08-23T02:37:30.753019+00:00",
+  "generatedAtBeijing": "2026-08-23 10:37",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,52 +39,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
-      "titleZh": "实时讨论：“我肯定失去了粉丝” ：网红面临着对Meta “变态眼镜”内容的强烈反对",
+      "title": "实时讨论：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
+      "titleZh": "实时讨论：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 84,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hoo...",
-      "summaryZh": "中文翻译：内容创作者表示，使用Facebook所有者制作的“间谍眼镜”会引发大量负面评论。这几乎不是一段令人反感的视频。在环法自行车赛总决赛的喧嚣中， Oliver Hoo……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-      "titleZh": "实时讨论：扎克伯格在儿童安全问题上撒谎， Meta举报人在具有里程碑意义的审判中作证",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
+      "heat": 91,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the sa...",
-      "summaryZh": "中文翻译：Meta前安全工程师Arturo Béjar告诉陪审团科技公司， Meta意识到产品对儿童的潜在危害，在谈到安全问题时， Meta采取了“不要问，不要说”的策略。",
+      "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
+      "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
         }
       ],
       "accounts": [
@@ -94,14 +60,48 @@
           "why": "AI 自动化教学和工具演示"
         },
         {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Reel-ing it in: Meta is paying influencers to promote teen accounts",
+      "titleZh": "实时讨论：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 80,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
+      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -209,18 +209,18 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-      "titleZh": "视觉热点：扎克伯格在儿童安全问题上撒谎， Meta举报人在具有里程碑意义的审判中作证",
+      "title": "视觉热点：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
+      "titleZh": "视觉热点：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 88,
+      "heat": 70,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the sa...",
-      "summaryZh": "中文翻译：Meta前安全工程师Arturo Béjar告诉陪审团科技公司， Meta意识到产品对儿童的潜在危害，在谈到安全问题时， Meta采取了“不要问，不要说”的策略。",
+      "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
+      "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
         }
       ],
       "accounts": [
@@ -243,10 +243,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Reel-ing it in: Meta is paying influencers to promote teen accounts",
+      "titleZh": "视觉热点：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
+      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach",
       "titleZh": "视觉热点：《Metal Gear Solid: Master Collection Vol 2》回顾–再次向雇佣兵突破",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：PC, Nintendo Switch/Switch 2, PS5, Xbox Series X/S; Konami This second collection remasters another three titles from the illustrious stealth espionage series, but their world has changed li...",
       "summaryZh": "中文翻译：PC、任天堂Switch/Switch 2、PS5、Xbox Series X/S ； Konami这第二个系列重新制作了杰出的隐形间谍系列中的另外三个游戏，但他们的世界已经改变了...",
@@ -264,48 +298,14 @@
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
-      "titleZh": "视觉热点：意甲的管理旋转木马能否阻止国际米兰的统治地位？",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlight And so, calcio’s “ third apocalypse ” has passed. A lot of Italians enjoyed the Worl...",
-      "summaryZh": "中文翻译：米兰、那不勒斯和亚特兰大都有新的主教练，因为意大利足球希望重返聚光灯下，因此，卡尔西奥的“第三次天启”已经过去。许多意大利人喜欢这个世界……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -345,44 +345,10 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
-      "titleZh": "短视频趋势：“我肯定失去了粉丝” ：网红面临着对Meta “变态眼镜”内容的强烈反对",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hoo...",
-      "summaryZh": "中文翻译：内容创作者表示，使用Facebook所有者制作的“间谍眼镜”会引发大量负面评论。这几乎不是一段令人反感的视频。在环法自行车赛总决赛的喧嚣中， Oliver Hoo……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
       "titleZh": "短视频趋势：新泽西州青少年放弃领头羊社交媒体成瘾诉讼",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 82,
+      "heat": 84,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
       "summaryZh": "中文翻译：这起案件是九起重大人身伤害案件中的第三起，这些案件可能使Meta、YouTube、Snap和TikTok蒙受经济损失，并迫使他们改变其平台的设计。",
@@ -395,39 +361,10 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-      "titleZh": "短视频趋势：扎克伯格在儿童安全问题上撒谎， Meta举报人在具有里程碑意义的审判中作证",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the sa...",
-      "summaryZh": "中文翻译：Meta前安全工程师Arturo Béjar告诉陪审团科技公司， Meta意识到产品对儿童的潜在危害，在谈到安全问题时， Meta采取了“不要问，不要说”的策略。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
-        }
-      ],
-      "accounts": [
+        },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
@@ -437,6 +374,69 @@
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
+      "titleZh": "短视频趋势：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
+      "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Reel-ing it in: Meta is paying influencers to promote teen accounts",
+      "titleZh": "短视频趋势：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 82,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
+      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@ImKushanK",
@@ -463,19 +463,19 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -515,44 +515,10 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
-      "titleZh": "社区话题：“我肯定失去了粉丝” ：网红面临着对Meta “变态眼镜”内容的强烈反对",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hoo...",
-      "summaryZh": "中文翻译：内容创作者表示，使用Facebook所有者制作的“间谍眼镜”会引发大量负面评论。这几乎不是一段令人反感的视频。在环法自行车赛总决赛的喧嚣中， Oliver Hoo……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
       "title": "社区话题：New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
       "titleZh": "社区话题：新泽西州青少年放弃领头羊社交媒体成瘾诉讼",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
       "summaryZh": "中文翻译：这起案件是九起重大人身伤害案件中的第三起，这些案件可能使Meta、YouTube、Snap和TikTok蒙受经济损失，并迫使他们改变其平台的设计。",
@@ -565,14 +531,48 @@
       ],
       "accounts": [
         {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
+      "titleZh": "社区话题：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 69,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
+      "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@exploraX_",
@@ -583,21 +583,26 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-      "titleZh": "社区话题：扎克伯格在儿童安全问题上撒谎， Meta举报人在具有里程碑意义的审判中作证",
+      "title": "社区话题：Reel-ing it in: Meta is paying influencers to promote teen accounts",
+      "titleZh": "社区话题：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the sa...",
-      "summaryZh": "中文翻译：Meta前安全工程师Arturo Béjar告诉陪审团科技公司， Meta意识到产品对儿童的潜在危害，在谈到安全问题时， Meta采取了“不要问，不要说”的策略。",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
+      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
         }
       ],
       "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
@@ -607,11 +612,6 @@
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         }
       ]
     }
@@ -622,12 +622,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
+    "实时讨论：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial": {
+    "实时讨论：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,7 +647,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial": {
+    "视觉热点：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,17 +662,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Can a managerial merry-go-round in Serie A stop Inter’s dominance?": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "短视频趋势：Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,7 +672,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial": {
+    "短视频趋势：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,17 +692,17 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
     "社区话题：New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial": {
+    "社区话题：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
