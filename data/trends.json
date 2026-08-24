@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T02:37:30.753019+00:00",
-  "generatedAtBeijing": "2026-08-23 10:37",
+  "generatedAt": "2026-08-24T02:37:52.323737+00:00",
+  "generatedAtBeijing": "2026-08-24 10:37",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -73,10 +73,44 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：Social media on trial as $200bn case against Facebook and Instagram begins",
+      "titleZh": "实时讨论：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
+      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：Reel-ing it in: Meta is paying influencers to promote teen accounts",
       "titleZh": "实时讨论：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
+      "heat": 78,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
       "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
@@ -94,14 +128,14 @@
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@exploraX_",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -110,7 +144,7 @@
       "title": "实时讨论：Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach",
       "titleZh": "实时讨论：《Metal Gear Solid: Master Collection Vol 2》回顾–再次向雇佣兵突破",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：PC, Nintendo Switch/Switch 2, PS5, Xbox Series X/S; Konami This second collection remasters another three titles from the illustrious stealth espionage series, but their world has changed li...",
       "summaryZh": "中文翻译：PC、任天堂Switch/Switch 2、PS5、Xbox Series X/S ； Konami这第二个系列重新制作了杰出的隐形间谍系列中的另外三个游戏，但他们的世界已经改变了...",
@@ -123,53 +157,19 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
-      "titleZh": "实时讨论：意甲的管理旋转木马能否阻止国际米兰的统治地位？",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlight And so, calcio’s “ third apocalypse ” has passed. A lot of Italians enjoyed the Worl...",
-      "summaryZh": "中文翻译：米兰、那不勒斯和亚特兰大都有新的主教练，因为意大利足球希望重返聚光灯下，因此，卡尔西奥的“第三次天启”已经过去。许多意大利人喜欢这个世界……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -243,10 +243,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Social media on trial as $200bn case against Facebook and Instagram begins",
+      "titleZh": "视觉热点：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
+      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Reel-ing it in: Meta is paying influencers to promote teen accounts",
       "titleZh": "视觉热点：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
       "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
@@ -259,53 +293,19 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach",
-      "titleZh": "视觉热点：《Metal Gear Solid: Master Collection Vol 2》回顾–再次向雇佣兵突破",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：PC, Nintendo Switch/Switch 2, PS5, Xbox Series X/S; Konami This second collection remasters another three titles from the illustrious stealth espionage series, but their world has changed li...",
-      "summaryZh": "中文翻译：PC、任天堂Switch/Switch 2、PS5、Xbox Series X/S ； Konami这第二个系列重新制作了杰出的隐形间谍系列中的另外三个游戏，但他们的世界已经改变了...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/aug/21/metal-gear-solid-master-collection-vol-2-review"
-        }
-      ],
-      "accounts": [
+          "why": "AI 自动化实操内容"
+        },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -413,10 +413,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：Social media on trial as $200bn case against Facebook and Instagram begins",
+      "titleZh": "短视频趋势：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
+      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Reel-ing it in: Meta is paying influencers to promote teen accounts",
       "titleZh": "短视频趋势：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 82,
+      "heat": 80,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
       "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
@@ -425,40 +459,6 @@
         {
           "label": "Guardian Technology",
           "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach",
-      "titleZh": "短视频趋势：《Metal Gear Solid: Master Collection Vol 2》回顾–再次向雇佣兵突破",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 82,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：PC, Nintendo Switch/Switch 2, PS5, Xbox Series X/S; Konami This second collection remasters another three titles from the illustrious stealth espionage series, but their world has changed li...",
-      "summaryZh": "中文翻译：PC、任天堂Switch/Switch 2、PS5、Xbox Series X/S ； Konami这第二个系列重新制作了杰出的隐形间谍系列中的另外三个游戏，但他们的世界已经改变了...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/aug/21/metal-gear-solid-master-collection-vol-2-review"
         }
       ],
       "accounts": [
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Reel-ing it in: Meta is paying influencers to promote teen accounts",
-      "titleZh": "社区话题：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
+      "title": "社区话题：Social media on trial as $200bn case against Facebook and Instagram begins",
+      "titleZh": "社区话题：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 70,
+      "heat": 77,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
-      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
+      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
+      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     }
@@ -627,17 +627,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Social media on trial as $200bn case against Facebook and Instagram begins": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "实时讨论：Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Can a managerial merry-go-round in Serie A stop Inter’s dominance?": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -652,12 +652,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
+    "视觉热点：Social media on trial as $200bn case against Facebook and Instagram begins": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach": {
+    "视觉热点：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -677,12 +677,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
+    "短视频趋势：Social media on trial as $200bn case against Facebook and Instagram begins": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach": {
+    "短视频趋势：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
+    "社区话题：Social media on trial as $200bn case against Facebook and Instagram begins": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
