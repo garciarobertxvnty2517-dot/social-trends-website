@@ -1,39 +1,73 @@
 {
-  "generatedAt": "2026-08-25T02:31:41.246014+00:00",
-  "generatedAtBeijing": "2026-08-25 10:31",
+  "generatedAt": "2026-08-26T02:39:34.816295+00:00",
+  "generatedAtBeijing": "2026-08-26 10:39",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
-      "titleZh": "实时讨论：《足球日报》|巴洛贡事件和英超联赛与阴谋论者的斗争",
+      "title": "实时讨论：Amorim’s Milan live up to billing as teenage star Cissè upstages signings | Nicky Bandini",
+      "titleZh": "实时讨论：阿莫林的米兰不辜负青春期明星西塞的签约|尼基·班迪尼",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 91,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily remains open to the idea that Stanley Kubrick directed the moon landings and the Pentagon is hiding grey aliens in Ar...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》仍然对斯坦利·库布里克（ Stanley Kubrick ）指挥登月以及五角大楼将灰色外星人藏匿在阿尔的想法持开放态度……",
+      "heat": 89,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Rossoneri overcome fascinating first challenge at Torino as teams across Serie A give homegrown talent a chance “I love Cissè. I love Cissè.” Ruben Amorim had not yet taken charge of his fir...",
+      "summaryZh": "中文翻译：Rossoneri在都灵克服了令人着迷的第一个挑战，意甲的球队给了本土天才一个机会： “我爱西塞。我爱西塞。”鲁本·阿莫林还没有掌管他的冷杉……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/20/the-balogun-affair-premier-league-referees-newsletter"
+          "url": "https://www.theguardian.com/football/2026/aug/24/ruben-amorim-milan-live-up-to-billing-as-teenage-star-alphadjo-cisse-upstages-signings"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
+      "titleZh": "实时讨论：Instagram首席执行官表示，在领头羊试验中，青少年安全“没有银弹”",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 91,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
+      "summaryZh": "中文翻译：Adam Mosseri在一个州提起的案件中作证，该州声称Meta拥有的应用程序创建了令人上瘾的功能来吸引年轻用户。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -42,7 +76,7 @@
       "title": "实时讨论：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
       "titleZh": "实时讨论：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 91,
+      "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
       "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
@@ -55,19 +89,19 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -76,7 +110,7 @@
       "title": "实时讨论：Social media on trial as $200bn case against Facebook and Instagram begins",
       "titleZh": "实时讨论：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
+      "heat": 73,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
       "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
@@ -89,9 +123,9 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@exploraX_",
@@ -99,9 +133,9 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -110,7 +144,7 @@
       "title": "实时讨论：Reel-ing it in: Meta is paying influencers to promote teen accounts",
       "titleZh": "实时讨论：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
+      "heat": 76,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
       "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
@@ -119,40 +153,6 @@
         {
           "label": "Guardian Technology",
           "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach",
-      "titleZh": "实时讨论：《Metal Gear Solid: Master Collection Vol 2》回顾–再次向雇佣兵突破",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：PC, Nintendo Switch/Switch 2, PS5, Xbox Series X/S; Konami This second collection remasters another three titles from the illustrious stealth espionage series, but their world has changed li...",
-      "summaryZh": "中文翻译：PC、任天堂Switch/Switch 2、PS5、Xbox Series X/S ； Konami这第二个系列重新制作了杰出的隐形间谍系列中的另外三个游戏，但他们的世界已经改变了...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/aug/21/metal-gear-solid-master-collection-vol-2-review"
         }
       ],
       "accounts": [
@@ -175,35 +175,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
-      "titleZh": "视觉热点：《足球日报》|巴洛贡事件和英超联赛与阴谋论者的斗争",
+      "title": "视觉热点：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
+      "titleZh": "视觉热点：Instagram首席执行官表示，在领头羊试验中，青少年安全“没有银弹”",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
+      "heat": 86,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily remains open to the idea that Stanley Kubrick directed the moon landings and the Pentagon is hiding grey aliens in Ar...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》仍然对斯坦利·库布里克（ Stanley Kubrick ）指挥登月以及五角大楼将灰色外星人藏匿在阿尔的想法持开放态度……",
+      "summary": "公开来源显示该议题正在发酵：Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
+      "summaryZh": "中文翻译：Adam Mosseri在一个州提起的案件中作证，该州声称Meta拥有的应用程序创建了令人上瘾的功能来吸引年轻用户。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/20/the-balogun-affair-premier-league-referees-newsletter"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -311,35 +311,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
-      "titleZh": "短视频趋势：《足球日报》|巴洛贡事件和英超联赛与阴谋论者的斗争",
+      "title": "短视频趋势：Amorim’s Milan live up to billing as teenage star Cissè upstages signings | Nicky Bandini",
+      "titleZh": "短视频趋势：阿莫林的米兰不辜负青春期明星西塞的签约|尼基·班迪尼",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily remains open to the idea that Stanley Kubrick directed the moon landings and the Pentagon is hiding grey aliens in Ar...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》仍然对斯坦利·库布里克（ Stanley Kubrick ）指挥登月以及五角大楼将灰色外星人藏匿在阿尔的想法持开放态度……",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Rossoneri overcome fascinating first challenge at Torino as teams across Serie A give homegrown talent a chance “I love Cissè. I love Cissè.” Ruben Amorim had not yet taken charge of his fir...",
+      "summaryZh": "中文翻译：Rossoneri在都灵克服了令人着迷的第一个挑战，意甲的球队给了本土天才一个机会： “我爱西塞。我爱西塞。”鲁本·阿莫林还没有掌管他的冷杉……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/20/the-balogun-affair-premier-league-referees-newsletter"
+          "url": "https://www.theguardian.com/football/2026/aug/24/ruben-amorim-milan-live-up-to-billing-as-teenage-star-alphadjo-cisse-upstages-signings"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -379,10 +379,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
+      "titleZh": "短视频趋势：Instagram首席执行官表示，在领头羊试验中，青少年安全“没有银弹”",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 82,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
+      "summaryZh": "中文翻译：Adam Mosseri在一个州提起的案件中作证，该州声称Meta拥有的应用程序创建了令人上瘾的功能来吸引年轻用户。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
       "titleZh": "短视频趋势：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
       "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
@@ -395,19 +429,19 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -416,7 +450,7 @@
       "title": "短视频趋势：Social media on trial as $200bn case against Facebook and Instagram begins",
       "titleZh": "短视频趋势：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
+      "heat": 68,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
       "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
@@ -429,87 +463,53 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Reel-ing it in: Meta is paying influencers to promote teen accounts",
-      "titleZh": "短视频趋势：Reel-ing it in ： Meta正在向有影响力的人付费，以推广青少年账户",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features In July 2025, Meta gathered parenting inf...",
-      "summaryZh": "中文翻译：Tech Transparency Project的报告显示，每当政府考虑平台法规时，公司都会招募有影响力的人来推广其安全功能2025年7月， Meta收集了育儿信息...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
-      "titleZh": "社区话题：《足球日报》|巴洛贡事件和英超联赛与阴谋论者的斗争",
+      "title": "社区话题：Amorim’s Milan live up to billing as teenage star Cissè upstages signings | Nicky Bandini",
+      "titleZh": "社区话题：阿莫林的米兰不辜负青春期明星西塞的签约|尼基·班迪尼",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily remains open to the idea that Stanley Kubrick directed the moon landings and the Pentagon is hiding grey aliens in Ar...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》仍然对斯坦利·库布里克（ Stanley Kubrick ）指挥登月以及五角大楼将灰色外星人藏匿在阿尔的想法持开放态度……",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Rossoneri overcome fascinating first challenge at Torino as teams across Serie A give homegrown talent a chance “I love Cissè. I love Cissè.” Ruben Amorim had not yet taken charge of his fir...",
+      "summaryZh": "中文翻译：Rossoneri在都灵克服了令人着迷的第一个挑战，意甲的球队给了本土天才一个机会： “我爱西塞。我爱西塞。”鲁本·阿莫林还没有掌管他的冷杉……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/aug/20/the-balogun-affair-premier-league-referees-newsletter"
+          "url": "https://www.theguardian.com/football/2026/aug/24/ruben-amorim-milan-live-up-to-billing-as-teenage-star-alphadjo-cisse-upstages-signings"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -549,10 +549,44 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
+      "titleZh": "社区话题：Instagram首席执行官表示，在领头羊试验中，青少年安全“没有银弹”",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
+      "summaryZh": "中文翻译：Adam Mosseri在一个州提起的案件中作证，该州声称Meta拥有的应用程序创建了令人上瘾的功能来吸引年轻用户。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
       "titleZh": "社区话题：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 69,
+      "heat": 68,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
       "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
@@ -565,59 +599,30 @@
       ],
       "accounts": [
         {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Social media on trial as $200bn case against Facebook and Instagram begins",
-      "titleZh": "社区话题：社交媒体因2000亿美元的Facebook和Instagram案件而受审",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design In 1994, more than 40 US states came together to sue one of the most powerful industries on...",
-      "summaryZh": "中文翻译：美国29个州正在寻求巨额赔偿，声称Meta的平台在设计上令人上瘾。1994年，美国40多个州聚集在一起，起诉...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists": {
+    "实时讨论：Amorim’s Milan live up to billing as teenage star Cissè upstages signings | Nicky Bandini": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,12 +642,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists": {
+    "视觉热点：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -662,12 +662,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists": {
+    "短视频趋势：Amorim’s Milan live up to billing as teenage star Cissè upstages signings | Nicky Bandini": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,12 +687,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Reel-ing it in: Meta is paying influencers to promote teen accounts": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "社区话题：Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists": {
+    "社区话题：Amorim’s Milan live up to billing as teenage star Cissè upstages signings | Nicky Bandini": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -697,12 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
+    "社区话题：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Social media on trial as $200bn case against Facebook and Instagram begins": {
+    "社区话题：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
