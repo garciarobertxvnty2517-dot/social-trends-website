@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T07:02:46.325724+00:00",
-  "generatedAtBeijing": "2026-08-31 15:02",
+  "generatedAt": "2026-09-01T06:15:02.168836+00:00",
+  "generatedAtBeijing": "2026-09-01 14:15",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -277,35 +277,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Social Media and the Myth of the Big Tobacco Moment",
-      "titleZh": "视觉热点：社交媒体和大烟草时刻的神话",
+      "title": "视觉热点：Who would fall in love with a fake NFL player? Plenty of sensible people",
+      "titleZh": "视觉热点：谁会爱上假的NFL球员？很多明智的人",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
-      "summaryZh": "中文翻译：过去，吸烟无处不在，就像现在的Facebook、TikTok、Snap、YouTube和Instagram一样。社会决定打破这个习惯，但花了很长时间。",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The FBI has charged Daejon Love after he allegedly pretended to be a 49ers receiver. Although football isn’t as glamorous as it looks, it easy to see the attraction Is romance dead? Yeah, pr...",
+      "summaryZh": "中文翻译：联邦调查局指控Daejon Love假装是49人队的接球手。虽然足球并不像看起来那么迷人，但很容易看到它的吸引力浪漫死了吗？是啊，公关……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/aug/31/nfl-alleged-scam-daejon-love"
         }
       ],
       "accounts": [
         {
-          "name": "@patrickcolpron",
-          "followers": "约4万",
-          "why": "餐厅/本地营销和创作者增长"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@nathanallebach",
-          "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -657,7 +657,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Social Media and the Myth of the Big Tobacco Moment": {
+    "视觉热点：Who would fall in love with a fake NFL player? Plenty of sensible people": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
