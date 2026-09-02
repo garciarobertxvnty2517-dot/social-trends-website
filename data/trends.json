@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T06:15:02.168836+00:00",
-  "generatedAtBeijing": "2026-09-01 14:15",
+  "generatedAt": "2026-09-02T05:51:16.375895+00:00",
+  "generatedAtBeijing": "2026-09-02 13:51",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,44 +39,10 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
-      "titleZh": "实时讨论：Instagram首席执行官表示，在领头羊试验中，青少年安全“没有银弹”",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 91,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
-      "summaryZh": "中文翻译：Adam Mosseri在一个州提起的案件中作证，该州声称Meta拥有的应用程序创建了令人上瘾的功能来吸引年轻用户。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
       "title": "实时讨论：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
       "titleZh": "实时讨论：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 89,
+      "heat": 91,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
       "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
@@ -89,19 +55,19 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@exploraX_",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -110,7 +76,7 @@
       "title": "实时讨论：Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain",
       "titleZh": "实时讨论：马克·扎克伯格希望确保YouTube和TikTok分享他的痛苦",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 86,
+      "heat": 88,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Meta, the social media giant, agreed to change the way children interact with its apps. That could be trouble if its competitors don’t abide by the same rules.",
       "summaryZh": "中文翻译：社交媒体巨头Meta同意改变儿童与其应用程序互动的方式。如果其竞争对手不遵守相同的规则，这可能会带来麻烦。",
@@ -119,6 +85,74 @@
         {
           "label": "NYTimes Technology",
           "url": "https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：What Meta’s $17 Billion Settlement Means",
+      "titleZh": "实时讨论：Meta的170 $十亿和解意味着什么",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.",
+      "summaryZh": "中文翻译：我们的记者Cecilia Kang解释了Meta对一项诉讼的和解，该诉讼声称该公司的社交媒体平台伤害了青少年用户。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash",
+      "titleZh": "实时讨论：随着硅谷面临越来越大的反弹， Meta继续接受审判",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
+      "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley"
         }
       ],
       "accounts": [
@@ -136,40 +170,6 @@
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：What Meta’s $17 Billion Settlement Means",
-      "titleZh": "实时讨论：Meta的170 $十亿和解意味着什么",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.",
-      "summaryZh": "中文翻译：我们的记者Cecilia Kang解释了Meta对一项诉讼的和解，该诉讼声称该公司的社交媒体平台伤害了青少年用户。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -209,35 +209,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
-      "titleZh": "视觉热点：Instagram首席执行官表示，在领头羊试验中，青少年安全“没有银弹”",
+      "title": "视觉热点：Social Media and the Myth of the Big Tobacco Moment",
+      "titleZh": "视觉热点：社交媒体和大烟草时刻的神话",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 84,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
-      "summaryZh": "中文翻译：Adam Mosseri在一个州提起的案件中作证，该州声称Meta拥有的应用程序创建了令人上瘾的功能来吸引年轻用户。",
+      "heat": 75,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
+      "summaryZh": "中文翻译：过去，吸烟无处不在，就像现在的Facebook、TikTok、Snap、YouTube和Instagram一样。社会决定打破这个习惯，但花了很长时间。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html"
+          "url": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "newsletter 增长案例"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@nathanallebach",
+          "followers": "约5万",
+          "why": "品牌人格化和社媒观点"
         }
       ]
     },
@@ -277,35 +277,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Who would fall in love with a fake NFL player? Plenty of sensible people",
-      "titleZh": "视觉热点：谁会爱上假的NFL球员？很多明智的人",
+      "title": "视觉热点：Arthur Fery sunk by Lorenzo Musetti in straight sets on US Open debut",
+      "titleZh": "视觉热点：Lorenzo Musetti的Arthur Fery在美国公开赛上首次亮相",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The FBI has charged Daejon Love after he allegedly pretended to be a 49ers receiver. Although football isn’t as glamorous as it looks, it easy to see the attraction Is romance dead? Yeah, pr...",
-      "summaryZh": "中文翻译：联邦调查局指控Daejon Love假装是49人队的接球手。虽然足球并不像看起来那么迷人，但很容易看到它的吸引力浪漫死了吗？是啊，公关……",
+      "heat": 86,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：British Wimbledon semi-finalist loses 6-3, 6-3, 7-5 Elena Rybakina into second round with 6-3, 6-2 win Six weeks on from the fortnight that changed his life, Arthur Fery’s first grand slam a...",
+      "summaryZh": "中文翻译：英国温布尔登半决赛选手以6比3、6比3、7比5输给第二轮的埃琳娜·雷巴基纳（ Elena Rybakina ） ，以6比3、6比2获胜改变了他一生的两周之后的六周，亚瑟·费里（ Arthur Fery ）的第一个大满贯......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/aug/31/nfl-alleged-scam-daejon-love"
+          "url": "https://www.theguardian.com/sport/2026/sep/01/madison-keys-alina-korneeva-elena-rybakina-thea-frodin-us-open-2026-tennis"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -345,18 +345,18 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
-      "titleZh": "短视频趋势：Instagram首席执行官表示，在领头羊试验中，青少年安全“没有银弹”",
+      "title": "短视频趋势：Social Media and the Myth of the Big Tobacco Moment",
+      "titleZh": "短视频趋势：社交媒体和大烟草时刻的神话",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 84,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
-      "summaryZh": "中文翻译：Adam Mosseri在一个州提起的案件中作证，该州声称Meta拥有的应用程序创建了令人上瘾的功能来吸引年轻用户。",
+      "heat": 70,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
+      "summaryZh": "中文翻译：过去，吸烟无处不在，就像现在的Facebook、TikTok、Snap、YouTube和Instagram一样。社会决定打破这个习惯，但花了很长时间。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html"
+          "url": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html"
         }
       ],
       "accounts": [
@@ -366,14 +366,14 @@
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@exploraX_",
+          "name": "@SocialJesi",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "社媒营销技巧和轻量教学"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@ChelseaUGC",
+          "followers": "约4万",
+          "why": "UGC 创作者变现和家居内容"
         }
       ]
     },
@@ -429,19 +429,19 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -515,35 +515,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
-      "titleZh": "社区话题：Instagram首席执行官表示，在领头羊试验中，青少年安全“没有银弹”",
+      "title": "社区话题：Social Media and the Myth of the Big Tobacco Moment",
+      "titleZh": "社区话题：社交媒体和大烟草时刻的神话",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
-      "summaryZh": "中文翻译：Adam Mosseri在一个州提起的案件中作证，该州声称Meta拥有的应用程序创建了令人上瘾的功能来吸引年轻用户。",
+      "heat": 91,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
+      "summaryZh": "中文翻译：过去，吸烟无处不在，就像现在的Facebook、TikTok、Snap、YouTube和Instagram一样。社会决定打破这个习惯，但花了很长时间。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html"
+          "url": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@nathanallebach",
+          "followers": "约5万",
+          "why": "品牌人格化和社媒观点"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "newsletter 增长案例"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@patrickcolpron",
+          "followers": "约4万",
+          "why": "餐厅/本地营销和创作者增长"
         }
       ]
     },
@@ -622,11 +622,6 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
@@ -642,12 +637,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "视觉热点：Meta’s settlement will compel others to bend the knee and set up teen guardrails": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial": {
+    "视觉热点：Social Media and the Myth of the Big Tobacco Moment": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,7 +657,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Who would fall in love with a fake NFL player? Plenty of sensible people": {
+    "视觉热点：Arthur Fery sunk by Lorenzo Musetti in straight sets on US Open debut": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,7 +667,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial": {
+    "短视频趋势：Social Media and the Myth of the Big Tobacco Moment": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,7 +692,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial": {
+    "社区话题：Social Media and the Myth of the Big Tobacco Moment": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
