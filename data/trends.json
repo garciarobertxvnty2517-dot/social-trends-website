@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T05:51:16.375895+00:00",
-  "generatedAtBeijing": "2026-09-02 13:51",
+  "generatedAt": "2026-09-03T05:49:01.492990+00:00",
+  "generatedAtBeijing": "2026-09-03 13:49",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -277,18 +277,18 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Arthur Fery sunk by Lorenzo Musetti in straight sets on US Open debut",
-      "titleZh": "视觉热点：Lorenzo Musetti的Arthur Fery在美国公开赛上首次亮相",
+      "title": "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows",
+      "titleZh": "视觉热点：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 86,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：British Wimbledon semi-finalist loses 6-3, 6-3, 7-5 Elena Rybakina into second round with 6-3, 6-2 win Six weeks on from the fortnight that changed his life, Arthur Fery’s first grand slam a...",
-      "summaryZh": "中文翻译：英国温布尔登半决赛选手以6比3、6比3、7比5输给第二轮的埃琳娜·雷巴基纳（ Elena Rybakina ） ，以6比3、6比2获胜改变了他一生的两周之后的六周，亚瑟·费里（ Arthur Fery ）的第一个大满贯......",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
+      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/sep/01/madison-keys-alina-korneeva-elena-rybakina-thea-frodin-us-open-2026-tennis"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
         }
       ],
       "accounts": [
@@ -298,9 +298,9 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@Bennettxai",
@@ -657,7 +657,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Arthur Fery sunk by Lorenzo Musetti in straight sets on US Open debut": {
+    "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
