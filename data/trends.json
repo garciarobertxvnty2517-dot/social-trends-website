@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T05:49:01.492990+00:00",
-  "generatedAtBeijing": "2026-09-03 13:49",
+  "generatedAt": "2026-09-04T05:54:59.027770+00:00",
+  "generatedAtBeijing": "2026-09-04 13:54",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,112 +39,10 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
-      "titleZh": "实时讨论：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 91,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
-      "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain",
-      "titleZh": "实时讨论：马克·扎克伯格希望确保YouTube和TikTok分享他的痛苦",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 88,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Meta, the social media giant, agreed to change the way children interact with its apps. That could be trouble if its competitors don’t abide by the same rules.",
-      "summaryZh": "中文翻译：社交媒体巨头Meta同意改变儿童与其应用程序互动的方式。如果其竞争对手不遵守相同的规则，这可能会带来麻烦。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：What Meta’s $17 Billion Settlement Means",
-      "titleZh": "实时讨论：Meta的170 $十亿和解意味着什么",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.",
-      "summaryZh": "中文翻译：我们的记者Cecilia Kang解释了Meta对一项诉讼的和解，该诉讼声称该公司的社交媒体平台伤害了青少年用户。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
       "title": "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash",
       "titleZh": "实时讨论：随着硅谷面临越来越大的反弹， Meta继续接受审判",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
+      "heat": 82,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
       "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
@@ -170,6 +68,108 @@
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Conservatives split from Silicon Valley allies as datacenter backlash grows",
+      "titleZh": "实时讨论：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
+      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：John Lewis to launch YouTube chatshow to improve AI search results",
+      "titleZh": "实时讨论：约翰·刘易斯（ John Lewis ）将推出YouTube聊天节目，以改善人工智能",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Department store chain’s Gift List ‘vodcast’ will be hosted by TV presenter Angela Scanlon Business live – latest updates John Lewis is launching an online chatshow and social media studio t...",
+      "summaryZh": "中文翻译：百货连锁店的礼品清单“vodcast”将由电视节目主持人Angela Scanlon Business LIVE主持–最新更新John Lewis正在推出在线聊天和社交媒体工作室......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/business/2026/sep/03/john-lewis-youtube-chat-show-angela-scanlon"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：It’s time to get shirty about the short life of the football top",
+      "titleZh": "实时讨论：是时候了解橄榄球服的短暂寿命了",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 82,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：With millions of club shirts going to waste every season, a radical recycling rethink is needed When Joanna Czutkowna buried a Manchester United jersey, a cotton T-shirt and a wool-cotton ju...",
+      "summaryZh": "中文翻译：每个赛季都有数百万件俱乐部衬衫被浪费，当Joanna Czutkowna埋葬一件曼联球衣、一件棉质T恤和一件羊毛-棉质果汁时，需要彻底的回收再思考……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/sport/2026/aug/31/get-shirty-about-short-life-of-football-top-the-hotspot"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -243,44 +243,10 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
-      "titleZh": "视觉热点：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
-      "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
       "title": "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows",
       "titleZh": "视觉热点：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
       "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
@@ -293,9 +259,9 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@Ivy_Dinma",
@@ -303,9 +269,43 @@
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
+      "titleZh": "视觉热点：“在我心中，直到我死去” ：阿根廷向莱昂内尔·梅西表示泪流满面的感谢",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s ...",
+      "summaryZh": "中文翻译：这位阿根廷人退出国际足球的决定得到了他在2022年带来世界杯荣耀的国家的热烈欢迎。任何出席莱昂内尔·斯卡洛尼（ Lionel Scaloni ）......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -379,25 +379,25 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
-      "titleZh": "短视频趋势：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
+      "title": "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash",
+      "titleZh": "短视频趋势：随着硅谷面临越来越大的反弹， Meta继续接受审判",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
+      "heat": 72,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
-      "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
+      "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
+      "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
+          "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@marcinteodoru",
@@ -405,26 +405,26 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain",
-      "titleZh": "短视频趋势：马克·扎克伯格希望确保YouTube和TikTok分享他的痛苦",
+      "title": "短视频趋势：Conservatives split from Silicon Valley allies as datacenter backlash grows",
+      "titleZh": "短视频趋势：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Meta, the social media giant, agreed to change the way children interact with its apps. That could be trouble if its competitors don’t abide by the same rules.",
-      "summaryZh": "中文翻译：社交媒体巨头Meta同意改变儿童与其应用程序互动的方式。如果其竞争对手不遵守相同的规则，这可能会带来麻烦。",
+      "heat": 70,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
+      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
         }
       ],
       "accounts": [
@@ -432,40 +432,40 @@
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：What Meta’s $17 Billion Settlement Means",
-      "titleZh": "短视频趋势：Meta的170 $十亿和解意味着什么",
+      "title": "短视频趋势：John Lewis to launch YouTube chatshow to improve AI search results",
+      "titleZh": "短视频趋势：约翰·刘易斯（ John Lewis ）将推出YouTube聊天节目，以改善人工智能",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.",
-      "summaryZh": "中文翻译：我们的记者Cecilia Kang解释了Meta对一项诉讼的和解，该诉讼声称该公司的社交媒体平台伤害了青少年用户。",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Department store chain’s Gift List ‘vodcast’ will be hosted by TV presenter Angela Scanlon Business live – latest updates John Lewis is launching an online chatshow and social media studio t...",
+      "summaryZh": "中文翻译：百货连锁店的礼品清单“vodcast”将由电视节目主持人Angela Scanlon Business LIVE主持–最新更新John Lewis正在推出在线聊天和社交媒体工作室......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/business/2026/sep/03/john-lewis-youtube-chat-show-angela-scanlon"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@marcinteodoru",
@@ -473,9 +473,9 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -549,60 +549,55 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
-      "titleZh": "社区话题：Hook, hold, harvest and hide ： Meta在具有里程碑意义的试验的第一周提出的所谓策略",
+      "title": "社区话题：Meta goes on trial as Silicon Valley faces a growing backlash",
+      "titleZh": "社区话题：随着硅谷面临越来越大的反弹， Meta继续接受审判",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 69,
+      "heat": 79,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boile...",
-      "summaryZh": "中文翻译：在周二开庭的审判中，加利福尼亚州和其他28个州指控该公司设计令人上瘾的网站，并违反保护儿童隐私的法律。",
+      "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
+      "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
+          "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain",
-      "titleZh": "社区话题：马克·扎克伯格希望确保YouTube和TikTok分享他的痛苦",
+      "title": "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows",
+      "titleZh": "社区话题：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 69,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Meta, the social media giant, agreed to change the way children interact with its apps. That could be trouble if its competitors don’t abide by the same rules.",
-      "summaryZh": "中文翻译：社交媒体巨头Meta同意改变儿童与其应用程序互动的方式。如果其竞争对手不遵守相同的规则，这可能会带来麻烦。",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
+      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
         }
       ],
       "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
@@ -612,6 +607,11 @@
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     }
@@ -622,22 +622,22 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：What Meta’s $17 Billion Settlement Means": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：John Lewis to launch YouTube chatshow to improve AI search results": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：It’s time to get shirty about the short life of the football top": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -652,12 +652,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
+    "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
+    "视觉热点：‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -672,17 +672,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
+    "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain": {
+    "短视频趋势：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：What Meta’s $17 Billion Settlement Means": {
+    "短视频趋势：John Lewis to launch YouTube chatshow to improve AI search results": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -697,12 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial": {
+    "社区话题：Meta goes on trial as Silicon Valley faces a growing backlash": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain": {
+    "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
