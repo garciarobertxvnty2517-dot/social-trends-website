@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T05:54:59.027770+00:00",
-  "generatedAtBeijing": "2026-09-04 13:54",
+  "generatedAt": "2026-09-05T05:46:04.912930+00:00",
+  "generatedAtBeijing": "2026-09-05 13:46",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,10 +39,78 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：Football Daily | What you won’t see in the Premier League this weekend",
+      "titleZh": "实时讨论：足球日报|本周末您在英超联赛中不会看到的内容",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！冰冷的风敲打着筏子，是传送窗关闭后的冰冷现实，一个宿醉般的遗憾。鄙视……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
+      "titleZh": "实时讨论：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 87,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday rel...",
+      "summaryZh": "中文翻译：美国政府自己网站上的一系列干扰邀请您捕捉像素化的移民–显示游戏有可能在周四成为特朗普白宫的肮脏武器。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash",
       "titleZh": "实时讨论：随着硅谷面临越来越大的反弹， Meta继续接受审判",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
       "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
@@ -55,77 +123,9 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "实时讨论：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：John Lewis to launch YouTube chatshow to improve AI search results",
-      "titleZh": "实时讨论：约翰·刘易斯（ John Lewis ）将推出YouTube聊天节目，以改善人工智能",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Department store chain’s Gift List ‘vodcast’ will be hosted by TV presenter Angela Scanlon Business live – latest updates John Lewis is launching an online chatshow and social media studio t...",
-      "summaryZh": "中文翻译：百货连锁店的礼品清单“vodcast”将由电视节目主持人Angela Scanlon Business LIVE主持–最新更新John Lewis正在推出在线聊天和社交媒体工作室......",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/business/2026/sep/03/john-lewis-youtube-chat-show-angela-scanlon"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Bennettxai",
@@ -133,43 +133,43 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：It’s time to get shirty about the short life of the football top",
-      "titleZh": "实时讨论：是时候了解橄榄球服的短暂寿命了",
+      "title": "实时讨论：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened",
+      "titleZh": "实时讨论：“迈克·迪恩（ Mike Dean ）被指控因裁判主张而“处于幻想世界”；客场球迷被禁止参加Old Firm比赛–事实就是如此",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：With millions of club shirts going to waste every season, a radical recycling rethink is needed When Joanna Czutkowna buried a Manchester United jersey, a cotton T-shirt and a wool-cotton ju...",
-      "summaryZh": "中文翻译：每个赛季都有数百万件俱乐部衬衫被浪费，当Joanna Czutkowna埋葬一件曼联球衣、一件棉质T恤和一件羊毛-棉质果汁时，需要彻底的回收再思考……",
+      "heat": 71,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Our writers and reporters with all the latest news going into a busy weekend of action The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Bo...",
+      "summaryZh": "中文翻译：我们的作家和记者将所有最新消息带入了一个繁忙的周末行动。足球协会、橄榄球足球联盟以及英格兰和威尔士板球博览会的首席执行官......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/sport/2026/aug/31/get-shirty-about-short-life-of-football-top-the-hotspot"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -209,35 +209,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Social Media and the Myth of the Big Tobacco Moment",
-      "titleZh": "视觉热点：社交媒体和大烟草时刻的神话",
+      "title": "视觉热点：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
+      "titleZh": "视觉热点：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
-      "summaryZh": "中文翻译：过去，吸烟无处不在，就像现在的Facebook、TikTok、Snap、YouTube和Instagram一样。社会决定打破这个习惯，但花了很长时间。",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday rel...",
+      "summaryZh": "中文翻译：美国政府自己网站上的一系列干扰邀请您捕捉像素化的移民–显示游戏有可能在周四成为特朗普白宫的肮脏武器。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@nathanallebach",
-          "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
         }
       ]
     },
@@ -345,18 +345,52 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Social Media and the Myth of the Big Tobacco Moment",
-      "titleZh": "短视频趋势：社交媒体和大烟草时刻的神话",
+      "title": "短视频趋势：Football Daily | What you won’t see in the Premier League this weekend",
+      "titleZh": "短视频趋势：足球日报|本周末您在英超联赛中不会看到的内容",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
-      "summaryZh": "中文翻译：过去，吸烟无处不在，就像现在的Facebook、TikTok、Snap、YouTube和Instagram一样。社会决定打破这个习惯，但花了很长时间。",
+      "heat": 86,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！冰冷的风敲打着筏子，是传送窗关闭后的冰冷现实，一个宿醉般的遗憾。鄙视……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
+      "titleZh": "短视频趋势：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday rel...",
+      "summaryZh": "中文翻译：美国政府自己网站上的一系列干扰邀请您捕捉像素化的移民–显示游戏有可能在周四成为特朗普白宫的肮脏武器。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
         }
       ],
       "accounts": [
@@ -366,14 +400,14 @@
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@SocialJesi",
-          "followers": "<10万需复核",
-          "why": "社媒营销技巧和轻量教学"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@ChelseaUGC",
-          "followers": "约4万",
-          "why": "UGC 创作者变现和家居内容"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -382,7 +416,7 @@
       "title": "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash",
       "titleZh": "短视频趋势：随着硅谷面临越来越大的反弹， Meta继续接受审判",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
       "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
@@ -395,87 +429,53 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "短视频趋势：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
-        }
-      ],
-      "accounts": [
+        },
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：John Lewis to launch YouTube chatshow to improve AI search results",
-      "titleZh": "短视频趋势：约翰·刘易斯（ John Lewis ）将推出YouTube聊天节目，以改善人工智能",
+      "title": "短视频趋势：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened",
+      "titleZh": "短视频趋势：“迈克·迪恩（ Mike Dean ）被指控因裁判主张而“处于幻想世界”；客场球迷被禁止参加Old Firm比赛–事实就是如此",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Department store chain’s Gift List ‘vodcast’ will be hosted by TV presenter Angela Scanlon Business live – latest updates John Lewis is launching an online chatshow and social media studio t...",
-      "summaryZh": "中文翻译：百货连锁店的礼品清单“vodcast”将由电视节目主持人Angela Scanlon Business LIVE主持–最新更新John Lewis正在推出在线聊天和社交媒体工作室......",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Our writers and reporters with all the latest news going into a busy weekend of action The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Bo...",
+      "summaryZh": "中文翻译：我们的作家和记者将所有最新消息带入了一个繁忙的周末行动。足球协会、橄榄球足球联盟以及英格兰和威尔士板球博览会的首席执行官......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/business/2026/sep/03/john-lewis-youtube-chat-show-angela-scanlon"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -515,35 +515,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Social Media and the Myth of the Big Tobacco Moment",
-      "titleZh": "社区话题：社交媒体和大烟草时刻的神话",
+      "title": "社区话题：Football Daily | What you won’t see in the Premier League this weekend",
+      "titleZh": "社区话题：足球日报|本周末您在英超联赛中不会看到的内容",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 91,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
-      "summaryZh": "中文翻译：过去，吸烟无处不在，就像现在的Facebook、TikTok、Snap、YouTube和Instagram一样。社会决定打破这个习惯，但花了很长时间。",
+      "heat": 85,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！冰冷的风敲打着筏子，是传送窗关闭后的冰冷现实，一个宿醉般的遗憾。鄙视……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend"
         }
       ],
       "accounts": [
         {
-          "name": "@nathanallebach",
-          "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@patrickcolpron",
-          "followers": "约4万",
-          "why": "餐厅/本地营销和创作者增长"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "社区话题：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
+      "title": "社区话题：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened",
+      "titleZh": "社区话题：“迈克·迪恩（ Mike Dean ）被指控因裁判主张而“处于幻想世界”；客场球迷被禁止参加Old Firm比赛–事实就是如此",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
+      "heat": 75,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
+      "summary": "公开来源显示该议题正在发酵：Our writers and reporters with all the latest news going into a busy weekend of action The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Bo...",
+      "summaryZh": "中文翻译：我们的作家和记者将所有最新消息带入了一个繁忙的周末行动。足球协会、橄榄球足球联盟以及英格兰和威尔士板球博览会的首席执行官......",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     }
@@ -622,22 +622,22 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Football Daily | What you won’t see in the Premier League this weekend": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：The Trump White House’s fetish for gamer culture has moved up a level with new arcade": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：John Lewis to launch YouTube chatshow to improve AI search results": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：It’s time to get shirty about the short life of the football top": {
+    "实时讨论：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,7 +647,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Social Media and the Myth of the Big Tobacco Moment": {
+    "视觉热点：The Trump White House’s fetish for gamer culture has moved up a level with new arcade": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,7 +667,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Social Media and the Myth of the Big Tobacco Moment": {
+    "短视频趋势：Football Daily | What you won’t see in the Premier League this weekend": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：The Trump White House’s fetish for gamer culture has moved up a level with new arcade": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,12 +682,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：John Lewis to launch YouTube chatshow to improve AI search results": {
+    "短视频趋势：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,7 +692,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Social Media and the Myth of the Big Tobacco Moment": {
+    "社区话题：Football Daily | What you won’t see in the Premier League this weekend": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
+    "社区话题：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
