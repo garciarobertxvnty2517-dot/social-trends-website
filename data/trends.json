@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T05:46:04.912930+00:00",
-  "generatedAtBeijing": "2026-09-05 13:46",
+  "generatedAt": "2026-09-06T05:58:24.056495+00:00",
+  "generatedAtBeijing": "2026-09-06 13:58",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -141,35 +141,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened",
-      "titleZh": "实时讨论：“迈克·迪恩（ Mike Dean ）被指控因裁判主张而“处于幻想世界”；客场球迷被禁止参加Old Firm比赛–事实就是如此",
+      "title": "实时讨论：Conservatives split from Silicon Valley allies as datacenter backlash grows",
+      "titleZh": "实时讨论：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 71,
+      "heat": 76,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our writers and reporters with all the latest news going into a busy weekend of action The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Bo...",
-      "summaryZh": "中文翻译：我们的作家和记者将所有最新消息带入了一个繁忙的周末行动。足球协会、橄榄球足球联盟以及英格兰和威尔士板球博览会的首席执行官......",
+      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
+      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
         }
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -447,35 +447,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened",
-      "titleZh": "短视频趋势：“迈克·迪恩（ Mike Dean ）被指控因裁判主张而“处于幻想世界”；客场球迷被禁止参加Old Firm比赛–事实就是如此",
+      "title": "短视频趋势：Conservatives split from Silicon Valley allies as datacenter backlash grows",
+      "titleZh": "短视频趋势：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 82,
+      "heat": 68,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our writers and reporters with all the latest news going into a busy weekend of action The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Bo...",
-      "summaryZh": "中文翻译：我们的作家和记者将所有最新消息带入了一个繁忙的周末行动。足球协会、橄榄球足球联盟以及英格兰和威尔士板球博览会的首席执行官......",
+      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
+      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened",
-      "titleZh": "社区话题：“迈克·迪恩（ Mike Dean ）被指控因裁判主张而“处于幻想世界”；客场球迷被禁止参加Old Firm比赛–事实就是如此",
+      "title": "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows",
+      "titleZh": "社区话题：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 75,
+      "heat": 79,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our writers and reporters with all the latest news going into a busy weekend of action The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Bo...",
-      "summaryZh": "中文翻译：我们的作家和记者将所有最新消息带入了一个繁忙的周末行动。足球协会、橄榄球足球联盟以及英格兰和威尔士板球博览会的首席执行官......",
+      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
+      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     }
@@ -637,7 +637,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened": {
+    "实时讨论：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -682,7 +682,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened": {
+    "短视频趋势：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：‘Mike Dean accused of being ‘in fantasy land’ over refereeing claims; away fans banned at Old Firm games – as it happened": {
+    "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
