@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T06:07:09.061677+00:00",
-  "generatedAtBeijing": "2026-09-07 14:07",
+  "generatedAt": "2026-09-08T06:02:45.719313+00:00",
+  "generatedAtBeijing": "2026-09-08 14:02",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -11,7 +11,7 @@
       "heat": 77,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "summaryZh": "中文翻译：Instagram和Facebook的母公司同意进行全面改造，并支付高达180亿美元，以达成一项具有里程碑意义的试验性协议，改变青少年使用其社交网络的方式。",
+      "summaryZh": "中文翻译：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -40,12 +40,12 @@
     {
       "platform": "x",
       "title": "实时讨论：Football Daily | What you won’t see in the Premier League this weekend",
-      "titleZh": "实时讨论：足球日报|本周末您在英超联赛中不会看到的内容",
+      "titleZh": "实时讨论：Football Daily | What you won’t see in the Premier League this weekend",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 71,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！冰冷的风敲打着筏子，是传送窗关闭后的冰冷现实，一个宿醉般的遗憾。鄙视……",
+      "summaryZh": "中文翻译：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -108,7 +108,7 @@
     {
       "platform": "x",
       "title": "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "titleZh": "实时讨论：随着硅谷面临越来越大的反弹， Meta继续接受审判",
+      "titleZh": "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 78,
       "sentiment": "low",
@@ -141,35 +141,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "实时讨论：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
+      "title": "实时讨论：Why Meta started losing in court - podcast",
+      "titleZh": "实时讨论：Why Meta started losing in court - podcast",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
+      "summaryZh": "中文翻译：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
+          "url": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast"
         }
       ],
       "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "summaryZh": "中文翻译：Instagram和Facebook的母公司同意进行全面改造，并支付高达180亿美元，以达成一项具有里程碑意义的试验性协议，改变青少年使用其社交网络的方式。",
+      "summaryZh": "中文翻译：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -244,12 +244,12 @@
     {
       "platform": "instagram",
       "title": "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "视觉热点：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
+      "titleZh": "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
+      "summaryZh": "中文翻译：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -278,12 +278,12 @@
     {
       "platform": "instagram",
       "title": "视觉热点：‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
-      "titleZh": "视觉热点：“在我心中，直到我死去” ：阿根廷向莱昂内尔·梅西表示泪流满面的感谢",
+      "titleZh": "视觉热点：‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 84,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s ...",
-      "summaryZh": "中文翻译：这位阿根廷人退出国际足球的决定得到了他在2022年带来世界杯荣耀的国家的热烈欢迎。任何出席莱昂内尔·斯卡洛尼（ Lionel Scaloni ）......",
+      "summaryZh": "中文翻译：The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s ...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -317,7 +317,7 @@
       "heat": 74,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "summaryZh": "中文翻译：Instagram和Facebook的母公司同意进行全面改造，并支付高达180亿美元，以达成一项具有里程碑意义的试验性协议，改变青少年使用其社交网络的方式。",
+      "summaryZh": "中文翻译：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -346,12 +346,12 @@
     {
       "platform": "tiktok",
       "title": "短视频趋势：Football Daily | What you won’t see in the Premier League this weekend",
-      "titleZh": "短视频趋势：足球日报|本周末您在英超联赛中不会看到的内容",
+      "titleZh": "短视频趋势：Football Daily | What you won’t see in the Premier League this weekend",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 86,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！冰冷的风敲打着筏子，是传送窗关闭后的冰冷现实，一个宿醉般的遗憾。鄙视……",
+      "summaryZh": "中文翻译：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -414,7 +414,7 @@
     {
       "platform": "tiktok",
       "title": "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "titleZh": "短视频趋势：随着硅谷面临越来越大的反弹， Meta继续接受审判",
+      "titleZh": "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 70,
       "sentiment": "low",
@@ -447,35 +447,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "短视频趋势：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
+      "title": "短视频趋势：Why Meta started losing in court - podcast",
+      "titleZh": "短视频趋势：Why Meta started losing in court - podcast",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
+      "heat": 82,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
+      "summaryZh": "中文翻译：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
+          "url": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -487,7 +487,7 @@
       "heat": 93,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "summaryZh": "中文翻译：Instagram和Facebook的母公司同意进行全面改造，并支付高达180亿美元，以达成一项具有里程碑意义的试验性协议，改变青少年使用其社交网络的方式。",
+      "summaryZh": "中文翻译：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -516,12 +516,12 @@
     {
       "platform": "facebook",
       "title": "社区话题：Football Daily | What you won’t see in the Premier League this weekend",
-      "titleZh": "社区话题：足球日报|本周末您在英超联赛中不会看到的内容",
+      "titleZh": "社区话题：Football Daily | What you won’t see in the Premier League this weekend",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 85,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！冰冷的风敲打着筏子，是传送窗关闭后的冰冷现实，一个宿醉般的遗憾。鄙视……",
+      "summaryZh": "中文翻译：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -550,7 +550,7 @@
     {
       "platform": "facebook",
       "title": "社区话题：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "titleZh": "社区话题：随着硅谷面临越来越大的反弹， Meta继续接受审判",
+      "titleZh": "社区话题：Meta goes on trial as Silicon Valley faces a growing backlash",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 79,
       "sentiment": "low",
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "社区话题：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
+      "title": "社区话题：Why Meta started losing in court - podcast",
+      "titleZh": "社区话题：Why Meta started losing in court - podcast",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
+      "summaryZh": "中文翻译：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
+          "url": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     }
@@ -637,7 +637,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
+    "实时讨论：Why Meta started losing in court - podcast": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -682,7 +682,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
+    "短视频趋势：Why Meta started losing in court - podcast": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
+    "社区话题：Why Meta started losing in court - podcast": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
