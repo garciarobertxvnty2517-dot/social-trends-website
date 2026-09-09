@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T06:02:45.719313+00:00",
-  "generatedAtBeijing": "2026-09-08 14:02",
+  "generatedAt": "2026-09-09T05:59:43.555762+00:00",
+  "generatedAtBeijing": "2026-09-09 13:59",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -11,7 +11,7 @@
       "heat": 77,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "summaryZh": "中文翻译：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
+      "summaryZh": "中文翻译：Instagram和Facebook的母公司同意进行全面改造，并支付高达180亿美元，以达成一项具有里程碑意义的试验性协议，改变青少年使用其社交网络的方式。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -39,86 +39,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Football Daily | What you won’t see in the Premier League this weekend",
-      "titleZh": "实时讨论：Football Daily | What you won’t see in the Premier League this weekend",
+      "title": "实时讨论：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+      "titleZh": "实时讨论：Meta推出Muse ，这是一种可以向您发送电子邮件和预订旅行的人工智能代理",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 71,
+      "heat": 81,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
-      "summaryZh": "中文翻译：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
+      "summary": "公开来源显示该议题正在发酵：Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
+      "summaryZh": "中文翻译：Muse是Meta新的人工智能代理，充当连接到Facebook和Instagram以及Spotify和OpenTable等第三方应用程序的个人数字助理。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
-      "titleZh": "实时讨论：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday rel...",
-      "summaryZh": "中文翻译：美国政府自己网站上的一系列干扰邀请您捕捉像素化的移民–显示游戏有可能在周四成为特朗普白宫的肮脏武器。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "titleZh": "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
-      "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html"
         }
       ],
       "accounts": [
@@ -141,222 +73,52 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Why Meta started losing in court - podcast",
-      "titleZh": "实时讨论：Why Meta started losing in court - podcast",
+      "title": "实时讨论：Club Brugge 2-3 Aston Villa: Champions League – as it happened",
+      "titleZh": "实时讨论：布鲁日俱乐部2-3阿斯顿维拉：欧洲冠军联赛",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
-      "summaryZh": "中文翻译：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Villa’s new centre forward Nicolas Jackson scored the decisive goal as they held firm to win a thriller in Bruges Harry Kane, Jude Bellingham and Declan Rice have been nominated for this yea...",
+      "summaryZh": "中文翻译：维拉的新中锋尼古拉斯·杰克逊（ Nicolas Jackson ）打进了决定性的进球，因为他们坚定地赢得了布鲁日哈里·凯恩（ Harry Kane ）的惊悚片，裘德·贝灵汉姆（ Jude Bellingham ）和德克兰·赖斯（ Declan Rice ）",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Meta’s settlement will compel others to bend the knee and set up teen guardrails",
-      "titleZh": "视觉热点：Meta的定居点将迫使他人弯曲膝盖并设置青少年护栏",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "summaryZh": "中文翻译：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-settlement-social-media-impact"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
-      "titleZh": "视觉热点：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 70,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday rel...",
-      "summaryZh": "中文翻译：美国政府自己网站上的一系列干扰邀请您捕捉像素化的移民–显示游戏有可能在周四成为特朗普白宫的肮脏武器。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
-      "titleZh": "视觉热点：‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s ...",
-      "summaryZh": "中文翻译：The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s ...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：Meta’s settlement will compel others to bend the knee and set up teen guardrails",
-      "titleZh": "短视频趋势：Meta的定居点将迫使他人弯曲膝盖并设置青少年护栏",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
+      "platform": "x",
+      "title": "实时讨论：Iowa marching band member taken off life support after collapse in extreme heat",
+      "titleZh": "实时讨论：爱荷华州行军乐队成员在极端高温下倒塌后脱离生命支持",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 81,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "summaryZh": "中文翻译：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "summary": "公开来源显示该议题正在发酵：Derek Phillips suffered cardiac arrest at football game Temperatures reached 94F in Iowa City on Saturday University has not said whether heat caused collapse A University of Iowa marching b...",
+      "summaryZh": "中文翻译：德里克·菲利普斯（ Derek Phillips ）周六在爱荷华城的足球比赛中心脏骤停温度达到94华氏度大学尚未说明高温是否导致崩溃爱荷华大学游行b...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-settlement-social-media-impact"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | What you won’t see in the Premier League this weekend",
-      "titleZh": "短视频趋势：Football Daily | What you won’t see in the Premier League this weekend",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
-      "summaryZh": "中文翻译：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/08/university-iowa-marching-band-derek-phillips-heat-collapse"
         }
       ],
       "accounts": [
@@ -378,15 +140,151 @@
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
-      "titleZh": "短视频趋势：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
+      "platform": "x",
+      "title": "实时讨论：US police fear Meta smart glasses could be used to secretly record them",
+      "titleZh": "实时讨论：美国警方担心Meta智能眼镜可能被用来秘密记录它们",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: Documents show officers from Maine to California worry Meta’s camera-equipped glasses will be used either to secretly record them or aid acts of terrorism In January, the New York...",
+      "summaryZh": "中文翻译：独家：文件显示，从缅因州到加利福尼亚州的官员担心Meta配备摄像头的眼镜将被用于秘密记录或协助恐怖行为。今年1月，纽约...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Meta’s settlement will compel others to bend the knee and set up teen guardrails",
+      "titleZh": "视觉热点：Meta的定居点将迫使他人弯曲膝盖并设置青少年护栏",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
+      "summaryZh": "中文翻译：Instagram和Facebook的母公司同意进行全面改造，并支付高达180亿美元，以达成一项具有里程碑意义的试验性协议，改变青少年使用其社交网络的方式。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-settlement-social-media-impact"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+      "titleZh": "视觉热点：Meta推出Muse ，这是一种可以向您发送电子邮件和预订旅行的人工智能代理",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
+      "summaryZh": "中文翻译：Muse是Meta新的人工智能代理，充当连接到Facebook和Instagram以及Spotify和OpenTable等第三方应用程序的个人数字助理。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Iowa marching band member taken off life support after collapse in extreme heat",
+      "titleZh": "视觉热点：爱荷华州行军乐队成员在极端高温下倒塌后脱离生命支持",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Derek Phillips suffered cardiac arrest at football game Temperatures reached 94F in Iowa City on Saturday University has not said whether heat caused collapse A University of Iowa marching b...",
+      "summaryZh": "中文翻译：德里克·菲利普斯（ Derek Phillips ）周六在爱荷华城的足球比赛中心脏骤停温度达到94华氏度大学尚未说明高温是否导致崩溃爱荷华大学游行b...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/08/university-iowa-marching-band-derek-phillips-heat-collapse"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
+      "titleZh": "视觉热点：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 68,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday rel...",
       "summaryZh": "中文翻译：美国政府自己网站上的一系列干扰邀请您捕捉像素化的移民–显示游戏有可能在周四成为特朗普白宫的肮脏武器。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
@@ -395,6 +293,11 @@
       ],
       "accounts": [
         {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
@@ -403,74 +306,171 @@
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        },
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Meta’s settlement will compel others to bend the knee and set up teen guardrails",
+      "titleZh": "短视频趋势：Meta的定居点将迫使他人弯曲膝盖并设置青少年护栏",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
+      "summaryZh": "中文翻译：Instagram和Facebook的母公司同意进行全面改造，并支付高达180亿美元，以达成一项具有里程碑意义的试验性协议，改变青少年使用其社交网络的方式。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-settlement-social-media-impact"
+        }
+      ],
+      "accounts": [
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "titleZh": "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
-      "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Why Meta started losing in court - podcast",
-      "titleZh": "短视频趋势：Why Meta started losing in court - podcast",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 82,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
-      "summaryZh": "中文翻译：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+      "titleZh": "短视频趋势：Meta推出Muse ，这是一种可以向您发送电子邮件和预订旅行的人工智能代理",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
+      "summaryZh": "中文翻译：Muse是Meta新的人工智能代理，充当连接到Facebook和Instagram以及Spotify和OpenTable等第三方应用程序的个人数字助理。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Club Brugge 2-3 Aston Villa: Champions League – as it happened",
+      "titleZh": "短视频趋势：布鲁日俱乐部2-3阿斯顿维拉：欧洲冠军联赛",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 86,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Villa’s new centre forward Nicolas Jackson scored the decisive goal as they held firm to win a thriller in Bruges Harry Kane, Jude Bellingham and Declan Rice have been nominated for this yea...",
+      "summaryZh": "中文翻译：维拉的新中锋尼古拉斯·杰克逊（ Nicolas Jackson ）打进了决定性的进球，因为他们坚定地赢得了布鲁日哈里·凯恩（ Harry Kane ）的惊悚片，裘德·贝灵汉姆（ Jude Bellingham ）和德克兰·赖斯（ Declan Rice ）",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Iowa marching band member taken off life support after collapse in extreme heat",
+      "titleZh": "短视频趋势：爱荷华州行军乐队成员在极端高温下倒塌后脱离生命支持",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Derek Phillips suffered cardiac arrest at football game Temperatures reached 94F in Iowa City on Saturday University has not said whether heat caused collapse A University of Iowa marching b...",
+      "summaryZh": "中文翻译：德里克·菲利普斯（ Derek Phillips ）周六在爱荷华城的足球比赛中心脏骤停温度达到94华氏度大学尚未说明高温是否导致崩溃爱荷华大学游行b...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/08/university-iowa-marching-band-derek-phillips-heat-collapse"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：US police fear Meta smart glasses could be used to secretly record them",
+      "titleZh": "短视频趋势：美国警方担心Meta智能眼镜可能被用来秘密记录它们",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: Documents show officers from Maine to California worry Meta’s camera-equipped glasses will be used either to secretly record them or aid acts of terrorism In January, the New York...",
+      "summaryZh": "中文翻译：独家：文件显示，从缅因州到加利福尼亚州的官员担心Meta配备摄像头的眼镜将被用于秘密记录或协助恐怖行为。今年1月，纽约...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@marcinteodoru",
@@ -487,7 +487,7 @@
       "heat": 93,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
-      "summaryZh": "中文翻译：Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of up to $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social network...",
+      "summaryZh": "中文翻译：Instagram和Facebook的母公司同意进行全面改造，并支付高达180亿美元，以达成一项具有里程碑意义的试验性协议，改变青少年使用其社交网络的方式。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -515,103 +515,103 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Football Daily | What you won’t see in the Premier League this weekend",
-      "titleZh": "社区话题：Football Daily | What you won’t see in the Premier League this weekend",
+      "title": "社区话题：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+      "titleZh": "社区话题：Meta推出Muse ，这是一种可以向您发送电子邮件和预订旅行的人工智能代理",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 85,
+      "heat": 81,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
-      "summaryZh": "中文翻译：Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Desp...",
+      "summary": "公开来源显示该议题正在发酵：Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
+      "summaryZh": "中文翻译：Muse是Meta新的人工智能代理，充当连接到Facebook和Instagram以及Spotify和OpenTable等第三方应用程序的个人数字助理。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "titleZh": "社区话题：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
-      "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Iowa marching band member taken off life support after collapse in extreme heat",
+      "titleZh": "社区话题：爱荷华州行军乐队成员在极端高温下倒塌后脱离生命支持",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Derek Phillips suffered cardiac arrest at football game Temperatures reached 94F in Iowa City on Saturday University has not said whether heat caused collapse A University of Iowa marching b...",
+      "summaryZh": "中文翻译：德里克·菲利普斯（ Derek Phillips ）周六在爱荷华城的足球比赛中心脏骤停温度达到94华氏度大学尚未说明高温是否导致崩溃爱荷华大学游行b...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/08/university-iowa-marching-band-derek-phillips-heat-collapse"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：US police fear Meta smart glasses could be used to secretly record them",
+      "titleZh": "社区话题：美国警方担心Meta智能眼镜可能被用来秘密记录它们",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: Documents show officers from Maine to California worry Meta’s camera-equipped glasses will be used either to secretly record them or aid acts of terrorism In January, the New York...",
+      "summaryZh": "中文翻译：独家：文件显示，从缅因州到加利福尼亚州的官员担心Meta配备摄像头的眼镜将被用于秘密记录或协助恐怖行为。今年1月，纽约...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Why Meta started losing in court - podcast",
-      "titleZh": "社区话题：Why Meta started losing in court - podcast",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 83,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
-      "summaryZh": "中文翻译：Katy McQue, who has spent years reporting on Meta and the potential harms its platforms pose to children, explains the tactics being used by prosecutors For years, the investigative journali...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
         }
       ]
     }
@@ -622,22 +622,22 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | What you won’t see in the Premier League this weekend": {
+    "实时讨论：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：The Trump White House’s fetish for gamer culture has moved up a level with new arcade": {
+    "实时讨论：Club Brugge 2-3 Aston Villa: Champions League – as it happened": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash": {
+    "实时讨论：Iowa marching band member taken off life support after collapse in extreme heat": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Why Meta started losing in court - podcast": {
+    "实时讨论：US police fear Meta smart glasses could be used to secretly record them": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,17 +647,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
+    "视觉热点：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Iowa marching band member taken off life support after collapse in extreme heat": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "视觉热点：The Trump White House’s fetish for gamer culture has moved up a level with new arcade": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,22 +667,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | What you won’t see in the Premier League this weekend": {
+    "短视频趋势：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：The Trump White House’s fetish for gamer culture has moved up a level with new arcade": {
+    "短视频趋势：Club Brugge 2-3 Aston Villa: Champions League – as it happened": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash": {
+    "短视频趋势：Iowa marching band member taken off life support after collapse in extreme heat": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Why Meta started losing in court - podcast": {
+    "短视频趋势：US police fear Meta smart glasses could be used to secretly record them": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,17 +692,17 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Football Daily | What you won’t see in the Premier League this weekend": {
+    "社区话题：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Meta goes on trial as Silicon Valley faces a growing backlash": {
+    "社区话题：Iowa marching band member taken off life support after collapse in extreme heat": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Why Meta started losing in court - podcast": {
+    "社区话题：US police fear Meta smart glasses could be used to secretly record them": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
