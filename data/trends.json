@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T05:48:05.966728+00:00",
-  "generatedAtBeijing": "2026-09-12 13:48",
+  "generatedAt": "2026-09-13T06:11:19.636914+00:00",
+  "generatedAtBeijing": "2026-09-13 14:11",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,10 +39,78 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
+      "titleZh": "实时讨论：Deepfakes正在破坏影响者的信誉，一次一个虚假广告",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves Earlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and ...",
+      "summaryZh": "中文翻译：影响者不仅仅是为了品牌交易而与竞争对手作战。他们现在正在与人工智能作斗争今年早些时候，生活方式博客Cupcakes的创建者Emily Schuman和...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay",
+      "titleZh": "实时讨论：足球为传递信息提供了声音：男人应该谈论他们的痛苦| Barney Ronay",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Premier League’s link-up with the Together Against Suicide campaign is dispersing simple, blunt and essential messaging If you watched US television adverts during the&nbsp;World Cup for any...",
+      "summaryZh": "中文翻译：英超联赛与Together Against Suicide运动的联系正在传播简单、生硬和重要的信息。如果您在世界杯期间观看美国电视广告，发现任何...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/12/football-men-must-talk-about-pain-together-in-suicide-campaign-premier-league"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
       "titleZh": "实时讨论：Meta推出Muse ，这是一种可以向您发送电子邮件和预订旅行的人工智能代理",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
+      "heat": 77,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
       "summaryZh": "中文翻译：Muse是Meta新的人工智能代理，充当连接到Facebook和Instagram以及Spotify和OpenTable等第三方应用程序的个人数字助理。",
@@ -55,19 +123,19 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -76,7 +144,7 @@
       "title": "实时讨论：Instagram boss says users will be ‘overwhelmed’ with brand content in algorithm-free world",
       "titleZh": "实时讨论：Instagram老板表示，在无算法的世界中，用户将对品牌内容感到“不知所措”",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
+      "heat": 72,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Adam Mosseri says platform’s algorithm ‘feels like a black box’ but company trying to give users more control after Labor announces opt-out plan Instagram’s chief executive has said users wi...",
       "summaryZh": "中文翻译：Adam Mosseri表示，平台的算法“感觉就像一个黑匣子” ，但在工党宣布退出计划后，该公司试图让用户拥有更多控制权。Instagram的首席执行官表示，用户将...",
@@ -89,40 +157,6 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
-      "titleZh": "实时讨论：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday rel...",
-      "summaryZh": "中文翻译：美国政府自己网站上的一系列干扰邀请您捕捉像素化的移民–显示游戏有可能在周四成为特朗普白宫的肮脏武器。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
-        }
-      ],
-      "accounts": [
-        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
@@ -136,40 +170,6 @@
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "titleZh": "实时讨论：随着硅谷面临越来越大的反弹， Meta继续接受审判",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
-      "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -209,10 +209,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
+      "titleZh": "视觉热点：Deepfakes正在破坏影响者的信誉，一次一个虚假广告",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves Earlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and ...",
+      "summaryZh": "中文翻译：影响者不仅仅是为了品牌交易而与竞争对手作战。他们现在正在与人工智能作斗争今年早些时候，生活方式博客Cupcakes的创建者Emily Schuman和...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
       "titleZh": "视觉热点：Meta推出Muse ，这是一种可以向您发送电子邮件和预订旅行的人工智能代理",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 70,
+      "heat": 68,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
       "summaryZh": "中文翻译：Muse是Meta新的人工智能代理，充当连接到Facebook和Instagram以及Spotify和OpenTable等第三方应用程序的个人数字助理。",
@@ -225,19 +259,19 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -246,7 +280,7 @@
       "title": "视觉热点：Instagram boss says users will be ‘overwhelmed’ with brand content in algorithm-free world",
       "titleZh": "视觉热点：Instagram老板表示，在无算法的世界中，用户将对品牌内容感到“不知所措”",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 70,
+      "heat": 68,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Adam Mosseri says platform’s algorithm ‘feels like a black box’ but company trying to give users more control after Labor announces opt-out plan Instagram’s chief executive has said users wi...",
       "summaryZh": "中文翻译：Adam Mosseri表示，平台的算法“感觉就像一个黑匣子” ，但在工党宣布退出计划后，该公司试图让用户拥有更多控制权。Instagram的首席执行官表示，用户将...",
@@ -264,48 +298,14 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
-      "titleZh": "视觉热点：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday rel...",
-      "summaryZh": "中文翻译：美国政府自己网站上的一系列干扰邀请您捕捉像素化的移民–显示游戏有可能在周四成为特朗普白宫的肮脏武器。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -345,10 +345,78 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
+      "titleZh": "短视频趋势：Deepfakes正在破坏影响者的信誉，一次一个虚假广告",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 90,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves Earlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and ...",
+      "summaryZh": "中文翻译：影响者不仅仅是为了品牌交易而与竞争对手作战。他们现在正在与人工智能作斗争今年早些时候，生活方式博客Cupcakes的创建者Emily Schuman和...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay",
+      "titleZh": "短视频趋势：足球为传递信息提供了声音：男人应该谈论他们的痛苦| Barney Ronay",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Premier League’s link-up with the Together Against Suicide campaign is dispersing simple, blunt and essential messaging If you watched US television adverts during the&nbsp;World Cup for any...",
+      "summaryZh": "中文翻译：英超联赛与Together Against Suicide运动的联系正在传播简单、生硬和重要的信息。如果您在世界杯期间观看美国电视广告，发现任何...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/12/football-men-must-talk-about-pain-together-in-suicide-campaign-premier-league"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
       "titleZh": "短视频趋势：Meta推出Muse ，这是一种可以向您发送电子邮件和预订旅行的人工智能代理",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 77,
+      "heat": 73,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
       "summaryZh": "中文翻译：Muse是Meta新的人工智能代理，充当连接到Facebook和Instagram以及Spotify和OpenTable等第三方应用程序的个人数字助理。",
@@ -361,19 +429,19 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -395,87 +463,19 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
-      "titleZh": "短视频趋势：特朗普白宫对游戏文化的迷恋随着新的街机而提升了一个水平",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 69,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：A string of distractions on the US government’s own website invite you to catch pixelated migrants – showing gaming’s potential to be nastily weaponised The Trump White House on Thursday rel...",
-      "summaryZh": "中文翻译：美国政府自己网站上的一系列干扰邀请您捕捉像素化的移民–显示游戏有可能在周四成为特朗普白宫的肮脏武器。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
+        },
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash",
-      "titleZh": "短视频趋势：随着硅谷面临越来越大的反弹， Meta继续接受审判",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at...",
-      "summaryZh": "中文翻译：此外： OpenAI首席执行官Sam Altman对全国各地的数据中心建设表示了惊人的同情。您好，欢迎来到TechScape。我是Blake Montgomery ，美国科技编辑……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -622,6 +622,16 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
@@ -632,17 +642,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：The Trump White House’s fetish for gamer culture has moved up a level with new arcade": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Meta goes on trial as Silicon Valley faces a growing backlash": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "视觉热点：Meta’s settlement will compel others to bend the knee and set up teen guardrails": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,12 +662,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：The Trump White House’s fetish for gamer culture has moved up a level with new arcade": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "短视频趋势：Meta’s settlement will compel others to bend the knee and set up teen guardrails": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -673,16 +683,6 @@
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：Instagram boss says users will be ‘overwhelmed’ with brand content in algorithm-free world": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：The Trump White House’s fetish for gamer culture has moved up a level with new arcade": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Meta goes on trial as Silicon Valley faces a growing backlash": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
