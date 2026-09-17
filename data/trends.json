@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T06:03:18.373453+00:00",
-  "generatedAtBeijing": "2026-09-16 14:03",
+  "generatedAt": "2026-09-17T06:09:08.854903+00:00",
+  "generatedAtBeijing": "2026-09-17 14:09",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,35 +39,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
-      "titleZh": "实时讨论：“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe",
+      "title": "实时讨论：Iranian football returns in the shadow of war and with row over last league title",
+      "titleZh": "实时讨论：伊朗足球在战争的阴影下回归，争夺上届联赛冠军",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
+      "heat": 80,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badl...",
-      "summaryZh": "中文翻译：这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就走了，但问题更加严重， Kiat Lim希望看到瓦伦西亚如此糟糕......",
+      "summary": "公开来源显示该议题正在发酵：Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli...",
+      "summaryZh": "中文翻译：由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，伊朗是足球界最大的故事之一，因为梅利队......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
+          "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marfawe",
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -141,18 +141,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Arch Manning apologizes for ‘insensitive’ joke about AI video of ESPN’s Holly Rowe",
-      "titleZh": "实时讨论：Arch Manning为关于ESPN的Holly Rowe的人工智能视频的“麻木不仁”笑话道歉",
+      "title": "实时讨论：When did football fans first start wearing replica kits? | The Knowledge",
+      "titleZh": "实时讨论：足球迷什么时候开始穿复制品套装？ | The Knowledge",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
+      "heat": 77,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Texas star called clip of coach slapping reporter ‘hilarious’ Manning: ‘Nothing funny about it … I need to do better’ Rowe posts that she accepts apology, will move forward Texas’s star quar...",
-      "summaryZh": "中文翻译：德克萨斯州的明星称教练拍打记者的片段“搞笑”曼宁： “这没什么好笑的……我需要做得更好”罗的帖子，她接受道歉，将推动德克萨斯州的明星争吵......",
+      "summary": "公开来源显示该议题正在发酵：Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica ki...",
+      "summaryZh": "中文翻译：此外：更昂贵（和有益的）红牌和攻击，具有三个半世纪的国际目标将您的所有问题和答案邮寄给我们“粉丝什么时候穿着复制品...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
         }
       ],
       "accounts": [
@@ -162,14 +162,14 @@
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -209,44 +209,10 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "视觉热点：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
       "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
       "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 79,
+      "heat": 81,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
       "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
@@ -259,9 +225,9 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@elliottvenis",
@@ -269,26 +235,60 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
-      "titleZh": "视觉热点：马克斯·道曼（ Max Dowman ）为阿森纳的替补加倍，在卡拉宝杯中击败伊普斯维奇（ Ipswich ）",
+      "title": "视觉热点：Football Daily | Madrid endure an awkward night after T-shirt trouble and Elche scare",
+      "titleZh": "视觉热点：《足球日报》|马德里在T恤衫问题和埃尔切恐慌之后度过了一个尴尬的夜晚",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
+      "heat": 85,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The bad news for everyone else is that Arsenal’s next generation is already here. Two mesmerising goals and an assist in a man-of-the-match display from Max Dowman underlined why the 16-year...",
-      "summaryZh": "中文翻译：对其他人来说，坏消息是阿森纳的下一代已经到来。两个令人着迷的目标和Max Dowman在比赛中的助攻突显了为什么16年...",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Anxious to sample some traditional Spanish culture while taking in a La Liga match years ago, Football Daily and some friends decamped to ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！几年前，《足球日报》和一些朋友在参加西甲比赛时急于品尝一些传统的西班牙文化……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report"
+          "url": "https://www.theguardian.com/football/2026/sep/16/real-madrid-elche-t-shirts-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
+      "titleZh": "视觉热点：“我创造了我的妈妈并与她交谈” ：人工智能幽灵和死亡正在改变我们哀悼的方式",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month....",
+      "summaryZh": "中文翻译：人工智能生成的悼念和机器人与死者“交谈”的兴起让专家们担心，上个月多莉·帕顿去世后，更多的人会孤立地哀悼。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation"
         }
       ],
       "accounts": [
@@ -345,18 +345,18 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
-      "titleZh": "短视频趋势：“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe",
+      "title": "短视频趋势：Iranian football returns in the shadow of war and with row over last league title",
+      "titleZh": "短视频趋势：伊朗足球在战争的阴影下回归，争夺上届联赛冠军",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
+      "heat": 90,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badl...",
-      "summaryZh": "中文翻译：这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就走了，但问题更加严重， Kiat Lim希望看到瓦伦西亚如此糟糕......",
+      "summary": "公开来源显示该议题正在发酵：Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli...",
+      "summaryZh": "中文翻译：由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，伊朗是足球界最大的故事之一，因为梅利队......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
+          "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
         }
       ],
       "accounts": [
@@ -366,9 +366,9 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@TacticsJournal",
@@ -447,26 +447,55 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Arch Manning apologizes for ‘insensitive’ joke about AI video of ESPN’s Holly Rowe",
-      "titleZh": "短视频趋势：Arch Manning为关于ESPN的Holly Rowe的人工智能视频的“麻木不仁”笑话道歉",
+      "title": "短视频趋势：When did football fans first start wearing replica kits? | The Knowledge",
+      "titleZh": "短视频趋势：足球迷什么时候开始穿复制品套装？ | The Knowledge",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 78,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Texas star called clip of coach slapping reporter ‘hilarious’ Manning: ‘Nothing funny about it … I need to do better’ Rowe posts that she accepts apology, will move forward Texas’s star quar...",
-      "summaryZh": "中文翻译：德克萨斯州的明星称教练拍打记者的片段“搞笑”曼宁： “这没什么好笑的……我需要做得更好”罗的帖子，她接受道歉，将推动德克萨斯州的明星争吵......",
+      "summary": "公开来源显示该议题正在发酵：Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica ki...",
+      "summaryZh": "中文翻译：此外：更昂贵（和有益的）红牌和攻击，具有三个半世纪的国际目标将您的所有问题和答案邮寄给我们“粉丝什么时候穿着复制品...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Iranian football returns in the shadow of war and with row over last league title",
+      "titleZh": "社区话题：伊朗足球在战争的阴影下回归，争夺上届联赛冠军",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 90,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli...",
+      "summaryZh": "中文翻译：由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，伊朗是足球界最大的故事之一，因为梅利队......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
+        }
+      ],
+      "accounts": [
         {
           "name": "@goalflexo",
           "followers": "约2万",
@@ -476,40 +505,11 @@
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
-      "titleZh": "社区话题：“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badl...",
-      "summaryZh": "中文翻译：这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就走了，但问题更加严重， Kiat Lim希望看到瓦伦西亚如此糟糕......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows",
-      "titleZh": "社区话题：随着数据中心的强烈反对，保守派与硅谷盟友分道扬镳",
+      "title": "社区话题：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
+      "titleZh": "社区话题：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论–足球周刊",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
+      "heat": 68,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgom...",
-      "summaryZh": "中文翻译：科技公司低估了对耗能数据中心的反对意见，专家预测，这种抵制将加剧Hello ，并欢迎加入TechScape。我是你的主持人， Blake Montgom...",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Max Rushden is joined by Philippe Auclair , Sid Lowe , Nic...",
+      "summaryZh": "中文翻译：Max Rushden与Philippe Auclair、Sid Lowe、Nicky Bandini和Mark Langdon一起讨论周末在欧洲的行动。Max Rushden与Philippe Auclair、Sid Lowe、Nic...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     }
@@ -622,7 +622,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe": {
+    "实时讨论：Iranian football returns in the shadow of war and with row over last league title": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,7 +637,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Arch Manning apologizes for ‘insensitive’ joke about AI video of ESPN’s Holly Rowe": {
+    "实时讨论：When did football fans first start wearing replica kits? | The Knowledge": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,17 +647,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup": {
+    "视觉热点：Football Daily | Madrid endure an awkward night after T-shirt trouble and Elche scare": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,7 +667,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe": {
+    "短视频趋势：Iranian football returns in the shadow of war and with row over last league title": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,12 +682,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Arch Manning apologizes for ‘insensitive’ joke about AI video of ESPN’s Holly Rowe": {
+    "短视频趋势：When did football fans first start wearing replica kits? | The Knowledge": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe": {
+    "社区话题：Iranian football returns in the shadow of war and with row over last league title": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Conservatives split from Silicon Valley allies as datacenter backlash grows": {
+    "社区话题：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
