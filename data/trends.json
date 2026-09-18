@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T06:09:08.854903+00:00",
-  "generatedAtBeijing": "2026-09-17 14:09",
+  "generatedAt": "2026-09-18T05:56:02.557626+00:00",
+  "generatedAtBeijing": "2026-09-18 13:56",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,18 +39,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Iranian football returns in the shadow of war and with row over last league title",
-      "titleZh": "实时讨论：伊朗足球在战争的阴影下回归，争夺上届联赛冠军",
+      "title": "实时讨论：FA chair Hewitt demands Infantino release records of failed World Cup plan",
+      "titleZh": "实时讨论：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
+      "heat": 87,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli...",
-      "summaryZh": "中文翻译：由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，伊朗是足球界最大的故事之一，因为梅利队......",
+      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
+      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
+          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
         }
       ],
       "accounts": [
@@ -73,78 +73,10 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Kane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – video",
-      "titleZh": "实时讨论：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论|《足球周刊》–视频",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Continue reading...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与菲利普·奥克莱尔（ Philippe Auclair ）、希德·洛（ Sid Lowe ）、尼基·班迪尼（ Nicky Bandini ）和马克·兰登（ Mark",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
-      "titleZh": "实时讨论：欧洲足球：凯恩帮助拜仁边缘埃尔弗斯贝格，萨索洛击晕尤文图斯",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 69,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless start Harry Kane scored his first Bundesliga goal of the season to help Bayern Munich edge to a 2-1 wi...",
-      "summaryZh": "中文翻译：埃尔弗斯贝格1-2拜仁；萨索洛3-2尤文图斯巴塞罗那看到莱万特， PSG结束无胜开局哈里·凯恩打进了他本赛季的第一个德甲进球，帮助拜仁慕尼黑以2-1领先...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
       "title": "实时讨论：When did football fans first start wearing replica kits? | The Knowledge",
       "titleZh": "实时讨论：足球迷什么时候开始穿复制品套装？ | The Knowledge",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica ki...",
       "summaryZh": "中文翻译：此外：更昂贵（和有益的）红牌和攻击，具有三个半世纪的国际目标将您的所有问题和答案邮寄给我们“粉丝什么时候穿着复制品...",
@@ -157,6 +89,11 @@
       ],
       "accounts": [
         {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
@@ -165,11 +102,74 @@
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
+      "titleZh": "实时讨论：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论–足球周刊",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Max Rushden is joined by Philippe Auclair , Sid Lowe , Nic...",
+      "summaryZh": "中文翻译：Max Rushden与Philippe Auclair、Sid Lowe、Nicky Bandini和Mark Langdon一起讨论周末在欧洲的行动。Max Rushden与Philippe Auclair、Sid Lowe、Nic...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+      "titleZh": "实时讨论：马克·扎克伯格（ Mark Zuckerberg ）在人工智能放缓的辩论中瞄准人类",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 80,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
+      "summaryZh": "中文翻译：在社交媒体上， Meta的首席执行官似乎抨击了Anthropic ，称领先的人工智能实验室应该专注于安全，而不是改进自己的技术。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -209,69 +209,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Ugly scenes as Argentina lose World Cup final – video",
-      "titleZh": "视觉热点：阿根廷输掉世界杯决赛的丑陋场面–视频",
+      "title": "视觉热点：Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
+      "titleZh": "视觉热点：Meta下令删除英国的deepfakes ，因为监督委员会批评“不充分”的保障措施",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
+      "heat": 77,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then...",
-      "summaryZh": "中文翻译：世界杯决赛结束时出现了丑陋的场面，阿根廷的莱安德罗·帕雷德斯（ Leandro Paredes ）和纳胡埃尔·莫利纳（ Nahuel Molina ）在1-0失利后向西班牙球员投篮。帕雷德斯当时……",
+      "summary": "公开来源显示该议题正在发酵：Facebook told it was wrong in leaving up AI-generated videos of a Labour councillor and Muslim campaigner, amid calls to curb fakes Meta’s “supreme court” has ordered the tech company to tak...",
+      "summaryZh": "中文翻译：Facebook表示，在呼吁遏制假冒Meta的“最高法院”下令这家科技公司采取...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Football Daily | Madrid endure an awkward night after T-shirt trouble and Elche scare",
-      "titleZh": "视觉热点：《足球日报》|马德里在T恤衫问题和埃尔切恐慌之后度过了一个尴尬的夜晚",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Anxious to sample some traditional Spanish culture while taking in a La Liga match years ago, Football Daily and some friends decamped to ...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！几年前，《足球日报》和一些朋友在参加西甲比赛时急于品尝一些传统的西班牙文化……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/16/real-madrid-elche-t-shirts-football-daily-newsletter"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -280,7 +246,7 @@
       "title": "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
       "titleZh": "视觉热点：“我创造了我的妈妈并与她交谈” ：人工智能幽灵和死亡正在改变我们哀悼的方式",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
+      "heat": 87,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month....",
       "summaryZh": "中文翻译：人工智能生成的悼念和机器人与死者“交谈”的兴起让专家们担心，上个月多莉·帕顿去世后，更多的人会孤立地哀悼。",
@@ -293,19 +259,53 @@
       ],
       "accounts": [
         {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
+      "titleZh": "视觉热点：Lenore评论– incel对在线影响者的痴迷变成了对错位的数字时代心态的解剖",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren...",
+      "summaryZh": "中文翻译：数字时代的澳大利亚心理剧追踪了危险的不满男性粉丝的封闭狂热，但并没有进入他的脑海如果副社会现象是一种地狱，那么Max Wren......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -345,52 +345,18 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Iranian football returns in the shadow of war and with row over last league title",
-      "titleZh": "短视频趋势：伊朗足球在战争的阴影下回归，争夺上届联赛冠军",
+      "title": "短视频趋势：FA chair Hewitt demands Infantino release records of failed World Cup plan",
+      "titleZh": "短视频趋势：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 90,
+      "heat": 73,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli...",
-      "summaryZh": "中文翻译：由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，伊朗是足球界最大的故事之一，因为梅利队......",
+      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
+      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Kane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – video",
-      "titleZh": "短视频趋势：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论|《足球周刊》–视频",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Continue reading...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与菲利普·奥克莱尔（ Philippe Auclair ）、希德·洛（ Sid Lowe ）、尼基·班迪尼（ Nicky Bandini ）和马克·兰登（ Mark",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-video"
+          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
         }
       ],
       "accounts": [
@@ -400,43 +366,9 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
-      "titleZh": "短视频趋势：欧洲足球：凯恩帮助拜仁边缘埃尔弗斯贝格，萨索洛击晕尤文图斯",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless start Harry Kane scored his first Bundesliga goal of the season to help Bayern Munich edge to a 2-1 wi...",
-      "summaryZh": "中文翻译：埃尔弗斯贝格1-2拜仁；萨索洛3-2尤文图斯巴塞罗那看到莱万特， PSG结束无胜开局哈里·凯恩打进了他本赛季的第一个德甲进球，帮助拜仁慕尼黑以2-1领先...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@marfawe",
@@ -450,7 +382,7 @@
       "title": "短视频趋势：When did football fans first start wearing replica kits? | The Knowledge",
       "titleZh": "短视频趋势：足球迷什么时候开始穿复制品套装？ | The Knowledge",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
+      "heat": 82,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica ki...",
       "summaryZh": "中文翻译：此外：更昂贵（和有益的）红牌和攻击，具有三个半世纪的国际目标将您的所有问题和答案邮寄给我们“粉丝什么时候穿着复制品...",
@@ -463,116 +395,14 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Iranian football returns in the shadow of war and with row over last league title",
-      "titleZh": "社区话题：伊朗足球在战争的阴影下回归，争夺上届联赛冠军",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 90,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli...",
-      "summaryZh": "中文翻译：由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，伊朗是足球界最大的故事之一，因为梅利队......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Kane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – video",
-      "titleZh": "社区话题：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论|《足球周刊》–视频",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 90,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Continue reading...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与菲利普·奥克莱尔（ Philippe Auclair ）、希德·洛（ Sid Lowe ）、尼基·班迪尼（ Nicky Bandini ）和马克·兰登（ Mark",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
-      "titleZh": "社区话题：欧洲足球：凯恩帮助拜仁边缘埃尔弗斯贝格，萨索洛击晕尤文图斯",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 69,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless start Harry Kane scored his first Bundesliga goal of the season to help Bayern Munich edge to a 2-1 wi...",
-      "summaryZh": "中文翻译：埃尔弗斯贝格1-2拜仁；萨索洛3-2尤文图斯巴塞罗那看到莱万特， PSG结束无胜开局哈里·凯恩打进了他本赛季的第一个德甲进球，帮助拜仁慕尼黑以2-1领先...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@TacticsJournal",
@@ -582,11 +412,113 @@
       ]
     },
     {
+      "platform": "tiktok",
+      "title": "短视频趋势：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
+      "titleZh": "短视频趋势：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论–足球周刊",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Max Rushden is joined by Philippe Auclair , Sid Lowe , Nic...",
+      "summaryZh": "中文翻译：Max Rushden与Philippe Auclair、Sid Lowe、Nicky Bandini和Mark Langdon一起讨论周末在欧洲的行动。Max Rushden与Philippe Auclair、Sid Lowe、Nic...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+      "titleZh": "短视频趋势：马克·扎克伯格（ Mark Zuckerberg ）在人工智能放缓的辩论中瞄准人类",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 76,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
+      "summaryZh": "中文翻译：在社交媒体上， Meta的首席执行官似乎抨击了Anthropic ，称领先的人工智能实验室应该专注于安全，而不是改进自己的技术。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：FA chair Hewitt demands Infantino release records of failed World Cup plan",
+      "titleZh": "社区话题：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
+      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
       "platform": "facebook",
       "title": "社区话题：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
       "titleZh": "社区话题：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论–足球周刊",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 68,
+      "heat": 71,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Max Rushden is joined by Philippe Auclair , Sid Lowe , Nic...",
       "summaryZh": "中文翻译：Max Rushden与Philippe Auclair、Sid Lowe、Nicky Bandini和Mark Langdon一起讨论周末在欧洲的行动。Max Rushden与Philippe Auclair、Sid Lowe、Nic...",
@@ -599,19 +531,87 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+      "titleZh": "社区话题：马克·扎克伯格（ Mark Zuckerberg ）在人工智能放缓的辩论中瞄准人类",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 73,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
+      "summaryZh": "中文翻译：在社交媒体上， Meta的首席执行官似乎抨击了Anthropic ，称领先的人工智能实验室应该专注于安全，而不是改进自己的技术。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan to ease Sage’s worries",
+      "titleZh": "社区话题：皮诺启动了水晶宫的欧洲联赛对波兹南的溃败，以缓解Sage的担忧",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：It was worth the wait for Crystal Palace. After being denied their rightful place in the Europa League last season, Pierre Sage’s side made the perfect debut by brushing aside Lech Poznan wi...",
+      "summaryZh": "中文翻译：等待水晶宫是值得的。在上赛季被剥夺了在欧罗巴联赛的合法位置之后，皮埃尔·萨奇的球队通过撇开波兹南，做出了完美的首次亮相。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/17/crystal-palace-lech-poznan-europa-league-match-report"
+        }
+      ],
+      "accounts": [
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     }
@@ -622,17 +622,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Iranian football returns in the shadow of war and with row over last league title": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Kane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – video": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus": {
+    "实时讨论：FA chair Hewitt demands Infantino release records of failed World Cup plan": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,17 +632,22 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "视觉热点：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Ugly scenes as Argentina lose World Cup final – video": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Football Daily | Madrid endure an awkward night after T-shirt trouble and Elche scare": {
+    "视觉热点：Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -662,22 +657,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
+    "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "短视频趋势：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Iranian football returns in the shadow of war and with row over last league title": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Kane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – video": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus": {
+    "短视频趋势：FA chair Hewitt demands Infantino release records of failed World Cup plan": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,22 +677,32 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Iranian football returns in the shadow of war and with row over last league title": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Kane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – video": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus": {
+    "社区话题：FA chair Hewitt demands Infantino release records of failed World Cup plan": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan to ease Sage’s worries": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
