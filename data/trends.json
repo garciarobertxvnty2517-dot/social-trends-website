@@ -1,14 +1,48 @@
 {
-  "generatedAt": "2026-09-18T05:56:02.557626+00:00",
-  "generatedAtBeijing": "2026-09-18 13:56",
+  "generatedAt": "2026-09-19T05:54:07.743349+00:00",
+  "generatedAtBeijing": "2026-09-19 13:54",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
+    {
+      "platform": "x",
+      "title": "实时讨论：Alex Ovechkin claims he’s ‘not in politics’. His pro-Putin video says the opposite",
+      "titleZh": "实时讨论：亚历克斯·奥韦奇金（ Alex Ovechkin ）声称他“没有参与政治”他的亲普京视频恰恰相反",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：After the NHL star appeared in an ad campaign for United Russia, it’s fair to start pressing about the impact of his stances – even if he doesn’t want to talk about it When Russian launched ...",
+      "summaryZh": "中文翻译：在NHL球星出现在统一俄罗斯的广告活动中之后，开始强调他的立场的影响是公平的–即使他不想谈论它当俄罗斯推出时...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
     {
       "platform": "x",
       "title": "实时讨论：Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
       "titleZh": "实时讨论：Deepfakes正在破坏影响者的信誉，一次一个虚假广告",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
+      "heat": 78,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves Earlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and ...",
       "summaryZh": "中文翻译：影响者不仅仅是为了品牌交易而与竞争对手作战。他们现在正在与人工智能作斗争今年早些时候，生活方式博客Cupcakes的创建者Emily Schuman和...",
@@ -39,86 +73,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：FA chair Hewitt demands Infantino release records of failed World Cup plan",
-      "titleZh": "实时讨论：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
+      "title": "实时讨论：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
+      "titleZh": "实时讨论：“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
+      "heat": 79,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
-      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
+      "summary": "公开来源显示该议题正在发酵：The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badl...",
+      "summaryZh": "中文翻译：这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就走了，但问题更加严重， Kiat Lim希望看到瓦伦西亚如此糟糕......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：When did football fans first start wearing replica kits? | The Knowledge",
-      "titleZh": "实时讨论：足球迷什么时候开始穿复制品套装？ | The Knowledge",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica ki...",
-      "summaryZh": "中文翻译：此外：更昂贵（和有益的）红牌和攻击，具有三个半世纪的国际目标将您的所有问题和答案邮寄给我们“粉丝什么时候穿着复制品...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
-      "titleZh": "实时讨论：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论–足球周刊",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Max Rushden is joined by Philippe Auclair , Sid Lowe , Nic...",
-      "summaryZh": "中文翻译：Max Rushden与Philippe Auclair、Sid Lowe、Nicky Bandini和Mark Langdon一起讨论周末在欧洲的行动。Max Rushden与Philippe Auclair、Sid Lowe、Nic...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly"
+          "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
         }
       ],
       "accounts": [
@@ -141,35 +107,103 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
-      "titleZh": "实时讨论：马克·扎克伯格（ Mark Zuckerberg ）在人工智能放缓的辩论中瞄准人类",
+      "title": "实时讨论：FA chair Hewitt demands Infantino release records of failed World Cup plan",
+      "titleZh": "实时讨论：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
-      "summaryZh": "中文翻译：在社交媒体上， Meta的首席执行官似乎抨击了Anthropic ，称领先的人工智能实验室应该专注于安全，而不是改进自己的技术。",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
+      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：When did football fans first start wearing replica kits? | The Knowledge",
+      "titleZh": "实时讨论：足球迷什么时候开始穿复制品套装？ | The Knowledge",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 77,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica ki...",
+      "summaryZh": "中文翻译：此外：更昂贵（和有益的）红牌和攻击，具有三个半世纪的国际目标将您的所有问题和答案邮寄给我们“粉丝什么时候穿着复制品...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Alex Ovechkin claims he’s ‘not in politics’. His pro-Putin video says the opposite",
+      "titleZh": "视觉热点：亚历克斯·奥韦奇金（ Alex Ovechkin ）声称他“没有参与政治”他的亲普京视频恰恰相反",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 87,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：After the NHL star appeared in an ad campaign for United Russia, it’s fair to start pressing about the impact of his stances – even if he doesn’t want to talk about it When Russian launched ...",
+      "summaryZh": "中文翻译：在NHL球星出现在统一俄罗斯的广告活动中之后，开始强调他的立场的影响是公平的–即使他不想谈论它当俄罗斯推出时...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -178,7 +212,7 @@
       "title": "视觉热点：Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
       "titleZh": "视觉热点：Deepfakes正在破坏影响者的信誉，一次一个虚假广告",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
+      "heat": 72,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves Earlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and ...",
       "summaryZh": "中文翻译：影响者不仅仅是为了品牌交易而与竞争对手作战。他们现在正在与人工智能作斗争今年早些时候，生活方式博客Cupcakes的创建者Emily Schuman和...",
@@ -191,19 +225,53 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@exploraX_",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Brentford 3-0 Chelsea: Premier League – as it happened",
+      "titleZh": "视觉热点：布伦特福德3-0切尔西：英超联赛–事实就是这样",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Brentford beat Chelsea at home for the first time since 1938 thanks to a second-half flurry 2 min: Schade advances menacingly down the left, chasing after a long ball by Lewis-Potter. He ent...",
+      "summaryZh": "中文翻译：布伦特福德自1938年以来首次在主场击败切尔西，这要归功于下半场2分钟的匆忙：沙德在刘易斯-波特的一个长球之后，威胁性地向左前进。他进入……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -212,7 +280,7 @@
       "title": "视觉热点：Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
       "titleZh": "视觉热点：Meta下令删除英国的deepfakes ，因为监督委员会批评“不充分”的保障措施",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 77,
+      "heat": 73,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Facebook told it was wrong in leaving up AI-generated videos of a Labour councillor and Muslim campaigner, amid calls to curb fakes Meta’s “supreme court” has ordered the tech company to tak...",
       "summaryZh": "中文翻译：Facebook表示，在呼吁遏制假冒Meta的“最高法院”下令这家科技公司采取...",
@@ -225,82 +293,14 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-      "titleZh": "视觉热点：“我创造了我的妈妈并与她交谈” ：人工智能幽灵和死亡正在改变我们哀悼的方式",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month....",
-      "summaryZh": "中文翻译：人工智能生成的悼念和机器人与死者“交谈”的兴起让专家们担心，上个月多莉·帕顿去世后，更多的人会孤立地哀悼。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-      "titleZh": "视觉热点：Lenore评论– incel对在线影响者的痴迷变成了对错位的数字时代心态的解剖",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren...",
-      "summaryZh": "中文翻译：数字时代的澳大利亚心理剧追踪了危险的不满男性粉丝的封闭狂热，但并没有进入他的脑海如果副社会现象是一种地狱，那么Max Wren......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset"
-        }
-      ],
-      "accounts": [
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Ivy_Dinma",
@@ -311,10 +311,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：Alex Ovechkin claims he’s ‘not in politics’. His pro-Putin video says the opposite",
+      "titleZh": "短视频趋势：亚历克斯·奥韦奇金（ Alex Ovechkin ）声称他“没有参与政治”他的亲普京视频恰恰相反",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：After the NHL star appeared in an ad campaign for United Russia, it’s fair to start pressing about the impact of his stances – even if he doesn’t want to talk about it When Russian launched ...",
+      "summaryZh": "中文翻译：在NHL球星出现在统一俄罗斯的广告活动中之后，开始强调他的立场的影响是公平的–即使他不想谈论它当俄罗斯推出时...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
       "titleZh": "短视频趋势：Deepfakes正在破坏影响者的信誉，一次一个虚假广告",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 92,
+      "heat": 90,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves Earlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and ...",
       "summaryZh": "中文翻译：影响者不仅仅是为了品牌交易而与竞争对手作战。他们现在正在与人工智能作斗争今年早些时候，生活方式博客Cupcakes的创建者Emily Schuman和...",
@@ -327,19 +361,53 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
+      "titleZh": "短视频趋势：“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badl...",
+      "summaryZh": "中文翻译：这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就走了，但问题更加严重， Kiat Lim希望看到瓦伦西亚如此糟糕......",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -348,147 +416,11 @@
       "title": "短视频趋势：FA chair Hewitt demands Infantino release records of failed World Cup plan",
       "titleZh": "短视频趋势：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
+      "heat": 69,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
       "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：When did football fans first start wearing replica kits? | The Knowledge",
-      "titleZh": "短视频趋势：足球迷什么时候开始穿复制品套装？ | The Knowledge",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 82,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica ki...",
-      "summaryZh": "中文翻译：此外：更昂贵（和有益的）红牌和攻击，具有三个半世纪的国际目标将您的所有问题和答案邮寄给我们“粉丝什么时候穿着复制品...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
-      "titleZh": "短视频趋势：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论–足球周刊",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Max Rushden is joined by Philippe Auclair , Sid Lowe , Nic...",
-      "summaryZh": "中文翻译：Max Rushden与Philippe Auclair、Sid Lowe、Nicky Bandini和Mark Langdon一起讨论周末在欧洲的行动。Max Rushden与Philippe Auclair、Sid Lowe、Nic...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
-      "titleZh": "短视频趋势：马克·扎克伯格（ Mark Zuckerberg ）在人工智能放缓的辩论中瞄准人类",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
-      "summaryZh": "中文翻译：在社交媒体上， Meta的首席执行官似乎抨击了Anthropic ，称领先的人工智能实验室应该专注于安全，而不是改进自己的技术。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：FA chair Hewitt demands Infantino release records of failed World Cup plan",
-      "titleZh": "社区话题：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
-      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
@@ -502,38 +434,38 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
-      "titleZh": "社区话题：凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论–足球周刊",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 71,
+      "platform": "tiktok",
+      "title": "短视频趋势：When did football fans first start wearing replica kits? | The Knowledge",
+      "titleZh": "短视频趋势：足球迷什么时候开始穿复制品套装？ | The Knowledge",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 78,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Max Rushden is joined by Philippe Auclair , Sid Lowe , Nic...",
-      "summaryZh": "中文翻译：Max Rushden与Philippe Auclair、Sid Lowe、Nicky Bandini和Mark Langdon一起讨论周末在欧洲的行动。Max Rushden与Philippe Auclair、Sid Lowe、Nic...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "summary": "公开来源显示该议题正在发酵：Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goals Mail us with your all of your questions and answers “When did fans wearing replica ki...",
+      "summaryZh": "中文翻译：此外：更昂贵（和有益的）红牌和攻击，具有三个半世纪的国际目标将您的所有问题和答案邮寄给我们“粉丝什么时候穿着复制品...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly"
+          "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@TacticsJournal",
@@ -541,9 +473,77 @@
           "why": "战术拆解和长图文表达"
         },
         {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
+      "titleZh": "社区话题：“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badl...",
+      "summaryZh": "中文翻译：这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就走了，但问题更加严重， Kiat Lim希望看到瓦伦西亚如此糟糕......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：FA chair Hewitt demands Infantino release records of failed World Cup plan",
+      "titleZh": "社区话题：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
+      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -583,41 +583,51 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan to ease Sage’s worries",
-      "titleZh": "社区话题：皮诺启动了水晶宫的欧洲联赛对波兹南的溃败，以缓解Sage的担忧",
+      "title": "社区话题：Noahkai Banks, top dual-national prospect, chooses Germany in blow to USMNT",
+      "titleZh": "社区话题：顶级双重国籍前景的Noahkai Banks选择德国打击USMNT",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：It was worth the wait for Crystal Palace. After being denied their rightful place in the Europa League last season, Pierre Sage’s side made the perfect debut by brushing aside Lech Poznan wi...",
-      "summaryZh": "中文翻译：等待水晶宫是值得的。在上赛季被剥夺了在欧罗巴联赛的合法位置之后，皮埃尔·萨奇的球队通过撇开波兹南，做出了完美的首次亮相。",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Germany U-21 manager announces the decision 19-year-old had represented only US at youth level The United States’ pursuit of dual-national defender Noahkai Banks appears to be over. The 19-y...",
+      "summaryZh": "中文翻译：德国U-21经理宣布， 19岁的决定只代表美国青年队。美国对双重国籍后卫诺阿凯·班克斯的追求似乎已经结束。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/17/crystal-palace-lech-poznan-europa-league-match-report"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/2026/sep/18/noahkai-banks-germany-usmnt"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         }
       ]
     }
   ],
   "audienceMap": {
+    "实时讨论：Alex Ovechkin claims he’s ‘not in politics’. His pro-Putin video says the opposite": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,17 +642,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    "视觉热点：Alex Ovechkin claims he’s ‘not in politics’. His pro-Putin video says the opposite": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Brentford 3-0 Chelsea: Premier League – as it happened": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -652,17 +662,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    "短视频趋势：Alex Ovechkin claims he’s ‘not in politics’. His pro-Putin video says the opposite": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,22 +687,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "社区话题：FA chair Hewitt demands Infantino release records of failed World Cup plan": {
+    "社区话题：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly": {
+    "社区话题：FA chair Hewitt demands Infantino release records of failed World Cup plan": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan to ease Sage’s worries": {
+    "社区话题：Noahkai Banks, top dual-national prospect, chooses Germany in blow to USMNT": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
