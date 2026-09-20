@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T05:54:07.743349+00:00",
-  "generatedAtBeijing": "2026-09-19 13:54",
+  "generatedAt": "2026-09-20T06:18:12.067553+00:00",
+  "generatedAtBeijing": "2026-09-20 14:18",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,55 +39,60 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
-      "titleZh": "实时讨论：Deepfakes正在破坏影响者的信誉，一次一个虚假广告",
+      "title": "实时讨论：Iranian football returns in the shadow of war and with row over last league title",
+      "titleZh": "实时讨论：伊朗足球在战争的阴影下回归，争夺上届联赛冠军",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves Earlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and ...",
-      "summaryZh": "中文翻译：影响者不仅仅是为了品牌交易而与竞争对手作战。他们现在正在与人工智能作斗争今年早些时候，生活方式博客Cupcakes的创建者Emily Schuman和...",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli...",
+      "summaryZh": "中文翻译：由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，伊朗是足球界最大的故事之一，因为梅利队......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
-      "titleZh": "实时讨论：“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe",
+      "title": "实时讨论：Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley",
+      "titleZh": "实时讨论：Union Jack Classic未能在球场上点燃火花，但电动气氛点燃了温布利",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 86,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badl...",
-      "summaryZh": "中文翻译：这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就走了，但问题更加严重， Kiat Lim希望看到瓦伦西亚如此糟糕......",
+      "summary": "公开来源显示该议题正在发酵：The Arizona State Sun Devils cantered to victory in the first ever Union Jack Classic in front of a noisy crowd – despite thousands of empty seats You sensed that Britain’s first US college ...",
+      "summaryZh": "中文翻译：亚利桑那州立大学的太阳魔鬼队在嘈杂的人群面前赢得了有史以来第一届联合杰克经典赛的胜利–尽管有成千上万的空座位您感觉到英国的第一所美国大学......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/19/union-jack-classic-fails-to-spark-on-the-pitch-but-electric-atmosphere-fires-up-wembley"
         }
       ],
       "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
         {
           "name": "@marfawe",
           "followers": "约2万",
@@ -97,45 +102,40 @@
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：FA chair Hewitt demands Infantino release records of failed World Cup plan",
-      "titleZh": "实时讨论：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
+      "title": "实时讨论：Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup",
+      "titleZh": "实时讨论：当澳大利亚和波兰在戴维斯杯上分享战利品时， Alex de Minaur咆哮起来",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 83,
+      "heat": 71,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
-      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
+      "summary": "公开来源显示该议题正在发酵：World No 9 beats Maks Kasnikowski 6-3, 6-0 in World Group I tie James Duckworth loses to Kamil Majchrzak 2-6, 6-3, 6-3 in Brisbane Alex de Minaur has taken his frustrations out in a Davis Cu...",
+      "summaryZh": "中文翻译：世界排名第9的马克斯·卡斯尼科夫斯基（ Maks Kasnikowski ）以6比3和6比0击败世界第一组，詹姆斯·达克沃斯（ James Duckworth ）在布里斯班以2比6、6比3和6比3输给卡米尔·马奇扎克（ Kamil Majchrzak ）亚历克斯·德·米诺尔（ Alex de Min",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/19/tennis-davis-cup-australia-poland-day-one-report-alex-de-minaur-kasnikowski-duckworth-majchrzak"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -209,18 +209,18 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
-      "titleZh": "视觉热点：Deepfakes正在破坏影响者的信誉，一次一个虚假广告",
+      "title": "视觉热点：Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
+      "titleZh": "视觉热点：Meta下令删除英国的deepfakes ，因为监督委员会批评“不充分”的保障措施",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
+      "heat": 77,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves Earlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and ...",
-      "summaryZh": "中文翻译：影响者不仅仅是为了品牌交易而与竞争对手作战。他们现在正在与人工智能作斗争今年早些时候，生活方式博客Cupcakes的创建者Emily Schuman和...",
+      "summary": "公开来源显示该议题正在发酵：Facebook told it was wrong in leaving up AI-generated videos of a Labour councillor and Muslim campaigner, amid calls to curb fakes Meta’s “supreme court” has ordered the tech company to tak...",
+      "summaryZh": "中文翻译：Facebook表示，在呼吁遏制假冒Meta的“最高法院”下令这家科技公司采取...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility"
+          "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards"
         }
       ],
       "accounts": [
@@ -243,52 +243,52 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Brentford 3-0 Chelsea: Premier League – as it happened",
-      "titleZh": "视觉热点：布伦特福德3-0切尔西：英超联赛–事实就是这样",
+      "title": "视觉热点：GB take command of Ecuador Davis Cup tie on Arthur Fery’s London return",
+      "titleZh": "视觉热点：GB在Arthur Fery的伦敦回归中指挥厄瓜多尔戴维斯杯领带",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
+      "heat": 80,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Brentford beat Chelsea at home for the first time since 1938 thanks to a second-half flurry 2 min: Schade advances menacingly down the left, chasing after a long ball by Lewis-Potter. He ent...",
-      "summaryZh": "中文翻译：布伦特福德自1938年以来首次在主场击败切尔西，这要归功于下半场2分钟的匆忙：沙德在刘易斯-波特的一个长球之后，威胁性地向左前进。他进入……",
+      "summary": "公开来源显示该议题正在发酵：Toby Samuel beats Andrés Andrade 4-6, 6-4, 6-1 Wimbledon semi-finalist wins for 2-0 day one lead Arthur Fery’s return to competition on home soil for the first time since his glorious summer...",
+      "summaryZh": "中文翻译：托比·塞缪尔（ Toby Samuel ）以4-6,6-4,6-1击败安德烈斯·安德拉德（ Andrés Andrade ） ，在温布尔登半决赛中以2-0领先亚瑟·费里（ Arthur Fery ）自辉煌的夏天以来首次在本土重返比赛......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates"
+          "url": "https://www.theguardian.com/sport/2026/sep/19/gb-ecuador-davis-cup-arthur-fery-tennis"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化实操内容"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
-      "titleZh": "视觉热点：Meta下令删除英国的deepfakes ，因为监督委员会批评“不充分”的保障措施",
+      "title": "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
+      "titleZh": "视觉热点：Lenore评论– incel对在线影响者的痴迷变成了对错位的数字时代心态的解剖",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 73,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Facebook told it was wrong in leaving up AI-generated videos of a Labour councillor and Muslim campaigner, amid calls to curb fakes Meta’s “supreme court” has ordered the tech company to tak...",
-      "summaryZh": "中文翻译：Facebook表示，在呼吁遏制假冒Meta的“最高法院”下令这家科技公司采取...",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren...",
+      "summaryZh": "中文翻译：数字时代的澳大利亚心理剧追踪了危险的不满男性粉丝的封闭狂热，但并没有进入他的脑海如果副社会现象是一种地狱，那么Max Wren......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards"
+          "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset"
         }
       ],
       "accounts": [
@@ -298,9 +298,9 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Ivy_Dinma",
@@ -345,59 +345,59 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
-      "titleZh": "短视频趋势：Deepfakes正在破坏影响者的信誉，一次一个虚假广告",
+      "title": "短视频趋势：Iranian football returns in the shadow of war and with row over last league title",
+      "titleZh": "短视频趋势：伊朗足球在战争的阴影下回归，争夺上届联赛冠军",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 90,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves Earlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and ...",
-      "summaryZh": "中文翻译：影响者不仅仅是为了品牌交易而与竞争对手作战。他们现在正在与人工智能作斗争今年早些时候，生活方式博客Cupcakes的创建者Emily Schuman和...",
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli...",
+      "summaryZh": "中文翻译：由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，伊朗是足球界最大的故事之一，因为梅利队......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
-      "titleZh": "短视频趋势：“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe",
+      "title": "短视频趋势：Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley",
+      "titleZh": "短视频趋势：Union Jack Classic未能在球场上点燃火花，但电动气氛点燃了温布利",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
+      "heat": 76,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badl...",
-      "summaryZh": "中文翻译：这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就走了，但问题更加严重， Kiat Lim希望看到瓦伦西亚如此糟糕......",
+      "summary": "公开来源显示该议题正在发酵：The Arizona State Sun Devils cantered to victory in the first ever Union Jack Classic in front of a noisy crowd – despite thousands of empty seats You sensed that Britain’s first US college ...",
+      "summaryZh": "中文翻译：亚利桑那州立大学的太阳魔鬼队在嘈杂的人群面前赢得了有史以来第一届联合杰克经典赛的胜利–尽管有成千上万的空座位您感觉到英国的第一所美国大学......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/19/union-jack-classic-fails-to-spark-on-the-pitch-but-electric-atmosphere-fires-up-wembley"
         }
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@marfawe",
@@ -405,43 +405,43 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：FA chair Hewitt demands Infantino release records of failed World Cup plan",
-      "titleZh": "短视频趋势：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
+      "title": "短视频趋势：Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup",
+      "titleZh": "短视频趋势：当澳大利亚和波兰在戴维斯杯上分享战利品时， Alex de Minaur咆哮起来",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 69,
+      "heat": 80,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
-      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
+      "summary": "公开来源显示该议题正在发酵：World No 9 beats Maks Kasnikowski 6-3, 6-0 in World Group I tie James Duckworth loses to Kamil Majchrzak 2-6, 6-3, 6-3 in Brisbane Alex de Minaur has taken his frustrations out in a Davis Cu...",
+      "summaryZh": "中文翻译：世界排名第9的马克斯·卡斯尼科夫斯基（ Maks Kasnikowski ）以6比3和6比0击败世界第一组，詹姆斯·达克沃斯（ James Duckworth ）在布里斯班以2比6、6比3和6比3输给卡米尔·马奇扎克（ Kamil Majchrzak ）亚历克斯·德·米诺尔（ Alex de Min",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/19/tennis-davis-cup-australia-poland-day-one-report-alex-de-minaur-kasnikowski-duckworth-majchrzak"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -463,50 +463,16 @@
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
-      "titleZh": "社区话题：“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeper Kiat Lim wanted to see Valencia play so badl...",
-      "summaryZh": "中文翻译：这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就走了，但问题更加严重， Kiat Lim希望看到瓦伦西亚如此糟糕......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
         },
         {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
@@ -515,35 +481,103 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：FA chair Hewitt demands Infantino release records of failed World Cup plan",
-      "titleZh": "社区话题：足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录",
+      "title": "社区话题：Iranian football returns in the shadow of war and with row over last league title",
+      "titleZh": "社区话题：伊朗足球在战争的阴影下回归，争夺上届联赛冠军",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
+      "heat": 90,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino d...",
-      "summaryZh": "中文翻译：在10月15日国际足联理事会会议之前，因凡蒂诺在总统选举前的压力下发出了一封信。足球协会主席黛比·休伊特（ Debbie Hewitt ）已致函Gianni Infantino d...",
+      "summary": "公开来源显示该议题正在发酵：Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli...",
+      "summaryZh": "中文翻译：由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，伊朗是足球界最大的故事之一，因为梅利队......",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
+          "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley",
+      "titleZh": "社区话题：Union Jack Classic未能在球场上点燃火花，但电动气氛点燃了温布利",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Arizona State Sun Devils cantered to victory in the first ever Union Jack Classic in front of a noisy crowd – despite thousands of empty seats You sensed that Britain’s first US college ...",
+      "summaryZh": "中文翻译：亚利桑那州立大学的太阳魔鬼队在嘈杂的人群面前赢得了有史以来第一届联合杰克经典赛的胜利–尽管有成千上万的空座位您感觉到英国的第一所美国大学......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/19/union-jack-classic-fails-to-spark-on-the-pitch-but-electric-atmosphere-fires-up-wembley"
+        }
+      ],
+      "accounts": [
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup",
+      "titleZh": "社区话题：当澳大利亚和波兰在戴维斯杯上分享战利品时， Alex de Minaur咆哮起来",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：World No 9 beats Maks Kasnikowski 6-3, 6-0 in World Group I tie James Duckworth loses to Kamil Majchrzak 2-6, 6-3, 6-3 in Brisbane Alex de Minaur has taken his frustrations out in a Davis Cu...",
+      "summaryZh": "中文翻译：世界排名第9的马克斯·卡斯尼科夫斯基（ Maks Kasnikowski ）以6比3和6比0击败世界第一组，詹姆斯·达克沃斯（ James Duckworth ）在布里斯班以2比6、6比3和6比3输给卡米尔·马奇扎克（ Kamil Majchrzak ）亚历克斯·德·米诺尔（ Alex de Min",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/19/tennis-davis-cup-australia-poland-day-one-report-alex-de-minaur-kasnikowski-duckworth-majchrzak"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -552,7 +586,7 @@
       "title": "社区话题：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
       "titleZh": "社区话题：马克·扎克伯格（ Mark Zuckerberg ）在人工智能放缓的辩论中瞄准人类",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 73,
+      "heat": 71,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
       "summaryZh": "中文翻译：在社交媒体上， Meta的首席执行官似乎抨击了Anthropic ，称领先的人工智能实验室应该专注于安全，而不是改进自己的技术。",
@@ -565,53 +599,19 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Noahkai Banks, top dual-national prospect, chooses Germany in blow to USMNT",
-      "titleZh": "社区话题：顶级双重国籍前景的Noahkai Banks选择德国打击USMNT",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Germany U-21 manager announces the decision 19-year-old had represented only US at youth level The United States’ pursuit of dual-national defender Noahkai Banks appears to be over. The 19-y...",
-      "summaryZh": "中文翻译：德国U-21经理宣布， 19岁的决定只代表美国青年队。美国对双重国籍后卫诺阿凯·班克斯的追求似乎已经结束。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/sep/18/noahkai-banks-germany-usmnt"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     }
@@ -622,17 +622,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
+    "实时讨论：Iranian football returns in the shadow of war and with row over last league title": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe": {
+    "实时讨论：Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：FA chair Hewitt demands Infantino release records of failed World Cup plan": {
+    "实时讨论：Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,17 +647,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Brentford 3-0 Chelsea: Premier League – as it happened": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "视觉热点：Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：GB take command of Ecuador Davis Cup tie on Arthur Fery’s London return": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,17 +667,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Deepfakes are wrecking influencers’ credibility, one fake ad at a time": {
+    "短视频趋势：Iranian football returns in the shadow of war and with row over last league title": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe": {
+    "短视频趋势：Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：FA chair Hewitt demands Infantino release records of failed World Cup plan": {
+    "短视频趋势：Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,22 +687,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe": {
+    "社区话题：Iranian football returns in the shadow of war and with row over last league title": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：FA chair Hewitt demands Infantino release records of failed World Cup plan": {
+    "社区话题：Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Noahkai Banks, top dual-national prospect, chooses Germany in blow to USMNT": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
