@@ -1,63 +1,29 @@
 {
-  "generatedAt": "2026-09-23T05:59:23.073781+00:00",
-  "generatedAtBeijing": "2026-09-23 13:59",
+  "generatedAt": "2026-09-24T06:11:10.955438+00:00",
+  "generatedAtBeijing": "2026-09-24 14:11",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs",
-      "titleZh": "实时讨论：足球日报| Klopp、Xavi、Zidane、Mancini ：准备好释放更大狗的大国",
+      "title": "实时讨论：Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas",
+      "titleZh": "实时讨论：《足球日报》|马德里、穆里尼奥与哈维尔·特巴斯争夺中立",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
+      "heat": 90,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Thomas Tuchel continues to gaslight his employer s at the FA into believing he was in no way responsible for England’s comically sha...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然托马斯·图切尔（ Thomas Tuchel ）继续在英足总点燃他的雇主，让他相信他对英格兰的滑稽行为毫无责任……",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While football managers moaning about referees to deflect from their own teams’ shortcomings is nothing new, few do performative, wounded,...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然足球经理抱怨裁判偏离自己球队的缺点并不是什么新鲜事，但很少有人表现出色，受伤，...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/22/klopp-xavi-zidane-mancini-football-daily-newsletter"
+          "url": "https://www.theguardian.com/football/2026/sep/23/madrid-mourinho-javier-tebas-football-daily-newsletter"
         }
       ],
       "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：‘It’s about to go global’: American college football rocks into Wembley – a photo essay",
-      "titleZh": "实时讨论：“它即将走向全球” ：美国大学橄榄球进入温布利–一篇摄影作文",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 90,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our photographer, Tom Jenkins, captures the colour and razzmatazz as college football arrived in the capital, hot on the heels of successful NFL outings in recent years Rarely has Wembley Wa...",
-      "summaryZh": "中文翻译：我们的摄影师汤姆·詹金斯（ Tom Jenkins ）在大学橄榄球抵达首都时捕捉到了色彩和喧嚣，紧随近年来NFL的成功郊游之后，很少有温布利...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/sep/21/american-college-football-rocks-into-wembley-photo-essay"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@igoeLFC",
@@ -65,9 +31,43 @@
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Premier League: 10 talking points from the weekend’s action",
+      "titleZh": "实时讨论：英超联赛：周末行动的10个谈话要点",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-...",
+      "summaryZh": "中文翻译：利物浦在后面看起来更强壮，年轻人为布莱顿和布伦特福德闪耀，詹姆斯·特拉福德在利兹英超联赛桌上展示了他的英格兰案例|本周最佳射手16-...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -107,60 +107,55 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Pierre Sage took Lens to new heights. His replacement left after six games",
-      "titleZh": "实时讨论：Pierre Sage将Lens带到了新的高度。他的继任者在六场比赛后离开了",
+      "title": "实时讨论：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
+      "titleZh": "实时讨论：Albanese说， OpenAI入侵了Medicare ，并在几个月后通过电子邮件发送到通用收件箱告知澳大利亚",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 68,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Lens finished second in Ligue 1 last season and won the Coupe de France. Building on that success is proving tricky By Get French Football News It was under cover of darkness that Yannick Ca...",
-      "summaryZh": "中文翻译：Lens上赛季在Ligue 1中获得第二名，并赢得了Coupe de France。在这一成功的基础上再接再厉被证明是棘手的通过获取法国足球新闻在黑暗的掩护下， Yannick Ca...",
+      "summary": "公开来源显示该议题正在发酵：Prime minister says he told Sam Altman he was disappointed it had taken OpenAI ‘way too long’ to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI ha...",
+      "summaryZh": "中文翻译：总理说，他告诉萨姆·奥尔特曼（ Sam Altman ） ，他对OpenAI花了“太长时间”才披露违规行为感到失望。安东尼·阿尔巴尼斯（ Anthony Albanese ）说，由OpenAI开发的人工智能",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/21/pierre-sage-lens-ligue-1-coupe-de-france-success"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Stop relying on AI chatbots for customer care, UK banks and energy firms told",
-      "titleZh": "实时讨论：英国银行和能源公司表示，停止依靠人工智能聊天机器人进行客户服务",
+      "title": "实时讨论：Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals",
+      "titleZh": "实时讨论：克里斯蒂亚诺·罗纳尔多发誓要为葡萄牙效力，并瞄准1000个职业目标",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘right to talk to a human’ Stop relying on AI chatbots for customer care...",
-      "summaryZh": "中文翻译：Citizens Advice表示，能源、银行、电话和互联网等基本服务的提供商应该保证“与人交谈的权利” ，不要再依赖人工智能聊天机器人来提供客户服务……",
+      "heat": 80,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Player reflects on critics, says ‘they’ve tried to kill me’ Jorge Jesus launches passionate defence of 41-year-old Cristiano Ronaldo said he considered quitting international football after ...",
+      "summaryZh": "中文翻译：球员反思批评者，说“他们试图杀死我”豪尔赫·耶稣为41岁的克里斯蒂亚诺·罗纳尔多发起了热烈的防守，他说他考虑在...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
         }
       ],
       "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
         {
           "name": "@goalflexo",
           "followers": "约2万",
@@ -170,74 +165,11 @@
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs",
-      "titleZh": "视觉热点：足球日报| Klopp、Xavi、Zidane、Mancini ：准备好释放更大狗的大国",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 82,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Thomas Tuchel continues to gaslight his employer s at the FA into believing he was in no way responsible for England’s comically sha...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然托马斯·图切尔（ Thomas Tuchel ）继续在英足总点燃他的雇主，让他相信他对英格兰的滑稽行为毫无责任……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/22/klopp-xavi-zidane-mancini-football-daily-newsletter"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘It’s about to go global’: American college football rocks into Wembley – a photo essay",
-      "titleZh": "视觉热点：“它即将走向全球” ：美国大学橄榄球进入温布利–一篇摄影作文",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our photographer, Tom Jenkins, captures the colour and razzmatazz as college football arrived in the capital, hot on the heels of successful NFL outings in recent years Rarely has Wembley Wa...",
-      "summaryZh": "中文翻译：我们的摄影师汤姆·詹金斯（ Tom Jenkins ）在大学橄榄球抵达首都时捕捉到了色彩和喧嚣，紧随近年来NFL的成功郊游之后，很少有温布利...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/sep/21/american-college-football-rocks-into-wembley-photo-essay"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -246,7 +178,7 @@
       "title": "视觉热点：‘Have some humanity’: Diogo Jota chants at Rúben Neves a wake-up call for Saudi Arabia",
       "titleZh": "视觉热点：“有一些人性” ： Diogo Jota在Rúben Neves为沙特阿拉伯敲响了警钟",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 77,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With added coverage comes added scrutiny and there is a feeling that the league was too lenient when punishing chants about the late Portugal forward The good thing about Cristiano Ronaldo p...",
       "summaryZh": "中文翻译：随着报道的增加，也增加了审查，有一种感觉，联盟在惩罚关于已故葡萄牙前锋的颂歌时过于宽容。克里斯蒂亚诺·罗纳尔多的好处在于......",
@@ -259,36 +191,36 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Great Britain exit Billie Jean King Cup after Czechia triumph in quarter-finals",
-      "titleZh": "视觉热点：在捷克四分之一决赛中获胜后，英国退出比利·让·金杯",
+      "title": "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
+      "titleZh": "视觉热点：“我创造了我的妈妈并与她交谈” ：人工智能幽灵和死亡正在改变我们哀悼的方式",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Defeats for Kartal and Boulter condemn Britain to loss Men will play Germany in quarter-finals of Davis Cup Great Britain’s stay at the Billie Jean King Cup finals lasted only one match as t...",
-      "summaryZh": "中文翻译：Kartal和Boulter的失利谴责英国队失利男子将在戴维斯杯四分之一决赛中与德国队比赛英国队在比利·让·金杯决赛中只持续了一场比赛...",
+      "heat": 89,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month....",
+      "summaryZh": "中文翻译：人工智能生成的悼念和机器人与死者“交谈”的兴起让专家们担心，上个月多莉·帕顿去世后，更多的人会孤立地哀悼。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/sep/22/great-britain-exit-billie-jean-king-cup-tennis-czechia-quarter-finals"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation"
         }
       ],
       "accounts": [
@@ -310,53 +242,87 @@
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs",
-      "titleZh": "短视频趋势：足球日报| Klopp、Xavi、Zidane、Mancini ：准备好释放更大狗的大国",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Thomas Tuchel continues to gaslight his employer s at the FA into believing he was in no way responsible for England’s comically sha...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然托马斯·图切尔（ Thomas Tuchel ）继续在英足总点燃他的雇主，让他相信他对英格兰的滑稽行为毫无责任……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "platform": "instagram",
+      "title": "视觉热点：An Army of Paid Creators Is Carpeting the Web With Political Content",
+      "titleZh": "视觉热点：一群付费创作者正在用政治内容铺设网络地毯",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 88,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public c...",
+      "summaryZh": "中文翻译：与拥有大量粉丝的名人影响者不同，这些创作者制作了大量视频，成本仅为传统在线活动的一小部分，并在此过程中将公众...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/22/klopp-xavi-zidane-mancini-football-daily-newsletter"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
+      "titleZh": "视觉热点：Lenore评论– incel对在线影响者的痴迷变成了对错位的数字时代心态的解剖",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren...",
+      "summaryZh": "中文翻译：数字时代的澳大利亚心理剧追踪了危险的不满男性粉丝的封闭狂热，但并没有进入他的脑海如果副社会现象是一种地狱，那么Max Wren......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘It’s about to go global’: American college football rocks into Wembley – a photo essay",
-      "titleZh": "短视频趋势：“它即将走向全球” ：美国大学橄榄球进入温布利–一篇摄影作文",
+      "title": "短视频趋势：Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas",
+      "titleZh": "短视频趋势：《足球日报》|马德里、穆里尼奥与哈维尔·特巴斯争夺中立",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
+      "heat": 84,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our photographer, Tom Jenkins, captures the colour and razzmatazz as college football arrived in the capital, hot on the heels of successful NFL outings in recent years Rarely has Wembley Wa...",
-      "summaryZh": "中文翻译：我们的摄影师汤姆·詹金斯（ Tom Jenkins ）在大学橄榄球抵达首都时捕捉到了色彩和喧嚣，紧随近年来NFL的成功郊游之后，很少有温布利...",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While football managers moaning about referees to deflect from their own teams’ shortcomings is nothing new, few do performative, wounded,...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然足球经理抱怨裁判偏离自己球队的缺点并不是什么新鲜事，但很少有人表现出色，受伤，...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/sep/21/american-college-football-rocks-into-wembley-photo-essay"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/23/madrid-mourinho-javier-tebas-football-daily-newsletter"
         }
       ],
       "accounts": [
@@ -366,14 +332,48 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Premier League: 10 talking points from the weekend’s action",
+      "titleZh": "短视频趋势：英超联赛：周末行动的10个谈话要点",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 80,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-...",
+      "summaryZh": "中文翻译：利物浦在后面看起来更强壮，年轻人为布莱顿和布伦特福德闪耀，詹姆斯·特拉福德在利兹英超联赛桌上展示了他的英格兰案例|本周最佳射手16-...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -413,86 +413,52 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Pierre Sage took Lens to new heights. His replacement left after six games",
-      "titleZh": "短视频趋势：Pierre Sage将Lens带到了新的高度。他的继任者在六场比赛后离开了",
+      "title": "短视频趋势：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
+      "titleZh": "短视频趋势：Albanese说， OpenAI入侵了Medicare ，并在几个月后通过电子邮件发送到通用收件箱告知澳大利亚",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
+      "heat": 78,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Lens finished second in Ligue 1 last season and won the Coupe de France. Building on that success is proving tricky By Get French Football News It was under cover of darkness that Yannick Ca...",
-      "summaryZh": "中文翻译：Lens上赛季在Ligue 1中获得第二名，并赢得了Coupe de France。在这一成功的基础上再接再厉被证明是棘手的通过获取法国足球新闻在黑暗的掩护下， Yannick Ca...",
+      "summary": "公开来源显示该议题正在发酵：Prime minister says he told Sam Altman he was disappointed it had taken OpenAI ‘way too long’ to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI ha...",
+      "summaryZh": "中文翻译：总理说，他告诉萨姆·奥尔特曼（ Sam Altman ） ，他对OpenAI花了“太长时间”才披露违规行为感到失望。安东尼·阿尔巴尼斯（ Anthony Albanese ）说，由OpenAI开发的人工智能",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/21/pierre-sage-lens-ligue-1-coupe-de-france-success"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Stop relying on AI chatbots for customer care, UK banks and energy firms told",
-      "titleZh": "短视频趋势：英国银行和能源公司表示，停止依靠人工智能聊天机器人进行客户服务",
+      "title": "短视频趋势：Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals",
+      "titleZh": "短视频趋势：克里斯蒂亚诺·罗纳尔多发誓要为葡萄牙效力，并瞄准1000个职业目标",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 69,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘right to talk to a human’ Stop relying on AI chatbots for customer care...",
-      "summaryZh": "中文翻译：Citizens Advice表示，能源、银行、电话和互联网等基本服务的提供商应该保证“与人交谈的权利” ，不要再依赖人工智能聊天机器人来提供客户服务……",
+      "heat": 84,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Player reflects on critics, says ‘they’ve tried to kill me’ Jorge Jesus launches passionate defence of 41-year-old Cristiano Ronaldo said he considered quitting international football after ...",
+      "summaryZh": "中文翻译：球员反思批评者，说“他们试图杀死我”豪尔赫·耶稣为41岁的克里斯蒂亚诺·罗纳尔多发起了热烈的防守，他说他考虑在...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs",
-      "titleZh": "社区话题：足球日报| Klopp、Xavi、Zidane、Mancini ：准备好释放更大狗的大国",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Thomas Tuchel continues to gaslight his employer s at the FA into believing he was in no way responsible for England’s comically sha...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然托马斯·图切尔（ Thomas Tuchel ）继续在英足总点燃他的雇主，让他相信他对英格兰的滑稽行为毫无责任……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/22/klopp-xavi-zidane-mancini-football-daily-newsletter"
+          "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
         }
       ],
       "accounts": [
@@ -515,52 +481,52 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：‘It’s about to go global’: American college football rocks into Wembley – a photo essay",
-      "titleZh": "社区话题：“它即将走向全球” ：美国大学橄榄球进入温布利–一篇摄影作文",
+      "title": "社区话题：Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas",
+      "titleZh": "社区话题：《足球日报》|马德里、穆里尼奥与哈维尔·特巴斯争夺中立",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 91,
+      "heat": 72,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Our photographer, Tom Jenkins, captures the colour and razzmatazz as college football arrived in the capital, hot on the heels of successful NFL outings in recent years Rarely has Wembley Wa...",
-      "summaryZh": "中文翻译：我们的摄影师汤姆·詹金斯（ Tom Jenkins ）在大学橄榄球抵达首都时捕捉到了色彩和喧嚣，紧随近年来NFL的成功郊游之后，很少有温布利...",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While football managers moaning about referees to deflect from their own teams’ shortcomings is nothing new, few do performative, wounded,...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然足球经理抱怨裁判偏离自己球队的缺点并不是什么新鲜事，但很少有人表现出色，受伤，...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/sep/21/american-college-football-rocks-into-wembley-photo-essay"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/23/madrid-mourinho-javier-tebas-football-daily-newsletter"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Stop relying on AI chatbots for customer care, UK banks and energy firms told",
-      "titleZh": "社区话题：英国银行和能源公司表示，停止依靠人工智能聊天机器人进行客户服务",
+      "title": "社区话题：Premier League: 10 talking points from the weekend’s action",
+      "titleZh": "社区话题：英超联赛：周末行动的10个谈话要点",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘right to talk to a human’ Stop relying on AI chatbots for customer care...",
-      "summaryZh": "中文翻译：Citizens Advice表示，能源、银行、电话和互联网等基本服务的提供商应该保证“与人交谈的权利” ，不要再依赖人工智能聊天机器人来提供客户服务……",
+      "heat": 91,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-...",
+      "summaryZh": "中文翻译：利物浦在后面看起来更强壮，年轻人为布莱顿和布伦特福德闪耀，詹姆斯·特拉福德在利兹英超联赛桌上展示了他的英格兰案例|本周最佳射手16-...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action"
         }
       ],
       "accounts": [
@@ -583,21 +549,26 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta",
-      "titleZh": "社区话题：Google、Anthropic、OpenAI和Meta最近的人工智能黑客攻击须知",
+      "title": "社区话题：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
+      "titleZh": "社区话题：Albanese说， OpenAI入侵了Medicare ，并在几个月后通过电子邮件发送到通用收件箱告知澳大利亚",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.",
-      "summaryZh": "中文翻译：OpenAI、谷歌和其他公司最近披露了他们的人工智能模型的违规行为，这加剧了人们对该技术先进能力的担忧。",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Prime minister says he told Sam Altman he was disappointed it had taken OpenAI ‘way too long’ to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI ha...",
+      "summaryZh": "中文翻译：总理说，他告诉萨姆·奥尔特曼（ Sam Altman ） ，他对OpenAI花了“太长时间”才披露违规行为感到失望。安东尼·阿尔巴尼斯（ Anthony Albanese ）说，由OpenAI开发的人工智能",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
         }
       ],
       "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
@@ -607,22 +578,51 @@
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Meta debuts no-camera smart glasses and virtual reality spectacles",
+      "titleZh": "社区话题：Meta推出无摄像头智能眼镜和虚拟现实眼镜",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The new wearables come at a time of uncertainty for smart glasses, which are facing backlash over privacy concerns Meta announced an advanced new set of virtual reality glasses and a collect...",
+      "summaryZh": "中文翻译：新的可穿戴设备正值智能眼镜的不确定性之际，智能眼镜因隐私问题而面临强烈反对Meta宣布推出一套先进的新型虚拟现实眼镜和一款Collect...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/23/meta-smart-vr-glasses"
+        }
+      ],
+      "accounts": [
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs": {
+    "实时讨论：Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘It’s about to go global’: American college football rocks into Wembley – a photo essay": {
+    "实时讨论：Premier League: 10 talking points from the weekend’s action": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,42 +632,42 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Pierre Sage took Lens to new heights. His replacement left after six games": {
+    "实时讨论：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Stop relying on AI chatbots for customer care, UK banks and energy firms told": {
+    "实时讨论：Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：‘It’s about to go global’: American college football rocks into Wembley – a photo essay": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：‘Have some humanity’: Diogo Jota chants at Rúben Neves a wake-up call for Saudi Arabia": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Great Britain exit Billie Jean King Cup after Czechia triumph in quarter-finals": {
+    "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs": {
+    "视觉热点：An Army of Paid Creators Is Carpeting the Web With Political Content": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "短视频趋势：Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘It’s about to go global’: American college football rocks into Wembley – a photo essay": {
+    "短视频趋势：Premier League: 10 talking points from the weekend’s action": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,32 +677,32 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Pierre Sage took Lens to new heights. His replacement left after six games": {
+    "短视频趋势：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Stop relying on AI chatbots for customer care, UK banks and energy firms told": {
+    "短视频趋势：Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs": {
+    "社区话题：Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：‘It’s about to go global’: American college football rocks into Wembley – a photo essay": {
+    "社区话题：Premier League: 10 talking points from the weekend’s action": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Stop relying on AI chatbots for customer care, UK banks and energy firms told": {
+    "社区话题：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta": {
+    "社区话题：Meta debuts no-camera smart glasses and virtual reality spectacles": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
