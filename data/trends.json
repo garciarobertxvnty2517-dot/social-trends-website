@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T06:11:10.955438+00:00",
-  "generatedAtBeijing": "2026-09-24 14:11",
+  "generatedAt": "2026-09-25T06:10:23.259743+00:00",
+  "generatedAtBeijing": "2026-09-25 14:10",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -107,52 +107,52 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
-      "titleZh": "实时讨论：Albanese说， OpenAI入侵了Medicare ，并在几个月后通过电子邮件发送到通用收件箱告知澳大利亚",
+      "title": "实时讨论：Sandro Mazzola obituary",
+      "titleZh": "实时讨论：桑德罗·马佐拉讣告",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
+      "heat": 76,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Prime minister says he told Sam Altman he was disappointed it had taken OpenAI ‘way too long’ to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI ha...",
-      "summaryZh": "中文翻译：总理说，他告诉萨姆·奥尔特曼（ Sam Altman ） ，他对OpenAI花了“太长时间”才披露违规行为感到失望。安东尼·阿尔巴尼斯（ Anthony Albanese ）说，由OpenAI开发的人工智能",
+      "summary": "公开来源显示该议题正在发酵：Outstanding footballer who won two European Cups with Internazionale and a World Cup runners-up medal with Italy The Italian footballer Sandro Mazzola, who has died aged 83, was a supremely ...",
+      "summaryZh": "中文翻译：曾在Internazionale赢得两次欧洲杯冠军，并在意大利获得世界杯亚军奖牌的杰出足球运动员意大利足球运动员桑德罗·马佐拉（ Sandro Mazzola ）去世，享年83岁，是一位出类拔萃的...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/24/sandro-mazzola-obituary"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals",
-      "titleZh": "实时讨论：克里斯蒂亚诺·罗纳尔多发誓要为葡萄牙效力，并瞄准1000个职业目标",
+      "title": "实时讨论：Vinícius Júnior et al land in unlikely outpost of Townsville as Brazil reboot begins | Joey Lynch",
+      "titleZh": "实时讨论：Vinícius Júnior等人在巴西重新启动时登陆汤斯维尔不太可能的前哨| Joey Lynch",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Player reflects on critics, says ‘they’ve tried to kill me’ Jorge Jesus launches passionate defence of 41-year-old Cristiano Ronaldo said he considered quitting international football after ...",
-      "summaryZh": "中文翻译：球员反思批评者，说“他们试图杀死我”豪尔赫·耶稣为41岁的克里斯蒂亚诺·罗纳尔多发起了热烈的防守，他说他考虑在...",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Seleção’s rebuild after their latest World Cup exit begins against the Socceroos in a place better known for rugby league than joga bonito It’s a safe bet that Vinícius Júnior, who plays...",
+      "summaryZh": "中文翻译：塞莱桑队在最近一次世界杯退出后，在一个以橄榄球联盟闻名的地方对阵足球队，而不是joga bonito这是一个安全的赌注， Vinícius Júnior将参加比赛...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+          "url": "https://www.theguardian.com/football/2026/sep/24/vinicius-junior-et-al-land-in-unlikely-outpost-of-townsville-as-brazil-reboot-begins"
         }
       ],
       "accounts": [
@@ -162,9 +162,9 @@
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@igoeLFC",
@@ -209,35 +209,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-      "titleZh": "视觉热点：“我创造了我的妈妈并与她交谈” ：人工智能幽灵和死亡正在改变我们哀悼的方式",
+      "title": "视觉热点：Vinícius Júnior et al land in unlikely outpost of Townsville as Brazil reboot begins | Joey Lynch",
+      "titleZh": "视觉热点：Vinícius Júnior等人在巴西重新启动时登陆汤斯维尔不太可能的前哨| Joey Lynch",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 89,
+      "heat": 88,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month....",
-      "summaryZh": "中文翻译：人工智能生成的悼念和机器人与死者“交谈”的兴起让专家们担心，上个月多莉·帕顿去世后，更多的人会孤立地哀悼。",
+      "summary": "公开来源显示该议题正在发酵：The Seleção’s rebuild after their latest World Cup exit begins against the Socceroos in a place better known for rugby league than joga bonito It’s a safe bet that Vinícius Júnior, who plays...",
+      "summaryZh": "中文翻译：塞莱桑队在最近一次世界杯退出后，在一个以橄榄球联盟闻名的地方对阵足球队，而不是joga bonito这是一个安全的赌注， Vinícius Júnior将参加比赛...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/24/vinicius-junior-et-al-land-in-unlikely-outpost-of-townsville-as-brazil-reboot-begins"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -277,35 +277,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-      "titleZh": "视觉热点：Lenore评论– incel对在线影响者的痴迷变成了对错位的数字时代心态的解剖",
+      "title": "视觉热点：Anger at Tuchel over World Cup exit exposes biggest obstacle to England success | Barney Ronay",
+      "titleZh": "视觉热点：对图切尔退出世界杯的愤怒暴露了英格兰成功的最大障碍| Barney Ronay",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren...",
-      "summaryZh": "中文翻译：数字时代的澳大利亚心理剧追踪了危险的不满男性粉丝的封闭狂热，但并没有进入他的脑海如果副社会现象是一种地狱，那么Max Wren......",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Manager is not responsible for underlying weaknesses but there are reasons for optimism in the buildup to Euro 2028 In the end, Steve, Brian, Gaz or similar, he’s just not done the job he wa...",
+      "summaryZh": "中文翻译：经理不对潜在的弱点负责，但有理由对2028年欧洲杯的积累持乐观态度。最后， Steve、Brian、Gaz或类似的人，他只是没有完成他所做的工作……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -413,69 +413,69 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
-      "titleZh": "短视频趋势：Albanese说， OpenAI入侵了Medicare ，并在几个月后通过电子邮件发送到通用收件箱告知澳大利亚",
+      "title": "短视频趋势：Sandro Mazzola obituary",
+      "titleZh": "短视频趋势：桑德罗·马佐拉讣告",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
+      "heat": 76,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Prime minister says he told Sam Altman he was disappointed it had taken OpenAI ‘way too long’ to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI ha...",
-      "summaryZh": "中文翻译：总理说，他告诉萨姆·奥尔特曼（ Sam Altman ） ，他对OpenAI花了“太长时间”才披露违规行为感到失望。安东尼·阿尔巴尼斯（ Anthony Albanese ）说，由OpenAI开发的人工智能",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals",
-      "titleZh": "短视频趋势：克里斯蒂亚诺·罗纳尔多发誓要为葡萄牙效力，并瞄准1000个职业目标",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 84,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Player reflects on critics, says ‘they’ve tried to kill me’ Jorge Jesus launches passionate defence of 41-year-old Cristiano Ronaldo said he considered quitting international football after ...",
-      "summaryZh": "中文翻译：球员反思批评者，说“他们试图杀死我”豪尔赫·耶稣为41岁的克里斯蒂亚诺·罗纳尔多发起了热烈的防守，他说他考虑在...",
+      "summary": "公开来源显示该议题正在发酵：Outstanding footballer who won two European Cups with Internazionale and a World Cup runners-up medal with Italy The Italian footballer Sandro Mazzola, who has died aged 83, was a supremely ...",
+      "summaryZh": "中文翻译：曾在Internazionale赢得两次欧洲杯冠军，并在意大利获得世界杯亚军奖牌的杰出足球运动员意大利足球运动员桑德罗·马佐拉（ Sandro Mazzola ）去世，享年83岁，是一位出类拔萃的...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+          "url": "https://www.theguardian.com/football/2026/sep/24/sandro-mazzola-obituary"
         }
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Vinícius Júnior et al land in unlikely outpost of Townsville as Brazil reboot begins | Joey Lynch",
+      "titleZh": "短视频趋势：Vinícius Júnior等人在巴西重新启动时登陆汤斯维尔不太可能的前哨| Joey Lynch",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Seleção’s rebuild after their latest World Cup exit begins against the Socceroos in a place better known for rugby league than joga bonito It’s a safe bet that Vinícius Júnior, who plays...",
+      "summaryZh": "中文翻译：塞莱桑队在最近一次世界杯退出后，在一个以橄榄球联盟闻名的地方对阵足球队，而不是joga bonito这是一个安全的赌注， Vinícius Júnior将参加比赛...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/24/vinicius-junior-et-al-land-in-unlikely-outpost-of-townsville-as-brazil-reboot-begins"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -549,69 +549,69 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
-      "titleZh": "社区话题：Albanese说， OpenAI入侵了Medicare ，并在几个月后通过电子邮件发送到通用收件箱告知澳大利亚",
+      "title": "社区话题：Infantino under pressure to include abandoned World Cup sell-off plan in external Fifa review",
+      "titleZh": "社区话题：Infantino面临将放弃的世界杯抛售计划纳入国际足联外部审查的压力",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
+      "heat": 84,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Prime minister says he told Sam Altman he was disappointed it had taken OpenAI ‘way too long’ to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI ha...",
-      "summaryZh": "中文翻译：总理说，他告诉萨姆·奥尔特曼（ Sam Altman ） ，他对OpenAI花了“太长时间”才披露违规行为感到失望。安东尼·阿尔巴尼斯（ Anthony Albanese ）说，由OpenAI开发的人工智能",
+      "summary": "公开来源显示该议题正在发酵：Council members also want Balogun affair included Fifa president says review letter been well received Fifa council members will demand that Gianni Infantino include the abandoned World Cup ...",
+      "summaryZh": "中文翻译：理事会成员还希望Balogun事件包括国际足联主席说，审查信受到好评国际足联理事会成员将要求Gianni Infantino包括废弃的世界杯...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/24/gianni-infantino-under-pressure-abandoned-world-cup-sell-off-fifa-review"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@exploraX_",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Meta debuts no-camera smart glasses and virtual reality spectacles",
-      "titleZh": "社区话题：Meta推出无摄像头智能眼镜和虚拟现实眼镜",
+      "title": "社区话题：Stop relying on AI chatbots for customer care, UK banks and energy firms told",
+      "titleZh": "社区话题：英国银行和能源公司表示，停止依靠人工智能聊天机器人进行客户服务",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
+      "heat": 77,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The new wearables come at a time of uncertainty for smart glasses, which are facing backlash over privacy concerns Meta announced an advanced new set of virtual reality glasses and a collect...",
-      "summaryZh": "中文翻译：新的可穿戴设备正值智能眼镜的不确定性之际，智能眼镜因隐私问题而面临强烈反对Meta宣布推出一套先进的新型虚拟现实眼镜和一款Collect...",
+      "summary": "公开来源显示该议题正在发酵：Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘right to talk to a human’ Stop relying on AI chatbots for customer care...",
+      "summaryZh": "中文翻译：Citizens Advice表示，能源、银行、电话和互联网等基本服务的提供商应该保证“与人交谈的权利” ，不要再依赖人工智能聊天机器人来提供客户服务……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/23/meta-smart-vr-glasses"
+          "url": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     }
@@ -632,12 +632,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox": {
+    "实时讨论：Sandro Mazzola obituary": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals": {
+    "实时讨论：Vinícius Júnior et al land in unlikely outpost of Townsville as Brazil reboot begins | Joey Lynch": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,7 +647,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn": {
+    "视觉热点：Vinícius Júnior et al land in unlikely outpost of Townsville as Brazil reboot begins | Joey Lynch": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,7 +657,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset": {
+    "视觉热点：Anger at Tuchel over World Cup exit exposes biggest obstacle to England success | Barney Ronay": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -677,12 +677,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox": {
+    "短视频趋势：Sandro Mazzola obituary": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals": {
+    "短视频趋势：Vinícius Júnior et al land in unlikely outpost of Townsville as Brazil reboot begins | Joey Lynch": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -697,12 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox": {
+    "社区话题：Infantino under pressure to include abandoned World Cup sell-off plan in external Fifa review": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Meta debuts no-camera smart glasses and virtual reality spectacles": {
+    "社区话题：Stop relying on AI chatbots for customer care, UK banks and energy firms told": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
