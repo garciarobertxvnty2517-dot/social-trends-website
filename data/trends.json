@@ -1,73 +1,39 @@
 {
-  "generatedAt": "2026-09-26T06:10:34.665403+00:00",
-  "generatedAtBeijing": "2026-09-26 14:10",
+  "generatedAt": "2026-09-27T06:37:57.654172+00:00",
+  "generatedAtBeijing": "2026-09-27 14:37",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：David Beckham takes £39m dividend as World Cup deals drive record profits",
-      "titleZh": "实时讨论：随着世界杯交易推动创纪录的利润，大卫·贝克汉姆获得了3900万£的股息",
+      "title": "实时讨论：‘Mum, where did my Robux go?’ The Roblox scam targeting children",
+      "titleZh": "实时讨论：（妈妈，我的Robux去哪儿了？ “Roblox针对儿童的骗局",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former footballer appeared in about 12 ad campaigns this summer, pushing holding company’s revenue to $110.5m David Beckham has taken a $51m (£39m) dividend from his business empire after a ...",
-      "summaryZh": "中文翻译：今年夏天，前足球运动员出现在大约12个广告活动中，将控股公司的收入推高至1.150亿美元，大卫·贝克汉姆在一次...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Manchester City guilty verdict ‘a historic decision’, says whistleblower Rui Pinto",
-      "titleZh": "实时讨论：举报人Rui Pinto说，曼城有罪判决是“一个历史性的决定”",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Football Leaks founder’s information triggered probes Has faced legal issues and lives under police protection Years after his leaks shook the foundations of European football , Rui Pinto is...",
-      "summaryZh": "中文翻译：Football Leaks创始人的信息触发调查在他的泄密事件震撼了欧洲足球的基础多年后， Rui Pinto面临着法律问题，并在警方的保护下生活……",
+      "summary": "公开来源显示该议题正在发酵：Criminals are trying to glean login details to harvest players’ in-game currency and personal data Your 10-year-old son has started playing Roblox, when he realises all of his in-game curren...",
+      "summaryZh": "中文翻译：犯罪分子正试图收集登录详细信息，以收集玩家的游戏内货币和个人数据您10岁的儿子已经开始玩Roblox ，当时他意识到他所有的游戏内货币...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-guilty-verdict-a-historic-decision-says-whistleblower-rui-pinto"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -76,7 +42,7 @@
       "title": "实时讨论：‘Have some humanity’: Diogo Jota chants at Rúben Neves a wake-up call for Saudi Arabia",
       "titleZh": "实时讨论：“有一些人性” ： Diogo Jota在Rúben Neves为沙特阿拉伯敲响了警钟",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 88,
+      "heat": 90,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With added coverage comes added scrutiny and there is a feeling that the league was too lenient when punishing chants about the late Portugal forward The good thing about Cristiano Ronaldo p...",
       "summaryZh": "中文翻译：随着报道的增加，也增加了审查，有一种感觉，联盟在惩罚关于已故葡萄牙前锋的颂歌时过于宽容。克里斯蒂亚诺·罗纳尔多的好处在于......",
@@ -107,25 +73,59 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
-      "titleZh": "实时讨论：TikTok向阿拉巴马州支付1亿美元，以解决社交媒体成瘾索赔",
+      "title": "实时讨论：England 2-3 Spain: Nations League football – as it happened",
+      "titleZh": "实时讨论：英格兰2-3西班牙：国家联盟足球–因为它发生了",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The settlement, which also includes changes to the platform’s features, is the latest in a string of agreements by companies to address child addiction.",
-      "summaryZh": "中文翻译：该和解协议还包括对平台功能的更改，是公司为解决儿童成瘾问题而达成的一系列协议中的最新一项。",
+      "summary": "公开来源显示该议题正在发酵：England were 2-1 up when Harry Kane’s penalty hit the bar; the world champions made them pay England are about to face the hardest challenge in international football , maybe at any level of...",
+      "summaryZh": "中文翻译：当哈里·凯恩（ Harry Kane ）的点球命中酒吧时，英格兰队以2比1领先；世界冠军让他们支付英格兰队即将面对国际足球中最艰难的挑战，也许在任何级别......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：I was focused on becoming the first Aboriginal tennis champion. Then one remark changed something in me",
+      "titleZh": "实时讨论：我专注于成为第一个土著网球冠军。然后一句话改变了我的一些东西",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：As a teenager in Sydney, the would-be Wimbledon champion was working towards a singular goal when an act of racism shattered her naivety It was a regular match. Until it wasn’t. In 1969, I w...",
+      "summaryZh": "中文翻译：作为悉尼的青少年，这位潜在的温布尔登冠军正朝着一个单一的目标努力，当种族主义行为粉碎了她的天真时，这是一场常规比赛。直到它不是。1969年，我……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/books/2026/sep/27/evonne-goolagong-cawley-aboriginal-tennis-champion-book-racism-ntwnfb"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@exploraX_",
@@ -133,26 +133,26 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta",
-      "titleZh": "实时讨论：Google、Anthropic、OpenAI和Meta最近的人工智能黑客攻击须知",
+      "title": "实时讨论：George Russell holds off Max Verstappen to win eventful F1 Azerbaijan GP",
+      "titleZh": "实时讨论：乔治·拉塞尔（ George Russell ）推迟了Max Verstappen赢得多事的F1阿塞拜疆大奖赛",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 73,
+      "heat": 83,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.",
-      "summaryZh": "中文翻译：OpenAI、谷歌和其他公司最近披露了他们的人工智能模型的违规行为，这加剧了人们对该技术先进能力的担忧。",
+      "summary": "公开来源显示该议题正在发酵：Briton leads from pole to claim third win of the season Russell closes gap on leader Kimi Antonelli, who rose from 16th to fifth Jaw set resolute on the podium, George Russell gave notice he...",
+      "summaryZh": "中文翻译：英国人从杆位领先，声称本赛季的第三场胜利拉塞尔缩小了与领袖基米·安东内利（ Kimi Antonelli ）的差距，基米·安东内利（ Kimi Antonelli ）从第16位上升到第5位，乔治·拉塞尔（ George Russell",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/26/george-russell-holds-off-max-verstappen-to-win-crash-filled-f1-azerbaijan-gp"
         }
       ],
       "accounts": [
@@ -209,10 +209,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：I was focused on becoming the first Aboriginal tennis champion. Then one remark changed something in me",
+      "titleZh": "视觉热点：我专注于成为第一个土著网球冠军。然后一句话改变了我的一些东西",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：As a teenager in Sydney, the would-be Wimbledon champion was working towards a singular goal when an act of racism shattered her naivety It was a regular match. Until it wasn’t. In 1969, I w...",
+      "summaryZh": "中文翻译：作为悉尼的青少年，这位潜在的温布尔登冠军正朝着一个单一的目标努力，当种族主义行为粉碎了她的天真时，这是一场常规比赛。直到它不是。1969年，我……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/books/2026/sep/27/evonne-goolagong-cawley-aboriginal-tennis-champion-book-racism-ntwnfb"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：An Army of Paid Creators Is Carpeting the Web With Political Content",
       "titleZh": "视觉热点：一群付费创作者正在用政治内容铺设网络地毯",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 90,
+      "heat": 88,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public c...",
       "summaryZh": "中文翻译：与拥有大量粉丝的名人影响者不同，这些创作者制作了大量视频，成本仅为传统在线活动的一小部分，并在此过程中将公众...",
@@ -225,146 +259,39 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Anger at Tuchel over World Cup exit exposes biggest obstacle to England success | Barney Ronay",
-      "titleZh": "视觉热点：对图切尔退出世界杯的愤怒暴露了英格兰成功的最大障碍| Barney Ronay",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Manager is not responsible for underlying weaknesses but there are reasons for optimism in the buildup to Euro 2028 In the end, Steve, Brian, Gaz or similar, he’s just not done the job he wa...",
-      "summaryZh": "中文翻译：经理不对潜在的弱点负责，但有理由对2028年欧洲杯的积累持乐观态度。最后， Steve、Brian、Gaz或类似的人，他只是没有完成他所做的工作……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-      "titleZh": "视觉热点：“我创造了我的妈妈并与她交谈” ：人工智能幽灵和死亡正在改变我们哀悼的方式",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month....",
-      "summaryZh": "中文翻译：人工智能生成的悼念和机器人与死者“交谈”的兴起让专家们担心，上个月多莉·帕顿去世后，更多的人会孤立地哀悼。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：David Beckham takes £39m dividend as World Cup deals drive record profits",
-      "titleZh": "短视频趋势：随着世界杯交易推动创纪录的利润，大卫·贝克汉姆获得了3900万£的股息",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former footballer appeared in about 12 ad campaigns this summer, pushing holding company’s revenue to $110.5m David Beckham has taken a $51m (£39m) dividend from his business empire after a ...",
-      "summaryZh": "中文翻译：今年夏天，前足球运动员出现在大约12个广告活动中，将控股公司的收入推高至1.150亿美元，大卫·贝克汉姆在一次...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：Manchester City guilty verdict ‘a historic decision’, says whistleblower Rui Pinto",
-      "titleZh": "短视频趋势：举报人Rui Pinto说，曼城有罪判决是“一个历史性的决定”",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Football Leaks founder’s information triggered probes Has faced legal issues and lives under police protection Years after his leaks shook the foundations of European football , Rui Pinto is...",
-      "summaryZh": "中文翻译：Football Leaks创始人的信息触发调查在他的泄密事件震撼了欧洲足球的基础多年后， Rui Pinto面临着法律问题，并在警方的保护下生活……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "platform": "instagram",
+      "title": "视觉热点：‘Refusing to meet Trump was an easy no’: Colin Kaepernick on being ‘blackballed’ for taking the knee, racism, and why he’s still ready to play",
+      "titleZh": "视觉热点：“拒绝与特朗普见面是一件容易的事” ：科林·卡佩尼克（ Colin Kaepernick ）因膝盖受伤、种族主义以及为什么他仍然准备好参加比赛而被“黑名单”",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Ten years ago, the San Francisco 49ers quarterback refused to stand for the national anthem. He was accused of disrespecting the flag, the game, and America. In a rare interview, he talks ab...",
+      "summaryZh": "中文翻译：十年前，旧金山49人队的四分卫拒绝代表国歌。他被指控不尊重国旗、比赛和美国。在一次罕见的采访中，他谈到了……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-guilty-verdict-a-historic-decision-says-whistleblower-rui-pinto"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/26/colin-kaepernick-interview-nfl-taking-the-knee"
         }
       ],
       "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
@@ -374,6 +301,45 @@
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘Mum, where did my Robux go?’ The Roblox scam targeting children",
+      "titleZh": "短视频趋势：（妈妈，我的Robux去哪儿了？ “Roblox针对儿童的骗局",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Criminals are trying to glean login details to harvest players’ in-game currency and personal data Your 10-year-old son has started playing Roblox, when he realises all of his in-game curren...",
+      "summaryZh": "中文翻译：犯罪分子正试图收集登录详细信息，以收集玩家的游戏内货币和个人数据您10岁的儿子已经开始玩Roblox ，当时他意识到他所有的游戏内货币...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -382,7 +348,7 @@
       "title": "短视频趋势：‘Have some humanity’: Diogo Jota chants at Rúben Neves a wake-up call for Saudi Arabia",
       "titleZh": "短视频趋势：“有一些人性” ： Diogo Jota在Rúben Neves为沙特阿拉伯敲响了警钟",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 77,
+      "heat": 79,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：With added coverage comes added scrutiny and there is a feeling that the league was too lenient when punishing chants about the late Portugal forward The good thing about Cristiano Ronaldo p...",
       "summaryZh": "中文翻译：随着报道的增加，也增加了审查，有一种感觉，联盟在惩罚关于已故葡萄牙前锋的颂歌时过于宽容。克里斯蒂亚诺·罗纳尔多的好处在于......",
@@ -395,6 +361,11 @@
       ],
       "accounts": [
         {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
@@ -403,35 +374,64 @@
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
-      "titleZh": "短视频趋势：TikTok向阿拉巴马州支付1亿美元，以解决社交媒体成瘾索赔",
+      "title": "短视频趋势：England 2-3 Spain: Nations League football – as it happened",
+      "titleZh": "短视频趋势：英格兰2-3西班牙：国家联盟足球–因为它发生了",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
+      "heat": 87,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The settlement, which also includes changes to the platform’s features, is the latest in a string of agreements by companies to address child addiction.",
-      "summaryZh": "中文翻译：该和解协议还包括对平台功能的更改，是公司为解决儿童成瘾问题而达成的一系列协议中的最新一项。",
+      "summary": "公开来源显示该议题正在发酵：England were 2-1 up when Harry Kane’s penalty hit the bar; the world champions made them pay England are about to face the hardest challenge in international football , maybe at any level of...",
+      "summaryZh": "中文翻译：当哈里·凯恩（ Harry Kane ）的点球命中酒吧时，英格兰队以2比1领先；世界冠军让他们支付英格兰队即将面对国际足球中最艰难的挑战，也许在任何级别......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：I was focused on becoming the first Aboriginal tennis champion. Then one remark changed something in me",
+      "titleZh": "短视频趋势：我专注于成为第一个土著网球冠军。然后一句话改变了我的一些东西",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 70,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：As a teenager in Sydney, the would-be Wimbledon champion was working towards a singular goal when an act of racism shattered her naivety It was a regular match. Until it wasn’t. In 1969, I w...",
+      "summaryZh": "中文翻译：作为悉尼的青少年，这位潜在的温布尔登冠军正朝着一个单一的目标努力，当种族主义行为粉碎了她的天真时，这是一场常规比赛。直到它不是。1969年，我……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/books/2026/sep/27/evonne-goolagong-cawley-aboriginal-tennis-champion-book-racism-ntwnfb"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Bennettxai",
@@ -439,26 +439,60 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta",
-      "titleZh": "短视频趋势：Google、Anthropic、OpenAI和Meta最近的人工智能黑客攻击须知",
+      "title": "短视频趋势：George Russell holds off Max Verstappen to win eventful F1 Azerbaijan GP",
+      "titleZh": "短视频趋势：乔治·拉塞尔（ George Russell ）推迟了Max Verstappen赢得多事的F1阿塞拜疆大奖赛",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
+      "heat": 77,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.",
-      "summaryZh": "中文翻译：OpenAI、谷歌和其他公司最近披露了他们的人工智能模型的违规行为，这加剧了人们对该技术先进能力的担忧。",
+      "summary": "公开来源显示该议题正在发酵：Briton leads from pole to claim third win of the season Russell closes gap on leader Kimi Antonelli, who rose from 16th to fifth Jaw set resolute on the podium, George Russell gave notice he...",
+      "summaryZh": "中文翻译：英国人从杆位领先，声称本赛季的第三场胜利拉塞尔缩小了与领袖基米·安东内利（ Kimi Antonelli ）的差距，基米·安东内利（ Kimi Antonelli ）从第16位上升到第5位，乔治·拉塞尔（ George Russell",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/sep/26/george-russell-holds-off-max-verstappen-to-win-crash-filled-f1-azerbaijan-gp"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：I was focused on becoming the first Aboriginal tennis champion. Then one remark changed something in me",
+      "titleZh": "社区话题：我专注于成为第一个土著网球冠军。然后一句话改变了我的一些东西",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 91,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：As a teenager in Sydney, the would-be Wimbledon champion was working towards a singular goal when an act of racism shattered her naivety It was a regular match. Until it wasn’t. In 1969, I w...",
+      "summaryZh": "中文翻译：作为悉尼的青少年，这位潜在的温布尔登冠军正朝着一个单一的目标努力，当种族主义行为粉碎了她的天真时，这是一场常规比赛。直到它不是。1969年，我……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/books/2026/sep/27/evonne-goolagong-cawley-aboriginal-tennis-champion-book-racism-ntwnfb"
         }
       ],
       "accounts": [
@@ -468,48 +502,14 @@
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：David Beckham takes £39m dividend as World Cup deals drive record profits",
-      "titleZh": "社区话题：随着世界杯交易推动创纪录的利润，大卫·贝克汉姆获得了3900万£的股息",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 93,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former footballer appeared in about 12 ad campaigns this summer, pushing holding company’s revenue to $110.5m David Beckham has taken a $51m (£39m) dividend from his business empire after a ...",
-      "summaryZh": "中文翻译：今年夏天，前足球运动员出现在大约12个广告活动中，将控股公司的收入推高至1.150亿美元，大卫·贝克汉姆在一次...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -617,12 +617,7 @@
     }
   ],
   "audienceMap": {
-    "实时讨论：David Beckham takes £39m dividend as World Cup deals drive record profits": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Manchester City guilty verdict ‘a historic decision’, says whistleblower Rui Pinto": {
+    "实时讨论：‘Mum, where did my Robux go?’ The Roblox scam targeting children": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,12 +627,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims": {
+    "实时讨论：England 2-3 Spain: Nations League football – as it happened": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta": {
+    "实时讨论：I was focused on becoming the first Aboriginal tennis champion. Then one remark changed something in me": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：George Russell holds off Max Verstappen to win eventful F1 Azerbaijan GP": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,27 +647,22 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
+    "视觉热点：I was focused on becoming the first Aboriginal tennis champion. Then one remark changed something in me": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "视觉热点：An Army of Paid Creators Is Carpeting the Web With Political Content": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Anger at Tuchel over World Cup exit exposes biggest obstacle to England success | Barney Ronay": {
+    "视觉热点：‘Refusing to meet Trump was an easy no’: Colin Kaepernick on being ‘blackballed’ for taking the knee, racism, and why he’s still ready to play": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "短视频趋势：David Beckham takes £39m dividend as World Cup deals drive record profits": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Manchester City guilty verdict ‘a historic decision’, says whistleblower Rui Pinto": {
+    "短视频趋势：‘Mum, where did my Robux go?’ The Roblox scam targeting children": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,17 +672,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims": {
+    "短视频趋势：England 2-3 Spain: Nations League football – as it happened": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta": {
+    "短视频趋势：I was focused on becoming the first Aboriginal tennis champion. Then one remark changed something in me": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：David Beckham takes £39m dividend as World Cup deals drive record profits": {
+    "短视频趋势：George Russell holds off Max Verstappen to win eventful F1 Azerbaijan GP": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "社区话题：I was focused on becoming the first Aboriginal tennis champion. Then one remark changed something in me": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
