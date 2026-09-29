@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-09-28T06:55:35.405860+00:00",
-  "generatedAtBeijing": "2026-09-28 14:55",
+  "generatedAt": "2026-09-29T06:55:42.496246+00:00",
+  "generatedAtBeijing": "2026-09-29 14:55",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：In playful moments, the USMNT’s new youth movement is already paying off",
-      "titleZh": "实时讨论：在嬉戏的时刻， USMNT的新青年运动已经取得了成效",
+      "title": "实时讨论：Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house",
+      "titleZh": "实时讨论：Meta的人工智能代理Muse擅自提供用户的家庭住址，将买家送到他家",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 88,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：After a crushing World Cup exit, 11 debutants and two teenage scorers are giving the program renewed verve Subscribe to our free newsletter for US soccer fans Follow Guardian Soccer on Insta...",
-      "summaryZh": "中文翻译：在世界杯破碎退出后， 11名首次亮相的球员和两名青少年得分手正在为该计划提供更新的VERVE订阅我们针对美国足球迷的免费通讯在Insta上关注Guardian Soccer...",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The new AI agent, Muse, was released last week and has been downloaded by 3 million users When Usman asked if a keyboard for sale on Facebook Marketplace was still available on Saturday, he ...",
+      "summaryZh": "中文翻译：新的人工智能代理Muse于上周发布，已被300万用户下载。当Usman询问周六Facebook Marketplace上是否仍有待出售的键盘时，他...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -73,52 +73,86 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta",
-      "titleZh": "实时讨论：Google、Anthropic、OpenAI和Meta最近的人工智能黑客攻击须知",
+      "title": "实时讨论：The Nations League is a welcome example of soccer done well",
+      "titleZh": "实时讨论：国家联盟是足球表现出色的一个受欢迎的例子",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
+      "heat": 76,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.",
-      "summaryZh": "中文翻译：OpenAI、谷歌和其他公司最近披露了他们的人工智能模型的违规行为，这加剧了人们对该技术先进能力的担忧。",
+      "summary": "公开来源显示该议题正在发酵：The tournament was treated with skepticism when it was introduced in 2018, but it shows that sometimes administrators get things right Sign up for our free newsletter here England’s first ga...",
+      "summaryZh": "中文翻译：这场比赛在2018年推出时受到了怀疑，但它表明，有时管理员会把事情做对。在这里注册我们的免费通讯英格兰第一个ga...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
-      "titleZh": "实时讨论：有人会推翻Infantino吗？世界杯抛售失败后，国际足联主席如何努力坚持下去",
+      "title": "实时讨论：Data shows England made inroads against Spain but they must be more clinical | Andrew Beasley",
+      "titleZh": "实时讨论：数据显示英格兰队对阵西班牙队，但他们必须更加临床|安德鲁·比斯利",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Fifa president continues to lobby for re-election despite no other candidates coming forward to challenge him For Gianni Infantino there is no international break. The Fifa president is wide...",
-      "summaryZh": "中文翻译：国际足联主席继续游说连任，尽管没有其他候选人站出来挑战他。对于Gianni Infantino来说，没有国际休息时间。国际足联主席的范围很广……",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thomas Tuchel’s side had 36 touches in the Spain penalty area at Wembley but were given a lesson in taking chances England dominated Spain to an extent very few teams have in recent years. S...",
+      "summaryZh": "中文翻译：托马斯·图切尔（ Thomas Tuchel ）的球队在温布利（ Wembley ）的西班牙禁区进行了36次接触，但在近年来很少有球队能够抓住英格兰主宰西班牙的机会。S...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle"
+          "url": "https://www.theguardian.com/football/2026/sep/28/england-spain-penalty-box-touches-nations-league"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：‘Football with a smile’: Pocognoli wants happy Gilmour to tee up Scotland success",
+      "titleZh": "实时讨论：“微笑足球” ： Pocognoli希望快乐的Gilmour为苏格兰的成功锦上添花",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：New Scotland manager says midfielder ‘has to take risks’ Players warned they need consistent game time for clubs Sébastien Pocognoli hopes a “smiling” Billy Gilmour will be central to Scotla...",
+      "summaryZh": "中文翻译：新任苏格兰主教练表示，中场球员“必须承担风险” ，球员们警告说，他们需要稳定的比赛时间，塞巴斯蒂安·波科尼奥利希望“微笑”比利·吉尔摩将成为苏格兰的核心...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/28/billy-gilmour-sebastien-pocognoli-scotland-nations-league"
         }
       ],
       "accounts": [
@@ -128,9 +162,9 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@TacticsJournal",
@@ -140,79 +174,11 @@
       ]
     },
     {
-      "platform": "x",
-      "title": "实时讨论：‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
-      "titleZh": "实时讨论：“我们每天都想念她” ：奥利维亚·库萨克（ Olivia Cusack ）谈论她已故的足球运动员妹妹马",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on her mind every single d...",
-      "summaryZh": "中文翻译：谢菲尔德联队球员奥利维亚·库萨克（ Olivia Cusack ）去世三年后，家人决心确保她的“遗产”永垂不朽。她说，她的妹妹，已故的麦迪·库萨克（ Maddy Cusack ） ，每天都在想……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：In playful moments, the USMNT’s new youth movement is already paying off",
-      "titleZh": "视觉热点：在嬉戏的时刻， USMNT的新青年运动已经取得了成效",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 92,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：After a crushing World Cup exit, 11 debutants and two teenage scorers are giving the program renewed verve Subscribe to our free newsletter for US soccer fans Follow Guardian Soccer on Insta...",
-      "summaryZh": "中文翻译：在世界杯破碎退出后， 11名首次亮相的球员和两名青少年得分手正在为该计划提供更新的VERVE订阅我们针对美国足球迷的免费通讯在Insta上关注Guardian Soccer...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
       "platform": "instagram",
       "title": "视觉热点：An Army of Paid Creators Is Carpeting the Web With Political Content",
       "titleZh": "视觉热点：一群付费创作者正在用政治内容铺设网络地毯",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 90,
+      "heat": 92,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public c...",
       "summaryZh": "中文翻译：与拥有大量粉丝的名人影响者不同，这些创作者制作了大量视频，成本仅为传统在线活动的一小部分，并在此过程中将公众...",
@@ -225,78 +191,107 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化和增长观点"
         },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-      "titleZh": "视觉热点：“我创造了我的妈妈并与她交谈” ：人工智能幽灵和死亡正在改变我们哀悼的方式",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month....",
-      "summaryZh": "中文翻译：人工智能生成的悼念和机器人与死者“交谈”的兴起让专家们担心，上个月多莉·帕顿去世后，更多的人会孤立地哀悼。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-      "titleZh": "视觉热点：Lenore评论– incel对在线影响者的痴迷变成了对错位的数字时代心态的解剖",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren...",
-      "summaryZh": "中文翻译：数字时代的澳大利亚心理剧追踪了危险的不满男性粉丝的封闭狂热，但并没有进入他的脑海如果副社会现象是一种地狱，那么Max Wren......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset"
-        }
-      ],
-      "accounts": [
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Mark Zuckerberg Is Trying Something On",
+      "titleZh": "视觉热点：马克·扎克伯格（ Mark Zuckerberg ）正在尝试一些",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 90,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Meta’s C.E.O. talks for the first time about his style evolution.",
+      "summaryZh": "中文翻译：Meta的首席执行官首次谈到了他的风格演变。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/25/style/mark-zuckerberg-fashion-glasses.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：‘Charming and disarming’ … how Meta’s technology-packed Muse harnesses the power of cuteness",
+      "titleZh": "视觉热点：“迷人和解除武装” …… Meta技术丰富的Muse如何利用可爱的力量",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The tech giant has launched a cute ‘little guy’ that can answer emails, book travel or do your weekly food shop After the recent backlash against Meta’s so-called “pervert” smart glasses, th...",
+      "summaryZh": "中文翻译：这家科技巨头推出了一个可爱的“小家伙” ，可以回复电子邮件、预订旅行或每周开一家食品店。在最近针对Meta所谓的“变态”智能眼镜的强烈反对之后，",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/fashion/2026/sep/26/charming-and-disarming-how-metas-technology-packed-muse-harnesses-the-power-of-cuteness"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
+      "titleZh": "视觉热点：研究表明，无人机可以加快心脏骤停患者除颤器的速度",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 85,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：New research suggests the technology could be used to increase out-of-hospital access to life-saving devices Drones could help cut the time it takes to get a defibrillator to people experien...",
+      "summaryZh": "中文翻译：新的研究表明，这项技术可以用于增加医院外获得救生设备的机会。无人机可以帮助缩短将除颤器送到体验者的时间。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests"
+        }
+      ],
+      "accounts": [
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
@@ -306,40 +301,45 @@
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：In playful moments, the USMNT’s new youth movement is already paying off",
-      "titleZh": "短视频趋势：在嬉戏的时刻， USMNT的新青年运动已经取得了成效",
+      "title": "短视频趋势：Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house",
+      "titleZh": "短视频趋势：Meta的人工智能代理Muse擅自提供用户的家庭住址，将买家送到他家",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 88,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：After a crushing World Cup exit, 11 debutants and two teenage scorers are giving the program renewed verve Subscribe to our free newsletter for US soccer fans Follow Guardian Soccer on Insta...",
-      "summaryZh": "中文翻译：在世界杯破碎退出后， 11名首次亮相的球员和两名青少年得分手正在为该计划提供更新的VERVE订阅我们针对美国足球迷的免费通讯在Insta上关注Guardian Soccer...",
+      "heat": 76,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The new AI agent, Muse, was released last week and has been downloaded by 3 million users When Usman asked if a keyboard for sale on Facebook Marketplace was still available on Saturday, he ...",
+      "summaryZh": "中文翻译：新的人工智能代理Muse于上周发布，已被300万用户下载。当Usman询问周六Facebook Marketplace上是否仍有待出售的键盘时，他...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -379,55 +379,26 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta",
-      "titleZh": "短视频趋势：Google、Anthropic、OpenAI和Meta最近的人工智能黑客攻击须知",
+      "title": "短视频趋势：The Nations League is a welcome example of soccer done well",
+      "titleZh": "短视频趋势：国家联盟是足球表现出色的一个受欢迎的例子",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
+      "heat": 88,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.",
-      "summaryZh": "中文翻译：OpenAI、谷歌和其他公司最近披露了他们的人工智能模型的违规行为，这加剧了人们对该技术先进能力的担忧。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
-      "titleZh": "短视频趋势：有人会推翻Infantino吗？世界杯抛售失败后，国际足联主席如何努力坚持下去",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Fifa president continues to lobby for re-election despite no other candidates coming forward to challenge him For Gianni Infantino there is no international break. The Fifa president is wide...",
-      "summaryZh": "中文翻译：国际足联主席继续游说连任，尽管没有其他候选人站出来挑战他。对于Gianni Infantino来说，没有国际休息时间。国际足联主席的范围很广……",
+      "summary": "公开来源显示该议题正在发酵：The tournament was treated with skepticism when it was introduced in 2018, but it shows that sometimes administrators get things right Sign up for our free newsletter here England’s first ga...",
+      "summaryZh": "中文翻译：这场比赛在2018年推出时受到了怀疑，但它表明，有时管理员会把事情做对。在这里注册我们的免费通讯英格兰第一个ga...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle"
+          "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain"
         }
       ],
       "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
         {
           "name": "@elliottvenis",
           "followers": "约5万",
@@ -437,36 +408,60 @@
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
-      "titleZh": "短视频趋势：“我们每天都想念她” ：奥利维亚·库萨克（ Olivia Cusack ）谈论她已故的足球运动员妹妹马",
+      "title": "短视频趋势：Data shows England made inroads against Spain but they must be more clinical | Andrew Beasley",
+      "titleZh": "短视频趋势：数据显示英格兰队对阵西班牙队，但他们必须更加临床|安德鲁·比斯利",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on her mind every single d...",
-      "summaryZh": "中文翻译：谢菲尔德联队球员奥利维亚·库萨克（ Olivia Cusack ）去世三年后，家人决心确保她的“遗产”永垂不朽。她说，她的妹妹，已故的麦迪·库萨克（ Maddy Cusack ） ，每天都在想……",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thomas Tuchel’s side had 36 touches in the Spain penalty area at Wembley but were given a lesson in taking chances England dominated Spain to an extent very few teams have in recent years. S...",
+      "summaryZh": "中文翻译：托马斯·图切尔（ Thomas Tuchel ）的球队在温布利（ Wembley ）的西班牙禁区进行了36次接触，但在近年来很少有球队能够抓住英格兰主宰西班牙的机会。S...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united"
+          "url": "https://www.theguardian.com/football/2026/sep/28/england-spain-penalty-box-touches-nations-league"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘Football with a smile’: Pocognoli wants happy Gilmour to tee up Scotland success",
+      "titleZh": "短视频趋势：“微笑足球” ： Pocognoli希望快乐的Gilmour为苏格兰的成功锦上添花",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：New Scotland manager says midfielder ‘has to take risks’ Players warned they need consistent game time for clubs Sébastien Pocognoli hopes a “smiling” Billy Gilmour will be central to Scotla...",
+      "summaryZh": "中文翻译：新任苏格兰主教练表示，中场球员“必须承担风险” ，球员们警告说，他们需要稳定的比赛时间，塞巴斯蒂安·波科尼奥利希望“微笑”比利·吉尔摩将成为苏格兰的核心...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/28/billy-gilmour-sebastien-pocognoli-scotland-nations-league"
+        }
+      ],
+      "accounts": [
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
@@ -476,40 +471,45 @@
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：In playful moments, the USMNT’s new youth movement is already paying off",
-      "titleZh": "社区话题：在嬉戏的时刻， USMNT的新青年运动已经取得了成效",
+      "title": "社区话题：Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house",
+      "titleZh": "社区话题：Meta的人工智能代理Muse擅自提供用户的家庭住址，将买家送到他家",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：After a crushing World Cup exit, 11 debutants and two teenage scorers are giving the program renewed verve Subscribe to our free newsletter for US soccer fans Follow Guardian Soccer on Insta...",
-      "summaryZh": "中文翻译：在世界杯破碎退出后， 11名首次亮相的球员和两名青少年得分手正在为该计划提供更新的VERVE订阅我们针对美国足球迷的免费通讯在Insta上关注Guardian Soccer...",
+      "heat": 82,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The new AI agent, Muse, was released last week and has been downloaded by 3 million users When Usman asked if a keyboard for sale on Facebook Marketplace was still available on Saturday, he ...",
+      "summaryZh": "中文翻译：新的人工智能代理Muse于上周发布，已被300万用户下载。当Usman询问周六Facebook Marketplace上是否仍有待出售的键盘时，他...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -617,7 +617,7 @@
     }
   ],
   "audienceMap": {
-    "实时讨论：In playful moments, the USMNT’s new youth movement is already paying off": {
+    "实时讨论：Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -627,42 +627,42 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta": {
+    "实时讨论：The Nations League is a welcome example of soccer done well": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle": {
+    "实时讨论：Data shows England made inroads against Spain but they must be more clinical | Andrew Beasley": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy": {
+    "实时讨论：‘Football with a smile’: Pocognoli wants happy Gilmour to tee up Scotland success": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：In playful moments, the USMNT’s new youth movement is already paying off": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：An Army of Paid Creators Is Carpeting the Web With Political Content": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn": {
+    "视觉热点：Mark Zuckerberg Is Trying Something On": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset": {
+    "视觉热点：‘Charming and disarming’ … how Meta’s technology-packed Muse harnesses the power of cuteness": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：In playful moments, the USMNT’s new youth movement is already paying off": {
+    "视觉热点：Drones could speed up getting defibrillators to people having cardiac arrests, study suggests": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "短视频趋势：Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -672,22 +672,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta": {
+    "短视频趋势：The Nations League is a welcome example of soccer done well": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle": {
+    "短视频趋势：Data shows England made inroads against Spain but they must be more clinical | Andrew Beasley": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy": {
+    "短视频趋势：‘Football with a smile’: Pocognoli wants happy Gilmour to tee up Scotland success": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：In playful moments, the USMNT’s new youth movement is already paying off": {
+    "社区话题：Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
