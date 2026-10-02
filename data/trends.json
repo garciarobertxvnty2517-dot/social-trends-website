@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-10-01T07:11:42.137945+00:00",
-  "generatedAtBeijing": "2026-10-01 15:11",
+  "generatedAt": "2026-10-02T07:01:06.681512+00:00",
+  "generatedAtBeijing": "2026-10-02 15:01",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Daily | The big story is of course … Scotland fans pining for another home run",
-      "titleZh": "实时讨论：《足球日报》|最重要的事情当然是……苏格兰球迷渴望再次本垒打",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 88,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! In the four matches they’ve sat through since their unconvincing Geopolitics World Cup win over Haiti, it must rankle among diehard conscr...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！自从地缘政治世界杯战胜海地以来，他们经历了四场比赛，这场比赛一定在顽固的良心中引起了轩然大波……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/30/football-daily-newsletter-the-big-story-is-of-course-scotland"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
       "titleZh": "实时讨论：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
       "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
@@ -55,31 +21,31 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Craig Bellamy urges Wales improvement but wary of Norway’s threat",
-      "titleZh": "实时讨论：克雷格·贝拉米（ Craig Bellamy ）敦促威尔士改善，但要警惕挪威的威",
+      "title": "实时讨论：Wales wary of surging Norway as City factor played down for Haaland",
+      "titleZh": "实时讨论：威尔士对挪威的飙升持谨慎态度，因为城市因素对哈兰德的影响不大",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 90,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Wales ‘unrecognisable’ in defeat against Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appearing...",
-      "summaryZh": "中文翻译：在曼城判决克雷格·贝拉米（ Craig Bellamy ）表示威尔士在出场后必须在周四对阵挪威的比赛中取得进步后，威尔士在对阵丹麦哈兰德的失利中“无法辨认” “完全相同”...",
+      "summary": "公开来源显示该议题正在发酵：Bellamy: we were unrecognisable in defeat by Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appea...",
+      "summaryZh": "中文翻译：贝拉米：在曼城判决克雷格·贝拉米（ Craig Bellamy ）表示威尔士必须在周四对挪威的比赛中取得进步之后，我们在被丹麦哈兰德“完全相同”的失利中无法辨认。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -89,19 +55,19 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -110,7 +76,7 @@
       "title": "实时讨论：The Nations League is a welcome example of soccer done well",
       "titleZh": "实时讨论：国家联盟是足球表现出色的一个受欢迎的例子",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
+      "heat": 76,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：The tournament was treated with skepticism when it was introduced in 2018, but it shows that sometimes administrators get things right Sign up for our free newsletter here England’s first ga...",
       "summaryZh": "中文翻译：这场比赛在2018年推出时受到了怀疑，但它表明，有时管理员会把事情做对。在这里注册我们的免费通讯英格兰第一个ga...",
@@ -119,6 +85,40 @@
         {
           "label": "Guardian Football",
           "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：The Manchester City verdict and England run world champions close – Football Weekly",
+      "titleZh": "实时讨论：曼城的判决和英格兰队接近世界冠军–《足球周刊》",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning, Barney Ronay, John Brewin and Kieran Maguire as Manchester City are found guilty of the vast majority of the disciplinary charges brought against ...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、巴尼·罗内（ Barney Ronay ）、约翰·布鲁因（ John Brewin ）和基兰·马奎尔（ Kieran Maguire ）一起，对曼城提出的绝大多数纪律指控",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/sep/28/the-manchester-city-verdict-and-england-run-world-champions-close-football-weekly"
         }
       ],
       "accounts": [
@@ -141,18 +141,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Nandy says children’s social media ban only ‘staging post’ in online safety drive",
-      "titleZh": "实时讨论：南迪说，儿童社交媒体仅禁止在线安全驾驶中的“临时帖子”",
+      "title": "实时讨论：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban",
+      "titleZh": "实时讨论：阿妮卡·威尔斯（ Anika Wells ）在社交媒体禁令后被Time100评为“世界上最具影响力的后起之秀”之一",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
+      "heat": 69,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Exclusive: Culture secretary says UK will crack down further and be ‘pioneer of tech as a force for good’ Lisa Nandy has warned technology firms that the government’s online safety crackdown...",
-      "summaryZh": "中文翻译：独家：文化大臣表示，英国将进一步严厉打击，并成为“科技的先驱”丽莎·南迪（ Lisa Nandy ）警告科技公司，政府的在线安全打击......",
+      "summary": "公开来源显示该议题正在发酵：Time magazine list includes Australian communications minister after her efforts to take on big tech Get our new political email , free app or daily news podcast The federal communications m...",
+      "summaryZh": "中文翻译：《时代》杂志的名单包括澳大利亚通讯部长在她努力攻克大型科技公司之后。获取我们新的政治电子邮件、免费应用程序或每日新闻播客。联邦通讯部...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/30/lisa-nandy-social-media-ban-online-safety-culture-secretary"
+          "url": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars"
         }
       ],
       "accounts": [
@@ -175,69 +175,69 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Dropping Kelly and Toone could prove a World Cup masterstroke by Wiegman | Tom Garry",
-      "titleZh": "视觉热点：放弃Kelly和Toone可以证明Wiegman的世界杯精湛技艺| Tom Garry",
+      "title": "视觉热点：Yemen and football in the face of civil war: ‘It would be very nice to give the world a different headline’",
+      "titleZh": "视觉热点：也门和足球面对内战： “给世界一个不同的标题是非常好的”",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
+      "heat": 73,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：England’s coach has given a wake-up call to her whole squad by leaving out two heroes of 2022 and 2025 Sarina Wiegman sent a clear message to two of England’s biggest names on Tuesday and – ...",
-      "summaryZh": "中文翻译：英格兰教练周二给她的整个球队敲响了警钟，将2022年和2025年的两位英雄排除在外，萨丽娜·维格曼（ Sarina Wiegman ）向英格兰的两位大牌球员发出了明确的信息，并...",
+      "summary": "公开来源显示该议题正在发酵：Coach Noureddine Ould Ali is staying positive despite a difficult situation at home and tough opponents at the Gulf Cup The Yemen national coach, Noureddine Ould Ali, chose not to reach for ...",
+      "summaryZh": "中文翻译：教练努尔丁·乌尔德·阿里（ Noureddine Ould Ali ）保持积极的态度，尽管主场情况艰难，海湾杯上的对手也很强硬。也门国家队教练努尔丁·乌尔德·阿里（ Noureddine Ould Ali ）选择不去争取...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/30/dropping-toone-and-kelly-world-cup-masterstroke-wiegman"
+          "url": "https://www.theguardian.com/football/2026/oct/01/yemen-football-civil-war-gulf-cup"
         }
       ],
       "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-      "titleZh": "视觉热点：Lenore评论– incel对在线影响者的痴迷变成了对错位的数字时代心态的解剖",
+      "title": "视觉热点：AI chatbots remove hijabs from images of Muslim women when prompted",
+      "titleZh": "视觉热点：当提示时， AI聊天机器人从穆斯林妇女的图像中删除头巾",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 91,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren...",
-      "summaryZh": "中文翻译：数字时代的澳大利亚心理剧追踪了危险的不满男性粉丝的封闭狂热，但并没有进入他的脑海如果副社会现象是一种地狱，那么Max Wren......",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo When prompted, AI chatbots will edit images to remove the hijabs from Muslim women,...",
+      "summaryZh": "中文翻译：在法国极右翼政客在一张照片中剥夺了一名穆斯林妇女的头巾之后， Guardian测试了聊天机器人。当提示时， AI聊天机器人将编辑图像以删除穆斯林妇女的头巾，...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset"
+          "url": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -311,44 +311,10 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | The big story is of course … Scotland fans pining for another home run",
-      "titleZh": "短视频趋势：《足球日报》|最重要的事情当然是……苏格兰球迷渴望再次本垒打",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 93,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! In the four matches they’ve sat through since their unconvincing Geopolitics World Cup win over Haiti, it must rankle among diehard conscr...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！自从地缘政治世界杯战胜海地以来，他们经历了四场比赛，这场比赛一定在顽固的良心中引起了轩然大波……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/30/football-daily-newsletter-the-big-story-is-of-course-scotland"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
       "titleZh": "短视频趋势：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
+      "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
       "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
@@ -361,70 +327,36 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Craig Bellamy urges Wales improvement but wary of Norway’s threat",
-      "titleZh": "短视频趋势：克雷格·贝拉米（ Craig Bellamy ）敦促威尔士改善，但要警惕挪威的威",
+      "title": "短视频趋势：Wales wary of surging Norway as City factor played down for Haaland",
+      "titleZh": "短视频趋势：威尔士对挪威的飙升持谨慎态度，因为城市因素对哈兰德的影响不大",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
+      "heat": 89,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Wales ‘unrecognisable’ in defeat against Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appearing...",
-      "summaryZh": "中文翻译：在曼城判决克雷格·贝拉米（ Craig Bellamy ）表示威尔士在出场后必须在周四对阵挪威的比赛中取得进步后，威尔士在对阵丹麦哈兰德的失利中“无法辨认” “完全相同”...",
+      "summary": "公开来源显示该议题正在发酵：Bellamy: we were unrecognisable in defeat by Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appea...",
+      "summaryZh": "中文翻译：贝拉米：在曼城判决克雷格·贝拉米（ Craig Bellamy ）表示威尔士必须在周四对挪威的比赛中取得进步之后，我们在被丹麦哈兰德“完全相同”的失利中无法辨认。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
           "url": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：The Nations League is a welcome example of soccer done well",
-      "titleZh": "短视频趋势：国家联盟是足球表现出色的一个受欢迎的例子",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The tournament was treated with skepticism when it was introduced in 2018, but it shows that sometimes administrators get things right Sign up for our free newsletter here England’s first ga...",
-      "summaryZh": "中文翻译：这场比赛在2018年推出时受到了怀疑，但它表明，有时管理员会把事情做对。在这里注册我们的免费通讯英格兰第一个ga...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain"
         }
       ],
       "accounts": [
@@ -447,60 +379,21 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Nandy says children’s social media ban only ‘staging post’ in online safety drive",
-      "titleZh": "短视频趋势：南迪说，儿童社交媒体仅禁止在线安全驾驶中的“临时帖子”",
+      "title": "短视频趋势：The Nations League is a welcome example of soccer done well",
+      "titleZh": "短视频趋势：国家联盟是足球表现出色的一个受欢迎的例子",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Exclusive: Culture secretary says UK will crack down further and be ‘pioneer of tech as a force for good’ Lisa Nandy has warned technology firms that the government’s online safety crackdown...",
-      "summaryZh": "中文翻译：独家：文化大臣表示，英国将进一步严厉打击，并成为“科技的先驱”丽莎·南迪（ Lisa Nandy ）警告科技公司，政府的在线安全打击......",
+      "heat": 88,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The tournament was treated with skepticism when it was introduced in 2018, but it shows that sometimes administrators get things right Sign up for our free newsletter here England’s first ga...",
+      "summaryZh": "中文翻译：这场比赛在2018年推出时受到了怀疑，但它表明，有时管理员会把事情做对。在这里注册我们的免费通讯英格兰第一个ga...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/30/lisa-nandy-social-media-ban-online-safety-culture-secretary"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Football Daily | The big story is of course … Scotland fans pining for another home run",
-      "titleZh": "社区话题：《足球日报》|最重要的事情当然是……苏格兰球迷渴望再次本垒打",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! In the four matches they’ve sat through since their unconvincing Geopolitics World Cup win over Haiti, it must rankle among diehard conscr...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！自从地缘政治世界杯战胜海地以来，他们经历了四场比赛，这场比赛一定在顽固的良心中引起了轩然大波……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/30/football-daily-newsletter-the-big-story-is-of-course-scotland"
+          "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain"
         }
       ],
       "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
@@ -510,64 +403,35 @@
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
-      "titleZh": "社区话题：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
-      "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Craig Bellamy urges Wales improvement but wary of Norway’s threat",
-      "titleZh": "社区话题：克雷格·贝拉米（ Craig Bellamy ）敦促威尔士改善，但要警惕挪威的威",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 71,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Wales ‘unrecognisable’ in defeat against Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appearing...",
-      "summaryZh": "中文翻译：在曼城判决克雷格·贝拉米（ Craig Bellamy ）表示威尔士在出场后必须在周四对阵挪威的比赛中取得进步后，威尔士在对阵丹麦哈兰德的失利中“无法辨认” “完全相同”...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "platform": "tiktok",
+      "title": "短视频趋势：The Manchester City verdict and England run world champions close – Football Weekly",
+      "titleZh": "短视频趋势：曼城的判决和英格兰队接近世界冠军–《足球周刊》",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning, Barney Ronay, John Brewin and Kieran Maguire as Manchester City are found guilty of the vast majority of the disciplinary charges brought against ...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、巴尼·罗内（ Barney Ronay ）、约翰·布鲁因（ John Brewin ）和基兰·马奎尔（ Kieran Maguire ）一起，对曼城提出的绝大多数纪律指控",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city"
+          "url": "https://www.theguardian.com/football/video/2026/sep/28/the-manchester-city-verdict-and-england-run-world-champions-close-football-weekly"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@marfawe",
@@ -575,26 +439,26 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：Nandy says children’s social media ban only ‘staging post’ in online safety drive",
-      "titleZh": "社区话题：南迪说，儿童社交媒体仅禁止在线安全驾驶中的“临时帖子”",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 69,
+      "platform": "tiktok",
+      "title": "短视频趋势：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban",
+      "titleZh": "短视频趋势：阿妮卡·威尔斯（ Anika Wells ）在社交媒体禁令后被Time100评为“世界上最具影响力的后起之秀”之一",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 76,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Exclusive: Culture secretary says UK will crack down further and be ‘pioneer of tech as a force for good’ Lisa Nandy has warned technology firms that the government’s online safety crackdown...",
-      "summaryZh": "中文翻译：独家：文化大臣表示，英国将进一步严厉打击，并成为“科技的先驱”丽莎·南迪（ Lisa Nandy ）警告科技公司，政府的在线安全打击......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "summary": "公开来源显示该议题正在发酵：Time magazine list includes Australian communications minister after her efforts to take on big tech Get our new political email , free app or daily news podcast The federal communications m...",
+      "summaryZh": "中文翻译：《时代》杂志的名单包括澳大利亚通讯部长在她努力攻克大型科技公司之后。获取我们新的政治电子邮件、免费应用程序或每日新闻播客。联邦通讯部...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/sep/30/lisa-nandy-social-media-ban-online-safety-culture-secretary"
+          "url": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars"
         }
       ],
       "accounts": [
@@ -614,20 +478,151 @@
           "why": "AI 自动化和增长观点"
         }
       ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
+      "titleZh": "社区话题：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 89,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
+      "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Wales wary of surging Norway as City factor played down for Haaland",
+      "titleZh": "社区话题：威尔士对挪威的飙升持谨慎态度，因为城市因素对哈兰德的影响不大",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Bellamy: we were unrecognisable in defeat by Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appea...",
+      "summaryZh": "中文翻译：贝拉米：在曼城判决克雷格·贝拉米（ Craig Bellamy ）表示威尔士必须在周四对挪威的比赛中取得进步之后，我们在被丹麦哈兰德“完全相同”的失利中无法辨认。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban",
+      "titleZh": "社区话题：阿妮卡·威尔斯（ Anika Wells ）在社交媒体禁令后被Time100评为“世界上最具影响力的后起之秀”之一",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 89,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Time magazine list includes Australian communications minister after her efforts to take on big tech Get our new political email , free app or daily news podcast The federal communications m...",
+      "summaryZh": "中文翻译：《时代》杂志的名单包括澳大利亚通讯部长在她努力攻克大型科技公司之后。获取我们新的政治电子邮件、免费应用程序或每日新闻播客。联邦通讯部...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "titleZh": "社区话题：Meta如何使用人工智能数据中心来避免数十亿美元的联邦税",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Meta is exploiting a lucrative tax break intended to support research and experimentation. Its own accountants say the gambit is risky.",
+      "summaryZh": "中文翻译：Meta正在利用利润丰厚的税收减免来支持研究和实验。其自己的会计师表示，这个策略是有风险的。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
     }
   ],
   "audienceMap": {
-    "实时讨论：Football Daily | The big story is of course … Scotland fans pining for another home run": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Craig Bellamy urges Wales improvement but wary of Norway’s threat": {
+    "实时讨论：Wales wary of surging Norway as City factor played down for Haaland": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,17 +632,22 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Nandy says children’s social media ban only ‘staging post’ in online safety drive": {
+    "实时讨论：The Manchester City verdict and England run world champions close – Football Weekly": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：Dropping Kelly and Toone could prove a World Cup masterstroke by Wiegman | Tom Garry": {
+    "实时讨论：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "视觉热点：Yemen and football in the face of civil war: ‘It would be very nice to give the world a different headline’": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset": {
+    "视觉热点：AI chatbots remove hijabs from images of Muslim women when prompted": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -662,17 +662,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：Football Daily | The big story is of course … Scotland fans pining for another home run": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Craig Bellamy urges Wales improvement but wary of Norway’s threat": {
+    "短视频趋势：Wales wary of surging Norway as City factor played down for Haaland": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,27 +677,32 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Nandy says children’s social media ban only ‘staging post’ in online safety drive": {
+    "短视频趋势：The Manchester City verdict and England run world champions close – Football Weekly": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Football Daily | The big story is of course … Scotland fans pining for another home run": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Craig Bellamy urges Wales improvement but wary of Norway’s threat": {
+    "社区话题：Wales wary of surging Norway as City factor played down for Haaland": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Nandy says children’s social media ban only ‘staging post’ in online safety drive": {
+    "社区话题：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
