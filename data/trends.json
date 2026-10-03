@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T07:01:06.681512+00:00",
-  "generatedAtBeijing": "2026-10-02 15:01",
+  "generatedAt": "2026-10-03T06:34:30.405851+00:00",
+  "generatedAtBeijing": "2026-10-03 14:34",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,35 +39,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Wales wary of surging Norway as City factor played down for Haaland",
-      "titleZh": "实时讨论：威尔士对挪威的飙升持谨慎态度，因为城市因素对哈兰德的影响不大",
+      "title": "实时讨论：‘Mum, where did my Robux go?’ The Roblox scam targeting children",
+      "titleZh": "实时讨论：（妈妈，我的Robux去哪儿了？ “Roblox针对儿童的骗局",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 90,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Bellamy: we were unrecognisable in defeat by Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appea...",
-      "summaryZh": "中文翻译：贝拉米：在曼城判决克雷格·贝拉米（ Craig Bellamy ）表示威尔士必须在周四对挪威的比赛中取得进步之后，我们在被丹麦哈兰德“完全相同”的失利中无法辨认。",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Criminals are trying to glean login details to harvest players’ in-game currency and personal data Your 10-year-old son has started playing Roblox, when he realises all of his in-game curren...",
+      "summaryZh": "中文翻译：犯罪分子正试图收集登录详细信息，以收集玩家的游戏内货币和个人数据您10岁的儿子已经开始玩Roblox ，当时他意识到他所有的游戏内货币...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -107,18 +107,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：The Manchester City verdict and England run world champions close – Football Weekly",
-      "titleZh": "实时讨论：曼城的判决和英格兰队接近世界冠军–《足球周刊》",
+      "title": "实时讨论：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
+      "titleZh": "实时讨论：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning, Barney Ronay, John Brewin and Kieran Maguire as Manchester City are found guilty of the vast majority of the disciplinary charges brought against ...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、巴尼·罗内（ Barney Ronay ）、约翰·布鲁因（ John Brewin ）和基兰·马奎尔（ Kieran Maguire ）一起，对曼城提出的绝大多数纪律指控",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
+      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/sep/28/the-manchester-city-verdict-and-england-run-world-champions-close-football-weekly"
+          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
         }
       ],
       "accounts": [
@@ -141,35 +141,69 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban",
-      "titleZh": "实时讨论：阿妮卡·威尔斯（ Anika Wells ）在社交媒体禁令后被Time100评为“世界上最具影响力的后起之秀”之一",
+      "title": "实时讨论：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
+      "titleZh": "实时讨论：每个圣人都有过去：城市第一起丑闻的核心人物如何成为联合英雄|肖恩·英格尔",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 69,
+      "heat": 84,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Time magazine list includes Australian communications minister after her efforts to take on big tech Get our new political email , free app or daily news podcast The federal communications m...",
-      "summaryZh": "中文翻译：《时代》杂志的名单包括澳大利亚通讯部长在她努力攻克大型科技公司之后。获取我们新的政治电子邮件、免费应用程序或每日新闻播客。联邦通讯部...",
+      "summary": "公开来源显示该议题正在发酵：Billy Meredith helped win City their first major honours more than a hundred years ago, was banned by the FA – then went and repeated the trick on the red side of Manchester When the Manches...",
+      "summaryZh": "中文翻译：比利·梅雷迪思（ Billy Meredith ）在一百多年前帮助曼城赢得了他们的第一个主要荣誉，被英足总禁止–然后在曼彻斯特的红色一面重复了这个技巧。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
+      "titleZh": "视觉热点：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 93,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
+      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -178,7 +212,7 @@
       "title": "视觉热点：Yemen and football in the face of civil war: ‘It would be very nice to give the world a different headline’",
       "titleZh": "视觉热点：也门和足球面对内战： “给世界一个不同的标题是非常好的”",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 73,
+      "heat": 71,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Coach Noureddine Ould Ali is staying positive despite a difficult situation at home and tough opponents at the Gulf Cup The Yemen national coach, Noureddine Ould Ali, chose not to reach for ...",
       "summaryZh": "中文翻译：教练努尔丁·乌尔德·阿里（ Noureddine Ould Ali ）保持积极的态度，尽管主场情况艰难，海湾杯上的对手也很强硬。也门国家队教练努尔丁·乌尔德·阿里（ Noureddine Ould Ali ）选择不去争取...",
@@ -191,19 +225,19 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marfawe",
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -212,7 +246,7 @@
       "title": "视觉热点：AI chatbots remove hijabs from images of Muslim women when prompted",
       "titleZh": "视觉热点：当提示时， AI聊天机器人从穆斯林妇女的图像中删除头巾",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
+      "heat": 73,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo When prompted, AI chatbots will edit images to remove the hijabs from Muslim women,...",
       "summaryZh": "中文翻译：在法国极右翼政客在一张照片中剥夺了一名穆斯林妇女的头巾之后， Guardian测试了聊天机器人。当提示时， AI聊天机器人将编辑图像以删除穆斯林妇女的头巾，...",
@@ -225,53 +259,19 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Mark Zuckerberg Is Trying Something On",
-      "titleZh": "视觉热点：马克·扎克伯格（ Mark Zuckerberg ）正在尝试一些",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 88,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Meta’s C.E.O. talks for the first time about his style evolution.",
-      "summaryZh": "中文翻译：Meta的首席执行官首次谈到了他的风格演变。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/25/style/mark-zuckerberg-fashion-glasses.html"
-        }
-      ],
-      "accounts": [
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -345,35 +345,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Wales wary of surging Norway as City factor played down for Haaland",
-      "titleZh": "短视频趋势：威尔士对挪威的飙升持谨慎态度，因为城市因素对哈兰德的影响不大",
+      "title": "短视频趋势：‘Mum, where did my Robux go?’ The Roblox scam targeting children",
+      "titleZh": "短视频趋势：（妈妈，我的Robux去哪儿了？ “Roblox针对儿童的骗局",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 89,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Bellamy: we were unrecognisable in defeat by Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appea...",
-      "summaryZh": "中文翻译：贝拉米：在曼城判决克雷格·贝拉米（ Craig Bellamy ）表示威尔士必须在周四对挪威的比赛中取得进步之后，我们在被丹麦哈兰德“完全相同”的失利中无法辨认。",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Criminals are trying to glean login details to harvest players’ in-game currency and personal data Your 10-year-old son has started playing Roblox, when he realises all of his in-game curren...",
+      "summaryZh": "中文翻译：犯罪分子正试图收集登录详细信息，以收集玩家的游戏内货币和个人数据您10岁的儿子已经开始玩Roblox ，当时他意识到他所有的游戏内货币...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -413,21 +413,60 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：The Manchester City verdict and England run world champions close – Football Weekly",
-      "titleZh": "短视频趋势：曼城的判决和英格兰队接近世界冠军–《足球周刊》",
+      "title": "短视频趋势：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
+      "titleZh": "短视频趋势：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning, Barney Ronay, John Brewin and Kieran Maguire as Manchester City are found guilty of the vast majority of the disciplinary charges brought against ...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、巴尼·罗内（ Barney Ronay ）、约翰·布鲁因（ John Brewin ）和基兰·马奎尔（ Kieran Maguire ）一起，对曼城提出的绝大多数纪律指控",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
+      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/sep/28/the-manchester-city-verdict-and-england-run-world-champions-close-football-weekly"
+          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
         }
       ],
       "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
+      "titleZh": "短视频趋势：每个圣人都有过去：城市第一起丑闻的核心人物如何成为联合英雄|肖恩·英格尔",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Billy Meredith helped win City their first major honours more than a hundred years ago, was banned by the FA – then went and repeated the trick on the red side of Manchester When the Manches...",
+      "summaryZh": "中文翻译：比利·梅雷迪思（ Billy Meredith ）在一百多年前帮助曼城赢得了他们的第一个主要荣誉，被英足总禁止–然后在曼彻斯特的红色一面重复了这个技巧。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
         {
           "name": "@goalflexo",
           "followers": "约2万",
@@ -437,45 +476,6 @@
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban",
-      "titleZh": "短视频趋势：阿妮卡·威尔斯（ Anika Wells ）在社交媒体禁令后被Time100评为“世界上最具影响力的后起之秀”之一",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Time magazine list includes Australian communications minister after her efforts to take on big tech Get our new political email , free app or daily news podcast The federal communications m...",
-      "summaryZh": "中文翻译：《时代》杂志的名单包括澳大利亚通讯部长在她努力攻克大型科技公司之后。获取我们新的政治电子邮件、免费应用程序或每日新闻播客。联邦通讯部...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -515,69 +515,69 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Wales wary of surging Norway as City factor played down for Haaland",
-      "titleZh": "社区话题：威尔士对挪威的飙升持谨慎态度，因为城市因素对哈兰德的影响不大",
+      "title": "社区话题：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
+      "titleZh": "社区话题：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 87,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Bellamy: we were unrecognisable in defeat by Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appea...",
-      "summaryZh": "中文翻译：贝拉米：在曼城判决克雷格·贝拉米（ Craig Bellamy ）表示威尔士必须在周四对挪威的比赛中取得进步之后，我们在被丹麦哈兰德“完全相同”的失利中无法辨认。",
+      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
+      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city"
+          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban",
-      "titleZh": "社区话题：阿妮卡·威尔斯（ Anika Wells ）在社交媒体禁令后被Time100评为“世界上最具影响力的后起之秀”之一",
+      "title": "社区话题：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
+      "titleZh": "社区话题：每个圣人都有过去：城市第一起丑闻的核心人物如何成为联合英雄|肖恩·英格尔",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 89,
+      "heat": 87,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Time magazine list includes Australian communications minister after her efforts to take on big tech Get our new political email , free app or daily news podcast The federal communications m...",
-      "summaryZh": "中文翻译：《时代》杂志的名单包括澳大利亚通讯部长在她努力攻克大型科技公司之后。获取我们新的政治电子邮件、免费应用程序或每日新闻播客。联邦通讯部...",
+      "summary": "公开来源显示该议题正在发酵：Billy Meredith helped win City their first major honours more than a hundred years ago, was banned by the FA – then went and repeated the trick on the red side of Manchester When the Manches...",
+      "summaryZh": "中文翻译：比利·梅雷迪思（ Billy Meredith ）在一百多年前帮助曼城赢得了他们的第一个主要荣誉，被英足总禁止–然后在曼彻斯特的红色一面重复了这个技巧。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -622,7 +622,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Wales wary of surging Norway as City factor played down for Haaland": {
+    "实时讨论：‘Mum, where did my Robux go?’ The Roblox scam targeting children": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,15 +632,20 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：The Manchester City verdict and England run world champions close – Football Weekly": {
+    "实时讨论：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban": {
+    "实时讨论：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "视觉热点：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：Yemen and football in the face of civil war: ‘It would be very nice to give the world a different headline’": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
@@ -648,11 +653,6 @@
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：AI chatbots remove hijabs from images of Muslim women when prompted": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Mark Zuckerberg Is Trying Something On": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,7 +667,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Wales wary of surging Norway as City factor played down for Haaland": {
+    "短视频趋势：‘Mum, where did my Robux go?’ The Roblox scam targeting children": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,12 +677,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：The Manchester City verdict and England run world champions close – Football Weekly": {
+    "短视频趋势：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban": {
+    "短视频趋势：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,12 +692,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Wales wary of surging Norway as City factor played down for Haaland": {
+    "社区话题：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban": {
+    "社区话题：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
