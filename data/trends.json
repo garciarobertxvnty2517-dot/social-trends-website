@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T06:34:30.405851+00:00",
-  "generatedAtBeijing": "2026-10-03 14:34",
+  "generatedAt": "2026-10-04T06:50:12.964073+00:00",
+  "generatedAtBeijing": "2026-10-04 14:50",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -73,30 +73,30 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：The Nations League is a welcome example of soccer done well",
-      "titleZh": "实时讨论：国家联盟是足球表现出色的一个受欢迎的例子",
+      "title": "实时讨论：Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
+      "titleZh": "实时讨论：贝灵厄姆在高档英格兰脱颖而出，但欧足联发出了关于种族主义的错误信息| Barney Ronay",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 76,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The tournament was treated with skepticism when it was introduced in 2018, but it shows that sometimes administrators get things right Sign up for our free newsletter here England’s first ga...",
-      "summaryZh": "中文翻译：这场比赛在2018年推出时受到了怀疑，但它表明，有时管理员会把事情做对。在这里注册我们的免费通讯英格兰第一个ga...",
+      "heat": 86,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Allowing children in after a ban on adult fans was wrong in the extreme but on the pitch England showed genuine class So … can we play another World Cup, then? Can we just undo and rewind? F...",
+      "summaryZh": "中文翻译：在禁止成人球迷之后允许儿童参加比赛在极端情况下是错误的，但在球场上，英格兰队表现出了真正的阶级那么……那么我们可以再参加一次世界杯吗？我们可以撤消和后退吗？ F...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain"
+          "url": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism"
         }
       ],
       "accounts": [
         {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@elliottvenis",
@@ -107,18 +107,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
-      "titleZh": "实时讨论：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
+      "title": "实时讨论：The Nations League is a welcome example of soccer done well",
+      "titleZh": "实时讨论：国家联盟是足球表现出色的一个受欢迎的例子",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
-      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The tournament was treated with skepticism when it was introduced in 2018, but it shows that sometimes administrators get things right Sign up for our free newsletter here England’s first ga...",
+      "summaryZh": "中文翻译：这场比赛在2018年推出时受到了怀疑，但它表明，有时管理员会把事情做对。在这里注册我们的免费通讯英格兰第一个ga...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
+          "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain"
         }
       ],
       "accounts": [
@@ -141,35 +141,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
-      "titleZh": "实时讨论：每个圣人都有过去：城市第一起丑闻的核心人物如何成为联合英雄|肖恩·英格尔",
+      "title": "实时讨论：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
+      "titleZh": "实时讨论：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 84,
+      "heat": 77,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Billy Meredith helped win City their first major honours more than a hundred years ago, was banned by the FA – then went and repeated the trick on the red side of Manchester When the Manches...",
-      "summaryZh": "中文翻译：比利·梅雷迪思（ Billy Meredith ）在一百多年前帮助曼城赢得了他们的第一个主要荣誉，被英足总禁止–然后在曼彻斯特的红色一面重复了这个技巧。",
+      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
+      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906"
+          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
         }
       ],
       "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -243,10 +243,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Verstappen ends pole wait at Bahrain GP in Malaysia but Russell risks losing more ground",
+      "titleZh": "视觉热点：Verstappen结束了在马来西亚巴林大奖赛的杆位等待，但罗素面临失去更多席位的风险",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Ferrari’s Lewis Hamilton starts second on the front row Kimi Antonelli in fourth, George Russell down in eighth The wait has been long for Max Verstappen but when the Dutchman finally claime...",
+      "summaryZh": "中文翻译：法拉利的刘易斯·汉密尔顿（ Lewis Hamilton ）在第四排的前排基米·安东内利（ Kimi Antonelli ）排名第二，乔治·拉塞尔（ George Russell ）排在第八位等待马克斯·维斯塔彭（ Max Verstappen ）已经很长时间了，",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/03/max-verstappen-first-pole-position-this-year-bahrain-grand-prix-formula-one"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：AI chatbots remove hijabs from images of Muslim women when prompted",
       "titleZh": "视觉热点：当提示时， AI聊天机器人从穆斯林妇女的图像中删除头巾",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 73,
+      "heat": 71,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo When prompted, AI chatbots will edit images to remove the hijabs from Muslim women,...",
       "summaryZh": "中文翻译：在法国极右翼政客在一张照片中剥夺了一名穆斯林妇女的头巾之后， Guardian测试了聊天机器人。当提示时， AI聊天机器人将编辑图像以删除穆斯林妇女的头巾，...",
@@ -259,53 +293,19 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Dario Amodei of Anthropic to Dine With Trump at White House",
-      "titleZh": "视觉热点：Anthropic的Dario Amodei在白宫与特朗普共进晚餐",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
-      "summaryZh": "中文翻译：该公司首席执行官Dario Amodei将与总统在白宫共进私人晚宴。特朗普已经驳回了他的警告。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
+        },
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@nathanallebach",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "社媒观点和品牌人格化"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "业务运营和 AI 营销观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操拆解"
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -447,35 +447,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
-      "titleZh": "短视频趋势：每个圣人都有过去：城市第一起丑闻的核心人物如何成为联合英雄|肖恩·英格尔",
+      "title": "短视频趋势：‘We are in a kind of war’: row over viral Amsterdam chip shop lands in court",
+      "titleZh": "短视频趋势：“我们正处于一场战争中” ：在阿姆斯特丹病毒式芯片店的争吵在法庭上落地",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
+      "heat": 68,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Billy Meredith helped win City their first major honours more than a hundred years ago, was banned by the FA – then went and repeated the trick on the red side of Manchester When the Manches...",
-      "summaryZh": "中文翻译：比利·梅雷迪思（ Billy Meredith ）在一百多年前帮助曼城赢得了他们的第一个主要荣誉，被英足总禁止–然后在曼彻斯特的红色一面重复了这个技巧。",
+      "summary": "公开来源显示该议题正在发酵：Neighbours say crowds drawn by TikTok to Fabel Friet are clogging the picturesque canal street and attracting litter, gulls and rats People living in one of Amsterdam’s most exclusive neighb...",
+      "summaryZh": "中文翻译：邻居们说，被TikTok吸引到Fabel Friet的人群正在堵塞风景如画的运河街道，吸引着垃圾、海鸥和老鼠居住在阿姆斯特丹最独特的邻居之一的人们……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/04/viral-amsterdam-chip-shop-court-fabel-friet"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -515,10 +515,44 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
+      "titleZh": "社区话题：贝灵厄姆在高档英格兰脱颖而出，但欧足联发出了关于种族主义的错误信息| Barney Ronay",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 77,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Allowing children in after a ban on adult fans was wrong in the extreme but on the pitch England showed genuine class So … can we play another World Cup, then? Can we just undo and rewind? F...",
+      "summaryZh": "中文翻译：在禁止成人球迷之后允许儿童参加比赛在极端情况下是错误的，但在球场上，英格兰队表现出了真正的阶级那么……那么我们可以再参加一次世界杯吗？我们可以撤消和后退吗？ F...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
       "titleZh": "社区话题：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
+      "heat": 85,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
       "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
@@ -552,7 +586,7 @@
       "title": "社区话题：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
       "titleZh": "社区话题：每个圣人都有过去：城市第一起丑闻的核心人物如何成为联合英雄|肖恩·英格尔",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
+      "heat": 85,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Billy Meredith helped win City their first major honours more than a hundred years ago, was banned by the FA – then went and repeated the trick on the red side of Manchester When the Manches...",
       "summaryZh": "中文翻译：比利·梅雷迪思（ Billy Meredith ）在一百多年前帮助曼城赢得了他们的第一个主要荣誉，被英足总禁止–然后在曼彻斯特的红色一面重复了这个技巧。",
@@ -580,40 +614,6 @@
           "why": "足球短视频和球星热点二创"
         }
       ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-      "titleZh": "社区话题：Meta如何使用人工智能数据中心来避免数十亿美元的联邦税",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Meta is exploiting a lucrative tax break intended to support research and experimentation. Its own accountants say the gambit is risky.",
-      "summaryZh": "中文翻译：Meta正在利用利润丰厚的税收减免来支持研究和实验。其自己的会计师表示，这个策略是有风险的。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
     }
   ],
   "audienceMap": {
@@ -623,6 +623,11 @@
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "实时讨论：‘Mum, where did my Robux go?’ The Roblox scam targeting children": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,11 +642,6 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "视觉热点：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
@@ -652,12 +652,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：AI chatbots remove hijabs from images of Muslim women when prompted": {
+    "视觉热点：Verstappen ends pole wait at Bahrain GP in Malaysia but Russell risks losing more ground": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Dario Amodei of Anthropic to Dine With Trump at White House": {
+    "视觉热点：AI chatbots remove hijabs from images of Muslim women when prompted": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -682,12 +682,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle": {
+    "短视频趋势：‘We are in a kind of war’: row over viral Amsterdam chip shop lands in court": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -698,11 +703,6 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
