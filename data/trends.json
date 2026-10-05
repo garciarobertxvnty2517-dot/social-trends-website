@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T06:50:12.964073+00:00",
-  "generatedAtBeijing": "2026-10-04 14:50",
+  "generatedAt": "2026-10-05T07:03:39.542947+00:00",
+  "generatedAtBeijing": "2026-10-05 15:03",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -209,78 +209,10 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Yemen and football in the face of civil war: ‘It would be very nice to give the world a different headline’",
-      "titleZh": "视觉热点：也门和足球面对内战： “给世界一个不同的标题是非常好的”",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Coach Noureddine Ould Ali is staying positive despite a difficult situation at home and tough opponents at the Gulf Cup The Yemen national coach, Noureddine Ould Ali, chose not to reach for ...",
-      "summaryZh": "中文翻译：教练努尔丁·乌尔德·阿里（ Noureddine Ould Ali ）保持积极的态度，尽管主场情况艰难，海湾杯上的对手也很强硬。也门国家队教练努尔丁·乌尔德·阿里（ Noureddine Ould Ali ）选择不去争取...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/01/yemen-football-civil-war-gulf-cup"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Verstappen ends pole wait at Bahrain GP in Malaysia but Russell risks losing more ground",
-      "titleZh": "视觉热点：Verstappen结束了在马来西亚巴林大奖赛的杆位等待，但罗素面临失去更多席位的风险",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Ferrari’s Lewis Hamilton starts second on the front row Kimi Antonelli in fourth, George Russell down in eighth The wait has been long for Max Verstappen but when the Dutchman finally claime...",
-      "summaryZh": "中文翻译：法拉利的刘易斯·汉密尔顿（ Lewis Hamilton ）在第四排的前排基米·安东内利（ Kimi Antonelli ）排名第二，乔治·拉塞尔（ George Russell ）排在第八位等待马克斯·维斯塔彭（ Max Verstappen ）已经很长时间了，",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/oct/03/max-verstappen-first-pole-position-this-year-bahrain-grand-prix-formula-one"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
       "title": "视觉热点：AI chatbots remove hijabs from images of Muslim women when prompted",
       "titleZh": "视觉热点：当提示时， AI聊天机器人从穆斯林妇女的图像中删除头巾",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
+      "heat": 75,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo When prompted, AI chatbots will edit images to remove the hijabs from Muslim women,...",
       "summaryZh": "中文翻译：在法国极右翼政客在一张照片中剥夺了一名穆斯林妇女的头巾之后， Guardian测试了聊天机器人。当提示时， AI聊天机器人将编辑图像以删除穆斯林妇女的头巾，...",
@@ -293,11 +225,6 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
@@ -306,6 +233,79 @@
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Internet Watch Foundation reports huge rise in AI child sexual abuse material",
+      "titleZh": "视觉热点：互联网观察基金会报告AI儿童性虐待材料大幅增加",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Abuse material monitor says number of AI images assessed this year is already 40% higher than last year’s total AI-generated child sexual abuse material is proliferating online, with the amo...",
+      "summaryZh": "中文翻译：滥用材料监控机构表示，今年评估的人工智能图像数量已经比去年由人工智能生成的儿童性虐待材料在网上激增的总数高出40 ％。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
+      "titleZh": "视觉热点：克劳德有意识吗？人类学追求将道德灌输到其人工智能模型中",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 77,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.",
+      "summaryZh": "中文翻译：在一系列私人会议上，该公司咨询了宗教学者，以帮助将道德灌输到其人工智能模型中，并证明克劳德可能有意识。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "业务运营和 AI 营销观点"
+        },
+        {
+          "name": "@nathanallebach",
+          "followers": "约5万",
+          "why": "社媒观点和品牌人格化"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操拆解"
         }
       ]
     },
@@ -647,17 +647,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Yemen and football in the face of civil war: ‘It would be very nice to give the world a different headline’": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Verstappen ends pole wait at Bahrain GP in Malaysia but Russell risks losing more ground": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "视觉热点：AI chatbots remove hijabs from images of Muslim women when prompted": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Internet Watch Foundation reports huge rise in AI child sexual abuse material": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
