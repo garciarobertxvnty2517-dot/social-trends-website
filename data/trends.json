@@ -1,90 +1,22 @@
 {
-  "generatedAt": "2026-10-06T07:35:36.804363+00:00",
-  "generatedAtBeijing": "2026-10-06 15:35",
+  "generatedAt": "2026-10-07T07:16:29.291814+00:00",
+  "generatedAtBeijing": "2026-10-07 15:16",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
-      "titleZh": "实时讨论：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
+      "title": "实时讨论：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast",
+      "titleZh": "实时讨论：英格兰锤击克罗地亚和曼城的吸引力：《足球周刊》–播客",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
-      "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：‘Mum, where did my Robux go?’ The Roblox scam targeting children",
-      "titleZh": "实时讨论：（妈妈，我的Robux去哪儿了？ “Roblox针对儿童的骗局",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Criminals are trying to glean login details to harvest players’ in-game currency and personal data Your 10-year-old son has started playing Roblox, when he realises all of his in-game curren...",
-      "summaryZh": "中文翻译：犯罪分子正试图收集登录详细信息，以收集玩家的游戏内货币和个人数据您10岁的儿子已经开始玩Roblox ，当时他意识到他所有的游戏内货币...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
-      "titleZh": "实时讨论：贝灵厄姆在高档英格兰脱颖而出，但欧足联发出了关于种族主义的错误信息| Barney Ronay",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 86,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Allowing children in after a ban on adult fans was wrong in the extreme but on the pitch England showed genuine class So … can we play another World Cup, then? Can we just undo and rewind? F...",
-      "summaryZh": "中文翻译：在禁止成人球迷之后允许儿童参加比赛在极端情况下是错误的，但在球场上，英格兰队表现出了真正的阶级那么……那么我们可以再参加一次世界杯吗？我们可以撤消和后退吗？ F...",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and Robyn Cowen as England thrash Croatia 7 (seven) nil Rate, review, share on Apple Podcasts and join the conversation on email ...",
+      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson和Robyn Cowen一起参加了英格兰对克罗地亚7 (seven) nil的抨击、评测、在Apple播客上分享，并通过电子邮件加入对话……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism"
+          "url": "https://www.theguardian.com/football/audio/2026/oct/05/england-hammer-croatia-and-manchester-city-get-their-appeal-on-football-weekly-podcast"
         }
       ],
       "accounts": [
@@ -107,18 +39,52 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：‘We are in a kind of war’: row over viral Amsterdam chip shop lands in court",
-      "titleZh": "实时讨论：“我们正处于一场战争中” ：在阿姆斯特丹病毒式芯片店的争吵在法庭上落地",
+      "title": "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
+      "titleZh": "实时讨论：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
+      "heat": 76,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Neighbours say crowds drawn by TikTok to Fabel Friet are clogging the picturesque canal street and attracting litter, gulls and rats People living in one of Amsterdam’s most exclusive neighb...",
-      "summaryZh": "中文翻译：邻居们说，被TikTok吸引到Fabel Friet的人群正在堵塞风景如画的运河街道，吸引着垃圾、海鸥和老鼠居住在阿姆斯特丹最独特的邻居之一的人们……",
+      "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
+      "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/04/viral-amsterdam-chip-shop-court-fabel-friet"
+          "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：‘Mum, where did my Robux go?’ The Roblox scam targeting children",
+      "titleZh": "实时讨论：（妈妈，我的Robux去哪儿了？ “Roblox针对儿童的骗局",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Criminals are trying to glean login details to harvest players’ in-game currency and personal data Your 10-year-old son has started playing Roblox, when he realises all of his in-game curren...",
+      "summaryZh": "中文翻译：犯罪分子正试图收集登录详细信息，以收集玩家的游戏内货币和个人数据您10岁的儿子已经开始玩Roblox ，当时他意识到他所有的游戏内货币...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children"
         }
       ],
       "accounts": [
@@ -128,14 +94,48 @@
           "why": "AI 自动化和增长观点"
         },
         {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
+      "titleZh": "实时讨论：谁拥有“脑腐烂” ？关于心爱的模因的国际法律戏剧",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 69,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of onl...",
+      "summaryZh": "中文翻译：美国的版权法仅适用于人造作品，但像Tung Tung Tung Sahur这样的人工智能角色正在挑战荒谬的单一类型中最受欢迎的角色之一......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -175,21 +175,26 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Internet Watch Foundation reports huge rise in AI child sexual abuse material",
-      "titleZh": "视觉热点：互联网观察基金会报告AI儿童性虐待材料大幅增加",
+      "title": "视觉热点：Ofcom investigates Meta over Instagram Instants safety checks",
+      "titleZh": "视觉热点：Ofcom通过Instagram Instants安全检查调查Meta",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Abuse material monitor says number of AI images assessed this year is already 40% higher than last year’s total AI-generated child sexual abuse material is proliferating online, with the amo...",
-      "summaryZh": "中文翻译：滥用材料监控机构表示，今年评估的人工智能图像数量已经比去年由人工智能生成的儿童性虐待材料在网上激增的总数高出40 ％。",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Watchdog examining whether company carried out adequate risk assessment as required by Online Safety Act Mark Zuckerberg’s Meta is under investigation for a potential breach of the UK’s digi...",
+      "summaryZh": "中文翻译：监督机构正在审查公司是否按照《在线安全法》的要求进行了充分的风险评估，马克·扎克伯格的Meta因可能违反英国的数字...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material"
+          "url": "https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks"
         }
       ],
       "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
@@ -199,113 +204,142 @@
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
-      "titleZh": "视觉热点：克劳德有意识吗？人类学追求将道德灌输到其人工智能模型中",
+      "title": "视觉热点：Friends of Nolan Wells sue NFL Hall of Famer Terrell Owens for defamation",
+      "titleZh": "视觉热点：Nolan Wells之友起诉NFL名人堂成员Terrell Owens诽谤",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.",
-      "summaryZh": "中文翻译：在一系列私人会议上，该公司咨询了宗教学者，以帮助将道德灌输到其人工智能模型中，并证明克劳德可能有意识。",
+      "heat": 86,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Owens sued over September Instagram post that suggested trio tampered with evidence in death of Mississippi teen Three friends of Nolan Wells , a Mississippi teen who died after a July boati...",
+      "summaryZh": "中文翻译：欧文斯对9月份的Instagram帖子提起诉讼，该帖子表明三人篡改了密西西比州青少年死亡的证据。密西西比州青少年Nolan Wells的三个朋友在7月份的船后去世。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/us-news/2026/oct/06/nolan-wells-friends-terrell-owens-defamation"
         }
       ],
       "accounts": [
         {
-          "name": "@patrickcolpron",
-          "followers": "约4万",
-          "why": "本地商业和餐饮社媒视角"
+          "name": "@judge_vondab",
+          "followers": "约5万",
+          "why": "家庭与个人生活议题表达"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 视角"
-        },
-        {
-          "name": "@SocialJesi",
-          "followers": "<10万需复核",
-          "why": "社媒技巧轻量解释"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Sign up to the Sport in Focus newsletter: the sporting week in photos",
-      "titleZh": "视觉热点：订阅Sport in Focus时事通讯：照片中的体育周",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Our editors’ favourite sporting images from the past week, from the spectacular to the powerful, and with a little bit of fun thrown in Continue reading...",
-      "summaryZh": "中文翻译：我们的编辑过去一周最喜欢的体育图像，从壮观到强大，并在继续阅读...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@carleygoodmenu",
-          "followers": "约3.2万",
-          "why": "妈妈生活方式和真实日常"
+          "name": "@hannahmarieden",
+          "followers": "约2.4万",
+          "why": "Seattle mom blogger，本地家庭生活内容"
         },
         {
           "name": "@lifewithmrsjamaica",
           "followers": "约6万",
           "why": "家庭生活与日常互动"
-        },
-        {
-          "name": "@ciarachanelself",
-          "followers": "约6.1万",
-          "why": "生活化短内容和亲和力"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
-      "titleZh": "视觉热点：人形机器人未来已抵达韩国公园。算是吧。",
+      "title": "视觉热点：England 3-0 Czechia: Nations League football – as it happened",
+      "titleZh": "视觉热点：英格兰3-0捷克：国家联盟足球–事实如此",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics.",
-      "summaryZh": "中文翻译：我去了首尔的银河机器人公园，看看有朝一日我们会如何与机器人共处。一部分是尖端技术，一部分是戏剧。",
+      "heat": 76,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Harry Kane celebrated his record-equalling 125th cap with two goals at Wembley Some slapstick shenanigans on ITV as the Wembley water sprinklers turn on Ian Wright, Roy Keane and Mark Pougat...",
+      "summaryZh": "中文翻译：哈里·凯恩（ Harry Kane ）在温布利（ Wembley ）以两个进球庆祝他创纪录的第125个上限。随着温布利（ Wembley ）洒水车对抗伊恩·赖特（ Ian Wright ）、罗伊·基恩（ Roy Keane ）和马克·普加特（ Mark Pougat ） ， ITV上的",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Silver Pines review – a stylish, neo-noir detective drama",
+      "titleZh": "视觉热点：Silver Pines评论–时尚的新黑色侦探剧",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：PC, PS5, Switch 2; Wych Elm Games, Team 17 Abandoned shops, ruined apartment buildings and rotting sewer networks make up a dark landscape in which you play a private eye searching for a mis...",
+      "summaryZh": "中文翻译：PC、PS5、Switch 2 ； Wych Elm Games、Team 17废弃的商店、废弃的公寓楼和腐烂的下水道网络构成了一个黑暗的景观，在这个景观中，您扮演着寻找错误的私人眼睛……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ciarachanelself",
+          "followers": "约6.1万",
+          "why": "生活化短内容和亲和力"
+        },
+        {
+          "name": "@biancamillerwrites",
+          "followers": "约2万",
+          "why": "生活方式/写作者个人叙事"
+        },
+        {
+          "name": "@carleygoodmenu",
+          "followers": "约3.2万",
+          "why": "妈妈生活方式和真实日常"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast",
+      "titleZh": "短视频趋势：英格兰锤击克罗地亚和曼城的吸引力：《足球周刊》–播客",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and Robyn Cowen as England thrash Croatia 7 (seven) nil Rate, review, share on Apple Podcasts and join the conversation on email ...",
+      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson和Robyn Cowen一起参加了英格兰对克罗地亚7 (seven) nil的抨击、评测、在Apple播客上分享，并通过电子邮件加入对话……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/oct/05/england-hammer-croatia-and-manchester-city-get-their-appeal-on-football-weekly-podcast"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -314,7 +348,7 @@
       "title": "短视频趋势：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
       "titleZh": "短视频趋势：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 89,
+      "heat": 87,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
       "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
@@ -327,19 +361,19 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -348,7 +382,7 @@
       "title": "短视频趋势：‘Mum, where did my Robux go?’ The Roblox scam targeting children",
       "titleZh": "短视频趋势：（妈妈，我的Robux去哪儿了？ “Roblox针对儿童的骗局",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Criminals are trying to glean login details to harvest players’ in-game currency and personal data Your 10-year-old son has started playing Roblox, when he realises all of his in-game curren...",
       "summaryZh": "中文翻译：犯罪分子正试图收集登录详细信息，以收集玩家的游戏内货币和个人数据您10岁的儿子已经开始玩Roblox ，当时他意识到他所有的游戏内货币...",
@@ -379,35 +413,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘We are in a kind of war’: row over viral Amsterdam chip shop lands in court",
-      "titleZh": "短视频趋势：“我们正处于一场战争中” ：在阿姆斯特丹病毒式芯片店的争吵在法庭上落地",
+      "title": "短视频趋势：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
+      "titleZh": "短视频趋势：谁拥有“脑腐烂” ？关于心爱的模因的国际法律戏剧",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Neighbours say crowds drawn by TikTok to Fabel Friet are clogging the picturesque canal street and attracting litter, gulls and rats People living in one of Amsterdam’s most exclusive neighb...",
-      "summaryZh": "中文翻译：邻居们说，被TikTok吸引到Fabel Friet的人群正在堵塞风景如画的运河街道，吸引着垃圾、海鸥和老鼠居住在阿姆斯特丹最独特的邻居之一的人们……",
+      "heat": 82,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of onl...",
+      "summaryZh": "中文翻译：美国的版权法仅适用于人造作品，但像Tung Tung Tung Sahur这样的人工智能角色正在挑战荒谬的单一类型中最受欢迎的角色之一......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/04/viral-amsterdam-chip-shop-court-fabel-friet"
+          "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video"
         }
       ],
       "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@exploraX_",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -429,53 +463,19 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
-      "titleZh": "短视频趋势：每个圣人都有过去：城市第一起丑闻的核心人物如何成为联合英雄|肖恩·英格尔",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Billy Meredith helped win City their first major honours more than a hundred years ago, was banned by the FA – then went and repeated the trick on the red side of Manchester When the Manches...",
-      "summaryZh": "中文翻译：比利·梅雷迪思（ Billy Meredith ）在一百多年前帮助曼城赢得了他们的第一个主要荣誉，被英足总禁止–然后在曼彻斯特的红色一面重复了这个技巧。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906"
-        }
-      ],
-      "accounts": [
+        },
         {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -515,69 +515,69 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
-      "titleZh": "社区话题：贝灵厄姆在高档英格兰脱颖而出，但欧足联发出了关于种族主义的错误信息| Barney Ronay",
+      "title": "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
+      "titleZh": "社区话题：谁拥有“脑腐烂” ？关于心爱的模因的国际法律戏剧",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 77,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Allowing children in after a ban on adult fans was wrong in the extreme but on the pitch England showed genuine class So … can we play another World Cup, then? Can we just undo and rewind? F...",
-      "summaryZh": "中文翻译：在禁止成人球迷之后允许儿童参加比赛在极端情况下是错误的，但在球场上，英格兰队表现出了真正的阶级那么……那么我们可以再参加一次世界杯吗？我们可以撤消和后退吗？ F...",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of onl...",
+      "summaryZh": "中文翻译：美国的版权法仅适用于人造作品，但像Tung Tung Tung Sahur这样的人工智能角色正在挑战荒谬的单一类型中最受欢迎的角色之一......",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
-      "titleZh": "社区话题：每个圣人都有过去：城市第一起丑闻的核心人物如何成为联合英雄|肖恩·英格尔",
+      "title": "社区话题：Ofcom investigates Meta over Instagram Instants safety checks",
+      "titleZh": "社区话题：Ofcom通过Instagram Instants安全检查调查Meta",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
+      "heat": 69,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Billy Meredith helped win City their first major honours more than a hundred years ago, was banned by the FA – then went and repeated the trick on the red side of Manchester When the Manches...",
-      "summaryZh": "中文翻译：比利·梅雷迪思（ Billy Meredith ）在一百多年前帮助曼城赢得了他们的第一个主要荣誉，被英足总禁止–然后在曼彻斯特的红色一面重复了这个技巧。",
+      "summary": "公开来源显示该议题正在发酵：Watchdog examining whether company carried out adequate risk assessment as required by Online Safety Act Mark Zuckerberg’s Meta is under investigation for a potential breach of the UK’s digi...",
+      "summaryZh": "中文翻译：监督机构正在审查公司是否按照《在线安全法》的要求进行了充分的风险评估，马克·扎克伯格的Meta因可能违反英国的数字...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -617,6 +617,11 @@
     }
   ],
   "audienceMap": {
+    "实时讨论：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
@@ -627,12 +632,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：‘We are in a kind of war’: row over viral Amsterdam chip shop lands in court": {
+    "实时讨论：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,25 +642,30 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：Internet Watch Foundation reports huge rise in AI child sexual abuse material": {
+    "视觉热点：Ofcom investigates Meta over Instagram Instants safety checks": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models": {
+    "视觉热点：Friends of Nolan Wells sue NFL Hall of Famer Terrell Owens for defamation": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Sign up to the Sport in Focus newsletter: the sporting week in photos": {
+    "视觉热点：England 3-0 Czechia: Nations League football – as it happened": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.": {
+    "视觉热点：Silver Pines review – a stylish, neo-noir detective drama": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "短视频趋势：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
@@ -672,7 +677,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘We are in a kind of war’: row over viral Amsterdam chip shop lands in court": {
+    "短视频趋势：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,22 +687,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay": {
+    "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle": {
+    "社区话题：Ofcom investigates Meta over Instagram Instants safety checks": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
