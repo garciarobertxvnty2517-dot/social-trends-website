@@ -1,14 +1,48 @@
 {
-  "generatedAt": "2026-10-10T07:09:25.117075+00:00",
-  "generatedAtBeijing": "2026-10-10 15:09",
+  "generatedAt": "2026-10-11T07:13:09.032338+00:00",
+  "generatedAtBeijing": "2026-10-11 15:13",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
+    {
+      "platform": "x",
+      "title": "实时讨论：Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?",
+      "titleZh": "实时讨论：父母担心YouTube用户会给Netflix带来“大脑腐烂”。但是，孩子们是否明智地接受了“堕落” ？",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 76,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：As streamers poach viral creators to appeal to children, digital whack-a-mole has become a new kind of family challenge Exasperated dad Simon Hooper shakes his fist at the camera in a viral ...",
+      "summaryZh": "中文翻译：随着流媒体偷猎病毒创作者吸引儿童，数字黑客已经成为一种新的家庭挑战，愤怒的爸爸西蒙·胡珀（ Simon Hooper ）在病毒中对着相机挥舞着拳头……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
     {
       "platform": "x",
       "title": "实时讨论：Mike Ditka, legendary Chicago Bears head coach, dies aged 86",
       "titleZh": "实时讨论：传奇芝加哥熊队主教练Mike Ditka去世，享年86岁",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Hall of Famer led 1985 Bears to Super Bowl title Coach was known for tough, gruff demeanor The Super Bowl Shuffle to SNL: a life in pictures Mike Ditka, who won NFL titles as a player and co...",
       "summaryZh": "中文翻译：名人堂成员带领1985年熊队进入超级碗冠军教练以强硬而粗暴的举止而闻名超级碗向SNL洗牌：照片中的生活迈克·迪特卡（ Mike Ditka ）作为球员和球员赢得了NFL冠军......",
@@ -21,9 +55,9 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@goalflexo",
@@ -31,9 +65,9 @@
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -42,7 +76,7 @@
       "title": "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "实时讨论：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -60,14 +94,14 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -76,7 +110,7 @@
       "title": "实时讨论：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast",
       "titleZh": "实时讨论：英格兰锤击克罗地亚和曼城的吸引力：《足球周刊》–播客",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
+      "heat": 72,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and Robyn Cowen as England thrash Croatia 7 (seven) nil Rate, review, share on Apple Podcasts and join the conversation on email ...",
       "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson和Robyn Cowen一起参加了英格兰对克罗地亚7 (seven) nil的抨击、评测、在Apple播客上分享，并通过电子邮件加入对话……",
@@ -89,77 +123,9 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
-      "titleZh": "实时讨论：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
-      "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
-      "titleZh": "实时讨论：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
-      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@igoeLFC",
@@ -167,9 +133,43 @@
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw",
+      "titleZh": "实时讨论：欧洲足球：戈登提升巴塞罗那，诺伊尔失误让拜仁在平局中付出代价",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 85,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Barcelona 3-0 Getafe, Inter 3-0 Parma, PSG 3-1 Le Mans Bayern concede fastest Bundesliga goal in Augsburg draw Anthony Gordon scored his first goal for Barcelona as they extended their perfe...",
+      "summaryZh": "中文翻译：巴塞罗那3-0赫塔菲、国际米兰3-0帕尔马、巴黎圣日耳曼3-1拜仁在奥格斯堡平局中承认了德甲最快的进球安东尼·戈登在他们延长他们的完美进球时为巴塞罗那打进了他的第一个进球...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -209,78 +209,10 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
-      "titleZh": "视觉热点：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 91,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
-      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Sergio Camello: ‘Rayo is the last team standing – it’s football from another time’",
-      "titleZh": "视觉热点：Sergio Camello ： “Rayo是最后一支站着的球队–这是另一个时代的足球”",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Rayo Vallecano’s fascinating forward on his unique club, his musical passions and the goalscoring form that puts him among Europe’e elite An 11-year-old, second-hand VW Beetle with more than...",
-      "summaryZh": "中文翻译：Rayo Vallecano在他独特的俱乐部、他的音乐热情以及使他成为欧洲精英的射门形式方面的迷人前锋一位11岁的二手大众甲壳虫，拥有超过...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/08/sergio-camello-rayo-vallecano-la-liga-interview"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
       "title": "视觉热点：End Of Abyss review – a creepy dollhouse take on Resident Evil and The Thing",
       "titleZh": "视觉热点：深渊尽头评论–令人毛骨悚然的娃娃屋呈现Resident Evil和The Thing",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 77,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：PlayStation 5 (version played), Xbox, PC; Epic Games Publishing This fetchingly presented horror game brings style and scares, but overextends itself with repetition A small band of soldiers...",
       "summaryZh": "中文翻译：PlayStation 5 （已播放版本）、Xbox、PC ；史诗游戏发行这款引人入胜的恐怖游戏带来了风格和恐惧，但重复过度扩展了自身一小群士兵……",
@@ -298,14 +230,116 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa",
+      "titleZh": "视觉热点：伊普斯维奇眩晕富勒姆，最后一击卷土重来，增加阿尔贝洛亚的热量",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Álvaro Arbeloa bristled at suggestions he cannot handle the pressure after Fulham’s at Ipswich extended their winless start in the Premier League to six matches. The former Real Madrid manag...",
+      "summaryZh": "中文翻译：阿尔瓦罗·阿贝洛亚（ Álvaro Arbeloa ）对富勒姆（ Fulham ）在伊普斯维奇（ Ipswich ）将英超联赛的无胜开局延长至六场比赛的建议感到愤怒，他无法应对压力。前皇家马德里管理层……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/10/ipswich-fulham-premier-league-match-report"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Silver Pines review – a stylish, neo-noir detective drama",
+      "titleZh": "视觉热点：Silver Pines评论–时尚的新黑色侦探剧",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：PC, PS5, Switch 2; Wych Elm Games, Team 17 Abandoned shops, ruined apartment buildings and rotting sewer networks make up a dark landscape in which you play a private eye searching for a mis...",
+      "summaryZh": "中文翻译：PC、PS5、Switch 2 ； Wych Elm Games、Team 17废弃的商店、废弃的公寓楼和腐烂的下水道网络构成了一个黑暗的景观，在这个景观中，您扮演着寻找错误的私人眼睛……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ciarachanelself",
+          "followers": "约6.1万",
+          "why": "生活化短内容和亲和力"
+        },
+        {
+          "name": "@biancamillerwrites",
+          "followers": "约2万",
+          "why": "生活方式/写作者个人叙事"
+        },
+        {
+          "name": "@carleygoodmenu",
+          "followers": "约3.2万",
+          "why": "妈妈生活方式和真实日常"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?",
+      "titleZh": "短视频趋势：父母担心YouTube用户会给Netflix带来“大脑腐烂”。但是，孩子们是否明智地接受了“堕落” ？",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 90,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：As streamers poach viral creators to appeal to children, digital whack-a-mole has become a new kind of family challenge Exasperated dad Simon Hooper shakes his fist at the camera in a viral ...",
+      "summaryZh": "中文翻译：随着流媒体偷猎病毒创作者吸引儿童，数字黑客已经成为一种新的家庭挑战，愤怒的爸爸西蒙·胡珀（ Simon Hooper ）在病毒中对着相机挥舞着拳头……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -314,7 +348,7 @@
       "title": "短视频趋势：Mike Ditka, legendary Chicago Bears head coach, dies aged 86",
       "titleZh": "短视频趋势：传奇芝加哥熊队主教练Mike Ditka去世，享年86岁",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
+      "heat": 77,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Hall of Famer led 1985 Bears to Super Bowl title Coach was known for tough, gruff demeanor The Super Bowl Shuffle to SNL: a life in pictures Mike Ditka, who won NFL titles as a player and co...",
       "summaryZh": "中文翻译：名人堂成员带领1985年熊队进入超级碗冠军教练以强硬而粗暴的举止而闻名超级碗向SNL洗牌：照片中的生活迈克·迪特卡（ Mike Ditka ）作为球员和球员赢得了NFL冠军......",
@@ -327,19 +361,19 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -348,7 +382,7 @@
       "title": "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "短视频趋势：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
+      "heat": 85,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -361,6 +395,11 @@
       ],
       "accounts": [
         {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
@@ -369,11 +408,6 @@
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -382,7 +416,7 @@
       "title": "短视频趋势：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast",
       "titleZh": "短视频趋势：英格兰锤击克罗地亚和曼城的吸引力：《足球周刊》–播客",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
+      "heat": 69,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and Robyn Cowen as England thrash Croatia 7 (seven) nil Rate, review, share on Apple Podcasts and join the conversation on email ...",
       "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson和Robyn Cowen一起参加了英格兰对克罗地亚7 (seven) nil的抨击、评测、在Apple播客上分享，并通过电子邮件加入对话……",
@@ -395,36 +429,70 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
-      "titleZh": "短视频趋势：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
+      "title": "短视频趋势：European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw",
+      "titleZh": "短视频趋势：欧洲足球：戈登提升巴塞罗那，诺伊尔失误让拜仁在平局中付出代价",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
-      "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Barcelona 3-0 Getafe, Inter 3-0 Parma, PSG 3-1 Le Mans Bayern concede fastest Bundesliga goal in Augsburg draw Anthony Gordon scored his first goal for Barcelona as they extended their perfe...",
+      "summaryZh": "中文翻译：巴塞罗那3-0赫塔菲、国际米兰3-0帕尔马、巴黎圣日耳曼3-1拜仁在奥格斯堡平局中承认了德甲最快的进球安东尼·戈登在他们延长他们的完美进球时为巴塞罗那打进了他的第一个进球...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?",
+      "titleZh": "社区话题：父母担心YouTube用户会给Netflix带来“大脑腐烂”。但是，孩子们是否明智地接受了“堕落” ？",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 84,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：As streamers poach viral creators to appeal to children, digital whack-a-mole has become a new kind of family challenge Exasperated dad Simon Hooper shakes his fist at the camera in a viral ...",
+      "summaryZh": "中文翻译：随着流媒体偷猎病毒创作者吸引儿童，数字黑客已经成为一种新的家庭挑战，愤怒的爸爸西蒙·胡珀（ Simon Hooper ）在病毒中对着相机挥舞着拳头……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation"
+          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop"
         }
       ],
       "accounts": [
@@ -434,48 +502,14 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
-      "titleZh": "短视频趋势：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
-      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -484,7 +518,7 @@
       "title": "社区话题：Mike Ditka, legendary Chicago Bears head coach, dies aged 86",
       "titleZh": "社区话题：传奇芝加哥熊队主教练Mike Ditka去世，享年86岁",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
+      "heat": 85,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Hall of Famer led 1985 Bears to Super Bowl title Coach was known for tough, gruff demeanor The Super Bowl Shuffle to SNL: a life in pictures Mike Ditka, who won NFL titles as a player and co...",
       "summaryZh": "中文翻译：名人堂成员带领1985年熊队进入超级碗冠军教练以强硬而粗暴的举止而闻名超级碗向SNL洗牌：照片中的生活迈克·迪特卡（ Mike Ditka ）作为球员和球员赢得了NFL冠军......",
@@ -497,6 +531,11 @@
       ],
       "accounts": [
         {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
@@ -505,11 +544,6 @@
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -518,7 +552,7 @@
       "title": "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "社区话题：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -531,9 +565,9 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Bennettxai",
@@ -541,9 +575,9 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -552,7 +586,7 @@
       "title": "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
       "titleZh": "社区话题：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 85,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
       "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
@@ -570,53 +604,24 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
-      "titleZh": "社区话题：如何最好地惩罚城市？赔偿而不是报复，然后将球杆交给球迷| Jonathan Liew",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original p...",
-      "summaryZh": "中文翻译：没有真正的先例，情绪仍然是原始的，但如果所有权模式改变17年的转让禁运，这种混乱可能会带来好处。用所有原始页面重放整个时代……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     }
   ],
   "audienceMap": {
+    "实时讨论：Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Mike Ditka, legendary Chicago Bears head coach, dies aged 86": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
@@ -632,12 +637,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew": {
+    "实时讨论：European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,20 +647,25 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Sergio Camello: ‘Rayo is the last team standing – it’s football from another time’": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "视觉热点：End Of Abyss review – a creepy dollhouse take on Resident Evil and The Thing": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Silver Pines review – a stylish, neo-noir detective drama": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "短视频趋势：Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：Mike Ditka, legendary Chicago Bears head coach, dies aged 86": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
@@ -677,15 +682,15 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
+    "短视频趋势：European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "社区话题：Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Mike Ditka, legendary Chicago Bears head coach, dies aged 86": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
@@ -698,11 +703,6 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
