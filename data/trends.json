@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T07:22:51.349472+00:00",
-  "generatedAtBeijing": "2026-10-12 15:22",
+  "generatedAt": "2026-10-13T07:43:19.361239+00:00",
+  "generatedAtBeijing": "2026-10-13 15:43",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,10 +39,44 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use",
+      "titleZh": "实时讨论：“我变得更加谨慎” ：六位家长限制孩子使用社交媒体和人工智能",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Quite a few parents aren’t convinced social media and AI are safe, and have been adapting accordingly When it comes to their kids, many parents don’t trust tech companies any more. Social me...",
+      "summaryZh": "中文翻译：相当多的家长不相信社交媒体和人工智能是安全的，并且一直在相应地进行调整。当涉及到他们的孩子时，许多家长不再信任科技公司。社交我...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "实时讨论：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -60,14 +94,14 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -76,7 +110,7 @@
       "title": "实时讨论：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast",
       "titleZh": "实时讨论：英格兰锤击克罗地亚和曼城的吸引力：《足球周刊》–播客",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
+      "heat": 72,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and Robyn Cowen as England thrash Croatia 7 (seven) nil Rate, review, share on Apple Podcasts and join the conversation on email ...",
       "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson和Robyn Cowen一起参加了英格兰对克罗地亚7 (seven) nil的抨击、评测、在Apple播客上分享，并通过电子邮件加入对话……",
@@ -89,19 +123,19 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -110,7 +144,7 @@
       "title": "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
       "titleZh": "实时讨论：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
       "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
@@ -136,40 +170,6 @@
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
-      "titleZh": "实时讨论：为什么我们被困在全球超级富豪的魔掌中|乔纳森·威尔逊",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in Lond...",
-      "summaryZh": "中文翻译：在一个张开双臂欢迎富有的国际业主的国家，这种模式几乎没有改变的前景。足球是世界上最受欢迎的运动，由伦敦制定的法律进行......",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -243,35 +243,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa",
-      "titleZh": "视觉热点：伊普斯维奇眩晕富勒姆，最后一击卷土重来，增加阿尔贝洛亚的热量",
+      "title": "视觉热点：Six questions facing England as they target next year’s Women’s World Cup",
+      "titleZh": "视觉热点：英格兰在明年女足世界杯上面临的六个问题",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
+      "heat": 73,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Álvaro Arbeloa bristled at suggestions he cannot handle the pressure after Fulham’s at Ipswich extended their winless start in the Premier League to six matches. The former Real Madrid manag...",
-      "summaryZh": "中文翻译：阿尔瓦罗·阿贝洛亚（ Álvaro Arbeloa ）对富勒姆（ Fulham ）在伊普斯维奇（ Ipswich ）将英超联赛的无胜开局延长至六场比赛的建议感到愤怒，他无法应对压力。前皇家马德里管理层……",
+      "summary": "公开来源显示该议题正在发酵：Starting positions at centre-back and No 10 are up for grabs, while Sarina Wiegman’s future continues to be in the air England have two jobs to do on Tuesday. The first, avoiding an almighty...",
+      "summaryZh": "中文翻译：中后卫和10号的首发位置有待争夺，而Sarina Wiegman的未来仍然在英格兰空中，周二有两项工作要做。第一，避开全能者……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/10/ipswich-fulham-premier-league-match-report"
+          "url": "https://www.theguardian.com/football/2026/oct/12/england-next-summer-womens-world-cup"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -345,10 +345,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use",
+      "titleZh": "短视频趋势：“我变得更加谨慎” ：六位家长限制孩子使用社交媒体和人工智能",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 84,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Quite a few parents aren’t convinced social media and AI are safe, and have been adapting accordingly When it comes to their kids, many parents don’t trust tech companies any more. Social me...",
+      "summaryZh": "中文翻译：相当多的家长不相信社交媒体和人工智能是安全的，并且一直在相应地进行调整。当涉及到他们的孩子时，许多家长不再信任科技公司。社交我...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "短视频趋势：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
+      "heat": 85,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -361,6 +395,11 @@
       ],
       "accounts": [
         {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
@@ -369,11 +408,6 @@
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -382,7 +416,7 @@
       "title": "短视频趋势：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast",
       "titleZh": "短视频趋势：英格兰锤击克罗地亚和曼城的吸引力：《足球周刊》–播客",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
+      "heat": 69,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and Robyn Cowen as England thrash Croatia 7 (seven) nil Rate, review, share on Apple Podcasts and join the conversation on email ...",
       "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson和Robyn Cowen一起参加了英格兰对克罗地亚7 (seven) nil的抨击、评测、在Apple播客上分享，并通过电子邮件加入对话……",
@@ -395,19 +429,19 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -416,7 +450,7 @@
       "title": "短视频趋势：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
       "titleZh": "短视频趋势：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
       "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
@@ -434,48 +468,14 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
-      "titleZh": "短视频趋势：为什么我们被困在全球超级富豪的魔掌中|乔纳森·威尔逊",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in Lond...",
-      "summaryZh": "中文翻译：在一个张开双臂欢迎富有的国际业主的国家，这种模式几乎没有改变的前景。足球是世界上最受欢迎的运动，由伦敦制定的法律进行......",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -515,10 +515,44 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use",
+      "titleZh": "社区话题：“我变得更加谨慎” ：六位家长限制孩子使用社交媒体和人工智能",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Quite a few parents aren’t convinced social media and AI are safe, and have been adapting accordingly When it comes to their kids, many parents don’t trust tech companies any more. Social me...",
+      "summaryZh": "中文翻译：相当多的家长不相信社交媒体和人工智能是安全的，并且一直在相应地进行调整。当涉及到他们的孩子时，许多家长不再信任科技公司。社交我...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "社区话题：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
+      "heat": 70,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -531,9 +565,9 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Bennettxai",
@@ -541,9 +575,9 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -552,7 +586,7 @@
       "title": "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
       "titleZh": "社区话题：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 85,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
       "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
@@ -570,54 +604,25 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
-      "titleZh": "社区话题：谁拥有“脑腐烂” ？关于心爱的模因的国际法律戏剧",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 71,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of onl...",
-      "summaryZh": "中文翻译：美国的版权法仅适用于人造作品，但像Tung Tung Tung Sahur这样的人工智能角色正在挑战荒谬的单一类型中最受欢迎的角色之一......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     }
   ],
   "audienceMap": {
     "实时讨论：Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,11 +642,6 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "视觉热点：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
@@ -652,7 +652,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa": {
+    "视觉热点：Six questions facing England as they target next year’s Women’s World Cup": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -663,6 +663,11 @@
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "短视频趋势：Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,12 +687,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "社区话题：Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -698,11 +703,6 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
