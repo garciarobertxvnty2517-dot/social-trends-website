@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T07:43:19.361239+00:00",
-  "generatedAtBeijing": "2026-10-13 15:43",
+  "generatedAt": "2026-10-14T06:09:21.574028+00:00",
+  "generatedAtBeijing": "2026-10-14 14:09",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -73,35 +73,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "实时讨论：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
+      "title": "实时讨论：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
+      "titleZh": "实时讨论：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
+      "heat": 86,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
+      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
+          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -141,18 +141,52 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
-      "titleZh": "实时讨论：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
+      "title": "实时讨论：Potter helps England find magic but World Cup playoff format needs rethink | Tom Garry",
+      "titleZh": "实时讨论：波特帮助英格兰找到魔法，但世界杯季后赛模式需要重新思考|汤姆·加里",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
-      "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Lexi Potter and Lauren James stole the show against Greece but England’s 8-1 aggregate win was one of many lopsided scorelines If there had been a vidiprinter at the King Power Stadium displ...",
+      "summaryZh": "中文翻译：莱克西·波特（ Lexi Potter ）和劳伦·詹姆斯（ Lauren James ）在对阵希腊的比赛中夺冠，但英格兰8-1的胜利是众多不平衡的得分线之一。如果国王权力体育场（ King Power Stadium ）有一个视频打印机……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/13/england-greece-women-world-cup-qualifying-playoffs"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
+      "titleZh": "视觉热点：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
+      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation"
+          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
         }
       ],
       "accounts": [
@@ -162,48 +196,14 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "视觉热点：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -277,35 +277,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Silver Pines review – a stylish, neo-noir detective drama",
-      "titleZh": "视觉热点：Silver Pines评论–时尚的新黑色侦探剧",
+      "title": "视觉热点：Football Daily | Coventry come to life at last – are their slapstick days behind them?",
+      "titleZh": "视觉热点：《足球日报》|考文垂终于栩栩如生–他们的闹剧时代已经过去了吗？",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：PC, PS5, Switch 2; Wych Elm Games, Team 17 Abandoned shops, ruined apartment buildings and rotting sewer networks make up a dark landscape in which you play a private eye searching for a mis...",
-      "summaryZh": "中文翻译：PC、PS5、Switch 2 ； Wych Elm Games、Team 17废弃的商店、废弃的公寓楼和腐烂的下水道网络构成了一个黑暗的景观，在这个景观中，您扮演着寻找错误的私人眼睛……",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! After years of circling the drain, Coventry City didn’t so much drop out of the Premier League 25 years ago as face-plant through its floo...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！经过多年的淘汰赛，考文垂城并没有像25年前那样退出英超联赛，而是通过其流水线进行面部植入......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/13/coventry-city-football-daily-newsletter"
         }
       ],
       "accounts": [
         {
-          "name": "@ciarachanelself",
-          "followers": "约6.1万",
-          "why": "生活化短内容和亲和力"
-        },
-        {
-          "name": "@biancamillerwrites",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "生活方式/写作者个人叙事"
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@carleygoodmenu",
-          "followers": "约3.2万",
-          "why": "妈妈生活方式和真实日常"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -379,18 +379,18 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "短视频趋势：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
+      "title": "短视频趋势：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
+      "titleZh": "短视频趋势：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
+      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
+          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
         }
       ],
       "accounts": [
@@ -400,14 +400,14 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -447,35 +447,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
-      "titleZh": "短视频趋势：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
+      "title": "短视频趋势：Potter helps England find magic but World Cup playoff format needs rethink | Tom Garry",
+      "titleZh": "短视频趋势：波特帮助英格兰找到魔法，但世界杯季后赛模式需要重新思考|汤姆·加里",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
-      "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Lexi Potter and Lauren James stole the show against Greece but England’s 8-1 aggregate win was one of many lopsided scorelines If there had been a vidiprinter at the King Power Stadium displ...",
+      "summaryZh": "中文翻译：莱克西·波特（ Lexi Potter ）和劳伦·詹姆斯（ Lauren James ）在对阵希腊的比赛中夺冠，但英格兰8-1的胜利是众多不平衡的得分线之一。如果国王权力体育场（ King Power Stadium ）有一个视频打印机……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/13/england-greece-women-world-cup-qualifying-playoffs"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -549,26 +549,21 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "社区话题：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
+      "title": "社区话题：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
+      "titleZh": "社区话题：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 70,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
+      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
+          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
         }
       ],
       "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
@@ -578,40 +573,45 @@
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations",
-      "titleZh": "社区话题：Zach Cregger的《生化危机》如何在所有其他游戏改编中脱颖而出",
+      "title": "社区话题：The Hotspot | Alexéi Rojas: ‘I’m passionate about sustainability – I told Arsenal: we need to fix this’",
+      "titleZh": "社区话题：The Hotspot | Alexéi Rojas ： “我对可持续发展充满热情–我告诉阿森纳：我们需要解决这个问题”",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get P...",
-      "summaryZh": "中文翻译：Cregger的改编中没有Leon、Claire或Ada Wong。相反，它重新创造了一些更基本的东西–实际玩游戏的奇怪，可怕的体验•不要让P...",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The 21-year-old goalkeeper wants to impress on football the need to change old habits for the sake of the planet “I’m a bit of an outlier as a person, I like being unique in who I am and wha...",
+      "summaryZh": "中文翻译：这位21岁的守门员想给足球留下深刻的印象，那就是为了地球而改变旧习惯的需要“作为一个人，我有点离群，我喜欢在自己是谁和什么方面都是独一无二的……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/sport/2026/oct/12/alexei-rojas-sustainability-arsenal-environment-hotspot"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     }
@@ -627,7 +627,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
+    "实时讨论：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,12 +637,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
+    "实时讨论：Potter helps England find magic but World Cup playoff format needs rethink | Tom Garry": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
+    "视觉热点：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,7 +657,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Silver Pines review – a stylish, neo-noir detective drama": {
+    "视觉热点：Football Daily | Coventry come to life at last – are their slapstick days behind them?": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -672,7 +672,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
+    "短视频趋势：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,7 +682,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
+    "短视频趋势：Potter helps England find magic but World Cup playoff format needs rethink | Tom Garry": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -697,12 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
+    "社区话题：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：How Zach Cregger’s Resident Evil stands out from all other game adaptations": {
+    "社区话题：The Hotspot | Alexéi Rojas: ‘I’m passionate about sustainability – I told Arsenal: we need to fix this’": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
