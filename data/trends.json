@@ -1,82 +1,14 @@
 {
-  "generatedAt": "2026-10-15T05:54:53.703699+00:00",
-  "generatedAtBeijing": "2026-10-15 13:54",
+  "generatedAt": "2026-10-16T05:52:43.430292+00:00",
+  "generatedAtBeijing": "2026-10-16 13:52",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use",
-      "titleZh": "实时讨论：“我变得更加谨慎” ：六位家长限制孩子使用社交媒体和人工智能",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Quite a few parents aren’t convinced social media and AI are safe, and have been adapting accordingly When it comes to their kids, many parents don’t trust tech companies any more. Social me...",
-      "summaryZh": "中文翻译：相当多的家长不相信社交媒体和人工智能是安全的，并且一直在相应地进行调整。当涉及到他们的孩子时，许多家长不再信任科技公司。社交我...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Manchester United teammates widely share Martínez view that Wilcox is failing",
-      "titleZh": "实时讨论：曼联队友广泛认同马丁内斯的观点，即威尔科克斯正在失败",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Defender challenged, though, by at least one player Later insists on social media: ‘I believe in teammates’ Lisandro Martínez’s view that Jason Wilcox is failing as Manchester United’s direc...",
-      "summaryZh": "中文翻译：不过，至少有一名球员对后卫提出质疑，后来在社交媒体上坚持： “我相信队友”利桑德罗·马丁内斯的观点，即杰森·威尔科克斯作为曼联的直接领导失败了……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/oct/14/lisandro-martinez-jason-wilcox-manchester-united-dressing-room"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
       "titleZh": "实时讨论：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 86,
+      "heat": 90,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
       "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
@@ -94,14 +26,14 @@
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -110,7 +42,7 @@
       "title": "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "实时讨论：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
+      "heat": 72,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -141,21 +73,94 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast",
-      "titleZh": "实时讨论：英格兰锤击克罗地亚和曼城的吸引力：《足球周刊》–播客",
+      "title": "实时讨论：Manchester City are suddenly box-office in age of charge-rage and mega defiance | Barney Ronay",
+      "titleZh": "实时讨论：在充满愤怒和巨大反抗的时代，曼城突然成为票房| Barney Ronay",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
+      "heat": 88,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and Robyn Cowen as England thrash Croatia 7 (seven) nil Rate, review, share on Apple Podcasts and join the conversation on email ...",
-      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson和Robyn Cowen一起参加了英格兰对克罗地亚7 (seven) nil的抨击、评测、在Apple播客上分享，并通过电子邮件加入对话……",
+      "summary": "公开来源显示该议题正在发酵：This is by far the most interesting this club have ever been and they faced PSG, a kind of twin entity in all this as oil state glove puppets Another day, another note of unreality; another ...",
+      "summaryZh": "中文翻译：这是迄今为止这个俱乐部有史以来最有趣的一次，他们面对的是巴黎圣日耳曼，这是一个双胞胎实体，作为石油国家手套木偶。另一天，另一个不真实的音符;另一个...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/oct/05/england-hammer-croatia-and-manchester-city-get-their-appeal-on-football-weekly-podcast"
+          "url": "https://www.theguardian.com/football/2026/oct/15/manchester-city-paris-saint-germain-psg-champions-league"
         }
       ],
       "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
+      "titleZh": "实时讨论：为什么我们被困在全球超级富豪的魔掌中|乔纳森·威尔逊",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in Lond...",
+      "summaryZh": "中文翻译：在一个张开双臂欢迎富有的国际业主的国家，这种模式几乎没有改变的前景。足球是世界上最受欢迎的运动，由伦敦制定的法律进行......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
+      "titleZh": "实时讨论：PSG PUMMEL MANCHESTER CITY ， VILLA和LIVERPOOL HIT SIX ： FOOTBALL WEEKLY EXTRA",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdict Rate, review, share ...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、尼克·艾姆斯（ Nick Ames ）和尼基·班迪尼（ Nicky Bandini ）一起参加了自英超联赛有罪判决以来的第一场主场比赛，这是PSG对曼城的抨击",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/oct/15/psg-pummel-manchester-city-villa-and-liverpool-hit-six-football-weekly-extra-podcast"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
@@ -165,11 +170,6 @@
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -277,18 +277,290 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Football Daily | Coventry come to life at last – are their slapstick days behind them?",
-      "titleZh": "视觉热点：《足球日报》|考文垂终于栩栩如生–他们的闹剧时代已经过去了吗？",
+      "title": "视觉热点：Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter",
+      "titleZh": "视觉热点：曼城在安菲尔德的公开羞辱中摆脱混乱和争议|安迪·亨特",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! After years of circling the drain, Coventry City didn’t so much drop out of the Premier League 25 years ago as face-plant through its floo...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！经过多年的淘汰赛，考文垂城并没有像25年前那样退出英超联赛，而是通过其流水线进行面部植入......",
+      "heat": 68,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where...",
+      "summaryZh": "中文翻译：被称为英超联赛冠军清算日的东西变成了周日下午的漫步，安菲尔德欢迎曼城来到他们的新现实，一个肮脏的地方......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/13/coventry-city-football-daily-newsletter"
+          "url": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
+      "titleZh": "短视频趋势：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
+      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
+      "titleZh": "短视频趋势：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 87,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
+      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Manchester City are suddenly box-office in age of charge-rage and mega defiance | Barney Ronay",
+      "titleZh": "短视频趋势：在充满愤怒和巨大反抗的时代，曼城突然成为票房| Barney Ronay",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 86,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：This is by far the most interesting this club have ever been and they faced PSG, a kind of twin entity in all this as oil state glove puppets Another day, another note of unreality; another ...",
+      "summaryZh": "中文翻译：这是迄今为止这个俱乐部有史以来最有趣的一次，他们面对的是巴黎圣日耳曼，这是一个双胞胎实体，作为石油国家手套木偶。另一天，另一个不真实的音符;另一个...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/15/manchester-city-paris-saint-germain-psg-champions-league"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
+      "titleZh": "短视频趋势：为什么我们被困在全球超级富豪的魔掌中|乔纳森·威尔逊",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in Lond...",
+      "summaryZh": "中文翻译：在一个张开双臂欢迎富有的国际业主的国家，这种模式几乎没有改变的前景。足球是世界上最受欢迎的运动，由伦敦制定的法律进行......",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
+      "titleZh": "短视频趋势：PSG PUMMEL MANCHESTER CITY ， VILLA和LIVERPOOL HIT SIX ： FOOTBALL WEEKLY EXTRA",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdict Rate, review, share ...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、尼克·艾姆斯（ Nick Ames ）和尼基·班迪尼（ Nicky Bandini ）一起参加了自英超联赛有罪判决以来的第一场主场比赛，这是PSG对曼城的抨击",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/oct/15/psg-pummel-manchester-city-villa-and-liverpool-hit-six-football-weekly-extra-podcast"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
+      "titleZh": "社区话题：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
+      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
+      "titleZh": "社区话题：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
+      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
+      "titleZh": "社区话题：PSG PUMMEL MANCHESTER CITY ， VILLA和LIVERPOOL HIT SIX ： FOOTBALL WEEKLY EXTRA",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdict Rate, review, share ...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、尼克·艾姆斯（ Nick Ames ）和尼基·班迪尼（ Nicky Bandini ）一起参加了自英超联赛有罪判决以来的第一场主场比赛，这是PSG对曼城的抨击",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/oct/15/psg-pummel-manchester-city-villa-and-liverpool-hit-six-football-weekly-extra-podcast"
         }
       ],
       "accounts": [
@@ -298,335 +570,53 @@
           "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use",
-      "titleZh": "短视频趋势：“我变得更加谨慎” ：六位家长限制孩子使用社交媒体和人工智能",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "platform": "facebook",
+      "title": "社区话题：Australia 24-22 New Zealand: men’s Rugby League World Cup – as it happened",
+      "titleZh": "社区话题：澳大利亚24-22新西兰：男子橄榄球联赛世界杯–如愿以偿",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 86,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Quite a few parents aren’t convinced social media and AI are safe, and have been adapting accordingly When it comes to their kids, many parents don’t trust tech companies any more. Social me...",
-      "summaryZh": "中文翻译：相当多的家长不相信社交媒体和人工智能是安全的，并且一直在相应地进行调整。当涉及到他们的孩子时，许多家长不再信任科技公司。社交我...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Manchester United teammates widely share Martínez view that Wilcox is failing",
-      "titleZh": "短视频趋势：曼联队友广泛认同马丁内斯的观点，即威尔科克斯正在失败",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Defender challenged, though, by at least one player Later insists on social media: ‘I believe in teammates’ Lisandro Martínez’s view that Jason Wilcox is failing as Manchester United’s direc...",
-      "summaryZh": "中文翻译：不过，至少有一名球员对后卫提出质疑，后来在社交媒体上坚持： “我相信队友”利桑德罗·马丁内斯的观点，即杰森·威尔科克斯作为曼联的直接领导失败了……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Kangaroos snatch victory from Kiwis in opener at Allianz Stadium Jack Bostock scores hat-trick of tries on debut for Australia Tonight’s referee is Adam Gee , the man in the middle of the re...",
+      "summaryZh": "中文翻译：袋鼠在安联体育场的揭幕战中从新西兰人手中夺取胜利杰克·博斯托克在澳大利亚首次亮相时获得了帽子戏法今晚的裁判是亚当·吉（ Adam Gee ） ，他是...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/football/2026/oct/14/lisandro-martinez-jason-wilcox-manchester-united-dressing-room"
+          "url": "https://www.theguardian.com/sport/live/2026/oct/15/australia-vs-new-zealand-mens-rugby-league-world-cup-live-updates"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
-      "titleZh": "短视频趋势：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
-      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "短视频趋势：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast",
-      "titleZh": "短视频趋势：英格兰锤击克罗地亚和曼城的吸引力：《足球周刊》–播客",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and Robyn Cowen as England thrash Croatia 7 (seven) nil Rate, review, share on Apple Podcasts and join the conversation on email ...",
-      "summaryZh": "中文翻译：Max Rushden与Barry Glendenning、Jonathan Wilson和Robyn Cowen一起参加了英格兰对克罗地亚7 (seven) nil的抨击、评测、在Apple播客上分享，并通过电子邮件加入对话……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/oct/05/england-hammer-croatia-and-manchester-city-get-their-appeal-on-football-weekly-podcast"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use",
-      "titleZh": "社区话题：“我变得更加谨慎” ：六位家长限制孩子使用社交媒体和人工智能",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Quite a few parents aren’t convinced social media and AI are safe, and have been adapting accordingly When it comes to their kids, many parents don’t trust tech companies any more. Social me...",
-      "summaryZh": "中文翻译：相当多的家长不相信社交媒体和人工智能是安全的，并且一直在相应地进行调整。当涉及到他们的孩子时，许多家长不再信任科技公司。社交我...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
-      "titleZh": "社区话题：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
-      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "社区话题：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 70,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
-      "titleZh": "社区话题：谁拥有“脑腐烂” ？关于心爱的模因的国际法律戏剧",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 71,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of onl...",
-      "summaryZh": "中文翻译：美国的版权法仅适用于人造作品，但像Tung Tung Tung Sahur这样的人工智能角色正在挑战荒谬的单一类型中最受欢迎的角色之一......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Manchester United teammates widely share Martínez view that Wilcox is failing": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
@@ -637,7 +627,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast": {
+    "实时讨论：Manchester City are suddenly box-office in age of charge-rage and mega defiance | Barney Ronay": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -657,20 +657,10 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Football Daily | Coventry come to life at last – are their slapstick days behind them?": {
+    "视觉热点：Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "短视频趋势：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Manchester United teammates widely share Martínez view that Wilcox is failing": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
@@ -682,15 +672,20 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：England hammer Croatia and Manchester City get their appeal on: Football Weekly – podcast": {
+    "短视频趋势：Manchester City are suddenly box-office in age of charge-rage and mega defiance | Barney Ronay": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "社区话题：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
@@ -702,7 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme": {
+    "社区话题：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Australia 24-22 New Zealand: men’s Rugby League World Cup – as it happened": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
