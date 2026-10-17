@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T05:52:43.430292+00:00",
-  "generatedAtBeijing": "2026-10-16 13:52",
+  "generatedAt": "2026-10-17T05:36:47.682803+00:00",
+  "generatedAtBeijing": "2026-10-17 13:36",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -243,69 +243,69 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：End of Abyss review – a creepy dollhouse take on Resident Evil and The Thing",
-      "titleZh": "视觉热点：深渊终结评论–令人毛骨悚然的娃娃屋呈现Resident Evil和The Thing",
+      "title": "视觉热点：How to dress a tech oligarch: The Social Reckoning’s costume designer on Zuckerberg’s style evolution",
+      "titleZh": "视觉热点：如何为科技寡头打扮：《社会清算》杂志关于扎克伯格风格演变的服装设计师",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 83,
+      "heat": 82,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：PlayStation 5 (version played), Xbox, PC; Epic Games Publishing This fetchingly presented horror game brings style and scares, but overextends itself with repetition A small band of soldiers...",
-      "summaryZh": "中文翻译：PlayStation 5 （已播放版本）、Xbox、PC ；史诗游戏发行这款引人入胜的恐怖游戏带来了风格和恐惧，但重复过度扩展了自身一小群士兵……",
+      "summary": "公开来源显示该议题正在发酵：Susan Lyall worked with actor Jeremy Strong to research the Meta CEO’s favorite Nikes and luxury sweaters The first Aaron Sorkin Facebook movie, 2010’s The Social Network, helped cement the ...",
+      "summaryZh": "中文翻译：苏珊·莱尔（ Susan Lyall ）与演员杰里米·斯特朗（ Jeremy Strong ）合作，研究了Meta首席执行官最喜欢的耐克和奢侈品毛衣。第一部Aaron Sorkin的Facebook电影， 2010年的《社交网络》，帮助巩固了......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/oct/09/end-of-abyss-review-playstation-5-xbox-pc"
+          "url": "https://www.theguardian.com/fashion/2026/oct/16/social-reckoning-zuckerberg-fashion-costume-design"
         }
       ],
       "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter",
-      "titleZh": "视觉热点：曼城在安菲尔德的公开羞辱中摆脱混乱和争议|安迪·亨特",
+      "title": "视觉热点：Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+      "titleZh": "视觉热点：司法部正在调查电视网络对特朗普人才库的报道",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 68,
+      "heat": 82,
       "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where...",
-      "summaryZh": "中文翻译：被称为英超联赛冠军清算日的东西变成了周日下午的漫步，安菲尔德欢迎曼城来到他们的新现实，一个肮脏的地方......",
+      "summary": "公开来源显示该议题正在发酵：Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+      "summaryZh": "中文翻译：上周五，主要电视网络被告知，当他们暂停对特朗普总统的泳池报道时，该部门正在审查他们是否违反了反垄断法。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@lifewithmrsjamaica",
+          "followers": "约6万",
+          "why": "家庭日常和社群互动"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@hannahmarieden",
+          "followers": "约2.4万",
+          "why": "亲子活动和家庭生活"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@judge_vondab",
+          "followers": "约5万",
+          "why": "家庭议题和个人故事"
         }
       ]
     },
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Australia 24-22 New Zealand: men’s Rugby League World Cup – as it happened",
-      "titleZh": "社区话题：澳大利亚24-22新西兰：男子橄榄球联赛世界杯–如愿以偿",
+      "title": "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
+      "titleZh": "社区话题：谁拥有“脑腐烂” ？关于心爱的模因的国际法律戏剧",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 86,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Kangaroos snatch victory from Kiwis in opener at Allianz Stadium Jack Bostock scores hat-trick of tries on debut for Australia Tonight’s referee is Adam Gee , the man in the middle of the re...",
-      "summaryZh": "中文翻译：袋鼠在安联体育场的揭幕战中从新西兰人手中夺取胜利杰克·博斯托克在澳大利亚首次亮相时获得了帽子戏法今晚的裁判是亚当·吉（ Adam Gee ） ，他是...",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of onl...",
+      "summaryZh": "中文翻译：美国的版权法仅适用于人造作品，但像Tung Tung Tung Sahur这样的人工智能角色正在挑战荒谬的单一类型中最受欢迎的角色之一......",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/live/2026/oct/15/australia-vs-new-zealand-mens-rugby-league-world-cup-live-updates"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     }
@@ -652,12 +652,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：End of Abyss review – a creepy dollhouse take on Resident Evil and The Thing": {
+    "视觉热点：How to dress a tech oligarch: The Social Reckoning’s costume designer on Zuckerberg’s style evolution": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter": {
+    "视觉热点：Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Australia 24-22 New Zealand: men’s Rugby League World Cup – as it happened": {
+    "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
