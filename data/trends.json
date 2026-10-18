@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T05:36:47.682803+00:00",
-  "generatedAtBeijing": "2026-10-17 13:36",
+  "generatedAt": "2026-10-18T05:55:08.221607+00:00",
+  "generatedAtBeijing": "2026-10-18 13:55",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
-      "titleZh": "社区话题：谁拥有“脑腐烂” ？关于心爱的模因的国际法律戏剧",
+      "title": "社区话题：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
+      "titleZh": "社区话题：《足球日报》|沃特福德， “假新闻”解雇并向埃尔顿·约翰道歉",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 71,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of onl...",
-      "summaryZh": "中文翻译：美国的版权法仅适用于人造作品，但像Tung Tung Tung Sahur这样的人工智能角色正在挑战荒谬的单一类型中最受欢迎的角色之一......",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Football Daily’s bingo car...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！生活中只有两件事是确定的--死亡和税收里斯·詹姆斯·克纳克和沃特福德管理新闻--以及《足球日报》的宾果车……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/16/watford-football-daily-newsletter"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     }
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Who owns ‘brain rot’? Inside the international legal drama over a beloved meme": {
+    "社区话题：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
