@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T06:13:50.185424+00:00",
-  "generatedAtBeijing": "2026-10-19 14:13",
+  "generatedAt": "2026-10-20T06:01:38.560513+00:00",
+  "generatedAtBeijing": "2026-10-20 14:01",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -243,18 +243,18 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：The one change that worked: I deleted Instagram – and embraced the joys of a truly private life",
-      "titleZh": "视觉热点：唯一有效的改变是：我删除了Instagram ，拥抱了真正私人生活的乐趣",
+      "title": "视觉热点：‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots",
+      "titleZh": "视觉热点：“无影响者” ：限制摄影的酒店、餐厅和美容场所",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：I’d become obsessed with appealing to my invisible audience. But since I ditched the app a year ago, my quieter moments have taken on brilliant new meaning I first downloaded Instagram when ...",
-      "summaryZh": "中文翻译：我痴迷于吸引看不见的观众。但自从一年前我放弃了应用程序，我安静的时刻呈现出辉煌的新意义，我第一次下载Instagram时...",
+      "heat": 88,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Backlash against content creators includes restricted hours for filming and even outright bans Stand in any vaguely photogenic spot these days on holiday and the chances are you will come ac...",
+      "summaryZh": "中文翻译：对内容创作者的强烈反对包括限制拍摄时间，甚至彻底禁令这些天站在任何模糊上镜的地方度假，你可能会来...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/lifeandstyle/2026/oct/19/the-one-change-that-worked-i-deleted-instagram-and-embraced-the-joys-of-a-truly-private-life"
+          "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"
         }
       ],
       "accounts": [
@@ -264,48 +264,48 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace",
-      "titleZh": "视觉热点：戈麦斯（ Gómez ）中线奇观引发了布莱顿（ Brighton ） 5-0的遗憾水晶宫（ Crystal Palace ）",
+      "title": "视觉热点：‘What the war has done to me inside’: Ukraine’s Svitolina announces separation from Monfils",
+      "titleZh": "视觉热点：“战争对我的内心造成了什么影响” ：乌克兰的斯维托利纳宣布与蒙菲尔斯分离",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：At last, Fabian Hürzeler has the scalp that matters most to all Brighton fans and in humiliating fashion. Diego Gómez’s breathtaking goal-of-the-season contender from the halfway line, à la ...",
-      "summaryZh": "中文翻译：最后， Fabian Hürzeler以羞辱的方式拥有对所有布莱顿球迷来说最重要的头皮。迭戈·戈麦斯（ Diego Gómez ）来自中线的令人叹为观止的赛季进球选手， à la...",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：World No 6 Svitolina opens up about toll of Russia’s war French star Monfils has retired after glittering career The world No 6 Elina Svitolina has announced she has separated from her husba...",
+      "summaryZh": "中文翻译：世界排名第6的斯维托利娜（ Svitolina ）开启了俄罗斯战争的代价法国明星蒙菲尔斯（ Monfils ）在闪闪发光的职业生涯后退休世界排名第6的埃琳娜·斯维托利娜（ Elina Svitolina ）宣布她已与丈夫",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/19/what-the-war-has-done-to-me-inside-ukraines-svitolina-announces-separation-from-monfils"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
-      "titleZh": "社区话题：《足球日报》|沃特福德， “假新闻”解雇并向埃尔顿·约翰道歉",
+      "title": "社区话题：‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots",
+      "titleZh": "社区话题：“无影响者” ：限制摄影的酒店、餐厅和美容场所",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 80,
+      "heat": 86,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Football Daily’s bingo car...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！生活中只有两件事是确定的--死亡和税收里斯·詹姆斯·克纳克和沃特福德管理新闻--以及《足球日报》的宾果车……",
+      "summary": "公开来源显示该议题正在发酵：Backlash against content creators includes restricted hours for filming and even outright bans Stand in any vaguely photogenic spot these days on holiday and the chances are you will come ac...",
+      "summaryZh": "中文翻译：对内容创作者的强烈反对包括限制拍摄时间，甚至彻底禁令这些天站在任何模糊上镜的地方度假，你可能会来...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/16/watford-football-daily-newsletter"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     }
@@ -652,12 +652,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：The one change that worked: I deleted Instagram – and embraced the joys of a truly private life": {
+    "视觉热点：‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace": {
+    "视觉热点：‘What the war has done to me inside’: Ukraine’s Svitolina announces separation from Monfils": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John": {
+    "社区话题：‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
