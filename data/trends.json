@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-10-20T06:01:38.560513+00:00",
-  "generatedAtBeijing": "2026-10-20 14:01",
+  "generatedAt": "2026-10-21T06:02:34.323550+00:00",
+  "generatedAtBeijing": "2026-10-21 14:02",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
-      "titleZh": "实时讨论：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 90,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
-      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "实时讨论：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 74,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -55,19 +21,53 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+      "titleZh": "实时讨论：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
+      "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -107,44 +107,10 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
-      "titleZh": "实时讨论：为什么我们被困在全球超级富豪的魔掌中|乔纳森·威尔逊",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in Lond...",
-      "summaryZh": "中文翻译：在一个张开双臂欢迎富有的国际业主的国家，这种模式几乎没有改变的前景。足球是世界上最受欢迎的运动，由伦敦制定的法律进行......",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "x",
       "title": "实时讨论：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
       "titleZh": "实时讨论：PSG PUMMEL MANCHESTER CITY ， VILLA和LIVERPOOL HIT SIX ： FOOTBALL WEEKLY EXTRA",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
+      "heat": 80,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdict Rate, review, share ...",
       "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、尼克·艾姆斯（ Nick Ames ）和尼基·班迪尼（ Nicky Bandini ）一起参加了自英超联赛有罪判决以来的第一场主场比赛，这是PSG对曼城的抨击",
@@ -157,53 +123,53 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
+      "titleZh": "实时讨论：《足球日报》|沃特福德， “假新闻”解雇并向埃尔顿·约翰道歉",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Football Daily’s bingo car...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！生活中只有两件事是确定的--死亡和税收里斯·詹姆斯·克纳克和沃特福德管理新闻--以及《足球日报》的宾果车……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/16/watford-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
-      "titleZh": "视觉热点：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
-      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -212,7 +178,7 @@
       "title": "视觉热点：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "视觉热点：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
+      "heat": 87,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -225,9 +191,9 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Bennettxai",
@@ -235,26 +201,26 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots",
-      "titleZh": "视觉热点：“无影响者” ：限制摄影的酒店、餐厅和美容场所",
+      "title": "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+      "titleZh": "视觉热点：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 88,
+      "heat": 80,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Backlash against content creators includes restricted hours for filming and even outright bans Stand in any vaguely photogenic spot these days on holiday and the chances are you will come ac...",
-      "summaryZh": "中文翻译：对内容创作者的强烈反对包括限制拍摄时间，甚至彻底禁令这些天站在任何模糊上镜的地方度假，你可能会来...",
+      "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
+      "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"
+          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
         }
       ],
       "accounts": [
@@ -264,82 +230,82 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：‘What the war has done to me inside’: Ukraine’s Svitolina announces separation from Monfils",
-      "titleZh": "视觉热点：“战争对我的内心造成了什么影响” ：乌克兰的斯维托利纳宣布与蒙菲尔斯分离",
+      "title": "视觉热点：Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?",
+      "titleZh": "视觉热点：足球日报| Kulusevski和Maddison重返赛场，但托特纳姆热刺也回来了吗？",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 73,
+      "heat": 68,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：World No 6 Svitolina opens up about toll of Russia’s war French star Monfils has retired after glittering career The world No 6 Elina Svitolina has announced she has separated from her husba...",
-      "summaryZh": "中文翻译：世界排名第6的斯维托利娜（ Svitolina ）开启了俄罗斯战争的代价法国明星蒙菲尔斯（ Monfils ）在闪闪发光的职业生涯后退休世界排名第6的埃琳娜·斯维托利娜（ Elina Svitolina ）宣布她已与丈夫",
+      "summary": "公开来源显示该议题正在发酵：As Tottenham edged to victory over Coventry , a familiar face among the post-match salutations. Could that be Dejan Kulusevski? For it was he, playing 526 days since his last Spurs appearanc...",
+      "summaryZh": "中文翻译：随着托特纳姆热刺逐渐战胜考文垂，考文垂是赛后致敬中熟悉的面孔。可能是Dejan Kulusevski吗？因为是他，自从他最后一次马刺出场以来，他打了526天……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/oct/19/what-the-war-has-done-to-me-inside-ukraines-svitolina-announces-separation-from-monfils"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/20/tottenham-hotspur-win-football-daily-newsletter"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@exploraX_",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
-      "titleZh": "短视频趋势：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
-      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "platform": "instagram",
+      "title": "视觉热点：Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play",
+      "titleZh": "视觉热点：阿森纳的David Raya回击了“无聊”的标签，因为Arteta捍卫了球队的比赛风格",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 68,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Goalkeeper brushes off criticism before Bayern clash Kompany could miss game with virus affecting his legs David Raya says he does not care if rival supporters call Arsenal “boring” as his m...",
+      "summaryZh": "中文翻译：在拜仁冲突之前，门将Kompany可能会错过影响他腿部的病毒比赛， David Raya说他不在乎对手的支持者是否称阿森纳“无聊”作为他的对手。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@ciarachanelself",
+          "followers": "约6.1万",
+          "why": "生活化短内容和亲和力"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@biancamillerwrites",
+          "followers": "约2万",
+          "why": "生活方式/写作者个人叙事"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@carleygoodmenu",
+          "followers": "约3.2万",
+          "why": "妈妈生活方式和真实日常"
         }
       ]
     },
@@ -348,7 +314,7 @@
       "title": "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "短视频趋势：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
+      "heat": 89,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -366,14 +332,48 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+      "titleZh": "短视频趋势：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
+      "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -413,44 +413,10 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
-      "titleZh": "短视频趋势：为什么我们被困在全球超级富豪的魔掌中|乔纳森·威尔逊",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in Lond...",
-      "summaryZh": "中文翻译：在一个张开双臂欢迎富有的国际业主的国家，这种模式几乎没有改变的前景。足球是世界上最受欢迎的运动，由伦敦制定的法律进行......",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
       "titleZh": "短视频趋势：PSG PUMMEL MANCHESTER CITY ， VILLA和LIVERPOOL HIT SIX ： FOOTBALL WEEKLY EXTRA",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
+      "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdict Rate, review, share ...",
       "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、尼克·艾姆斯（ Nick Ames ）和尼基·班迪尼（ Nicky Bandini ）一起参加了自英超联赛有罪判决以来的第一场主场比赛，这是PSG对曼城的抨击",
@@ -463,11 +429,6 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
@@ -476,40 +437,45 @@
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
-      "titleZh": "社区话题：我是一名儿科医生。失去人际关系是儿童面临的最大威胁，而不是人工智能| Megan Moreno",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
+      "platform": "tiktok",
+      "title": "短视频趋势：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
+      "titleZh": "短视频趋势：《足球日报》|沃特福德， “假新闻”解雇并向埃尔顿·约翰道歉",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 81,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying ...",
-      "summaryZh": "中文翻译：由于担心儿童与科技的关系，解决方案往往是花更多的时间彼此公开交谈我们已经痴迷于屏幕正在摧毁的想法...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Football Daily’s bingo car...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！生活中只有两件事是确定的--死亡和税收里斯·詹姆斯·克纳克和沃特福德管理新闻--以及《足球日报》的宾果车……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/16/watford-football-daily-newsletter"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -518,7 +484,7 @@
       "title": "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "titleZh": "社区话题：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
+      "heat": 74,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
       "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
@@ -531,19 +497,19 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@exploraX_",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -552,7 +518,7 @@
       "title": "社区话题：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
       "titleZh": "社区话题：PSG PUMMEL MANCHESTER CITY ， VILLA和LIVERPOOL HIT SIX ： FOOTBALL WEEKLY EXTRA",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
+      "heat": 74,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdict Rate, review, share ...",
       "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、尼克·艾姆斯（ Nick Ames ）和尼基·班迪尼（ Nicky Bandini ）一起参加了自英超联赛有罪判决以来的第一场主场比赛，这是PSG对曼城的抨击",
@@ -565,10 +531,39 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
+      "titleZh": "社区话题：《足球日报》|沃特福德， “假新闻”解雇并向埃尔顿·约翰道歉",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Football Daily’s bingo car...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！生活中只有两件事是确定的--死亡和税收里斯·詹姆斯·克纳克和沃特福德管理新闻--以及《足球日报》的宾果车……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/16/watford-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
@@ -578,30 +573,35 @@
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots",
-      "titleZh": "社区话题：“无影响者” ：限制摄影的酒店、餐厅和美容场所",
+      "title": "社区话题：US bans use of China’s DeepSeek AI tools by government agencies",
+      "titleZh": "社区话题：美国禁止政府机构使用中国的DeepSeek人工智能工具",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 86,
+      "heat": 74,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Backlash against content creators includes restricted hours for filming and even outright bans Stand in any vaguely photogenic spot these days on holiday and the chances are you will come ac...",
-      "summaryZh": "中文翻译：对内容创作者的强烈反对包括限制拍摄时间，甚至彻底禁令这些天站在任何模糊上镜的地方度假，你可能会来...",
+      "summary": "公开来源显示该议题正在发酵：Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tool...",
+      "summaryZh": "中文翻译：国防部表示，使用工具“可能导致敏感数据转移”到中国，美国政府周一命令其机构停止使用人工智能（ AI ）工具...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"
+          "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Ivy_Dinma",
@@ -609,20 +609,20 @@
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
+    "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
+    "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,42 +632,42 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    "实时讨论：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "视觉热点：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots": {
+    "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘What the war has done to me inside’: Ukraine’s Svitolina announces separation from Monfils": {
+    "视觉热点：Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
+    "视觉热点：Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
+    "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,20 +677,15 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
@@ -702,7 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots": {
+    "社区话题：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：US bans use of China’s DeepSeek AI tools by government agencies": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
