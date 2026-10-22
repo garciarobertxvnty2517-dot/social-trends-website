@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-10-21T06:02:34.323550+00:00",
-  "generatedAtBeijing": "2026-10-21 14:02",
+  "generatedAt": "2026-10-22T06:07:46.837762+00:00",
+  "generatedAtBeijing": "2026-10-22 14:07",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "实时讨论：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
       "titleZh": "实时讨论：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
+      "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
       "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
@@ -55,82 +21,82 @@
       ],
       "accounts": [
         {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Manchester City are suddenly box-office in age of charge-rage and mega defiance | Barney Ronay",
-      "titleZh": "实时讨论：在充满愤怒和巨大反抗的时代，曼城突然成为票房| Barney Ronay",
+      "title": "实时讨论：PSG beat Barça, Rio’s grand for Liverpool and Ronaldo’s CV | Football Weekly – video",
+      "titleZh": "实时讨论：巴黎圣日耳曼击败巴萨，里约热内卢为利物浦和罗纳尔多的简历锦上添花|《足球周刊》–视频",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 88,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：This is by far the most interesting this club have ever been and they faced PSG, a kind of twin entity in all this as oil state glove puppets Another day, another note of unreality; another ...",
-      "summaryZh": "中文翻译：这是迄今为止这个俱乐部有史以来最有趣的一次，他们面对的是巴黎圣日耳曼，这是一个双胞胎实体，作为石油国家手套木偶。另一天，另一个不真实的音符;另一个...",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Nicky Bandini , Lars Sivertsen and Will Unwin to discuss Tuesday night’s Champions League action Continue reading...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与尼基·班迪尼（ Nicky Bandini ）、拉尔斯·西弗特森（ Lars Sivertsen ）和威尔·昂温（ Will Un",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/15/manchester-city-paris-saint-germain-psg-champions-league"
+          "url": "https://www.theguardian.com/football/video/2026/oct/21/psg-beat-barca-rios-grand-for-liverpool-and-ronaldos-cv-football-weekly-video"
         }
       ],
       "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
-      "titleZh": "实时讨论：PSG PUMMEL MANCHESTER CITY ， VILLA和LIVERPOOL HIT SIX ： FOOTBALL WEEKLY EXTRA",
+      "title": "实时讨论：Cristiano Ronaldo asked for punishment ‘without mitigation’, then fought to cut it",
+      "titleZh": "实时讨论：克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）要求“没有减轻”的惩罚，然后努力削减它",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdict Rate, review, share ...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、尼克·艾姆斯（ Nick Ames ）和尼基·班迪尼（ Nicky Bandini ）一起参加了自英超联赛有罪判决以来的第一场主场比赛，这是PSG对曼城的抨击",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：He presented several arguments after Portugal walkout Inquiry chose to halve, then halve again his punishment Cristiano Ronaldo successfully fought to reduce his punishment for walking out o...",
+      "summaryZh": "中文翻译：在葡萄牙罢工调查选择减半后，他提出了几个论点，然后再次减半他的惩罚克里斯蒂亚诺·罗纳尔多成功地减少了他对罢工的惩罚。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/oct/15/psg-pummel-manchester-city-villa-and-liverpool-hit-six-football-weekly-extra-podcast"
+          "url": "https://www.theguardian.com/football/2026/oct/21/cristiano-ronaldo-punishment-portugal-walkout-without-mitigation-fought-to-cut-it"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@marfawe",
@@ -144,7 +110,7 @@
       "title": "实时讨论：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
       "titleZh": "实时讨论：《足球日报》|沃特福德， “假新闻”解雇并向埃尔顿·约翰道歉",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Football Daily’s bingo car...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！生活中只有两件事是确定的--死亡和税收里斯·詹姆斯·克纳克和沃特福德管理新闻--以及《足球日报》的宾果车……",
@@ -157,53 +123,53 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
-      "platform": "instagram",
-      "title": "视觉热点：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "视觉热点：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
+      "platform": "x",
+      "title": "实时讨论：Two more years for Sarina, six more goals against Spurs, and Arsenal boos – Women’s Football Weekly",
+      "titleZh": "实时讨论：Sarina再打两年，对阵马刺再打六个进球，还有阿森纳嘘声–女子足球周刊",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 78,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "summary": "公开来源显示该议题正在发酵：Faye Carruthers is joined by Suzanne Wrack , Sophie Downey and Marva Kreel to discuss the return of the WSL and more Faye Carruthers is joined by Suzanne Wrack , Sophie Downey and Marva Kree...",
+      "summaryZh": "中文翻译：Faye Carruthers与Suzanne Wrack、Sophie Downey和Marva Kreel一起讨论WSL的回归，更多Faye Carruthers与Suzanne Wrack、Sophie Downey和Marva Kree一起讨论...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/oct/20/two-more-years-for-sarina-six-more-goals-against-spurs-and-arsenal-boos-womens-football-weekly"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -212,7 +178,7 @@
       "title": "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
       "titleZh": "视觉热点：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 80,
+      "heat": 82,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
       "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
@@ -225,19 +191,19 @@
       ],
       "accounts": [
         {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -246,7 +212,7 @@
       "title": "视觉热点：Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?",
       "titleZh": "视觉热点：足球日报| Kulusevski和Maddison重返赛场，但托特纳姆热刺也回来了吗？",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 68,
+      "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：As Tottenham edged to victory over Coventry , a familiar face among the post-match salutations. Could that be Dejan Kulusevski? For it was he, playing 526 days since his last Spurs appearanc...",
       "summaryZh": "中文翻译：随着托特纳姆热刺逐渐战胜考文垂，考文垂是赛后致敬中熟悉的面孔。可能是Dejan Kulusevski吗？因为是他，自从他最后一次马刺出场以来，他打了526天……",
@@ -259,11 +225,6 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
@@ -272,74 +233,79 @@
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play",
-      "titleZh": "视觉热点：阿森纳的David Raya回击了“无聊”的标签，因为Arteta捍卫了球队的比赛风格",
+      "title": "视觉热点：AI firms say UK has a year to head off datacentre protests before construction is threatened",
+      "titleZh": "视觉热点：人工智能公司表示，在建筑受到威胁之前，英国有一年的时间来阻止数据中心的抗议活动",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 68,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Goalkeeper brushes off criticism before Bayern clash Kompany could miss game with virus affecting his legs David Raya says he does not care if rival supporters call Arsenal “boring” as his m...",
-      "summaryZh": "中文翻译：在拜仁冲突之前，门将Kompany可能会错过影响他腿部的病毒比赛， David Raya说他不在乎对手的支持者是否称阿森纳“无聊”作为他的对手。",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers t...",
+      "summaryZh": "中文翻译：独家：英伟达(Nvidia)、微软(Microsoft)和思科(Cisco)工作组敦促部长们从技术基础设施中获得更多好处，因为人们担心美国式的反对派人工智能公司已经告诉部长们，",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ciarachanelself",
-          "followers": "约6.1万",
-          "why": "生活化短内容和亲和力"
-        },
-        {
-          "name": "@biancamillerwrites",
-          "followers": "约2万",
-          "why": "生活方式/写作者个人叙事"
-        },
-        {
-          "name": "@carleygoodmenu",
-          "followers": "约3.2万",
-          "why": "妈妈生活方式和真实日常"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "短视频趋势：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 89,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
+          "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened"
         }
       ],
       "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：sunny balwani",
+      "titleZh": "视觉热点：阳光明媚的balwani",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 76,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：sunny balwani",
+      "summaryZh": "中文翻译：阳光明媚的balwani",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Google Trends US",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@nathanallebach",
+          "followers": "约5万",
+          "why": "社媒观点和品牌人格化"
         },
         {
-          "name": "@exploraX_",
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "业务运营和 AI 营销观点"
+        },
+        {
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "AI 自动化实操拆解"
         }
       ]
     },
@@ -348,7 +314,7 @@
       "title": "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
       "titleZh": "短视频趋势：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
       "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
@@ -361,43 +327,77 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Manchester City are suddenly box-office in age of charge-rage and mega defiance | Barney Ronay",
-      "titleZh": "短视频趋势：在充满愤怒和巨大反抗的时代，曼城突然成为票房| Barney Ronay",
+      "title": "短视频趋势：PSG beat Barça, Rio’s grand for Liverpool and Ronaldo’s CV | Football Weekly – video",
+      "titleZh": "短视频趋势：巴黎圣日耳曼击败巴萨，里约热内卢为利物浦和罗纳尔多的简历锦上添花|《足球周刊》–视频",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：This is by far the most interesting this club have ever been and they faced PSG, a kind of twin entity in all this as oil state glove puppets Another day, another note of unreality; another ...",
-      "summaryZh": "中文翻译：这是迄今为止这个俱乐部有史以来最有趣的一次，他们面对的是巴黎圣日耳曼，这是一个双胞胎实体，作为石油国家手套木偶。另一天，另一个不真实的音符;另一个...",
+      "heat": 71,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Nicky Bandini , Lars Sivertsen and Will Unwin to discuss Tuesday night’s Champions League action Continue reading...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与尼基·班迪尼（ Nicky Bandini ）、拉尔斯·西弗特森（ Lars Sivertsen ）和威尔·昂温（ Will Un",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/15/manchester-city-paris-saint-germain-psg-champions-league"
+          "url": "https://www.theguardian.com/football/video/2026/oct/21/psg-beat-barca-rios-grand-for-liverpool-and-ronaldos-cv-football-weekly-video"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Cristiano Ronaldo asked for punishment ‘without mitigation’, then fought to cut it",
+      "titleZh": "短视频趋势：克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）要求“没有减轻”的惩罚，然后努力削减它",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：He presented several arguments after Portugal walkout Inquiry chose to halve, then halve again his punishment Cristiano Ronaldo successfully fought to reduce his punishment for walking out o...",
+      "summaryZh": "中文翻译：在葡萄牙罢工调查选择减半后，他提出了几个论点，然后再次减半他的惩罚克里斯蒂亚诺·罗纳尔多成功地减少了他对罢工的惩罚。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/21/cristiano-ronaldo-punishment-portugal-walkout-without-mitigation-fought-to-cut-it"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
           "name": "@igoeLFC",
@@ -405,43 +405,9 @@
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
-      "titleZh": "短视频趋势：PSG PUMMEL MANCHESTER CITY ， VILLA和LIVERPOOL HIT SIX ： FOOTBALL WEEKLY EXTRA",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdict Rate, review, share ...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、尼克·艾姆斯（ Nick Ames ）和尼基·班迪尼（ Nicky Bandini ）一起参加了自英超联赛有罪判决以来的第一场主场比赛，这是PSG对曼城的抨击",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/oct/15/psg-pummel-manchester-city-villa-and-liverpool-hit-six-football-weekly-extra-podcast"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -450,7 +416,7 @@
       "title": "短视频趋势：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
       "titleZh": "短视频趋势：《足球日报》|沃特福德， “假新闻”解雇并向埃尔顿·约翰道歉",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Football Daily’s bingo car...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！生活中只有两件事是确定的--死亡和税收里斯·詹姆斯·克纳克和沃特福德管理新闻--以及《足球日报》的宾果车……",
@@ -463,79 +429,6 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "titleZh": "社区话题：社会清算评论–亚伦·索尔金（ Aaron Sorkin ）与全新邪恶木偶扎克伯格（ Zuckerberg ）的紧张续集",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who sol...",
-      "summaryZh": "中文翻译：杰里米·斯特朗（ Jeremy Strong ）说话缓慢的Facebook创始人变成了一部关于举报人的惊悚片的背景，这部惊悚片以某种方式从未提及过特朗普。这是一部为所有解决以下问题的人拍摄的电影......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
-      "titleZh": "社区话题：PSG PUMMEL MANCHESTER CITY ， VILLA和LIVERPOOL HIT SIX ： FOOTBALL WEEKLY EXTRA",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdict Rate, review, share ...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、尼克·艾姆斯（ Nick Ames ）和尼基·班迪尼（ Nicky Bandini ）一起参加了自英超联赛有罪判决以来的第一场主场比赛，这是PSG对曼城的抨击",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/oct/15/psg-pummel-manchester-city-villa-and-liverpool-hit-six-football-weekly-extra-podcast"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
@@ -544,6 +437,79 @@
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Two more years for Sarina, six more goals against Spurs, and Arsenal boos – Women’s Football Weekly",
+      "titleZh": "短视频趋势：Sarina再打两年，对阵马刺再打六个进球，还有阿森纳嘘声–女子足球周刊",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Faye Carruthers is joined by Suzanne Wrack , Sophie Downey and Marva Kreel to discuss the return of the WSL and more Faye Carruthers is joined by Suzanne Wrack , Sophie Downey and Marva Kree...",
+      "summaryZh": "中文翻译：Faye Carruthers与Suzanne Wrack、Sophie Downey和Marva Kreel一起讨论WSL的回归，更多Faye Carruthers与Suzanne Wrack、Sophie Downey和Marva Kree一起讨论...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/audio/2026/oct/20/two-more-years-for-sarina-six-more-goals-against-spurs-and-arsenal-boos-womens-football-weekly"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：PSG beat Barça, Rio’s grand for Liverpool and Ronaldo’s CV | Football Weekly – video",
+      "titleZh": "社区话题：巴黎圣日耳曼击败巴萨，里约热内卢为利物浦和罗纳尔多的简历锦上添花|《足球周刊》–视频",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Nicky Bandini , Lars Sivertsen and Will Unwin to discuss Tuesday night’s Champions League action Continue reading...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与尼基·班迪尼（ Nicky Bandini ）、拉尔斯·西弗特森（ Lars Sivertsen ）和威尔·昂温（ Will Un",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/oct/21/psg-beat-barca-rios-grand-for-liverpool-and-ronaldos-cv-football-weekly-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -552,7 +518,7 @@
       "title": "社区话题：Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
       "titleZh": "社区话题：《足球日报》|沃特福德， “假新闻”解雇并向埃尔顿·约翰道歉",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 82,
+      "heat": 84,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Football Daily’s bingo car...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！生活中只有两件事是确定的--死亡和税收里斯·詹姆斯·克纳克和沃特福德管理新闻--以及《足球日报》的宾果车……",
@@ -565,19 +531,19 @@
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -586,7 +552,7 @@
       "title": "社区话题：US bans use of China’s DeepSeek AI tools by government agencies",
       "titleZh": "社区话题：美国禁止政府机构使用中国的DeepSeek人工智能工具",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tool...",
       "summaryZh": "中文翻译：国防部表示，使用工具“可能导致敏感数据转移”到中国，美国政府周一命令其机构停止使用人工智能（ AI ）工具...",
@@ -599,40 +565,69 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini",
+      "titleZh": "社区话题：威尼斯的胡迪尼表演让马西米利亚诺·阿莱格里（ Massimiliano Allegri ）在那不勒斯寻找度假胜地|尼基·班迪尼（",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Manager’s latest setback exposed growing doubts about his squad and his approach as Davide Nicola began his Venezia tenure with a remarkable win “I’ll love you even if you win,” promised the...",
+      "summaryZh": "中文翻译：经理的最新挫折暴露了对他的球队和他的方法的越来越多的怀疑，因为Davide Nicola以非凡的胜利开始了他在威尼斯的任期“即使你赢了，我也会爱你” ，他承诺......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/19/massimiliano-allegri-napoli-davide-nicola-venezia-serie-a"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Manchester City are suddenly box-office in age of charge-rage and mega defiance | Barney Ronay": {
+    "实时讨论：PSG beat Barça, Rio’s grand for Liverpool and Ronaldo’s CV | Football Weekly – video": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast": {
+    "实时讨论：Cristiano Ronaldo asked for punishment ‘without mitigation’, then fought to cut it": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,10 +637,10 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    "实时讨论：Two more years for Sarina, six more goals against Spurs, and Arsenal boos – Women’s Football Weekly": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
@@ -657,27 +652,27 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play": {
+    "视觉热点：AI firms say UK has a year to head off datacentre protests before construction is threatened": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "视觉热点：sunny balwani": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Manchester City are suddenly box-office in age of charge-rage and mega defiance | Barney Ronay": {
+    "短视频趋势：PSG beat Barça, Rio’s grand for Liverpool and Ronaldo’s CV | Football Weekly – video": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast": {
+    "短视频趋势：Cristiano Ronaldo asked for punishment ‘without mitigation’, then fought to cut it": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,12 +682,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Two more years for Sarina, six more goals against Spurs, and Arsenal boos – Women’s Football Weekly": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast": {
+    "社区话题：PSG beat Barça, Rio’s grand for Liverpool and Ronaldo’s CV | Football Weekly – video": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -703,6 +698,11 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：US bans use of China’s DeepSeek AI tools by government agencies": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
