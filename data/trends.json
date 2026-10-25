@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-10-24T05:55:19.593932+00:00",
-  "generatedAtBeijing": "2026-10-24 13:55",
+  "generatedAt": "2026-10-25T06:08:57.876030+00:00",
+  "generatedAtBeijing": "2026-10-25 14:08",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
-      "titleZh": "实时讨论：Meta罢工与马克·扎克伯格（ Mark Zuckerberg ）达成协议，帮助他解决亿万富",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible Californi...",
-      "summaryZh": "中文翻译：首席执行官同意在加利福尼亚州停留八年，即使该州引入了一次性的5%财富税， Meta已与马克·扎克伯格达成协议，帮助他解决可能的加州...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
       "titleZh": "实时讨论：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
+      "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
       "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
@@ -55,19 +21,53 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+      "titleZh": "实时讨论：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
+      "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -175,25 +175,25 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
-      "titleZh": "视觉热点：Meta罢工与马克·扎克伯格（ Mark Zuckerberg ）达成协议，帮助他解决亿万富",
+      "title": "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+      "titleZh": "视觉热点：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible Californi...",
-      "summaryZh": "中文翻译：首席执行官同意在加利福尼亚州停留八年，即使该州引入了一次性的5%财富税， Meta已与马克·扎克伯格达成协议，帮助他解决可能的加州...",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
+      "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
+          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@Bennettxai",
@@ -201,9 +201,9 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -311,44 +311,10 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
-      "titleZh": "短视频趋势：Meta罢工与马克·扎克伯格（ Mark Zuckerberg ）达成协议，帮助他解决亿万富",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible Californi...",
-      "summaryZh": "中文翻译：首席执行官同意在加利福尼亚州停留八年，即使该州引入了一次性的5%财富税， Meta已与马克·扎克伯格达成协议，帮助他解决可能的加州...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
       "titleZh": "短视频趋势：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 91,
+      "heat": 93,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
       "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
@@ -361,19 +327,53 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+      "titleZh": "短视频趋势：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
+      "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -481,44 +481,10 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
-      "titleZh": "社区话题：Meta罢工与马克·扎克伯格（ Mark Zuckerberg ）达成协议，帮助他解决亿万富",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible Californi...",
-      "summaryZh": "中文翻译：首席执行官同意在加利福尼亚州停留八年，即使该州引入了一次性的5%财富税， Meta已与马克·扎克伯格达成协议，帮助他解决可能的加州...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
       "title": "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
       "titleZh": "社区话题：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 78,
+      "heat": 80,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
       "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
@@ -531,19 +497,19 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -552,7 +518,7 @@
       "title": "社区话题：Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
       "titleZh": "社区话题：Apple Watch Ultra 4回顾：电池续航时间更长，但仍在等待新功能",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Ap...",
       "summaryZh": "中文翻译：最大的苹果智能手表获得了更好的健康跟踪和新的就绪工具，配备了电池和芯片，为有争议的音频人工智能做准备随着Ultra进入第四个年头...",
@@ -565,9 +531,9 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Ivy_Dinma",
@@ -575,9 +541,9 @@
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@exploraX_",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -586,7 +552,7 @@
       "title": "社区话题：Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini",
       "titleZh": "社区话题：威尼斯的胡迪尼表演让马西米利亚诺·阿莱格里（ Massimiliano Allegri ）在那不勒斯寻找度假胜地|尼基·班迪尼（",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 68,
+      "heat": 69,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Manager’s latest setback exposed growing doubts about his squad and his approach as Davide Nicola began his Venezia tenure with a remarkable win “I’ll love you even if you win,” promised the...",
       "summaryZh": "中文翻译：经理的最新挫折暴露了对他的球队和他的方法的越来越多的怀疑，因为Davide Nicola以非凡的胜利开始了他在威尼斯的任期“即使你赢了，我也会爱你” ，他承诺......",
@@ -599,30 +565,64 @@
       ],
       "accounts": [
         {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：‘Like a fairy tale’: USA’s Paula Moltzan becomes oldest first-time World Cup winner by 0.01sec",
+      "titleZh": "社区话题：“像童话一样” ：美国选手保拉·莫尔赞（ Paula Moltzan ）以0.01秒的成绩成为首届世界杯冠军",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：American, 32, wins season-opening giant slalom Moltzan edges Albania’s Lara Colturi by 0.01sec Mikaela Shiffrin drops from first to seventh place American Paula Moltzan became the oldest wom...",
+      "summaryZh": "中文翻译：32岁的美国人赢得了赛季开幕式的巨型SLALOM Moltzan ，以0.01秒的成绩击败阿尔巴尼亚的Lara Colturi ， Mikaela Shiffrin从第一名降至第七名美国人Paula Moltzan成为最古老的女性......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/24/paula-moltzan-first-world-cup-win-solden-giant-slalom"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill": {
+    "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
+    "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,7 +642,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill": {
+    "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -662,12 +662,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill": {
+    "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
+    "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,11 +687,6 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
     "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
@@ -703,6 +698,11 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：‘Like a fairy tale’: USA’s Paula Moltzan becomes oldest first-time World Cup winner by 0.01sec": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
