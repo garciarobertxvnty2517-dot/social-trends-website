@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T06:08:57.876030+00:00",
-  "generatedAtBeijing": "2026-10-25 14:08",
+  "generatedAt": "2026-10-26T06:15:36.720530+00:00",
+  "generatedAtBeijing": "2026-10-26 14:15",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -549,69 +549,69 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini",
-      "titleZh": "社区话题：威尼斯的胡迪尼表演让马西米利亚诺·阿莱格里（ Massimiliano Allegri ）在那不勒斯寻找度假胜地|尼基·班迪尼（",
+      "title": "社区话题：Put Your A.I. Agents to Work with These 5 Killer Tasks",
+      "titleZh": "社区话题：让您的人工智能代理处理这5项杀手级任务",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 69,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Manager’s latest setback exposed growing doubts about his squad and his approach as Davide Nicola began his Venezia tenure with a remarkable win “I’ll love you even if you win,” promised the...",
-      "summaryZh": "中文翻译：经理的最新挫折暴露了对他的球队和他的方法的越来越多的怀疑，因为Davide Nicola以非凡的胜利开始了他在威尼斯的任期“即使你赢了，我也会爱你” ，他承诺......",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+      "summaryZh": "中文翻译：当您开始使用Meta的Muse和OpenAI的圆点来完成这些任务（例如申请工作和预订难以获得的餐厅餐桌）时，您可能永远不会回去。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/19/massimiliano-allegri-napoli-davide-nicola-venezia-serie-a"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html"
         }
       ],
       "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@exploraX_",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：‘Like a fairy tale’: USA’s Paula Moltzan becomes oldest first-time World Cup winner by 0.01sec",
-      "titleZh": "社区话题：“像童话一样” ：美国选手保拉·莫尔赞（ Paula Moltzan ）以0.01秒的成绩成为首届世界杯冠军",
+      "title": "社区话题：Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
+      "titleZh": "社区话题：Mbappé DOUBLE在巴塞罗那拉菲尼亚扳平比赛后获得皇家马德里晚期胜利",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：American, 32, wins season-opening giant slalom Moltzan edges Albania’s Lara Colturi by 0.01sec Mikaela Shiffrin drops from first to seventh place American Paula Moltzan became the oldest wom...",
-      "summaryZh": "中文翻译：32岁的美国人赢得了赛季开幕式的巨型SLALOM Moltzan ，以0.01秒的成绩击败阿尔巴尼亚的Lara Colturi ， Mikaela Shiffrin从第一名降至第七名美国人Paula Moltzan成为最古老的女性......",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole ne...",
+      "summaryZh": "中文翻译：13年后，何塞·穆里尼奥带领皇家马德里作为一支球队进入诺坎普，他们作为另一支球队再次出局，获得了他所热爱的那种迟到的胜利，并开辟了一整...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/oct/24/paula-moltzan-first-world-cup-win-solden-giant-slalom"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     }
@@ -697,12 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini": {
+    "社区话题：Put Your A.I. Agents to Work with These 5 Killer Tasks": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：‘Like a fairy tale’: USA’s Paula Moltzan becomes oldest first-time World Cup winner by 0.01sec": {
+    "社区话题：Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
