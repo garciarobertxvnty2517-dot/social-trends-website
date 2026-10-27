@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-10-26T06:15:36.720530+00:00",
-  "generatedAtBeijing": "2026-10-26 14:15",
+  "generatedAt": "2026-10-27T06:17:28.297985+00:00",
+  "generatedAtBeijing": "2026-10-27 14:17",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
-      "titleZh": "实时讨论：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 89,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
-      "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
       "titleZh": "实时讨论：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
+      "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
       "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
@@ -55,53 +21,19 @@
       ],
       "accounts": [
         {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew",
-      "titleZh": "实时讨论：巴西足球的混乱状态体现了一个贪婪征服了荣耀的国家| Jonathan Liew",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 73,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The national game merely reflects the mood in a divided nation which is going to the polls with very little faith in the power of democracy Look, cards on the table: I don’t know for certain...",
-      "summaryZh": "中文翻译：全国比赛仅仅反映了一个分裂国家的情绪，这个国家正在进行民意调查，对民主的力量几乎没有信心。看，桌上的牌：我不确定...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/23/chaotic-football-brazil-politics-election-flavio-bolsonaro-lula"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -110,7 +42,7 @@
       "title": "实时讨论：Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
       "titleZh": "实时讨论：Apple Watch Ultra 4回顾：电池续航时间更长，但仍在等待新功能",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
+      "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Ap...",
       "summaryZh": "中文翻译：最大的苹果智能手表获得了更好的健康跟踪和新的就绪工具，配备了电池和芯片，为有争议的音频人工智能做准备随着Ultra进入第四个年头...",
@@ -128,14 +60,48 @@
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Osula and Barnes strike as Newcastle pile pressure on lacklustre Palace",
+      "titleZh": "实时讨论：奥苏拉（ Osula ）和巴恩斯（ Barnes ）罢工，纽卡斯尔（ Newcastle ）桩对",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：The first half was dreadful. The pass completion rate was a meagre 72.8%, although it felt lower. There were only two shots on target. The sun kept popping out from behind the clouds to take...",
+      "summaryZh": "中文翻译：上半场糟透了。通过率虽然感觉较低，但只有微不足道的72.8%。只有两发子弹命中目标。太阳不停地从云层后面蹦出来……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/25/crystal-palace-newcastle-premier-league-match-report"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -144,7 +110,7 @@
       "title": "实时讨论：Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast",
       "titleZh": "实时讨论：曼彻斯特联队火力全开，阿森纳队在拜仁抽签：足球周刊额外节目–播客",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
+      "heat": 84,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind-Tutt to discuss the latest Champions League action Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind...",
       "summaryZh": "中文翻译：乔纳森·刘（ Jonathan Liew ）、保罗·沃森（ Paul Watson ）和阿奇·林德-塔特（ Archie Rhind-Tutt ）与马克斯·拉什登（ Max Rushden ）一起讨论欧洲冠军联赛的最新动作乔纳森·刘（ Jonathan Liew ）、保",
@@ -157,19 +123,53 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Michael Carrick attends Manchester United training ground as club discuss his fate",
+      "titleZh": "实时讨论：迈克尔·卡里克在俱乐部讨论他的命运时参加了曼联的训练场",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Head coach arrives to watch under-21s play Bruno Fernandes likes Instagram post about loyalty Michael Carrick was at Manchester United’s training ground on Monday afternoon as elsewhere at t...",
+      "summaryZh": "中文翻译：主教练抵达观看21岁以下球员的比赛布鲁诺·费尔南德斯（ Bruno Fernandes ）喜欢Instagram关于迈克尔·卡里克（ Michael Carrick ）周一下午在曼联训练场的忠诚度帖子，就像其他地方一样。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/26/michael-carrick-manchester-united-training-ground-club-discuss-sacking"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -209,26 +209,21 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew",
-      "titleZh": "视觉热点：巴西足球的混乱状态体现了一个贪婪征服了荣耀的国家| Jonathan Liew",
+      "title": "视觉热点：Michael Carrick attends Manchester United training ground as club discuss his fate",
+      "titleZh": "视觉热点：迈克尔·卡里克在俱乐部讨论他的命运时参加了曼联的训练场",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 82,
+      "heat": 89,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The national game merely reflects the mood in a divided nation which is going to the polls with very little faith in the power of democracy Look, cards on the table: I don’t know for certain...",
-      "summaryZh": "中文翻译：全国比赛仅仅反映了一个分裂国家的情绪，这个国家正在进行民意调查，对民主的力量几乎没有信心。看，桌上的牌：我不确定...",
+      "summary": "公开来源显示该议题正在发酵：Head coach arrives to watch under-21s play Bruno Fernandes likes Instagram post about loyalty Michael Carrick was at Manchester United’s training ground on Monday afternoon as elsewhere at t...",
+      "summaryZh": "中文翻译：主教练抵达观看21岁以下球员的比赛布鲁诺·费尔南德斯（ Bruno Fernandes ）喜欢Instagram关于迈克尔·卡里克（ Michael Carrick ）周一下午在曼联训练场的忠诚度帖子，就像其他地方一样。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/23/chaotic-football-brazil-politics-election-flavio-bolsonaro-lula"
+          "url": "https://www.theguardian.com/football/2026/oct/26/michael-carrick-manchester-united-training-ground-club-discuss-sacking"
         }
       ],
       "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
@@ -238,6 +233,11 @@
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -277,69 +277,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
-      "titleZh": "视觉热点：年轻的美国人选择Y2K汽车而不是闪亮的新SUV ： “我从人们那里得到了很多垃圾”",
+      "title": "视觉热点：Doubles players sign open letter pleading with tennis chiefs to ‘protect’ format",
+      "titleZh": "视觉热点：双打球员签署公开信，恳求网球酋长“保护”格式",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 69,
+      "heat": 81,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loans Jack Price joined the marines in fall 2021 knowing h...",
-      "summaryZh": "中文翻译：35岁以下的人正在寻找可以用现金支付并自我修复的无装饰游乐设施–不顾人们对2021年秋季杰克·普莱斯（ Jack Price ）加入海军陆战队的高额贷款的期望，他知道......",
+      "summary": "公开来源显示该议题正在发酵：Plans to slash games by half and prize money criticised ‘Hard for players to build and sustain a doubles career’ More than 150 doubles players on the men’s ATP tour have signed an open lette...",
+      "summaryZh": "中文翻译：计划将比赛削减一半，奖金被批评为“让球员难以建立和维持双打职业生涯”。在男子ATP巡回赛中，超过150名双打球员签下了一封公开信……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/26/doubles-players-sign-open-letter-pleading-with-tennis-chiefs-to-protect-format"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
-      "titleZh": "短视频趋势：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 93,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
-      "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -348,7 +314,7 @@
       "title": "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
       "titleZh": "短视频趋势：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
       "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
@@ -361,53 +327,19 @@
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew",
-      "titleZh": "短视频趋势：巴西足球的混乱状态体现了一个贪婪征服了荣耀的国家| Jonathan Liew",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：The national game merely reflects the mood in a divided nation which is going to the polls with very little faith in the power of democracy Look, cards on the table: I don’t know for certain...",
-      "summaryZh": "中文翻译：全国比赛仅仅反映了一个分裂国家的情绪，这个国家正在进行民意调查，对民主的力量几乎没有信心。看，桌上的牌：我不确定...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/23/chaotic-football-brazil-politics-election-flavio-bolsonaro-lula"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -416,7 +348,7 @@
       "title": "短视频趋势：Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
       "titleZh": "短视频趋势：Apple Watch Ultra 4回顾：电池续航时间更长，但仍在等待新功能",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
+      "heat": 71,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Ap...",
       "summaryZh": "中文翻译：最大的苹果智能手表获得了更好的健康跟踪和新的就绪工具，配备了电池和芯片，为有争议的音频人工智能做准备随着Ultra进入第四个年头...",
@@ -428,117 +360,15 @@
         }
       ],
       "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast",
-      "titleZh": "短视频趋势：曼彻斯特联队火力全开，阿森纳队在拜仁抽签：足球周刊额外节目–播客",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind-Tutt to discuss the latest Champions League action Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind...",
-      "summaryZh": "中文翻译：乔纳森·刘（ Jonathan Liew ）、保罗·沃森（ Paul Watson ）和阿奇·林德-塔特（ Archie Rhind-Tutt ）与马克斯·拉什登（ Max Rushden ）一起讨论欧洲冠军联赛的最新动作乔纳森·刘（ Jonathan Liew ）、保",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/oct/22/manchester-united-bin-fire-and-arsenal-draw-in-munich-football-weekly-extra-podcast"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
-      "titleZh": "社区话题：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
-      "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-      "titleZh": "社区话题：Apple Watch Ultra 4回顾：电池续航时间更长，但仍在等待新功能",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Ap...",
-      "summaryZh": "中文翻译：最大的苹果智能手表获得了更好的健康跟踪和新的就绪工具，配备了电池和芯片，为有争议的音频人工智能做准备随着Ultra进入第四个年头...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@Bennettxai",
@@ -548,53 +378,53 @@
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：Put Your A.I. Agents to Work with These 5 Killer Tasks",
-      "titleZh": "社区话题：让您的人工智能代理处理这5项杀手级任务",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
+      "platform": "tiktok",
+      "title": "短视频趋势：Osula and Barnes strike as Newcastle pile pressure on lacklustre Palace",
+      "titleZh": "短视频趋势：奥苏拉（ Osula ）和巴恩斯（ Barnes ）罢工，纽卡斯尔（ Newcastle ）桩对",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 87,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
-      "summaryZh": "中文翻译：当您开始使用Meta的Muse和OpenAI的圆点来完成这些任务（例如申请工作和预订难以获得的餐厅餐桌）时，您可能永远不会回去。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "summary": "公开来源显示该议题正在发酵：The first half was dreadful. The pass completion rate was a meagre 72.8%, although it felt lower. There were only two shots on target. The sun kept popping out from behind the clouds to take...",
+      "summaryZh": "中文翻译：上半场糟透了。通过率虽然感觉较低，但只有微不足道的72.8%。只有两发子弹命中目标。太阳不停地从云层后面蹦出来……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/25/crystal-palace-newcastle-premier-league-match-report"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
-      "titleZh": "社区话题：Mbappé DOUBLE在巴塞罗那拉菲尼亚扳平比赛后获得皇家马德里晚期胜利",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
+      "platform": "tiktok",
+      "title": "短视频趋势：Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast",
+      "titleZh": "短视频趋势：曼彻斯特联队火力全开，阿森纳队在拜仁抽签：足球周刊额外节目–播客",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 81,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole ne...",
-      "summaryZh": "中文翻译：13年后，何塞·穆里尼奥带领皇家马德里作为一支球队进入诺坎普，他们作为另一支球队再次出局，获得了他所热爱的那种迟到的胜利，并开辟了一整...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind-Tutt to discuss the latest Champions League action Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind...",
+      "summaryZh": "中文翻译：乔纳森·刘（ Jonathan Liew ）、保罗·沃森（ Paul Watson ）和阿奇·林德-塔特（ Archie Rhind-Tutt ）与马克斯·拉什登（ Max Rushden ）一起讨论欧洲冠军联赛的最新动作乔纳森·刘（ Jonathan Liew ）、保",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report"
+          "url": "https://www.theguardian.com/football/audio/2026/oct/22/manchester-united-bin-fire-and-arsenal-draw-in-munich-football-weekly-extra-podcast"
         }
       ],
       "accounts": [
@@ -614,20 +444,180 @@
           "why": "足球/体育预测类内容节奏"
         }
       ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Michael Carrick attends Manchester United training ground as club discuss his fate",
+      "titleZh": "短视频趋势：迈克尔·卡里克在俱乐部讨论他的命运时参加了曼联的训练场",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Head coach arrives to watch under-21s play Bruno Fernandes likes Instagram post about loyalty Michael Carrick was at Manchester United’s training ground on Monday afternoon as elsewhere at t...",
+      "summaryZh": "中文翻译：主教练抵达观看21岁以下球员的比赛布鲁诺·费尔南德斯（ Bruno Fernandes ）喜欢Instagram关于迈克尔·卡里克（ Michael Carrick ）周一下午在曼联训练场的忠诚度帖子，就像其他地方一样。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/26/michael-carrick-manchester-united-training-ground-club-discuss-sacking"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
+      "titleZh": "社区话题：Apple Watch Ultra 4回顾：电池续航时间更长，但仍在等待新功能",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Ap...",
+      "summaryZh": "中文翻译：最大的苹果智能手表获得了更好的健康跟踪和新的就绪工具，配备了电池和芯片，为有争议的音频人工智能做准备随着Ultra进入第四个年头...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Put Your A.I. Agents to Work with These 5 Killer Tasks",
+      "titleZh": "社区话题：让您的人工智能代理处理这5项杀手级任务",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+      "summaryZh": "中文翻译：当您开始使用Meta的Muse和OpenAI的圆点来完成这些任务（例如申请工作和预订难以获得的餐厅餐桌）时，您可能永远不会回去。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
+      "titleZh": "社区话题：Mbappé DOUBLE在巴塞罗那拉菲尼亚扳平比赛后获得皇家马德里晚期胜利",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole ne...",
+      "summaryZh": "中文翻译：13年后，何塞·穆里尼奥带领皇家马德里作为一支球队进入诺坎普，他们作为另一支球队再次出局，获得了他所热爱的那种迟到的胜利，并开辟了一整...",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Football Daily | Post-Ferguson worn-out horror show continues at Manchester United",
+      "titleZh": "社区话题：《足球日报》|曼联后弗格森时代的恐怖秀仍在继续",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! We’re in the midst of what the kids call “spooky season” – or, for our fellow fusty old-timers out there, “autumn”. If you’ve been cosying...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！我们正处于孩子们所谓的“幽灵季节” --或者，对于我们的老朋友来说，是“秋天”。如果你一直在逗乐……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/22/football-daily-email-manchester-united"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
     }
   ],
   "audienceMap": {
-    "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,7 +627,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Osula and Barnes strike as Newcastle pile pressure on lacklustre Palace": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Michael Carrick attends Manchester United training ground as club discuss his fate": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,7 +647,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew": {
+    "视觉热点：Michael Carrick attends Manchester United training ground as club discuss his fate": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,22 +657,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’": {
+    "视觉热点：Doubles players sign open letter pleading with tennis chiefs to ‘protect’ format": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,15 +672,20 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Osula and Barnes strike as Newcastle pile pressure on lacklustre Palace": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "短视频趋势：Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Michael Carrick attends Manchester United training ground as club discuss his fate": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "社区话题：Apple Watch Ultra 4 review: longer battery life but still awaiting new features": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
@@ -703,6 +698,11 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Football Daily | Post-Ferguson worn-out horror show continues at Manchester United": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
