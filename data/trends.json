@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T06:51:51.777239+00:00",
-  "generatedAtBeijing": "2026-10-28 14:51",
+  "generatedAt": "2026-10-29T07:06:54.753017+00:00",
+  "generatedAtBeijing": "2026-10-29 15:06",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -73,44 +73,10 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Meta plans $95bn stock offering to help cover AI expansion",
-      "titleZh": "实时讨论：Meta计划发行$ 950亿美元的股票，以帮助覆盖人工智能的扩张",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 89,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech firm announces two-part fundraising after Elon Musk warns hundreds of AI startups face collapse Mark Zuckerberg’s Meta has announced plans for $95bn (£71bn) of fundraising to cover its ...",
-      "summaryZh": "中文翻译：在埃隆·马斯克(Elon Musk)警告数百家人工智能初创公司面临倒闭之后，科技公司宣布分两部分筹款。马克·扎克伯格的Meta宣布了950亿美元(710亿英镑)的筹款计划，以支付其...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
       "title": "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
       "titleZh": "实时讨论：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 83,
+      "heat": 85,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
       "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
@@ -123,19 +89,53 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@ImKushanK",
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Chiefs sign Justin Tucker in wake of sexual misconduct allegations as Butker struggles",
+      "titleZh": "实时讨论：随着Butker的挣扎，酋长们在性行为不端指控之后签署了Justin Tucker",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Tucker was banned under NFL’s conduct policy Butker has missed five of 16 FG attempts this season The Kansas City Chiefs have signed the former Baltimore Ravens kicker Justin Tucker to their...",
+      "summaryZh": "中文翻译：根据美国国家橄榄球联盟的行为政策，塔克被禁止在本赛季的16次FG尝试中错过了5次。堪萨斯城酋长队已经与前巴尔的摩乌鸦队踢球手贾斯汀·塔克签下了他们的...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -209,44 +209,10 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Meta plans $95bn stock offering to help cover AI expansion",
-      "titleZh": "视觉热点：Meta计划发行$ 950亿美元的股票，以帮助覆盖人工智能的扩张",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech firm announces two-part fundraising after Elon Musk warns hundreds of AI startups face collapse Mark Zuckerberg’s Meta has announced plans for $95bn (£71bn) of fundraising to cover its ...",
-      "summaryZh": "中文翻译：在埃隆·马斯克(Elon Musk)警告数百家人工智能初创公司面临倒闭之后，科技公司宣布分两部分筹款。马克·扎克伯格的Meta宣布了950亿美元(710亿英镑)的筹款计划，以支付其...",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
       "title": "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
       "titleZh": "视觉热点：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 78,
+      "heat": 80,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
       "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
@@ -259,36 +225,36 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Football Daily | Mourinho is ready for his clásico return – stock up on popcorn, folks!",
-      "titleZh": "视觉热点：《足球日报》|穆里尼奥已经准备好迎接他的回归--伙计们，囤积爆米花！",
+      "title": "视觉热点：Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop?",
+      "titleZh": "视觉热点：Howe、Nagelsmann、Pochettino ：有人能结束曼联的厄运循环吗？",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
+      "heat": 73,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Football Daily has never had much time for conspiracy theories. Lee Harvey Oswald dunnit, Stanley Kubrick didn’t fake the moon landing, Vi...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！《足球日报》从来没有太多时间讨论阴谋论。李·哈维·奥斯瓦尔德·达尼特，斯坦利·库布里克没有伪造登月，维……",
+      "summary": "公开来源显示该议题正在发酵：Even an elite coach would surely struggle at Old Trafford amid the executive chaos and with an unfit, uneven squad In January 2014 the 13th series of Celebrity Big Brother aired in the UK, t...",
+      "summaryZh": "中文翻译：即使是精英教练也肯定会在老特拉福德的高管混乱中挣扎，并且在2014年1月，第13系列名人老大哥在英国播出。",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/23/jose-mourinho-real-madrid-barcelona-clasico-football-daily-newsletter"
+          "url": "https://www.theguardian.com/football/2026/oct/28/howe-nagelsmann-pochettino-can-anyone-end-manchester-uniteds-doom-loop"
         }
       ],
       "accounts": [
@@ -306,6 +272,40 @@
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
+      "titleZh": "视觉热点：凯恩的金球奖（ Ballon d 'Or ）为名人奉承仪式赢得了辉煌的回击| Barney Ronay",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming fl...",
+      "summaryZh": "中文翻译：这位英格兰队队长在伦敦一个当之无愧的获胜者和无意中欢呼的夜晚动人地说话。嗯，有一些新的东西。足球：现已推出全新、真正温馨的足球……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -379,44 +379,10 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Meta plans $95bn stock offering to help cover AI expansion",
-      "titleZh": "短视频趋势：Meta计划发行$ 950亿美元的股票，以帮助覆盖人工智能的扩张",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech firm announces two-part fundraising after Elon Musk warns hundreds of AI startups face collapse Mark Zuckerberg’s Meta has announced plans for $95bn (£71bn) of fundraising to cover its ...",
-      "summaryZh": "中文翻译：在埃隆·马斯克(Elon Musk)警告数百家人工智能初创公司面临倒闭之后，科技公司宣布分两部分筹款。马克·扎克伯格的Meta宣布了950亿美元(710亿英镑)的筹款计划，以支付其...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
       "titleZh": "短视频趋势：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 77,
+      "heat": 79,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
       "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
@@ -429,19 +395,53 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Chiefs sign Justin Tucker in wake of sexual misconduct allegations as Butker struggles",
+      "titleZh": "短视频趋势：随着Butker的挣扎，酋长们在性行为不端指控之后签署了Justin Tucker",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 86,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Tucker was banned under NFL’s conduct policy Butker has missed five of 16 FG attempts this season The Kansas City Chiefs have signed the former Baltimore Ravens kicker Justin Tucker to their...",
+      "summaryZh": "中文翻译：根据美国国家橄榄球联盟的行为政策，塔克被禁止在本赛季的16次FG尝试中错过了5次。堪萨斯城酋长队已经与前巴尔的摩乌鸦队踢球手贾斯汀·塔克签下了他们的...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -515,35 +515,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Meta plans $95bn stock offering to help cover AI expansion",
-      "titleZh": "社区话题：Meta计划发行$ 950亿美元的股票，以帮助覆盖人工智能的扩张",
+      "title": "社区话题：Chiefs sign Justin Tucker in wake of sexual misconduct allegations as Butker struggles",
+      "titleZh": "社区话题：随着Butker的挣扎，酋长们在性行为不端指控之后签署了Justin Tucker",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 82,
+      "heat": 74,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Tech firm announces two-part fundraising after Elon Musk warns hundreds of AI startups face collapse Mark Zuckerberg’s Meta has announced plans for $95bn (£71bn) of fundraising to cover its ...",
-      "summaryZh": "中文翻译：在埃隆·马斯克(Elon Musk)警告数百家人工智能初创公司面临倒闭之后，科技公司宣布分两部分筹款。马克·扎克伯格的Meta宣布了950亿美元(710亿英镑)的筹款计划，以支付其...",
+      "summary": "公开来源显示该议题正在发酵：Tucker was banned under NFL’s conduct policy Butker has missed five of 16 FG attempts this season The Kansas City Chiefs have signed the former Baltimore Ravens kicker Justin Tucker to their...",
+      "summaryZh": "中文翻译：根据美国国家橄榄球联盟的行为政策，塔克被禁止在本赛季的16次FG尝试中错过了5次。堪萨斯城酋长队已经与前巴尔的摩乌鸦队踢球手贾斯汀·塔克签下了他们的...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@ImKushanK",
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -627,12 +627,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Meta plans $95bn stock offering to help cover AI expansion": {
+    "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
+    "实时讨论：Chiefs sign Justin Tucker in wake of sexual misconduct allegations as Butker struggles": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,17 +647,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Meta plans $95bn stock offering to help cover AI expansion": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
     "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Football Daily | Mourinho is ready for his clásico return – stock up on popcorn, folks!": {
+    "视觉热点：Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop?": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -672,12 +672,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Meta plans $95bn stock offering to help cover AI expansion": {
+    "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
+    "短视频趋势：Chiefs sign Justin Tucker in wake of sexual misconduct allegations as Butker struggles": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,7 +692,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Meta plans $95bn stock offering to help cover AI expansion": {
+    "社区话题：Chiefs sign Justin Tucker in wake of sexual misconduct allegations as Butker struggles": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
