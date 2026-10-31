@@ -1,14 +1,116 @@
 {
-  "generatedAt": "2026-10-30T07:07:55.205068+00:00",
-  "generatedAtBeijing": "2026-10-30 15:07",
+  "generatedAt": "2026-10-31T07:00:04.181380+00:00",
+  "generatedAtBeijing": "2026-10-31 15:00",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
+    {
+      "platform": "x",
+      "title": "实时讨论：Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show",
+      "titleZh": "实时讨论：文件显示， Meta讨论了针对社交媒体评论家Jonathan Haidt的“耳语策略”",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US ...",
+      "summaryZh": "中文翻译：法庭文件显示，工作人员考虑过如何“让学术界否认”有影响力的美国作家Meta的工作人员讨论过部署“耳语策略”来破坏有影响力的美国......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Hyrox athlete who soiled herself puts ‘confronting’ matter behind her to win return race",
+      "titleZh": "实时讨论：将自己弄脏的Hyrox运动员将“面对”的事情抛在身后，以赢得回归比赛",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Joanna Wietrzyk claims victory in first event of season in Hamburg Australian says pre-race that she is ‘truly so sorry’ for events in Beijing The Australian athlete who sparked outrage when...",
+      "summaryZh": "中文翻译：乔安娜·维特日克（ Joanna Wietrzyk ）在汉堡赛季的第一场比赛中声称获胜，澳大利亚人在赛前表示，她对北京的事件“真的很抱歉”。澳大利亚运动员在...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/31/hyrox-athlete-joanna-wietrzyk-wins-hamburg-race-apology"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：‘My social life completely plummeted’: gen Z is fighting back against big tech",
+      "titleZh": "实时讨论：“我的社交生活完全崩溃” ： Z世代正在反击大型科技公司",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 73,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Gen Z voters: tell us what is guiding y...",
+      "summaryZh": "中文翻译：从阻止干扰的应用程序到精简的手机，年轻人正在寻找从他们所说的Z世代选民关注中获利的平台上拔掉插头的方法：告诉我们是什么在引导你......",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
     {
       "platform": "x",
       "title": "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
       "titleZh": "实时讨论：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 89,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
       "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
@@ -21,104 +123,36 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
-      "titleZh": "实时讨论：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
-      "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Max Dowman to miss three games after Arsenal’s red card appeal rejected",
-      "titleZh": "实时讨论：马克斯·道曼在阿森纳的红牌上诉被驳回后缺席三场比赛",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Teenager was sent off for lashing out in Fleetwood defeat Club’s claims over card and ban were both dismissed Arsenal’s appeal against Max Dowman’s red card in their Carabao Cup defeat at Fl...",
-      "summaryZh": "中文翻译：少年因抨击弗利特伍德击败俱乐部对卡片的主张而被罚下场，禁赛令都被驳回了阿森纳对马克斯·道曼在佛罗里达州卡拉宝杯击败红牌的上诉。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
+        },
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/29/max-dowman-to-miss-three-arsenal-matches-fa-rejects-red-card-appeal-fleetwood"
-        }
-      ],
-      "accounts": [
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-      "titleZh": "实时讨论：Apple Watch Ultra 4回顾：电池续航时间更长，但仍在等待新功能",
+      "title": "实时讨论：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history",
+      "titleZh": "实时讨论：随着基米·安东内利（ Kimi Antonelli ）加速迈向F1历史，嘉年华在墨西哥城等着您",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
+      "heat": 68,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Ap...",
-      "summaryZh": "中文翻译：最大的苹果智能手表获得了更好的健康跟踪和新的就绪工具，配备了电池和芯片，为有争议的音频人工智能做准备随着Ultra进入第四个年头...",
+      "summary": "公开来源显示该议题正在发酵：Italian 20-year-old is on the verge of becoming the youngest world champion with the Mexican Grand Prix ready for a carnival coronation atmosphere An undeniable highlight of this Formula One...",
+      "summaryZh": "中文翻译：20岁的意大利人即将成为最年轻的世界冠军，墨西哥大奖赛为狂欢加冕氛围做好准备这场一级方程式赛车不可否认的亮点......",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/30/mexico-grand-prix-kimi-antonelli-f1-history"
         }
       ],
       "accounts": [
@@ -128,116 +162,116 @@
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast",
-      "titleZh": "实时讨论：曼彻斯特联队火力全开，阿森纳队在拜仁抽签：足球周刊额外节目–播客",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind-Tutt to discuss the latest Champions League action Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind...",
-      "summaryZh": "中文翻译：乔纳森·刘（ Jonathan Liew ）、保罗·沃森（ Paul Watson ）和阿奇·林德-塔特（ Archie Rhind-Tutt ）与马克斯·拉什登（ Max Rushden ）一起讨论欧洲冠军联赛的最新动作乔纳森·刘（ Jonathan Liew ）、保",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/oct/22/manchester-united-bin-fire-and-arsenal-draw-in-munich-football-weekly-extra-podcast"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
-      "titleZh": "视觉热点：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
+      "title": "视觉热点：Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show",
+      "titleZh": "视觉热点：文件显示， Meta讨论了针对社交媒体评论家Jonathan Haidt的“耳语策略”",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 82,
+      "heat": 81,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
-      "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
+      "summary": "公开来源显示该议题正在发酵：Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US ...",
+      "summaryZh": "中文翻译：法庭文件显示，工作人员考虑过如何“让学术界否认”有影响力的美国作家Meta的工作人员讨论过部署“耳语策略”来破坏有影响力的美国......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
+          "url": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@exploraX_",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Everybody hates Pat: is a cabal of college kids really trying to bring down ESPN’s star meathead?",
-      "titleZh": "视觉热点：每个人都讨厌帕特：一群大学生真的试图打倒ESPN的明星肉头吗？",
+      "title": "视觉热点：Hyrox athlete who soiled herself puts ‘confronting’ matter behind her to win return race",
+      "titleZh": "视觉热点：将自己弄脏的Hyrox运动员将“面对”的事情抛在身后，以赢得回归比赛",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Pat McAfee’s reaction to a few mild jokes shows how the ubiquitous ESPN personality is happy to whip up a crowd into a hostile frenzy but is terrified of any criticism It was all shaping up ...",
-      "summaryZh": "中文翻译：帕特·麦卡菲（ Pat McAfee ）对一些温和笑话的反应表明，无处不在的ESPN个性如何乐意将人群煽动成敌对的狂热，但却害怕任何批评。这一切都在形成...",
+      "heat": 86,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Joanna Wietrzyk claims victory in first event of season in Hamburg Australian says pre-race that she is ‘truly so sorry’ for events in Beijing The Australian athlete who sparked outrage when...",
+      "summaryZh": "中文翻译：乔安娜·维特日克（ Joanna Wietrzyk ）在汉堡赛季的第一场比赛中声称获胜，澳大利亚人在赛前表示，她对北京的事件“真的很抱歉”。澳大利亚运动员在...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/oct/29/pat-mcafee-college-gameday-espn"
+          "url": "https://www.theguardian.com/sport/2026/oct/31/hyrox-athlete-joanna-wietrzyk-wins-hamburg-race-apology"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：‘My social life completely plummeted’: gen Z is fighting back against big tech",
+      "titleZh": "视觉热点：“我的社交生活完全崩溃” ： Z世代正在反击大型科技公司",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 70,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Gen Z voters: tell us what is guiding y...",
+      "summaryZh": "中文翻译：从阻止干扰的应用程序到精简的手机，年轻人正在寻找从他们所说的Z世代选民关注中获利的平台上拔掉插头的方法：告诉我们是什么在引导你......",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -246,7 +280,7 @@
       "title": "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings",
       "titleZh": "视觉热点：计算机化的千里眼：通灵者对AI生成的读数进行反击",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
+      "heat": 85,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Myst...",
       "summaryZh": "中文翻译：人类从业者警告说，计算机生成的产品缺乏对占卜至关重要的同理心和联系“这段旅程不仅仅是关于算法或数据” ，一个名为Urban Myst的人工智能通灵者...",
@@ -259,53 +293,121 @@
       ],
       "accounts": [
         {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show",
+      "titleZh": "短视频趋势：文件显示， Meta讨论了针对社交媒体评论家Jonathan Haidt的“耳语策略”",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US ...",
+      "summaryZh": "中文翻译：法庭文件显示，工作人员考虑过如何“让学术界否认”有影响力的美国作家Meta的工作人员讨论过部署“耳语策略”来破坏有影响力的美国......",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Hyrox athlete who soiled herself puts ‘confronting’ matter behind her to win return race",
+      "titleZh": "短视频趋势：将自己弄脏的Hyrox运动员将“面对”的事情抛在身后，以赢得回归比赛",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Joanna Wietrzyk claims victory in first event of season in Hamburg Australian says pre-race that she is ‘truly so sorry’ for events in Beijing The Australian athlete who sparked outrage when...",
+      "summaryZh": "中文翻译：乔安娜·维特日克（ Joanna Wietrzyk ）在汉堡赛季的第一场比赛中声称获胜，澳大利亚人在赛前表示，她对北京的事件“真的很抱歉”。澳大利亚运动员在...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/31/hyrox-athlete-joanna-wietrzyk-wins-hamburg-race-apology"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        },
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘My social life completely plummeted’: gen Z is fighting back against big tech",
+      "titleZh": "短视频趋势：“我的社交生活完全崩溃” ： Z世代正在反击大型科技公司",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Gen Z voters: tell us what is guiding y...",
+      "summaryZh": "中文翻译：从阻止干扰的应用程序到精简的手机，年轻人正在寻找从他们所说的Z世代选民关注中获利的平台上拔掉插头的方法：告诉我们是什么在引导你......",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps"
+        }
+      ],
+      "accounts": [
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
-      "titleZh": "视觉热点：凯恩的金球奖（ Ballon d 'Or ）为名人奉承仪式赢得了辉煌的回击| Barney Ronay",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming fl...",
-      "summaryZh": "中文翻译：这位英格兰队队长在伦敦一个当之无愧的获胜者和无意中欢呼的夜晚动人地说话。嗯，有一些新的东西。足球：现已推出全新、真正温馨的足球……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -314,7 +416,7 @@
       "title": "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
       "titleZh": "短视频趋势：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 93,
+      "heat": 87,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
       "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
@@ -327,84 +429,50 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
-      "titleZh": "短视频趋势：“一条难线” ：与处理维基百科武器贸易页面的编辑见面",
+      "title": "短视频趋势：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history",
+      "titleZh": "短视频趋势：随着基米·安东内利（ Kimi Antonelli ）加速迈向F1历史，嘉年华在墨西哥城等着您",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 85,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively sma...",
-      "summaryZh": "中文翻译：志愿者和新员工聚集在一起参加“维基百科” ，将有关行业的更多细节放入公共领域“任何人都可以编辑维基百科” ，这句谚语是这样的。但是，事实证明，一个相对较小的...",
+      "summary": "公开来源显示该议题正在发酵：Italian 20-year-old is on the verge of becoming the youngest world champion with the Mexican Grand Prix ready for a carnival coronation atmosphere An undeniable highlight of this Formula One...",
+      "summaryZh": "中文翻译：20岁的意大利人即将成为最年轻的世界冠军，墨西哥大奖赛为狂欢加冕氛围做好准备这场一级方程式赛车不可否认的亮点......",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/30/mexico-grand-prix-kimi-antonelli-f1-history"
         }
       ],
       "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Max Dowman to miss three games after Arsenal’s red card appeal rejected",
-      "titleZh": "短视频趋势：马克斯·道曼在阿森纳的红牌上诉被驳回后缺席三场比赛",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Teenager was sent off for lashing out in Fleetwood defeat Club’s claims over card and ban were both dismissed Arsenal’s appeal against Max Dowman’s red card in their Carabao Cup defeat at Fl...",
-      "summaryZh": "中文翻译：少年因抨击弗利特伍德击败俱乐部对卡片的主张而被罚下场，禁赛令都被驳回了阿森纳对马克斯·道曼在佛罗里达州卡拉宝杯击败红牌的上诉。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/29/max-dowman-to-miss-three-arsenal-matches-fa-rejects-red-card-appeal-fleetwood"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
@@ -412,27 +480,22 @@
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-      "titleZh": "短视频趋势：Apple Watch Ultra 4回顾：电池续航时间更长，但仍在等待新功能",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
+      "platform": "facebook",
+      "title": "社区话题：Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show",
+      "titleZh": "社区话题：文件显示， Meta讨论了针对社交媒体评论家Jonathan Haidt的“耳语策略”",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 85,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Ap...",
-      "summaryZh": "中文翻译：最大的苹果智能手表获得了更好的健康跟踪和新的就绪工具，配备了电池和芯片，为有争议的音频人工智能做准备随着Ultra进入第四个年头...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "summary": "公开来源显示该议题正在发酵：Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US ...",
+      "summaryZh": "中文翻译：法庭文件显示，工作人员考虑过如何“让学术界否认”有影响力的美国作家Meta的工作人员讨论过部署“耳语策略”来破坏有影响力的美国......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking"
+          "url": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents"
         }
       ],
       "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
@@ -442,40 +505,11 @@
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast",
-      "titleZh": "短视频趋势：曼彻斯特联队火力全开，阿森纳队在拜仁抽签：足球周刊额外节目–播客",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind-Tutt to discuss the latest Champions League action Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind...",
-      "summaryZh": "中文翻译：乔纳森·刘（ Jonathan Liew ）、保罗·沃森（ Paul Watson ）和阿奇·林德-塔特（ Archie Rhind-Tutt ）与马克斯·拉什登（ Max Rushden ）一起讨论欧洲冠军联赛的最新动作乔纳森·刘（ Jonathan Liew ）、保",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/audio/2026/oct/22/manchester-united-bin-fire-and-arsenal-draw-in-munich-football-weekly-extra-podcast"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -484,7 +518,7 @@
       "title": "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
       "titleZh": "社区话题：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 80,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
       "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
@@ -497,45 +531,6 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Max Dowman to miss three games after Arsenal’s red card appeal rejected",
-      "titleZh": "社区话题：马克斯·道曼在阿森纳的红牌上诉被驳回后缺席三场比赛",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Teenager was sent off for lashing out in Fleetwood defeat Club’s claims over card and ban were both dismissed Arsenal’s appeal against Max Dowman’s red card in their Carabao Cup defeat at Fl...",
-      "summaryZh": "中文翻译：少年因抨击弗利特伍德击败俱乐部对卡片的主张而被罚下场，禁赛令都被驳回了阿森纳对马克斯·道曼在佛罗里达州卡拉宝杯击败红牌的上诉。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/29/max-dowman-to-miss-three-arsenal-matches-fa-rejects-red-card-appeal-fleetwood"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
@@ -544,6 +539,45 @@
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history",
+      "titleZh": "社区话题：随着基米·安东内利（ Kimi Antonelli ）加速迈向F1历史，嘉年华在墨西哥城等着您",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Italian 20-year-old is on the verge of becoming the youngest world champion with the Mexican Grand Prix ready for a carnival coronation atmosphere An undeniable highlight of this Formula One...",
+      "summaryZh": "中文翻译：20岁的意大利人即将成为最年轻的世界冠军，墨西哥大奖赛为狂欢加冕氛围做好准备这场一级方程式赛车不可否认的亮点......",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/oct/30/mexico-grand-prix-kimi-antonelli-f1-history"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -552,7 +586,7 @@
       "title": "社区话题：Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
       "titleZh": "社区话题：Apple Watch Ultra 4回顾：电池续航时间更长，但仍在等待新功能",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
+      "heat": 72,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Ap...",
       "summaryZh": "中文翻译：最大的苹果智能手表获得了更好的健康跟踪和新的就绪工具，配备了电池和芯片，为有争议的音频人工智能做准备随着Ultra进入第四个年头...",
@@ -565,89 +599,60 @@
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Put Your A.I. Agents to Work with These 5 Killer Tasks",
-      "titleZh": "社区话题：让您的人工智能代理处理这5项杀手级任务",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 70,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
-      "summaryZh": "中文翻译：当您开始使用Meta的Muse和OpenAI的圆点来完成这些任务（例如申请工作和预订难以获得的餐厅餐桌）时，您可能永远不会回去。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html"
-        }
-      ],
-      "accounts": [
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     }
   ],
   "audienceMap": {
+    "实时讨论：Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Hyrox athlete who soiled herself puts ‘confronting’ matter behind her to win return race": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：‘My social life completely plummeted’: gen Z is fighting back against big tech": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
+    "实时讨论：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Max Dowman to miss three games after Arsenal’s red card appeal rejected": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Apple Watch Ultra 4 review: longer battery life but still awaiting new features": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
+    "视觉热点：Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Everybody hates Pat: is a cabal of college kids really trying to bring down ESPN’s star meathead?": {
+    "视觉热点：Hyrox athlete who soiled herself puts ‘confronting’ matter behind her to win return race": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：‘My social life completely plummeted’: gen Z is fighting back against big tech": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,52 +662,47 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    "短视频趋势：Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Hyrox athlete who soiled herself puts ‘confronting’ matter behind her to win return race": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：‘My social life completely plummeted’: gen Z is fighting back against big tech": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages": {
+    "短视频趋势：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Max Dowman to miss three games after Arsenal’s red card appeal rejected": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Apple Watch Ultra 4 review: longer battery life but still awaiting new features": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    "社区话题：Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Max Dowman to miss three games after Arsenal’s red card appeal rejected": {
+    "社区话题：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Apple Watch Ultra 4 review: longer battery life but still awaiting new features": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Put Your A.I. Agents to Work with These 5 Killer Tasks": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
