@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T07:00:04.181380+00:00",
-  "generatedAtBeijing": "2026-10-31 15:00",
+  "generatedAt": "2026-11-01T07:33:28.212611+00:00",
+  "generatedAtBeijing": "2026-11-01 15:33",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -141,35 +141,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history",
-      "titleZh": "实时讨论：随着基米·安东内利（ Kimi Antonelli ）加速迈向F1历史，嘉年华在墨西哥城等着您",
+      "title": "实时讨论：Put Your A.I. Agents to Work with These 5 Killer Tasks",
+      "titleZh": "实时讨论：让您的人工智能代理处理这5项杀手级任务",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Italian 20-year-old is on the verge of becoming the youngest world champion with the Mexican Grand Prix ready for a carnival coronation atmosphere An undeniable highlight of this Formula One...",
-      "summaryZh": "中文翻译：20岁的意大利人即将成为最年轻的世界冠军，墨西哥大奖赛为狂欢加冕氛围做好准备这场一级方程式赛车不可否认的亮点......",
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+      "summaryZh": "中文翻译：当您开始使用Meta的Muse和OpenAI的圆点来完成这些任务（例如申请工作和预订难以获得的餐厅餐桌）时，您可能永远不会回去。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/oct/30/mexico-grand-prix-kimi-antonelli-f1-history"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html"
         }
       ],
       "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -277,21 +277,26 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings",
-      "titleZh": "视觉热点：计算机化的千里眼：通灵者对AI生成的读数进行反击",
+      "title": "视觉热点：Is AI your new wingman? How chatbots are transforming dating",
+      "titleZh": "视觉热点：AI是你的新僚机吗？聊天机器人如何改变约会",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Myst...",
-      "summaryZh": "中文翻译：人类从业者警告说，计算机生成的产品缺乏对占卜至关重要的同理心和联系“这段旅程不仅仅是关于算法或数据” ，一个名为Urban Myst的人工智能通灵者...",
+      "heat": 76,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partners After Sam’s ex joked that her sister found him ugly, he turned to AI. Go...",
+      "summaryZh": "中文翻译：近40%的英国单身人士使用人工智能提供浪漫建议，从写消息到评估潜在伴侣。Sam的前男友开玩笑说她姐姐觉得他很丑，于是他转向人工智能。去……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings"
+          "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"
         }
       ],
       "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
@@ -301,11 +306,6 @@
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -447,35 +447,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history",
-      "titleZh": "短视频趋势：随着基米·安东内利（ Kimi Antonelli ）加速迈向F1历史，嘉年华在墨西哥城等着您",
+      "title": "短视频趋势：Put Your A.I. Agents to Work with These 5 Killer Tasks",
+      "titleZh": "短视频趋势：让您的人工智能代理处理这5项杀手级任务",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Italian 20-year-old is on the verge of becoming the youngest world champion with the Mexican Grand Prix ready for a carnival coronation atmosphere An undeniable highlight of this Formula One...",
-      "summaryZh": "中文翻译：20岁的意大利人即将成为最年轻的世界冠军，墨西哥大奖赛为狂欢加冕氛围做好准备这场一级方程式赛车不可否认的亮点......",
+      "heat": 82,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+      "summaryZh": "中文翻译：当您开始使用Meta的Muse和OpenAI的圆点来完成这些任务（例如申请工作和预订难以获得的餐厅餐桌）时，您可能永远不会回去。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/oct/30/mexico-grand-prix-kimi-antonelli-f1-history"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html"
         }
       ],
       "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -549,18 +549,18 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history",
-      "titleZh": "社区话题：随着基米·安东内利（ Kimi Antonelli ）加速迈向F1历史，嘉年华在墨西哥城等着您",
+      "title": "社区话题：Put Your A.I. Agents to Work with These 5 Killer Tasks",
+      "titleZh": "社区话题：让您的人工智能代理处理这5项杀手级任务",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Italian 20-year-old is on the verge of becoming the youngest world champion with the Mexican Grand Prix ready for a carnival coronation atmosphere An undeniable highlight of this Formula One...",
-      "summaryZh": "中文翻译：20岁的意大利人即将成为最年轻的世界冠军，墨西哥大奖赛为狂欢加冕氛围做好准备这场一级方程式赛车不可否认的亮点......",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+      "summaryZh": "中文翻译：当您开始使用Meta的Muse和OpenAI的圆点来完成这些任务（例如申请工作和预订难以获得的餐厅餐桌）时，您可能永远不会回去。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/oct/30/mexico-grand-prix-kimi-antonelli-f1-history"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html"
         }
       ],
       "accounts": [
@@ -570,9 +570,9 @@
           "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@lifeof_scoop",
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-      "titleZh": "社区话题：Apple Watch Ultra 4回顾：电池续航时间更长，但仍在等待新功能",
+      "title": "社区话题：Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
+      "titleZh": "社区话题：Mbappé DOUBLE在巴塞罗那拉菲尼亚扳平比赛后获得皇家马德里晚期胜利",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Ap...",
-      "summaryZh": "中文翻译：最大的苹果智能手表获得了更好的健康跟踪和新的就绪工具，配备了电池和芯片，为有争议的音频人工智能做准备随着Ultra进入第四个年头...",
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole ne...",
+      "summaryZh": "中文翻译：13年后，何塞·穆里尼奥带领皇家马德里作为一支球队进入诺坎普，他们作为另一支球队再次出局，获得了他所热爱的那种迟到的胜利，并开辟了一整...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@ImKushanK",
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     }
@@ -637,7 +637,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history": {
+    "实时讨论：Put Your A.I. Agents to Work with These 5 Killer Tasks": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -657,7 +657,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings": {
+    "视觉热点：Is AI your new wingman? How chatbots are transforming dating": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -682,7 +682,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history": {
+    "短视频趋势：Put Your A.I. Agents to Work with These 5 Killer Tasks": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -697,12 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history": {
+    "社区话题：Put Your A.I. Agents to Work with These 5 Killer Tasks": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Apple Watch Ultra 4 review: longer battery life but still awaiting new features": {
+    "社区话题：Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
