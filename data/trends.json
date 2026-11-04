@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T07:55:50.262025+00:00",
-  "generatedAtBeijing": "2026-11-03 15:55",
+  "generatedAt": "2026-11-04T07:30:03.406796+00:00",
+  "generatedAtBeijing": "2026-11-04 15:30",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -73,10 +73,78 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+      "titleZh": "实时讨论：Canva裁员：设计巨头将在重大重组中削减或重新安置1,200多个工作岗位",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news p...",
+      "summaryZh": "中文翻译：首席执行官梅兰妮·珀金斯（ Melanie Perkins ）在给员工的电子邮件中将裁员描述为“毫无疑问，这是我们13年历史上最艰难的时刻”。获取我们的突发新闻电子邮件、免费应用程序或每日新闻……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
+      "titleZh": "实时讨论：《足球日报》|西汉姆想要晋升–所以是时候召集一个低调的俱乐部传奇了",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》本赛季实际上并没有看到太多西汉姆联的比赛，但我们已经注意到他们的结果，足以假设他们的表现还不错……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
       "titleZh": "实时讨论：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
+      "heat": 77,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
@@ -89,6 +157,11 @@
       ],
       "accounts": [
         {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
@@ -97,79 +170,6 @@
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Arsenal end Anfield wait and Manchester United beaten again | Football Weekly – video",
-      "titleZh": "实时讨论：阿森纳结束安菲尔德等待和曼联再次击败|《足球周刊》–视频",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and John Brewin as Arsenal win at Anfield in the league for the first time in 14 years and go top of the Premier League Continue ...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、乔纳森·威尔逊（ Jonathan Wilson ）和约翰·布鲁因（ John Brewin ）一起参加了阿森纳（ Arsenal ） 14年来首次在安菲尔德（ Anfield ）",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/nov/02/arsenal-end-anfield-wait-and-manchester-united-beaten-again-football-weekly-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini",
-      "titleZh": "实时讨论：从VHS梦想到圣西罗荣耀：阿莫林的米兰浪潮让竞争对手注意到| Nicky Bandini",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Inspired by the legendary Milan sides of his youth, the manager gave his side a lift with a tactical victory over Inter Ruben Amorim had waited a lifetime for his first Milan derby. As a kid...",
-      "summaryZh": "中文翻译：这位经理受到他年轻时传奇般的米兰球队的启发，在战术上战胜了国际鲁本·阿莫林，一生都在等待他的第一场米兰德比。小时候……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/02/milan-inter-ruben-amorim-serie-a"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -209,10 +209,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
+      "titleZh": "视觉热点：《足球日报》|西汉姆想要晋升–所以是时候召集一个低调的俱乐部传奇了",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》本赛季实际上并没有看到太多西汉姆联的比赛，但我们已经注意到他们的结果，足以假设他们的表现还不错……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings",
       "titleZh": "视觉热点：计算机化的千里眼：通灵者对AI生成的读数进行反击",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 89,
+      "heat": 87,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Myst...",
       "summaryZh": "中文翻译：人类从业者警告说，计算机生成的产品缺乏对占卜至关重要的同理心和联系“这段旅程不仅仅是关于算法或数据” ，一个名为Urban Myst的人工智能通灵者...",
@@ -225,53 +259,19 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Is AI your new wingman? How chatbots are transforming dating",
-      "titleZh": "视觉热点：AI是你的新僚机吗？聊天机器人如何改变约会",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partners After Sam’s ex joked that her sister found him ugly, he turned to AI. Go...",
-      "summaryZh": "中文翻译：近40%的英国单身人士使用人工智能提供浪漫建议，从写消息到评估潜在伴侣。Sam的前男友开玩笑说她姐姐觉得他很丑，于是他转向人工智能。去……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -379,10 +379,78 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+      "titleZh": "短视频趋势：Canva裁员：设计巨头将在重大重组中削减或重新安置1,200多个工作岗位",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 71,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news p...",
+      "summaryZh": "中文翻译：首席执行官梅兰妮·珀金斯（ Melanie Perkins ）在给员工的电子邮件中将裁员描述为“毫无疑问，这是我们13年历史上最艰难的时刻”。获取我们的突发新闻电子邮件、免费应用程序或每日新闻……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
+      "titleZh": "短视频趋势：《足球日报》|西汉姆想要晋升–所以是时候召集一个低调的俱乐部传奇了",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 70,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》本赛季实际上并没有看到太多西汉姆联的比赛，但我们已经注意到他们的结果，足以假设他们的表现还不错……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
       "titleZh": "短视频趋势：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 85,
+      "heat": 81,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
@@ -395,87 +463,19 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Arsenal end Anfield wait and Manchester United beaten again | Football Weekly – video",
-      "titleZh": "短视频趋势：阿森纳结束安菲尔德等待和曼联再次击败|《足球周刊》–视频",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning , Jonathan Wilson and John Brewin as Arsenal win at Anfield in the league for the first time in 14 years and go top of the Premier League Continue ...",
-      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、乔纳森·威尔逊（ Jonathan Wilson ）和约翰·布鲁因（ John Brewin ）一起参加了阿森纳（ Arsenal ） 14年来首次在安菲尔德（ Anfield ）",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/nov/02/arsenal-end-anfield-wait-and-manchester-united-beaten-again-football-weekly-video"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini",
-      "titleZh": "短视频趋势：从VHS梦想到圣西罗荣耀：阿莫林的米兰浪潮让竞争对手注意到| Nicky Bandini",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Inspired by the legendary Milan sides of his youth, the manager gave his side a lift with a tactical victory over Inter Ruben Amorim had waited a lifetime for his first Milan derby. As a kid...",
-      "summaryZh": "中文翻译：这位经理受到他年轻时传奇般的米兰球队的启发，在战术上战胜了国际鲁本·阿莫林，一生都在等待他的第一场米兰德比。小时候……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/02/milan-inter-ruben-amorim-serie-a"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -515,10 +515,78 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+      "titleZh": "社区话题：Canva裁员：设计巨头将在重大重组中削减或重新安置1,200多个工作岗位",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news p...",
+      "summaryZh": "中文翻译：首席执行官梅兰妮·珀金斯（ Melanie Perkins ）在给员工的电子邮件中将裁员描述为“毫无疑问，这是我们13年历史上最艰难的时刻”。获取我们的突发新闻电子邮件、免费应用程序或每日新闻……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
+      "titleZh": "社区话题：《足球日报》|西汉姆想要晋升–所以是时候召集一个低调的俱乐部传奇了",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》本赛季实际上并没有看到太多西汉姆联的比赛，但我们已经注意到他们的结果，足以假设他们的表现还不错……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini",
       "titleZh": "社区话题：从VHS梦想到圣西罗荣耀：阿莫林的米兰浪潮让竞争对手注意到| Nicky Bandini",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
+      "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Inspired by the legendary Milan sides of his youth, the manager gave his side a lift with a tactical victory over Inter Ruben Amorim had waited a lifetime for his first Milan derby. As a kid...",
       "summaryZh": "中文翻译：这位经理受到他年轻时传奇般的米兰球队的启发，在战术上战胜了国际鲁本·阿莫林，一生都在等待他的第一场米兰德比。小时候……",
@@ -531,87 +599,19 @@
       ],
       "accounts": [
         {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
-      "titleZh": "社区话题：Mbappé DOUBLE在巴塞罗那拉菲尼亚扳平比赛后获得皇家马德里晚期胜利",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole ne...",
-      "summaryZh": "中文翻译：13年后，何塞·穆里尼奥带领皇家马德里作为一支球队进入诺坎普，他们作为另一支球队再次出局，获得了他所热爱的那种迟到的胜利，并开辟了一整...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Computerized clairvoyance: psychics push back against AI-generated readings",
-      "titleZh": "社区话题：计算机化的千里眼：通灵者对AI生成的读数进行反击",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Myst...",
-      "summaryZh": "中文翻译：人类从业者警告说，计算机生成的产品缺乏对占卜至关重要的同理心和联系“这段旅程不仅仅是关于算法或数据” ，一个名为Urban Myst的人工智能通灵者...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
         }
       ]
     }
@@ -627,17 +627,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Arsenal end Anfield wait and Manchester United beaten again | Football Weekly – video": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,12 +647,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings": {
+    "视觉热点：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Is AI your new wingman? How chatbots are transforming dating": {
+    "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -672,17 +672,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "短视频趋势：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Arsenal end Anfield wait and Manchester United beaten again | Football Weekly – video": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,17 +692,17 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
+    "社区话题：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
     "社区话题：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Computerized clairvoyance: psychics push back against AI-generated readings": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
