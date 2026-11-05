@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T07:30:03.406796+00:00",
-  "generatedAtBeijing": "2026-11-04 15:30",
+  "generatedAt": "2026-11-05T07:55:07.293246+00:00",
+  "generatedAtBeijing": "2026-11-05 15:55",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -73,69 +73,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-      "titleZh": "实时讨论：Canva裁员：设计巨头将在重大重组中削减或重新安置1,200多个工作岗位",
+      "title": "实时讨论：Borthwick given RFU backing for World Cup even if England flop in Nations Championship",
+      "titleZh": "实时讨论：Borthwick给予RFU支持世界杯，即使英格兰队在国家锦标赛中失败",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news p...",
-      "summaryZh": "中文翻译：首席执行官梅兰妮·珀金斯（ Melanie Perkins ）在给员工的电子邮件中将裁员描述为“毫无疑问，这是我们13年历史上最艰难的时刻”。获取我们的突发新闻电子邮件、免费应用程序或每日新闻……",
+      "heat": 73,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：RFU chief Bill Sweeney offers full support to Borthwick England boosted by fly-half Fin Smith’s return to training Steve Borthwick has been given the Rugby Football Union’s unequivocal backi...",
+      "summaryZh": "中文翻译：RFU负责人比尔·斯威尼（ Bill Sweeney ）为英格兰波斯威克（ Borthwick England ）提供了全力支持，这得益于飞鳍史密斯（ Fin Smith ）重返训练场，史蒂夫·波斯威克（ Steve Borthwick ）获得了橄榄球联盟的",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/04/steve-borthwick-rugby-world-cup-rfu-backing-england"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
-      "titleZh": "实时讨论：《足球日报》|西汉姆想要晋升–所以是时候召集一个低调的俱乐部传奇了",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK ...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》本赛季实际上并没有看到太多西汉姆联的比赛，但我们已经注意到他们的结果，足以假设他们的表现还不错……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -144,7 +110,7 @@
       "title": "实时讨论：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
       "titleZh": "实时讨论：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
@@ -170,6 +136,40 @@
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
+      "titleZh": "实时讨论：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
+      "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -209,35 +209,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
-      "titleZh": "视觉热点：《足球日报》|西汉姆想要晋升–所以是时候召集一个低调的俱乐部传奇了",
+      "title": "视觉热点：‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?",
+      "titleZh": "视觉热点：“健康就在选票上” ：为什么这么多普拉提工作室让我在中期投票？",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK ...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》本赛季实际上并没有看到太多西汉姆联的比赛，但我们已经注意到他们的结果，足以假设他们的表现还不错……",
+      "heat": 84,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Send us your questions about the midterm results Track live results from all...",
+      "summaryZh": "中文翻译：美国普拉提和瑜伽工作室的所有者从政，并鼓励他们的追随者在社交媒体上投票向我们发送有关中期结果的问题跟踪所有...的实时结果",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/pilates-politics-fitness-studios-midterms-voting"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "newsletter 增长案例"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@patrickcolpron",
+          "followers": "约4万",
+          "why": "餐厅/本地营销和创作者增长"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@nathanallebach",
+          "followers": "约5万",
+          "why": "品牌人格化和社媒观点"
         }
       ]
     },
@@ -379,59 +379,25 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-      "titleZh": "短视频趋势：Canva裁员：设计巨头将在重大重组中削减或重新安置1,200多个工作岗位",
+      "title": "短视频趋势：Borthwick given RFU backing for World Cup even if England flop in Nations Championship",
+      "titleZh": "短视频趋势：Borthwick给予RFU支持世界杯，即使英格兰队在国家锦标赛中失败",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news p...",
-      "summaryZh": "中文翻译：首席执行官梅兰妮·珀金斯（ Melanie Perkins ）在给员工的电子邮件中将裁员描述为“毫无疑问，这是我们13年历史上最艰难的时刻”。获取我们的突发新闻电子邮件、免费应用程序或每日新闻……",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：RFU chief Bill Sweeney offers full support to Borthwick England boosted by fly-half Fin Smith’s return to training Steve Borthwick has been given the Rugby Football Union’s unequivocal backi...",
+      "summaryZh": "中文翻译：RFU负责人比尔·斯威尼（ Bill Sweeney ）为英格兰波斯威克（ Borthwick England ）提供了全力支持，这得益于飞鳍史密斯（ Fin Smith ）重返训练场，史蒂夫·波斯威克（ Steve Borthwick ）获得了橄榄球联盟的",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/04/steve-borthwick-rugby-world-cup-rfu-backing-england"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
-      "titleZh": "短视频趋势：《足球日报》|西汉姆想要晋升–所以是时候召集一个低调的俱乐部传奇了",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK ...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》本赛季实际上并没有看到太多西汉姆联的比赛，但我们已经注意到他们的结果，足以假设他们的表现还不错……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -439,9 +405,9 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -450,7 +416,7 @@
       "title": "短视频趋势：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
       "titleZh": "短视频趋势：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
@@ -463,19 +429,53 @@
       ],
       "accounts": [
         {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
+      "titleZh": "短视频趋势：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 76,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
+      "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -515,59 +515,93 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-      "titleZh": "社区话题：Canva裁员：设计巨头将在重大重组中削减或重新安置1,200多个工作岗位",
+      "title": "社区话题：‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?",
+      "titleZh": "社区话题：“健康就在选票上” ：为什么这么多普拉提工作室让我在中期投票？",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 87,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news p...",
-      "summaryZh": "中文翻译：首席执行官梅兰妮·珀金斯（ Melanie Perkins ）在给员工的电子邮件中将裁员描述为“毫无疑问，这是我们13年历史上最艰难的时刻”。获取我们的突发新闻电子邮件、免费应用程序或每日新闻……",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Send us your questions about the midterm results Track live results from all...",
+      "summaryZh": "中文翻译：美国普拉提和瑜伽工作室的所有者从政，并鼓励他们的追随者在社交媒体上投票向我们发送有关中期结果的问题跟踪所有...的实时结果",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/pilates-politics-fitness-studios-midterms-voting"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "newsletter 增长案例"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@patrickcolpron",
+          "followers": "约4万",
+          "why": "餐厅/本地营销和创作者增长"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@nathanallebach",
+          "followers": "约5万",
+          "why": "品牌人格化和社媒观点"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
-      "titleZh": "社区话题：《足球日报》|西汉姆想要晋升–所以是时候召集一个低调的俱乐部传奇了",
+      "title": "社区话题：Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty",
+      "titleZh": "社区话题：特朗普的亿万富翁-蓝领联盟已被阶级政治粉碎| Aditya Chakrabortty",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 75,
+      "heat": 74,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK ...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！虽然《足球日报》本赛季实际上并没有看到太多西汉姆联的比赛，但我们已经注意到他们的结果，足以假设他们的表现还不错……",
+      "summary": "公开来源显示该议题正在发酵：As tech bosses get richer and ordinary Americans struggle, Democrats put the case against the US’s grotesque unfairness – and voters responded Remember the “vibe shift”? Just last year, colu...",
+      "summaryZh": "中文翻译：随着科技老板变得越来越富有，普通美国人陷入困境，民主党人对美国奇怪的不公平现象提出了反对意见--选民们回应说，还记得“氛围转变”吗？就在去年， colu...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-billionaire-coalition-class-politics-tech-us-democrats"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
+      "titleZh": "社区话题：伦纳特·卡尔（ Lennart Karl ）抢在马德里竞技队后面，激励拜仁慕尼黑队获胜",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：“This stadium brings back bad memories but I hope to be able to replace them with good ones,” Harry Kane had said on Monday night, and 24 hours later this was a start. A small step, perhaps,...",
+      "summaryZh": "中文翻译：“这个体育场带回了不好的回忆，但我希望能够用好的回忆取代它们，”哈里·凯恩周一晚上说， 24小时后这是一个开始。一小步，也许， ……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
           "name": "@marfawe",
@@ -575,43 +609,9 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini",
-      "titleZh": "社区话题：从VHS梦想到圣西罗荣耀：阿莫林的米兰浪潮让竞争对手注意到| Nicky Bandini",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Inspired by the legendary Milan sides of his youth, the manager gave his side a lift with a tactical victory over Inter Ruben Amorim had waited a lifetime for his first Milan derby. As a kid...",
-      "summaryZh": "中文翻译：这位经理受到他年轻时传奇般的米兰球队的启发，在战术上战胜了国际鲁本·阿莫林，一生都在等待他的第一场米兰德比。小时候……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/02/milan-inter-ruben-amorim-serie-a"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     }
@@ -627,12 +627,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend": {
+    "实时讨论：Borthwick given RFU backing for World Cup even if England flop in Nations Championship": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,12 +637,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "视觉热点：‘My social life completely plummeted’: gen Z is fighting back against big tech": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend": {
+    "视觉热点：‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -672,12 +672,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend": {
+    "短视频趋势：Borthwick given RFU backing for World Cup even if England flop in Nations Championship": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,22 +682,27 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure": {
+    "社区话题：‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Football Daily | West Ham want promotion – so it’s time to call in an understated club legend": {
+    "社区话题：Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini": {
+    "社区话题：Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
