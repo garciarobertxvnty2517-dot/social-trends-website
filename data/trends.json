@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T07:55:07.293246+00:00",
-  "generatedAtBeijing": "2026-11-05 15:55",
+  "generatedAt": "2026-11-06T07:56:05.384222+00:00",
+  "generatedAtBeijing": "2026-11-06 15:56",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -73,18 +73,52 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Borthwick given RFU backing for World Cup even if England flop in Nations Championship",
-      "titleZh": "实时讨论：Borthwick给予RFU支持世界杯，即使英格兰队在国家锦标赛中失败",
+      "title": "实时讨论：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
+      "titleZh": "实时讨论：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 73,
+      "heat": 81,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：RFU chief Bill Sweeney offers full support to Borthwick England boosted by fly-half Fin Smith’s return to training Steve Borthwick has been given the Rugby Football Union’s unequivocal backi...",
-      "summaryZh": "中文翻译：RFU负责人比尔·斯威尼（ Bill Sweeney ）为英格兰波斯威克（ Borthwick England ）提供了全力支持，这得益于飞鳍史密斯（ Fin Smith ）重返训练场，史蒂夫·波斯威克（ Steve Borthwick ）获得了橄榄球联盟的",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/04/steve-borthwick-rugby-world-cup-rfu-backing-england"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/02/football-daily-email-aston-villa"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
+      "titleZh": "实时讨论：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 80,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
+      "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
         }
       ],
       "accounts": [
@@ -107,69 +141,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
-      "titleZh": "实时讨论：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
+      "title": "实时讨论：Google, Meta and TikTok Sue California Over Ban on Features for Kids",
+      "titleZh": "实时讨论：谷歌、Meta和TikTok Sue California禁止面向儿童的功能",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
+      "summaryZh": "中文翻译：谷歌、Meta和TikTok分别提起诉讼，他们一直在与大量声称其服务令人上瘾的说法作斗争。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/02/football-daily-email-aston-villa"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html"
         }
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
-      "titleZh": "实时讨论：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
-      "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -214,8 +214,8 @@
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 84,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Send us your questions about the midterm results Track live results from all...",
-      "summaryZh": "中文翻译：美国普拉提和瑜伽工作室的所有者从政，并鼓励他们的追随者在社交媒体上投票向我们发送有关中期结果的问题跟踪所有...的实时结果",
+      "summary": "公开来源显示该议题正在发酵：Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Q&amp;A: Ask your questions about Democrats’ win in the midterms Track live ...",
+      "summaryZh": "中文翻译：美国普拉提和瑜伽工作室的所有者获得了政治支持，并鼓励他们的追随者在社交媒体上投票问答：询问您关于民主党在中期选举中获胜的问题现场直播......",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -243,10 +243,44 @@
     },
     {
       "platform": "instagram",
+      "title": "视觉热点：Football Daily | Como turn on the style and hammer nine past out-of-focus Lens",
+      "titleZh": "视觉热点：FOOTBALL DAILY | COMO开启时尚风格，锤击过去九个失焦镜头",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! A consistent criticism levelled at Como is that they are simply not “Italian” enough to be a bona fide Serie A club. Bankrolled by an Indo...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！对COMO的一贯批评是，他们根本不够“意大利” ，不足以成为真正的意甲俱乐部。由印度人资助...",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/05/football-daily-email-como-lens"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
       "title": "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings",
       "titleZh": "视觉热点：计算机化的千里眼：通灵者对AI生成的读数进行反击",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
+      "heat": 85,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Myst...",
       "summaryZh": "中文翻译：人类从业者警告说，计算机生成的产品缺乏对占卜至关重要的同理心和联系“这段旅程不仅仅是关于算法或数据” ，一个名为Urban Myst的人工智能通灵者...",
@@ -259,53 +293,19 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
-      "titleZh": "视觉热点：凯恩的金球奖（ Ballon d 'Or ）为名人奉承仪式赢得了辉煌的回击| Barney Ronay",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming fl...",
-      "summaryZh": "中文翻译：这位英格兰队队长在伦敦一个当之无愧的获胜者和无意中欢呼的夜晚动人地说话。嗯，有一些新的东西。足球：现已推出全新、真正温馨的足球……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -379,44 +379,10 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Borthwick given RFU backing for World Cup even if England flop in Nations Championship",
-      "titleZh": "短视频趋势：Borthwick给予RFU支持世界杯，即使英格兰队在国家锦标赛中失败",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：RFU chief Bill Sweeney offers full support to Borthwick England boosted by fly-half Fin Smith’s return to training Steve Borthwick has been given the Rugby Football Union’s unequivocal backi...",
-      "summaryZh": "中文翻译：RFU负责人比尔·斯威尼（ Bill Sweeney ）为英格兰波斯威克（ Borthwick England ）提供了全力支持，这得益于飞鳍史密斯（ Fin Smith ）重返训练场，史蒂夫·波斯威克（ Steve Borthwick ）获得了橄榄球联盟的",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/04/steve-borthwick-rugby-world-cup-rfu-backing-england"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
       "title": "短视频趋势：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
       "titleZh": "短视频趋势：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
+      "heat": 85,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
@@ -429,6 +395,11 @@
       ],
       "accounts": [
         {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
@@ -437,11 +408,6 @@
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -450,7 +416,7 @@
       "title": "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
       "titleZh": "短视频趋势：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
+      "heat": 78,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
       "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
@@ -468,14 +434,48 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Google, Meta and TikTok Sue California Over Ban on Features for Kids",
+      "titleZh": "短视频趋势：谷歌、Meta和TikTok Sue California禁止面向儿童的功能",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
+      "summaryZh": "中文翻译：谷歌、Meta和TikTok分别提起诉讼，他们一直在与大量声称其服务令人上瘾的说法作斗争。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -515,13 +515,47 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：Google, Meta and TikTok Sue California Over Ban on Features for Kids",
+      "titleZh": "社区话题：谷歌、Meta和TikTok Sue California禁止面向儿童的功能",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 86,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
+      "summaryZh": "中文翻译：谷歌、Meta和TikTok分别提起诉讼，他们一直在与大量声称其服务令人上瘾的说法作斗争。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?",
       "titleZh": "社区话题：“健康就在选票上” ：为什么这么多普拉提工作室让我在中期投票？",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 71,
+      "heat": 69,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Send us your questions about the midterm results Track live results from all...",
-      "summaryZh": "中文翻译：美国普拉提和瑜伽工作室的所有者从政，并鼓励他们的追随者在社交媒体上投票向我们发送有关中期结果的问题跟踪所有...的实时结果",
+      "summary": "公开来源显示该议题正在发酵：Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Q&amp;A: Ask your questions about Democrats’ win in the midterms Track live ...",
+      "summaryZh": "中文翻译：美国普拉提和瑜伽工作室的所有者获得了政治支持，并鼓励他们的追随者在社交媒体上投票问答：询问您关于民主党在中期选举中获胜的问题现场直播......",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -531,9 +565,9 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
+          "name": "@nathanallebach",
+          "followers": "约5万",
+          "why": "品牌人格化和社媒观点"
         },
         {
           "name": "@patrickcolpron",
@@ -541,9 +575,9 @@
           "why": "餐厅/本地营销和创作者增长"
         },
         {
-          "name": "@nathanallebach",
-          "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "newsletter 增长案例"
         }
       ]
     },
@@ -552,7 +586,7 @@
       "title": "社区话题：Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty",
       "titleZh": "社区话题：特朗普的亿万富翁-蓝领联盟已被阶级政治粉碎| Aditya Chakrabortty",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
+      "heat": 72,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：As tech bosses get richer and ordinary Americans struggle, Democrats put the case against the US’s grotesque unfairness – and voters responded Remember the “vibe shift”? Just last year, colu...",
       "summaryZh": "中文翻译：随着科技老板变得越来越富有，普通美国人陷入困境，民主党人对美国奇怪的不公平现象提出了反对意见--选民们回应说，还记得“氛围转变”吗？就在去年， colu...",
@@ -565,53 +599,19 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
-      "titleZh": "社区话题：伦纳特·卡尔（ Lennart Karl ）抢在马德里竞技队后面，激励拜仁慕尼黑队获胜",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：“This stadium brings back bad memories but I hope to be able to replace them with good ones,” Harry Kane had said on Monday night, and 24 hours later this was a start. A small step, perhaps,...",
-      "summaryZh": "中文翻译：“这个体育场带回了不好的回忆，但我希望能够用好的回忆取代它们，”哈里·凯恩周一晚上说， 24小时后这是一个开始。一小步，也许， ……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化和增长观点"
         }
       ]
     }
@@ -627,17 +627,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Borthwick given RFU backing for World Cup even if England flop in Nations Championship": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Google, Meta and TikTok Sue California Over Ban on Features for Kids": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -652,12 +652,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings": {
+    "视觉热点：Football Daily | Como turn on the style and hammer nine past out-of-focus Lens": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay": {
+    "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -672,11 +672,6 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Borthwick given RFU backing for World Cup even if England flop in Nations Championship": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
@@ -687,7 +682,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Google, Meta and TikTok Sue California Over Ban on Features for Kids": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Google, Meta and TikTok Sue California Over Ban on Features for Kids": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -698,11 +703,6 @@
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
