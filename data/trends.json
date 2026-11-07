@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-11-06T07:56:05.384222+00:00",
-  "generatedAtBeijing": "2026-11-06 15:56",
+  "generatedAt": "2026-11-07T07:11:45.168257+00:00",
+  "generatedAtBeijing": "2026-11-07 15:11",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：‘My social life completely plummeted’: gen Z is fighting back against big tech",
-      "titleZh": "实时讨论：“我的社交生活完了”：Z世代正在反击科技巨头",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Gen Z voters: tell us what is guiding y...",
-      "summaryZh": "中文翻译：从阻止干扰的应用程序到精简的手机，年轻人正在寻找从他们所说的Z世代选民关注中获利的平台上拔掉插头的方法：告诉我们是什么在引导你......",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
       "titleZh": "实时讨论：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 87,
+      "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
       "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
@@ -55,9 +21,43 @@
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Tired of Slow TikToks? This Content Creator Gives You the Ending",
+      "titleZh": "实时讨论：厌倦了慢速抖音？此内容创作者为您提供结尾",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 79,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
+      "summaryZh": "中文翻译：社交媒体上的视频通常会保存关键细节。一位名叫Heyitsyoon的内容创作者跳过了填充，因此观众不必等待。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@Bennettxai",
@@ -65,9 +65,9 @@
           "why": "AI 自动化实操内容"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -107,10 +107,44 @@
     },
     {
       "platform": "x",
+      "title": "实时讨论：‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
+      "titleZh": "实时讨论：“Clicky Ponting”作弊丑闻板球运动员被禁止，俱乐部降级",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Brian Devine, 38, banned from all cricket for two years Saltburn 2nd XI relegated and club fined by league The club cricketer dubbed “Clicky Ponting” in response to accusations of cheating d...",
+      "summaryZh": "中文翻译：38岁的Brian Devine被禁止参加所有板球比赛两年， Saltburn 2nd XI被降级并被联赛罚款俱乐部板球运动员被称为“Clicky Ponting” ，以回应作弊的指控。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "x",
       "title": "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
       "titleZh": "实时讨论：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
+      "heat": 78,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
       "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
@@ -123,121 +157,19 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Google, Meta and TikTok Sue California Over Ban on Features for Kids",
-      "titleZh": "实时讨论：谷歌、Meta和TikTok Sue California禁止面向儿童的功能",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
-      "summaryZh": "中文翻译：谷歌、Meta和TikTok分别提起诉讼，他们一直在与大量声称其服务令人上瘾的说法作斗争。",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘My social life completely plummeted’: gen Z is fighting back against big tech",
-      "titleZh": "视觉热点：“我的社交生活完了”：Z世代正在反击科技巨头",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Gen Z voters: tell us what is guiding y...",
-      "summaryZh": "中文翻译：从阻止干扰的应用程序到精简的手机，年轻人正在寻找从他们所说的Z世代选民关注中获利的平台上拔掉插头的方法：告诉我们是什么在引导你......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?",
-      "titleZh": "视觉热点：“健康就在选票上” ：为什么这么多普拉提工作室让我在中期投票？",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 84,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Q&amp;A: Ask your questions about Democrats’ win in the midterms Track live ...",
-      "summaryZh": "中文翻译：美国普拉提和瑜伽工作室的所有者获得了政治支持，并鼓励他们的追随者在社交媒体上投票问答：询问您关于民主党在中期选举中获胜的问题现场直播......",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/nov/04/pilates-politics-fitness-studios-midterms-voting"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
-        },
-        {
-          "name": "@patrickcolpron",
-          "followers": "约4万",
-          "why": "餐厅/本地营销和创作者增长"
-        },
-        {
-          "name": "@nathanallebach",
-          "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -246,7 +178,7 @@
       "title": "视觉热点：Football Daily | Como turn on the style and hammer nine past out-of-focus Lens",
       "titleZh": "视觉热点：FOOTBALL DAILY | COMO开启时尚风格，锤击过去九个失焦镜头",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
+      "heat": 91,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! A consistent criticism levelled at Como is that they are simply not “Italian” enough to be a bona fide Serie A club. Bankrolled by an Indo...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！对COMO的一贯批评是，他们根本不够“意大利” ，不足以成为真正的意甲俱乐部。由印度人资助...",
@@ -264,77 +196,111 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings",
-      "titleZh": "视觉热点：计算机化的千里眼：通灵者对AI生成的读数进行反击",
+      "title": "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
+      "titleZh": "视觉热点：凯恩的金球奖（ Ballon d 'Or ）为名人奉承仪式赢得了辉煌的回击| Barney Ronay",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
+      "heat": 76,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Myst...",
-      "summaryZh": "中文翻译：人类从业者警告说，计算机生成的产品缺乏对占卜至关重要的同理心和联系“这段旅程不仅仅是关于算法或数据” ，一个名为Urban Myst的人工智能通灵者...",
+      "summary": "公开来源显示该议题正在发酵：The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming fl...",
+      "summaryZh": "中文翻译：这位英格兰队队长在伦敦一个当之无愧的获胜者和无意中欢呼的夜晚动人地说话。嗯，有一些新的东西。足球：现已推出全新、真正温馨的足球……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@exploraX_",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：‘My social life completely plummeted’: gen Z is fighting back against big tech",
-      "titleZh": "短视频趋势：“我的社交生活完了”：Z世代正在反击科技巨头",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 87,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Gen Z voters: tell us what is guiding y...",
-      "summaryZh": "中文翻译：从阻止干扰的应用程序到精简的手机，年轻人正在寻找从他们所说的Z世代选民关注中获利的平台上拔掉插头的方法：告诉我们是什么在引导你......",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "platform": "instagram",
+      "title": "视觉热点：Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
+      "titleZh": "视觉热点：亚马逊Kindle Colorsoft评论：我们时代的单任务小工具",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 77,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.",
+      "summaryZh": "中文翻译：随着消费者寻求从社交媒体和人工智能炒作中获得喘息机会的技术，电子书阅读器的销量正在飙升。它的颜色甚至更好。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Microsoft’s Buyout Offer Sets Its Workforce on Edge",
+      "titleZh": "视觉热点：微软收购要约将其员工队伍置于边缘",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 78,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.",
+      "summaryZh": "中文翻译：随着微软向人工智能投入数十亿美元，该公司已向约6万名员工提供收购。劳动力已经很紧张了。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         },
         {
           "name": "@ImKushanK",
@@ -348,7 +314,7 @@
       "title": "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
       "titleZh": "短视频趋势：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 91,
+      "heat": 93,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
       "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
@@ -361,19 +327,53 @@
       ],
       "accounts": [
         {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Tired of Slow TikToks? This Content Creator Gives You the Ending",
+      "titleZh": "短视频趋势：厌倦了慢速抖音？此内容创作者为您提供结尾",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 86,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
+      "summaryZh": "中文翻译：社交媒体上的视频通常会保存关键细节。一位名叫Heyitsyoon的内容创作者跳过了填充，因此观众不必等待。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
         },
         {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -413,10 +413,44 @@
     },
     {
       "platform": "tiktok",
+      "title": "短视频趋势：‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
+      "titleZh": "短视频趋势：“Clicky Ponting”作弊丑闻板球运动员被禁止，俱乐部降级",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Brian Devine, 38, banned from all cricket for two years Saltburn 2nd XI relegated and club fined by league The club cricketer dubbed “Clicky Ponting” in response to accusations of cheating d...",
+      "summaryZh": "中文翻译：38岁的Brian Devine被禁止参加所有板球比赛两年， Saltburn 2nd XI被降级并被联赛罚款俱乐部板球运动员被称为“Clicky Ponting” ，以回应作弊的指控。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
       "title": "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
       "titleZh": "短视频趋势：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
+      "heat": 76,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
       "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
@@ -434,48 +468,14 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Google, Meta and TikTok Sue California Over Ban on Features for Kids",
-      "titleZh": "短视频趋势：谷歌、Meta和TikTok Sue California禁止面向儿童的功能",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
-      "summaryZh": "中文翻译：谷歌、Meta和TikTok分别提起诉讼，他们一直在与大量声称其服务令人上瘾的说法作斗争。",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -515,10 +515,44 @@
     },
     {
       "platform": "facebook",
+      "title": "社区话题：‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
+      "titleZh": "社区话题：“Clicky Ponting”作弊丑闻板球运动员被禁止，俱乐部降级",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Brian Devine, 38, banned from all cricket for two years Saltburn 2nd XI relegated and club fined by league The club cricketer dubbed “Clicky Ponting” in response to accusations of cheating d...",
+      "summaryZh": "中文翻译：38岁的Brian Devine被禁止参加所有板球比赛两年， Saltburn 2nd XI被降级并被联赛罚款俱乐部板球运动员被称为“Clicky Ponting” ，以回应作弊的指控。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
       "title": "社区话题：Google, Meta and TikTok Sue California Over Ban on Features for Kids",
       "titleZh": "社区话题：谷歌、Meta和TikTok Sue California禁止面向儿童的功能",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 86,
+      "heat": 84,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
       "summaryZh": "中文翻译：谷歌、Meta和TikTok分别提起诉讼，他们一直在与大量声称其服务令人上瘾的说法作斗争。",
@@ -531,70 +565,36 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?",
-      "titleZh": "社区话题：“健康就在选票上” ：为什么这么多普拉提工作室让我在中期投票？",
+      "title": "社区话题：Google, Meta and TikTok sue California to block law protecting children from addiction risk",
+      "titleZh": "社区话题：谷歌、Meta和TikTok起诉加利福尼亚州阻止保护儿童免受成瘾风险的法律",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 69,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Q&amp;A: Ask your questions about Democrats’ win in the midterms Track live ...",
-      "summaryZh": "中文翻译：美国普拉提和瑜伽工作室的所有者获得了政治支持，并鼓励他们的追随者在社交媒体上投票问答：询问您关于民主党在中期选举中获胜的问题现场直播......",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/nov/04/pilates-politics-fitness-studios-midterms-voting"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@nathanallebach",
-          "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
-        },
-        {
-          "name": "@patrickcolpron",
-          "followers": "约4万",
-          "why": "餐厅/本地营销和创作者增长"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty",
-      "titleZh": "社区话题：特朗普的亿万富翁-蓝领联盟已被阶级政治粉碎| Aditya Chakrabortty",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 72,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As tech bosses get richer and ordinary Americans struggle, Democrats put the case against the US’s grotesque unfairness – and voters responded Remember the “vibe shift”? Just last year, colu...",
-      "summaryZh": "中文翻译：随着科技老板变得越来越富有，普通美国人陷入困境，民主党人对美国奇怪的不公平现象提出了反对意见--选民们回应说，还记得“氛围转变”吗？就在去年， colu...",
+      "summary": "公开来源显示该议题正在发酵：Law bans social media platforms from providing minors features such as autoplay that lead to compulsive use Google, Meta and TikTok have sued California to block enforcement of ⁠a new state ...",
+      "summaryZh": "中文翻译：法律禁止社交媒体平台向未成年人提供自动播放等导致强迫使用谷歌、Meta和TikTok的功能，并起诉加利福尼亚州阻止执行新州的执法……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-billionaire-coalition-class-politics-tech-us-democrats"
+          "url": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta"
         }
       ],
       "accounts": [
@@ -604,25 +604,25 @@
           "why": "AI 营销和业务运营内容"
         },
         {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：‘My social life completely plummeted’: gen Z is fighting back against big tech": {
+    "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
+    "实时讨论：Tired of Slow TikToks? This Content Creator Gives You the Ending": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,42 +632,42 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：‘Clicky Ponting’ cheating scandal cricketer banned and club relegated": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Google, Meta and TikTok Sue California Over Ban on Features for Kids": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "视觉热点：‘My social life completely plummeted’: gen Z is fighting back against big tech": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：Football Daily | Como turn on the style and hammer nine past out-of-focus Lens": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Computerized clairvoyance: psychics push back against AI-generated readings": {
+    "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：‘My social life completely plummeted’: gen Z is fighting back against big tech": {
+    "视觉热点：Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "视觉热点：Microsoft’s Buyout Offer Sets Its Workforce on Edge": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
+    "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
+    "短视频趋势：Tired of Slow TikToks? This Content Creator Gives You the Ending": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,12 +677,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
+    "短视频趋势：‘Clicky Ponting’ cheating scandal cricketer banned and club relegated": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Google, Meta and TikTok Sue California Over Ban on Features for Kids": {
+    "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,17 +692,17 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
+    "社区话题：‘Clicky Ponting’ cheating scandal cricketer banned and club relegated": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
     "社区话题：Google, Meta and TikTok Sue California Over Ban on Features for Kids": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：‘Wellness is on the ballot’: why did so many pilates studios tell me to vote in the midterms?": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty": {
+    "社区话题：Google, Meta and TikTok sue California to block law protecting children from addiction risk": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
