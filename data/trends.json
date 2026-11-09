@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T07:22:22.521738+00:00",
-  "generatedAtBeijing": "2026-11-08 15:22",
+  "generatedAt": "2026-11-09T07:59:22.699536+00:00",
+  "generatedAtBeijing": "2026-11-09 15:59",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -73,26 +73,21 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic",
-      "titleZh": "实时讨论：苏格兰综述：纳德里向圣米伦的流浪者开火，以保持对凯尔特人的压力",
+      "title": "实时讨论：Ukraine’s new frontier: how space has become critical to balance of the war",
+      "titleZh": "实时讨论：乌克兰的新边疆：空间如何成为平衡战争的关键",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 85,
+      "heat": 81,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Rangers win 2-0 to go one point off top spot Aberdeen slump to 4-0 defeat against Hibernian Rangers banished their recent away day blues with a solid 2-0 win at St Mirren . Draws against Dun...",
-      "summaryZh": "中文翻译：流浪者队以2-0击败阿伯丁队，以4-0击败希伯尼安流浪队，以2-0击败圣米伦队，放弃了他们最近的客场蓝军。平局对阵邓……",
+      "summary": "公开来源显示该议题正在发酵：In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own spa...",
+      "summaryZh": "中文翻译：在无人机和战场传感器驱动的战争中，进入太空至关重要。在Starlink速度限制和俄罗斯Oreshnik导弹袭击之后，基辅正在竞相开发自己的水疗中心...",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
         }
       ],
       "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
@@ -102,40 +97,11 @@
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
-      "titleZh": "实时讨论：“足球外星人” ： Mamadou Sangaré飙升至英超联赛高度",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 84,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Brentford’s Mali midfielder stood out when he was six and has shone in the Premier League since £39m transfer “When I first saw him, I thought to myself: ‘Who on earth is this player?’ laugh...",
-      "summaryZh": "中文翻译：布伦特福德的马里中场在6岁时就脱颖而出，自从转会£ 3900万以来，他一直在英超联赛中脱颖而出。“当我第一次见到他时，我想： ‘这位球员到底是谁？’笑……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -144,7 +110,7 @@
       "title": "实时讨论：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
       "titleZh": "实时讨论：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 77,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
@@ -174,36 +140,36 @@
       ]
     },
     {
-      "platform": "instagram",
-      "title": "视觉热点：Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
-      "titleZh": "视觉热点：冰箱熔毁和航空公司的恶作剧是即将发生的事情的味道。追求最好不再是一种选择| Elisabeth Braw",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 92,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Acts of greyzone aggression aim to spread panic. Europe has to show the saboteurs that we are resilient It was as though a ghostly hand had switched the settings on supermarket freezers acro...",
-      "summaryZh": "中文翻译：灰色地带的侵略行为旨在传播恐慌。欧洲必须向破坏者展示我们的韧性，就好像一只幽灵般的手改变了超市冰柜的设置……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "platform": "x",
+      "title": "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
+      "titleZh": "实时讨论：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
+      "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
@@ -212,7 +178,7 @@
       "title": "视觉热点：TikTok accused of helping to promote sex industry to girls",
       "titleZh": "视觉热点：TikTok被指控帮助向女孩推广性产业",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 88,
+      "heat": 90,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyle TikTok is helping to promote and normalise the sex industry, allowing “sexfluen...",
       "summaryZh": "中文翻译：研究人员表示，受欢迎的表演者秘密营销OnlyFans内容，并告诉粉丝抖音正在帮助促进性产业的正常化，允许“性流感……",
@@ -225,19 +191,19 @@
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -246,7 +212,7 @@
       "title": "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
       "titleZh": "视觉热点：凯恩的金球奖（ Ballon d 'Or ）为名人奉承仪式赢得了辉煌的回击| Barney Ronay",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 74,
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming fl...",
       "summaryZh": "中文翻译：这位英格兰队队长在伦敦一个当之无愧的获胜者和无意中欢呼的夜晚动人地说话。嗯，有一些新的东西。足球：现已推出全新、真正温馨的足球……",
@@ -259,19 +225,19 @@
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -293,14 +259,48 @@
       ],
       "accounts": [
         {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
+      "titleZh": "视觉热点：亚马逊Kindle Colorsoft评论：我们时代的单任务小工具",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 75,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.",
+      "summaryZh": "中文翻译：随着消费者寻求从社交媒体和人工智能炒作中获得喘息机会的技术，电子书阅读器的销量正在飙升。它的颜色甚至更好。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@marcinteodoru",
@@ -379,69 +379,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic",
-      "titleZh": "短视频趋势：苏格兰综述：纳德里向圣米伦的流浪者开火，以保持对凯尔特人的压力",
+      "title": "短视频趋势：Ukraine’s new frontier: how space has become critical to balance of the war",
+      "titleZh": "短视频趋势：乌克兰的新边疆：空间如何成为平衡战争的关键",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
+      "heat": 84,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Rangers win 2-0 to go one point off top spot Aberdeen slump to 4-0 defeat against Hibernian Rangers banished their recent away day blues with a solid 2-0 win at St Mirren . Draws against Dun...",
-      "summaryZh": "中文翻译：流浪者队以2-0击败阿伯丁队，以4-0击败希伯尼安流浪队，以2-0击败圣米伦队，放弃了他们最近的客场蓝军。平局对阵邓……",
+      "summary": "公开来源显示该议题正在发酵：In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own spa...",
+      "summaryZh": "中文翻译：在无人机和战场传感器驱动的战争中，进入太空至关重要。在Starlink速度限制和俄罗斯Oreshnik导弹袭击之后，基辅正在竞相开发自己的水疗中心...",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
         }
       ],
       "accounts": [
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
-      "titleZh": "短视频趋势：“足球外星人” ： Mamadou Sangaré飙升至英超联赛高度",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 82,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Brentford’s Mali midfielder stood out when he was six and has shone in the Premier League since £39m transfer “When I first saw him, I thought to myself: ‘Who on earth is this player?’ laugh...",
-      "summaryZh": "中文翻译：布伦特福德的马里中场在6岁时就脱颖而出，自从转会£ 3900万以来，他一直在英超联赛中脱颖而出。“当我第一次见到他时，我想： ‘这位球员到底是谁？’笑……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -450,7 +416,7 @@
       "title": "短视频趋势：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
       "titleZh": "短视频趋势：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
       "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
@@ -463,19 +429,53 @@
       ],
       "accounts": [
         {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
+      "titleZh": "短视频趋势：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 76,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
+      "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
@@ -515,26 +515,21 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic",
-      "titleZh": "社区话题：苏格兰综述：纳德里向圣米伦的流浪者开火，以保持对凯尔特人的压力",
+      "title": "社区话题：Ukraine’s new frontier: how space has become critical to balance of the war",
+      "titleZh": "社区话题：乌克兰的新边疆：空间如何成为平衡战争的关键",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 81,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Rangers win 2-0 to go one point off top spot Aberdeen slump to 4-0 defeat against Hibernian Rangers banished their recent away day blues with a solid 2-0 win at St Mirren . Draws against Dun...",
-      "summaryZh": "中文翻译：流浪者队以2-0击败阿伯丁队，以4-0击败希伯尼安流浪队，以2-0击败圣米伦队，放弃了他们最近的客场蓝军。平局对阵邓……",
+      "summary": "公开来源显示该议题正在发酵：In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own spa...",
+      "summaryZh": "中文翻译：在无人机和战场传感器驱动的战争中，进入太空至关重要。在Starlink速度限制和俄罗斯Oreshnik导弹袭击之后，基辅正在竞相开发自己的水疗中心...",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
         }
       ],
       "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
@@ -544,6 +539,11 @@
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
@@ -627,12 +627,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：‘A footballing alien’: Mamadou Sangaré soars to Premier League heights": {
+    "实时讨论：Ukraine’s new frontier: how space has become critical to balance of the war": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,10 +637,10 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "视觉热点：TikTok accused of helping to promote sex industry to girls": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
@@ -662,6 +657,11 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
+    "视觉热点：Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
@@ -672,12 +672,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：‘A footballing alien’: Mamadou Sangaré soars to Premier League heights": {
+    "短视频趋势：Ukraine’s new frontier: how space has become critical to balance of the war": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,12 +682,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic": {
+    "社区话题：Ukraine’s new frontier: how space has become critical to balance of the war": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
