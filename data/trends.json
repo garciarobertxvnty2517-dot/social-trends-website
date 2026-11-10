@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-11-09T07:59:22.699536+00:00",
-  "generatedAtBeijing": "2026-11-09 15:59",
+  "generatedAt": "2026-11-10T08:25:21.684763+00:00",
+  "generatedAtBeijing": "2026-11-10 16:25",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
-    {
-      "platform": "x",
-      "title": "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
-      "titleZh": "实时讨论：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 89,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
-      "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
     {
       "platform": "x",
       "title": "实时讨论：Tired of Slow TikToks? This Content Creator Gives You the Ending",
       "titleZh": "实时讨论：厌倦了慢速抖音？此内容创作者为您提供结尾",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 81,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
       "summaryZh": "中文翻译：社交媒体上的视频通常会保存关键细节。一位名叫Heyitsyoon的内容创作者跳过了填充，因此观众不必等待。",
@@ -55,14 +21,14 @@
       ],
       "accounts": [
         {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
         },
         {
           "name": "@marcinteodoru",
@@ -76,7 +42,7 @@
       "title": "实时讨论：Ukraine’s new frontier: how space has become critical to balance of the war",
       "titleZh": "实时讨论：乌克兰的新边疆：空间如何成为平衡战争的关键",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own spa...",
       "summaryZh": "中文翻译：在无人机和战场传感器驱动的战争中，进入太空至关重要。在Starlink速度限制和俄罗斯Oreshnik导弹袭击之后，基辅正在竞相开发自己的水疗中心...",
@@ -89,11 +55,6 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
@@ -102,108 +63,113 @@
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
-      "titleZh": "实时讨论：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
+      "title": "实时讨论：Cerebral Josh King plots unusual route into Tuchel’s England plans",
+      "titleZh": "实时讨论：大脑乔希·金（ Josh King ）在图切尔（ Tuchel ）的英格兰计划中绘制了不同寻常",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 71,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
+      "summary": "公开来源显示该议题正在发酵：Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typical Josh King is talking with pride about how his mother, Michelle, a university...",
+      "summaryZh": "中文翻译：这位少年拥有令人印象深刻的学业成绩和半羽橄榄球的经验，他绝不是典型的乔希·金，他自豪地谈论着他的母亲米歇尔，一所大学……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/02/football-daily-email-aston-villa"
+          "url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans"
         }
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
-      "titleZh": "实时讨论：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
+      "title": "实时讨论：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
+      "titleZh": "实时讨论：这是一个莫拉：罗德里戈和罗马与拉齐奥一起崛起，赋予永恒之城新的生命|尼基·班迪尼",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
-      "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
+      "summaryZh": "中文翻译：罗马和拉齐奥在意甲联赛中都取得了不败的开局，让意大利首都的球迷梦想着一场意甲联赛。在28天的九场比赛中，吉安·皮耶罗·加斯佩里尼（ Gian Piero Gasperini ）终于获得了……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
+          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
-      "platform": "instagram",
-      "title": "视觉热点：TikTok accused of helping to promote sex industry to girls",
-      "titleZh": "视觉热点：TikTok被指控帮助向女孩推广性产业",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 90,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyle TikTok is helping to promote and normalise the sex industry, allowing “sexfluen...",
-      "summaryZh": "中文翻译：研究人员表示，受欢迎的表演者秘密营销OnlyFans内容，并告诉粉丝抖音正在帮助促进性产业的正常化，允许“性流感……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "platform": "x",
+      "title": "实时讨论：Manchester’s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay",
+      "titleZh": "实时讨论：曼彻斯特无灵魂的内容机器足球俱乐部总结了后帝国英国| Barney Ronay",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：United and City dominate the news cycle with stories so strange and vast they threaten to consume the rest of the league In Manchester this weekend it was possible to bookend your Thursday‑t...",
+      "summaryZh": "中文翻译：曼联和曼城在新闻周期中占据主导地位，故事如此奇怪和庞大，他们威胁要在本周末在曼彻斯特消耗联盟的其余部分，你可以在周四预订。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/09/manchester-united-city-soulless-content-machines-premier-league"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -212,7 +178,7 @@
       "title": "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
       "titleZh": "视觉热点：凯恩的金球奖（ Ballon d 'Or ）为名人奉承仪式赢得了辉煌的回击| Barney Ronay",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming fl...",
       "summaryZh": "中文翻译：这位英格兰队队长在伦敦一个当之无愧的获胜者和无意中欢呼的夜晚动人地说话。嗯，有一些新的东西。足球：现已推出全新、真正温馨的足球……",
@@ -225,11 +191,6 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
@@ -238,6 +199,45 @@
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Manchester City’s Kerstin Casparij: ‘I love football – but it takes over your life’",
+      "titleZh": "视觉热点：曼城的Kerstin Casparij ： “我热爱足球–但它占据了你的生活”",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 80,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：Dutch full-back on relief of winning the Double and needing a ‘sense of normality’ while in the spotlight Kerstin Casparij loves football, especially Champions League nights under the lights...",
+      "summaryZh": "中文翻译：荷兰队的后卫是赢得双冠王并需要一种“正常感” ，而在聚光灯下， Kerstin Casparij热爱足球，尤其是在灯光下的冠军联赛之夜……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/10/manchester-citys-kerstin-casparij-i-love-football-but-it-takes-over-your-life"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -277,69 +277,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
-      "titleZh": "视觉热点：亚马逊Kindle Colorsoft评论：我们时代的单任务小工具",
+      "title": "视觉热点：Dianna Russini returns to sports media after Vrabel photo scandal with NFL betting show",
+      "titleZh": "视觉热点：在Vrabel照片丑闻之后， Dianna Russini在NFL博彩节目中重返体育媒体",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.",
-      "summaryZh": "中文翻译：随着消费者寻求从社交媒体和人工智能炒作中获得喘息机会的技术，电子书阅读器的销量正在飙升。它的颜色甚至更好。",
+      "heat": 87,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Show will stream on platforms of BetUS sportsbook Ex-Athletic NFL insider had resigned in April Patriots coach, Russini were pictured at resort Dianna Russini will return to sports media wit...",
+      "summaryZh": "中文翻译：节目将在BetUS体育博彩平台上播出，前NFL运动员内幕人士已于4月辞职爱国者队教练， Russini在度假村的照片Dianna Russini将重返体育媒体...",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/09/dianna-russini-return-betus-show"
         }
       ],
       "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
-      "titleZh": "短视频趋势：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 93,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
-      "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -348,7 +314,7 @@
       "title": "短视频趋势：Tired of Slow TikToks? This Content Creator Gives You the Ending",
       "titleZh": "短视频趋势：厌倦了慢速抖音？此内容创作者为您提供结尾",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
+      "heat": 88,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
       "summaryZh": "中文翻译：社交媒体上的视频通常会保存关键细节。一位名叫Heyitsyoon的内容创作者跳过了填充，因此观众不必等待。",
@@ -361,19 +327,19 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -382,7 +348,7 @@
       "title": "短视频趋势：Ukraine’s new frontier: how space has become critical to balance of the war",
       "titleZh": "短视频趋势：乌克兰的新边疆：空间如何成为平衡战争的关键",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 84,
+      "heat": 86,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own spa...",
       "summaryZh": "中文翻译：在无人机和战场传感器驱动的战争中，进入太空至关重要。在Starlink速度限制和俄罗斯Oreshnik导弹袭击之后，基辅正在竞相开发自己的水疗中心...",
@@ -395,36 +361,36 @@
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls",
-      "titleZh": "短视频趋势：足球日报|阿斯顿维拉， “不可接受的侮辱”和皮肤薄的珍珠",
+      "title": "短视频趋势：Cerebral Josh King plots unusual route into Tuchel’s England plans",
+      "titleZh": "短视频趋势：大脑乔希·金（ Josh King ）在图切尔（ Tuchel ）的英格兰计划中绘制了不同寻常",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
+      "heat": 81,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alon...",
-      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！当杰米·卡拉格(Jamie Carragher)在《天空体育超级星期日》(Sky Sports Super Sunday)上担任专家时，《足球日报》(Football Daily)惊讶地发现，他",
+      "summary": "公开来源显示该议题正在发酵：Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typical Josh King is talking with pride about how his mother, Michelle, a university...",
+      "summaryZh": "中文翻译：这位少年拥有令人印象深刻的学业成绩和半羽橄榄球的经验，他绝不是典型的乔希·金，他自豪地谈论着他的母亲米歇尔，一所大学……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/02/football-daily-email-aston-villa"
+          "url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans"
         }
       ],
       "accounts": [
@@ -434,31 +400,31 @@
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
-      "titleZh": "短视频趋势：世纪窒息？成都崩溃掀起惊心动魄的中国超级联赛高潮",
+      "title": "短视频趋势：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
+      "titleZh": "短视频趋势：这是一个莫拉：罗德里戈和罗马与拉齐奥一起崛起，赋予永恒之城新的生命|尼基·班迪尼",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
-      "summaryZh": "中文翻译：约翰·阿洛伊西（ John Aloisi ）的球员需要在最后一天获得积分才能获得首发冠军–但他们的形式已经从悬崖上掉下来了中国超级联赛还有四场比赛要进行，成都荣成n...",
+      "heat": 84,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
+      "summaryZh": "中文翻译：罗马和拉齐奥在意甲联赛中都取得了不败的开局，让意大利首都的球迷梦想着一场意甲联赛。在28天的九场比赛中，吉安·皮耶罗·加斯佩里尼（ Gian Piero Gasperini ）终于获得了……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
+          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a"
         }
       ],
       "accounts": [
@@ -468,9 +434,43 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Manchester’s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay",
+      "titleZh": "短视频趋势：曼彻斯特无灵魂的内容机器足球俱乐部总结了后帝国英国| Barney Ronay",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 79,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：United and City dominate the news cycle with stories so strange and vast they threaten to consume the rest of the league In Manchester this weekend it was possible to bookend your Thursday‑t...",
+      "summaryZh": "中文翻译：曼联和曼城在新闻周期中占据主导地位，故事如此奇怪和庞大，他们威胁要在本周末在曼彻斯特消耗联盟的其余部分，你可以在周四预订。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/09/manchester-united-city-soulless-content-machines-premier-league"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@goalflexo",
@@ -481,44 +481,10 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
-      "titleZh": "社区话题：（科技兄弟搏击俱乐部是真的！ “人工智能的巨头在一个狂野的新电视节目中得到了Succession的待遇",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 80,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonatha...",
-      "summaryZh": "中文翻译：《无畏》是对硅谷“自大狂怪人”的无畏讽刺。它的创作者和明星们谈论ayahuasca仪式，挖掘孩子们的数据–以及冲击首席执行官Showrunner Jonatha...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
       "title": "社区话题：Ukraine’s new frontier: how space has become critical to balance of the war",
       "titleZh": "社区话题：乌克兰的新边疆：空间如何成为平衡战争的关键",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
+      "heat": 83,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own spa...",
       "summaryZh": "中文翻译：在无人机和战场传感器驱动的战争中，进入太空至关重要。在Starlink速度限制和俄罗斯Oreshnik导弹袭击之后，基辅正在竞相开发自己的水疗中心...",
@@ -531,6 +497,11 @@
       ],
       "accounts": [
         {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
@@ -539,62 +510,23 @@
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Google, Meta and TikTok Sue California Over Ban on Features for Kids",
-      "titleZh": "社区话题：谷歌、Meta和TikTok Sue California禁止面向儿童的功能",
+      "title": "社区话题：Cerebral Josh King plots unusual route into Tuchel’s England plans",
+      "titleZh": "社区话题：大脑乔希·金（ Josh King ）在图切尔（ Tuchel ）的英格兰计划中绘制了不同寻常",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
-      "summaryZh": "中文翻译：谷歌、Meta和TikTok分别提起诉讼，他们一直在与大量声称其服务令人上瘾的说法作斗争。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini",
-      "titleZh": "社区话题：从VHS梦想到圣西罗荣耀：阿莫林的米兰浪潮让竞争对手注意到| Nicky Bandini",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 70,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Inspired by the legendary Milan sides of his youth, the manager gave his side a lift with a tactical victory over Inter Ruben Amorim had waited a lifetime for his first Milan derby. As a kid...",
-      "summaryZh": "中文翻译：这位经理受到他年轻时传奇般的米兰球队的启发，在战术上战胜了国际鲁本·阿莫林，一生都在等待他的第一场米兰德比。小时候……",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typical Josh King is talking with pride about how his mother, Michelle, a university...",
+      "summaryZh": "中文翻译：这位少年拥有令人印象深刻的学业成绩和半羽橄榄球的经验，他绝不是典型的乔希·金，他自豪地谈论着他的母亲米歇尔，一所大学……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/02/milan-inter-ruben-amorim-serie-a"
+          "url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans"
         }
       ],
       "accounts": [
@@ -614,14 +546,77 @@
           "why": "世界杯图文梗和球迷口吻"
         }
       ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
+      "titleZh": "社区话题：这是一个莫拉：罗德里戈和罗马与拉齐奥一起崛起，赋予永恒之城新的生命|尼基·班迪尼",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
+      "summaryZh": "中文翻译：罗马和拉齐奥在意甲联赛中都取得了不败的开局，让意大利首都的球迷梦想着一场意甲联赛。在28天的九场比赛中，吉安·皮耶罗·加斯佩里尼（ Gian Piero Gasperini ）终于获得了……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Manchester’s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay",
+      "titleZh": "社区话题：曼彻斯特无灵魂的内容机器足球俱乐部总结了后帝国英国| Barney Ronay",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：United and City dominate the news cycle with stories so strange and vast they threaten to consume the rest of the league In Manchester this weekend it was possible to bookend your Thursday‑t...",
+      "summaryZh": "中文翻译：曼联和曼城在新闻周期中占据主导地位，故事如此奇怪和庞大，他们威胁要在本周末在曼彻斯特消耗联盟的其余部分，你可以在周四预订。",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/09/manchester-united-city-soulless-content-machines-premier-league"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
     }
   ],
   "audienceMap": {
-    "实时讨论：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
     "实时讨论：Tired of Slow TikToks? This Content Creator Gives You the Ending": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
@@ -632,22 +627,27 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls": {
+    "实时讨论：Cerebral Josh King plots unusual route into Tuchel’s England plans": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
+    "实时讨论：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：TikTok accused of helping to promote sex industry to girls": {
+    "实时讨论：Manchester’s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay": {
+    "视觉热点：Manchester City’s Kerstin Casparij: ‘I love football – but it takes over your life’": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,15 +657,10 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times": {
+    "视觉热点：Dianna Russini returns to sports media after Vrabel photo scandal with NFL betting show": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "短视频趋势：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "短视频趋势：Tired of Slow TikToks? This Content Creator Gives You the Ending": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
@@ -677,32 +672,37 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | Aston Villa, ‘unacceptable insults’ and thin-skinned clutching of pearls": {
+    "短视频趋势：Cerebral Josh King plots unusual route into Tuchel’s England plans": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
+    "短视频趋势：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Manchester’s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
     "社区话题：Ukraine’s new frontier: how space has become critical to balance of the war": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Google, Meta and TikTok Sue California Over Ban on Features for Kids": {
+    "社区话题：Cerebral Josh King plots unusual route into Tuchel’s England plans": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini": {
+    "社区话题：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Manchester’s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
