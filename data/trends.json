@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T08:25:21.684763+00:00",
-  "generatedAtBeijing": "2026-11-10 16:25",
+  "generatedAt": "2026-11-11T07:45:42.765298+00:00",
+  "generatedAtBeijing": "2026-11-11 15:45",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,86 +39,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Ukraine’s new frontier: how space has become critical to balance of the war",
-      "titleZh": "实时讨论：乌克兰的新边疆：空间如何成为平衡战争的关键",
+      "title": "实时讨论：Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video",
+      "titleZh": "实时讨论：在穆里尼奥的指控下，卡里克在边缘和马德里|《足球周刊》视频",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 83,
+      "heat": 77,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own spa...",
-      "summaryZh": "中文翻译：在无人机和战场传感器驱动的战争中，进入太空至关重要。在Starlink速度限制和俄罗斯Oreshnik导弹袭击之后，基辅正在竞相开发自己的水疗中心...",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Cerebral Josh King plots unusual route into Tuchel’s England plans",
-      "titleZh": "实时讨论：大脑乔希·金（ Josh King ）在图切尔（ Tuchel ）的英格兰计划中绘制了不同寻常",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 71,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typical Josh King is talking with pride about how his mother, Michelle, a university...",
-      "summaryZh": "中文翻译：这位少年拥有令人印象深刻的学业成绩和半羽橄榄球的经验，他绝不是典型的乔希·金，他自豪地谈论着他的母亲米歇尔，一所大学……",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Nicky Bandini, Archie Rhind-Tutt, Philippe Auclair and Sid Lowe as Michael Carrick looks set to leave Manchester United and for a wrap of the big stories from around...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与尼基·班迪尼（ Nicky Bandini ）、阿奇·林德-塔特（ Archie Rhind-Tutt ）、菲利普·奥克莱尔（ Philippe Auclair ）和希德·洛（ Sid Lowe ）一起，迈克尔·卡里克（ Michael Carrick",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
-      "titleZh": "实时讨论：这是一个莫拉：罗德里戈和罗马与拉齐奥一起崛起，赋予永恒之城新的生命|尼基·班迪尼",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
-      "summaryZh": "中文翻译：罗马和拉齐奥在意甲联赛中都取得了不败的开局，让意大利首都的球迷梦想着一场意甲联赛。在28天的九场比赛中，吉安·皮耶罗·加斯佩里尼（ Gian Piero Gasperini ）终于获得了……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a"
+          "url": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video"
         }
       ],
       "accounts": [
@@ -136,6 +68,74 @@
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate",
+      "titleZh": "实时讨论：《足球日报》| “罗伊·基恩到底在哪里！“ 50种色彩的伟大足球辩论",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Forget about Michael Carrick. Don’t dwell on Women’s Bigger Cup. Fret not about Pierre Sage. No, the big football story of the day is Big ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！忘了迈克尔·卡里克吧。不要纠缠于女子大杯。别担心Pierre Sage。不，当天的大足球故事很重要……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/10/ultimate-shirt-numbers-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Cerebral Josh King plots unusual route into Tuchel’s England plans",
+      "titleZh": "实时讨论：大脑乔希·金（ Josh King ）在图切尔（ Tuchel ）的英格兰计划中绘制了不同寻常",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 69,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typical Josh King is talking with pride about how his mother, Michelle, a university...",
+      "summaryZh": "中文翻译：这位少年拥有令人印象深刻的学业成绩和半羽橄榄球的经验，他绝不是典型的乔希·金，他自豪地谈论着他的母亲米歇尔，一所大学……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
@@ -345,35 +345,69 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Ukraine’s new frontier: how space has become critical to balance of the war",
-      "titleZh": "短视频趋势：乌克兰的新边疆：空间如何成为平衡战争的关键",
+      "title": "短视频趋势：Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video",
+      "titleZh": "短视频趋势：在穆里尼奥的指控下，卡里克在边缘和马德里|《足球周刊》视频",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
+      "heat": 78,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own spa...",
-      "summaryZh": "中文翻译：在无人机和战场传感器驱动的战争中，进入太空至关重要。在Starlink速度限制和俄罗斯Oreshnik导弹袭击之后，基辅正在竞相开发自己的水疗中心...",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Nicky Bandini, Archie Rhind-Tutt, Philippe Auclair and Sid Lowe as Michael Carrick looks set to leave Manchester United and for a wrap of the big stories from around...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与尼基·班迪尼（ Nicky Bandini ）、阿奇·林德-塔特（ Archie Rhind-Tutt ）、菲利普·奥克莱尔（ Philippe Auclair ）和希德·洛（ Sid Lowe ）一起，迈克尔·卡里克（ Michael Carrick",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video"
         }
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@Bennettxai",
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate",
+      "titleZh": "短视频趋势：《足球日报》| “罗伊·基恩到底在哪里！“ 50种色彩的伟大足球辩论",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Forget about Michael Carrick. Don’t dwell on Women’s Bigger Cup. Fret not about Pierre Sage. No, the big football story of the day is Big ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！忘了迈克尔·卡里克吧。不要纠缠于女子大杯。别担心Pierre Sage。不，当天的大足球故事很重要……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/10/ultimate-shirt-numbers-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -382,7 +416,7 @@
       "title": "短视频趋势：Cerebral Josh King plots unusual route into Tuchel’s England plans",
       "titleZh": "短视频趋势：大脑乔希·金（ Josh King ）在图切尔（ Tuchel ）的英格兰计划中绘制了不同寻常",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typical Josh King is talking with pride about how his mother, Michelle, a university...",
       "summaryZh": "中文翻译：这位少年拥有令人印象深刻的学业成绩和半羽橄榄球的经验，他绝不是典型的乔希·金，他自豪地谈论着他的母亲米歇尔，一所大学……",
@@ -395,53 +429,19 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@goalflexo",
+          "name": "@marfawe",
           "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
-      "titleZh": "短视频趋势：这是一个莫拉：罗德里戈和罗马与拉齐奥一起崛起，赋予永恒之城新的生命|尼基·班迪尼",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
-      "summaryZh": "中文翻译：罗马和拉齐奥在意甲联赛中都取得了不败的开局，让意大利首都的球迷梦想着一场意甲联赛。在28天的九场比赛中，吉安·皮耶罗·加斯佩里尼（ Gian Piero Gasperini ）终于获得了……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
@@ -468,6 +468,40 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video",
+      "titleZh": "社区话题：在穆里尼奥的指控下，卡里克在边缘和马德里|《足球周刊》视频",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 87,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Nicky Bandini, Archie Rhind-Tutt, Philippe Auclair and Sid Lowe as Michael Carrick looks set to leave Manchester United and for a wrap of the big stories from around...",
+      "summaryZh": "中文翻译：马克斯·拉什登（ Max Rushden ）与尼基·班迪尼（ Nicky Bandini ）、阿奇·林德-塔特（ Archie Rhind-Tutt ）、菲利普·奥克莱尔（ Philippe Auclair ）和希德·洛（ Sid Lowe ）一起，迈克尔·卡里克（ Michael Carrick",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
@@ -481,52 +515,18 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Ukraine’s new frontier: how space has become critical to balance of the war",
-      "titleZh": "社区话题：乌克兰的新边疆：空间如何成为平衡战争的关键",
+      "title": "社区话题：Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate",
+      "titleZh": "社区话题：《足球日报》| “罗伊·基恩到底在哪里！“ 50种色彩的伟大足球辩论",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 83,
+      "heat": 76,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own spa...",
-      "summaryZh": "中文翻译：在无人机和战场传感器驱动的战争中，进入太空至关重要。在Starlink速度限制和俄罗斯Oreshnik导弹袭击之后，基辅正在竞相开发自己的水疗中心...",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Cerebral Josh King plots unusual route into Tuchel’s England plans",
-      "titleZh": "社区话题：大脑乔希·金（ Josh King ）在图切尔（ Tuchel ）的英格兰计划中绘制了不同寻常",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typical Josh King is talking with pride about how his mother, Michelle, a university...",
-      "summaryZh": "中文翻译：这位少年拥有令人印象深刻的学业成绩和半羽橄榄球的经验，他绝不是典型的乔希·金，他自豪地谈论着他的母亲米歇尔，一所大学……",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Forget about Michael Carrick. Don’t dwell on Women’s Bigger Cup. Fret not about Pierre Sage. No, the big football story of the day is Big ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！立即注册？立即注册！忘了迈克尔·卡里克吧。不要纠缠于女子大杯。别担心Pierre Sage。不，当天的大足球故事很重要……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans"
+          "url": "https://www.theguardian.com/football/2026/nov/10/ultimate-shirt-numbers-football-daily-newsletter"
         }
       ],
       "accounts": [
@@ -536,31 +536,31 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
-      "titleZh": "社区话题：这是一个莫拉：罗德里戈和罗马与拉齐奥一起崛起，赋予永恒之城新的生命|尼基·班迪尼",
+      "title": "社区话题：Cerebral Josh King plots unusual route into Tuchel’s England plans",
+      "titleZh": "社区话题：大脑乔希·金（ Josh King ）在图切尔（ Tuchel ）的英格兰计划中绘制了不同寻常",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
-      "summaryZh": "中文翻译：罗马和拉齐奥在意甲联赛中都取得了不败的开局，让意大利首都的球迷梦想着一场意甲联赛。在28天的九场比赛中，吉安·皮耶罗·加斯佩里尼（ Gian Piero Gasperini ）终于获得了……",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typical Josh King is talking with pride about how his mother, Michelle, a university...",
+      "summaryZh": "中文翻译：这位少年拥有令人印象深刻的学业成绩和半羽橄榄球的经验，他绝不是典型的乔希·金，他自豪地谈论着他的母亲米歇尔，一所大学……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a"
+          "url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans"
         }
       ],
       "accounts": [
@@ -604,14 +604,14 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     }
@@ -622,17 +622,17 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Ukraine’s new frontier: how space has become critical to balance of the war": {
+    "实时讨论：Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
     "实时讨论：Cerebral Josh King plots unusual route into Tuchel’s England plans": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -667,7 +667,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Ukraine’s new frontier: how space has become critical to balance of the war": {
+    "短视频趋势：Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,27 +682,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
     "短视频趋势：Manchester’s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Ukraine’s new frontier: how space has become critical to balance of the war": {
+    "社区话题：Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Cerebral Josh King plots unusual route into Tuchel’s England plans": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
