@@ -1,98 +1,93 @@
 {
-  "generatedAt": "2026-11-14T07:37:11.382779+00:00",
-  "generatedAtBeijing": "2026-11-14 15:37",
+  "generatedAt": "2026-11-15T07:52:58.833450+00:00",
+  "generatedAtBeijing": "2026-11-15 15:52",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim",
-      "titleZh": "实时讨论：“掩盖真相的恶臭”：大卫·华纳（David Warner）以新的“砂纸门”指控火上浇油",
+      "title": "实时讨论：First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title",
+      "titleZh": "实时讨论：上半场闪电攻势帮助澳大利亚队锁定女子橄榄球联盟世界杯四连冠",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 72,
+      "heat": 81,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former batter said Hazlewood, Lyon and Starc not interviewed in 2018 Ex vice-captain claimed Cricket Australia ran ‘shoddy investigation’ David Warner has further fanned the flames on Austra...",
-      "summaryZh": "中文翻译：前击球手表示，哈兹伍德、里昂和斯塔克在2018年未接受面谈。前副队长声称澳大利亚板球队进行了“草率的调查”。大卫·华纳进一步加剧了澳大利亚……",
+      "summary": "公开来源显示该议题正在发酵：Jillaroos retain their crown with dominant 34-10 win over Kiwi Ferns Jamie Chapman scores hat-trick before the break in Brisbane In northern Australia, they call this time of the year “the b...",
+      "summaryZh": "中文翻译：袋鼠女队以 34-10 的压倒性胜利击败新西兰女队，成功卫冕。杰米·查普曼（Jamie Chapman）在布里斯班的比赛中上半场就上演帽子戏法。在澳大利亚北部，人们将一年中的这个时候称为“b……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/14/david-warner-statement-sandpapergate-ball-tampering-australia-cricket-ntwnfb"
+          "url": "https://www.theguardian.com/sport/2026/nov/15/australia-jillaroos-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-match-report"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "实时讨论：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
+      "title": "实时讨论：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
+      "titleZh": "实时讨论：这就是莫拉：罗德里戈和罗马与拉齐奥一起崛起，为永恒之城注入新的活力 | Nicky Bandini",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 84,
+      "heat": 82,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most internat...",
-      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的椅子。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
+      "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
+      "summaryZh": "中文翻译：罗马和拉齐奥均在意大利甲级联赛赛季开局保持不败，让意大利首都的球迷们梦想着捧起意甲冠军奖杯。在28天内踢了9场比赛后，詹·皮耶罗·加斯佩里尼终于……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge"
+          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence",
-      "titleZh": "实时讨论：斯蒂芬·库里为艾莎·库里辩护，揭露了体育界男权圈丑陋的双重标准 | Andrew Lawrence",
+      "title": "实时讨论：Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
+      "titleZh": "实时讨论：安德列娃将在WTA总决赛中对阵斯维托丽娜，萨巴伦卡则道歉",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 79,
+      "heat": 71,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Warriors superstar’s forceful defense of his wife over an on-screen kiss has exposed the ugly double standards and fragile masculinity of sports’ manosphere If Steph Curry is leading wit...",
-      "summaryZh": "中文翻译：勇士队超级巨星就妻子在屏幕上被吻一事对她进行了强有力的维护，这揭露了体育界男性圈丑陋的双重标准和脆弱的男子气概。如果斯蒂芬·库里正在引领……",
+      "summary": "公开来源显示该议题正在发酵：Russian teen will face Ukraine star in the final Sabalenka issues public apology after social media storm The rise of Mirra Andreeva has seemed inevitable ever since she burst on to the tour...",
+      "summaryZh": "中文翻译：俄罗斯少女将在决赛中对阵乌克兰明星萨巴伦卡在社交媒体风波后公开道歉自米拉·安德列娃在巡回赛上崭露头角以来，她的崛起似乎已是必然……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
+          "url": "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells"
         }
       ],
       "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
@@ -102,23 +97,96 @@
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
-      "titleZh": "实时讨论：这就是莫拉：罗德里戈和罗马与拉齐奥一起崛起，为永恒之城注入新活力 | Nicky Bandini",
+      "title": "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
+      "titleZh": "实时讨论：本世纪最憋屈的时刻？成都队崩盘为中超联赛的精彩高潮埋下伏笔",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
-      "summaryZh": "中文翻译：罗马和拉齐奥都在本赛季意甲联赛中保持不败，让意大利首都的球迷们梦想着捧起意甲冠军奖杯。在28天内踢了9场比赛后，詹·皮耶罗·加斯佩里尼终于……",
+      "heat": 80,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
+      "summaryZh": "中文翻译：约翰·阿洛伊西的球队在最后一轮比赛中只需要1分就能锁定他们的首个冠军头衔，但他们的状态却急转直下。距离中超联赛结束还有四轮比赛，成都蓉城……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a"
+          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Tech Leaders Rally Behind Jensen Huang",
+      "titleZh": "实时讨论：科技领袖力挺黄仁勋",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
+      "summaryZh": "中文翻译：在社交媒体帖子和致Nvidia董事会的信函中，黄仁勋的亿万富翁同行们将他描述为Nvidia不可替代的独特领导者。",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title",
+      "titleZh": "视觉热点：上半场闪电攻势帮助澳大利亚队锁定女子橄榄球联盟世界杯四连冠",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 92,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Jillaroos retain their crown with dominant 34-10 win over Kiwi Ferns Jamie Chapman scores hat-trick before the break in Brisbane In northern Australia, they call this time of the year “the b...",
+      "summaryZh": "中文翻译：袋鼠女队以 34-10 的压倒性胜利击败新西兰女队，成功卫冕。杰米·查普曼（Jamie Chapman）在布里斯班的比赛中上半场就上演帽子戏法。在澳大利亚北部，人们将一年中的这个时候称为“b……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/15/australia-jillaroos-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-match-report"
         }
       ],
       "accounts": [
@@ -140,77 +208,9 @@
       ]
     },
     {
-      "platform": "x",
-      "title": "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
-      "titleZh": "实时讨论：本世纪最憋屈的时刻？成都队崩盘为中超联赛带来惊心动魄的高潮",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
-      "summaryZh": "中文翻译：约翰·阿洛伊西的球队在最后一轮比赛中只需要1分就能锁定他们的首个冠军头衔，但他们的状态却急转直下。距离中超联赛结束还有四轮比赛，成都蓉城……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence",
-      "titleZh": "视觉热点：斯蒂芬·库里为艾莎·库里辩护，揭露了体育界男权圈丑陋的双重标准 | Andrew Lawrence",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 82,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Warriors superstar’s forceful defense of his wife over an on-screen kiss has exposed the ugly double standards and fragile masculinity of sports’ manosphere If Steph Curry is leading wit...",
-      "summaryZh": "中文翻译：勇士队超级巨星就妻子在屏幕上被吻一事对她进行了强有力的维护，这揭露了体育界男性圈丑陋的双重标准和脆弱的男子气概。如果斯蒂芬·库里正在引领……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        }
-      ]
-    },
-    {
       "platform": "instagram",
       "title": "视觉热点：‘No one is unbeatable’: Tuchel eager for England to impose style on Spain",
-      "titleZh": "视觉热点：“没有人是不可战胜的”：图赫尔渴望英格兰队在与西班牙队的比赛中展现自己的风格",
+      "titleZh": "视觉热点：“没有人是不可战胜的”：图赫尔渴望英格兰队能在与西班牙队的比赛中展现自己的风格",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 91,
       "sentiment": "low",
@@ -244,12 +244,12 @@
     {
       "platform": "instagram",
       "title": "视觉热点：Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
-      "titleZh": "视觉热点：凯恩的金球奖胜利是对颁奖典礼上名人逢迎的有力回击 | Barney Ronay",
+      "titleZh": "视觉热点：凯恩的金球奖胜利是对颁奖典礼上名人阿谀奉承的有力回击 | Barney Ronay",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 74,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming fl...",
-      "summaryZh": "中文翻译：在伦敦这个属于当之无愧的胜利者和意外欢乐的夜晚，英格兰队队长发表了感人至深的讲话。嗯，有新情况了。足球：现在以全新、真正令人感动的方式呈现……",
+      "summaryZh": "中文翻译：在伦敦这个属于当之无愧的胜利者和无心插柳的欢乐之夜，英格兰队长发表了感人至深的讲话。嗯，有新情况了。足球：现已推出全新、真正令人感动……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -277,86 +277,52 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
-      "titleZh": "视觉热点：像贝克汉姆一样打造个人品牌：裘德·贝林厄姆如何为自己的名声做好未来规划",
+      "title": "视觉热点：Blue Jays’ Anthony Santander apologizes for sharing anti-Muslim social media posts",
+      "titleZh": "视觉热点：蓝鸟队的安东尼·桑坦德就分享反穆斯林社交媒体帖子道歉",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
+      "heat": 81,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：From Calvin Klein to British Vogue, the Real Madrid man is leading the way when it comes to football’s foray into fashion. But is he playing it safe? This Sunday, Jude Bellingham will line u...",
-      "summaryZh": "中文翻译：从Calvin Klein到英国版《Vogue》，这位皇马球员在足球进军时尚领域方面走在了最前列。但他是否在稳中求胜？本周日，裘德·贝林厄姆将……",
+      "summary": "公开来源显示该议题正在发酵：Toronto outfielder deleted posts after backlash Santander says content fell short of his beliefs Blue Jays have not announced disciplinary action Toronto Blue Jays outfielder Anthony Santand...",
+      "summaryZh": "中文翻译：多伦多蓝鸟队外野手删除帖子，此前帖子引发强烈反弹。桑坦德表示，帖子内容不符合他的信仰。蓝鸟队尚未宣布纪律处分。多伦多蓝鸟队外野手安东尼·桑坦德……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim",
-      "titleZh": "短视频趋势：“掩盖真相的恶臭”：大卫·华纳（David Warner）以新的“砂纸门”指控火上浇油",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 77,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former batter said Hazlewood, Lyon and Starc not interviewed in 2018 Ex vice-captain claimed Cricket Australia ran ‘shoddy investigation’ David Warner has further fanned the flames on Austra...",
-      "summaryZh": "中文翻译：前击球手表示，哈兹伍德、里昂和斯塔克在2018年未接受面谈。前副队长声称澳大利亚板球队进行了“草率的调查”。大卫·华纳进一步加剧了澳大利亚……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
           "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/14/david-warner-statement-sandpapergate-ball-tampering-australia-cricket-ntwnfb"
+          "url": "https://www.theguardian.com/sport/2026/nov/14/anthony-santander-blue-jays-anti-muslim-posts-apology"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
           "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "短视频趋势：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
+      "title": "短视频趋势：First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title",
+      "titleZh": "短视频趋势：上半场闪电攻势帮助澳大利亚队锁定女子橄榄球联盟世界杯四连冠",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
+      "heat": 88,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most internat...",
-      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的椅子。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
+      "summary": "公开来源显示该议题正在发酵：Jillaroos retain their crown with dominant 34-10 win over Kiwi Ferns Jamie Chapman scores hat-trick before the break in Brisbane In northern Australia, they call this time of the year “the b...",
+      "summaryZh": "中文翻译：袋鼠女队以 34-10 的压倒性胜利击败新西兰女队，成功卫冕。杰米·查普曼（Jamie Chapman）在布里斯班的比赛中上半场就上演帽子戏法。在澳大利亚北部，人们将一年中的这个时候称为“b……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/15/australia-jillaroos-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-match-report"
         }
       ],
       "accounts": [
@@ -366,60 +332,26 @@
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence",
-      "titleZh": "短视频趋势：斯蒂芬·库里为艾莎·库里辩护，揭露了体育界男权圈丑陋的双重标准 | Andrew Lawrence",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Warriors superstar’s forceful defense of his wife over an on-screen kiss has exposed the ugly double standards and fragile masculinity of sports’ manosphere If Steph Curry is leading wit...",
-      "summaryZh": "中文翻译：勇士队超级巨星就妻子在屏幕上被吻一事对她进行了强有力的维护，这揭露了体育界男性圈丑陋的双重标准和脆弱的男子气概。如果斯蒂芬·库里正在引领……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "tiktok",
       "title": "短视频趋势：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
-      "titleZh": "短视频趋势：这就是莫拉：罗德里戈和罗马与拉齐奥一起崛起，为永恒之城注入新活力 | Nicky Bandini",
+      "titleZh": "短视频趋势：这就是莫拉：罗德里戈和罗马与拉齐奥一起崛起，为永恒之城注入新的活力 | Nicky Bandini",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 84,
+      "heat": 88,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
-      "summaryZh": "中文翻译：罗马和拉齐奥都在本赛季意甲联赛中保持不败，让意大利首都的球迷们梦想着捧起意甲冠军奖杯。在28天内踢了9场比赛后，詹·皮耶罗·加斯佩里尼终于……",
+      "summaryZh": "中文翻译：罗马和拉齐奥均在意大利甲级联赛赛季开局保持不败，让意大利首都的球迷们梦想着捧起意甲冠军奖杯。在28天内踢了9场比赛后，詹·皮耶罗·加斯佩里尼终于……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -434,23 +366,57 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
+      "titleZh": "短视频趋势：安德列娃将在WTA总决赛中对阵斯维托丽娜，萨巴伦卡则道歉",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 74,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Russian teen will face Ukraine star in the final Sabalenka issues public apology after social media storm The rise of Mirra Andreeva has seemed inevitable ever since she burst on to the tour...",
+      "summaryZh": "中文翻译：俄罗斯少女将在决赛中对阵乌克兰明星萨巴伦卡在社交媒体风波后公开道歉自米拉·安德列娃在巡回赛上崭露头角以来，她的崛起似乎已是必然……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "tiktok",
       "title": "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
-      "titleZh": "短视频趋势：本世纪最憋屈的时刻？成都队崩盘为中超联赛带来惊心动魄的高潮",
+      "titleZh": "短视频趋势：本世纪最憋屈的时刻？成都队崩盘为中超联赛的精彩高潮埋下伏笔",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
+      "heat": 78,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng n...",
       "summaryZh": "中文翻译：约翰·阿洛伊西的球队在最后一轮比赛中只需要1分就能锁定他们的首个冠军头衔，但他们的状态却急转直下。距离中超联赛结束还有四轮比赛，成都蓉城……",
@@ -468,128 +434,94 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
     {
-      "platform": "facebook",
-      "title": "社区话题：‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim",
-      "titleZh": "社区话题：“掩盖真相的恶臭”：大卫·华纳（David Warner）以新的“砂纸门”指控火上浇油",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Former batter said Hazlewood, Lyon and Starc not interviewed in 2018 Ex vice-captain claimed Cricket Australia ran ‘shoddy investigation’ David Warner has further fanned the flames on Austra...",
-      "summaryZh": "中文翻译：前击球手表示，哈兹伍德、里昂和斯塔克在2018年未接受面谈。前副队长声称澳大利亚板球队进行了“草率的调查”。大卫·华纳进一步加剧了澳大利亚……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "platform": "tiktok",
+      "title": "短视频趋势：Tech Leaders Rally Behind Jensen Huang",
+      "titleZh": "短视频趋势：科技领袖力挺黄仁勋",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
+      "summaryZh": "中文翻译：在社交媒体帖子和致Nvidia董事会的信函中，黄仁勋的亿万富翁同行们将他描述为Nvidia不可替代的独特领导者。",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/14/david-warner-statement-sandpapergate-ball-tampering-australia-cricket-ntwnfb"
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html"
         }
       ],
       "accounts": [
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "社区话题：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most internat...",
-      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的椅子。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence",
-      "titleZh": "社区话题：斯蒂芬·库里为艾莎·库里辩护，揭露了体育界男权圈丑陋的双重标准 | Andrew Lawrence",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 84,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：The Warriors superstar’s forceful defense of his wife over an on-screen kiss has exposed the ugly double standards and fragile masculinity of sports’ manosphere If Steph Curry is leading wit...",
-      "summaryZh": "中文翻译：勇士队超级巨星就妻子在屏幕上被吻一事对她进行了强有力的维护，这揭露了体育界男性圈丑陋的双重标准和脆弱的男子气概。如果斯蒂芬·库里正在引领……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
           "name": "@ImKushanK",
           "followers": "约5万",
           "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title",
+      "titleZh": "社区话题：上半场闪电攻势帮助澳大利亚队锁定女子橄榄球联盟世界杯四连冠",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 80,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Jillaroos retain their crown with dominant 34-10 win over Kiwi Ferns Jamie Chapman scores hat-trick before the break in Brisbane In northern Australia, they call this time of the year “the b...",
+      "summaryZh": "中文翻译：袋鼠女队以 34-10 的压倒性胜利击败新西兰女队，成功卫冕。杰米·查普曼（Jamie Chapman）在布里斯班的比赛中上半场就上演帽子戏法。在澳大利亚北部，人们将一年中的这个时候称为“b……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/15/australia-jillaroos-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-match-report"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         }
       ]
     },
     {
       "platform": "facebook",
       "title": "社区话题：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini",
-      "titleZh": "社区话题：这就是莫拉：罗德里戈和罗马与拉齐奥一起崛起，为永恒之城注入新活力 | Nicky Bandini",
+      "titleZh": "社区话题：这就是莫拉：罗德里戈和罗马与拉齐奥一起崛起，为永恒之城注入新的活力 | Nicky Bandini",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
+      "heat": 78,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Gasperini finally got a ...",
-      "summaryZh": "中文翻译：罗马和拉齐奥都在本赛季意甲联赛中保持不败，让意大利首都的球迷们梦想着捧起意甲冠军奖杯。在28天内踢了9场比赛后，詹·皮耶罗·加斯佩里尼终于……",
+      "summaryZh": "中文翻译：罗马和拉齐奥均在意大利甲级联赛赛季开局保持不败，让意大利首都的球迷们梦想着捧起意甲冠军奖杯。在28天内踢了9场比赛后，詹·皮耶罗·加斯佩里尼终于……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -599,35 +531,93 @@
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         },
         {
-          "name": "@elliottvenis",
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
+      "titleZh": "社区话题：安德列娃将在WTA总决赛中对阵斯维托丽娜，萨巴伦卡则道歉",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 73,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Russian teen will face Ukraine star in the final Sabalenka issues public apology after social media storm The rise of Mirra Andreeva has seemed inevitable ever since she burst on to the tour...",
+      "summaryZh": "中文翻译：俄罗斯少女将在决赛中对阵乌克兰明星萨巴伦卡在社交媒体风波后公开道歉自米拉·安德列娃在巡回赛上崭露头角以来，她的崛起似乎已是必然……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Clara Luvanga strikes as Washington Spirit beat Utah to reach third straight NWSL final",
+      "titleZh": "社区话题：克拉拉·卢万加破门，华盛顿精神队击败犹他队，连续第三次晋级NWSL决赛",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Tanzanian scores second-half winner in 2-1 victory Spirit reach fifth NWSL final and third in succession Washington will chase second title at home ground Clara Luvanga scored her second goa...",
+      "summaryZh": "中文翻译：坦桑尼亚球员在下半场攻入制胜球，帮助球队以 2-1 获胜。勇气队晋级 NWSL 决赛，这是球队第五次晋级决赛，也是第三次连续晋级决赛。华盛顿队将在主场冲击第二座冠军奖杯。克拉拉·卢万加攻入个人第二粒进球……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Which football club has had most international captains in the same team? | The Knowledge": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence": {
+    "实时讨论：First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -637,12 +627,22 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence": {
+    "实时讨论：Tech Leaders Rally Behind Jensen Huang": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "视觉热点：First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,22 +657,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Branding it like Beckham: how Jude Bellingham is future-proofing his fame": {
+    "视觉热点：Blue Jays’ Anthony Santander apologizes for sharing anti-Muslim social media posts": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "短视频趋势：‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Which football club has had most international captains in the same team? | The Knowledge": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence": {
+    "短视频趋势：First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -682,27 +672,37 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "短视频趋势：Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    "短视频趋势：Tech Leaders Rally Behind Jensen Huang": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Which football club has had most international captains in the same team? | The Knowledge": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence": {
+    "社区话题：First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life | Nicky Bandini": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：Clara Luvanga strikes as Washington Spirit beat Utah to reach third straight NWSL final": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
