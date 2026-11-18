@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-17T09:14:08.497787+00:00",
-  "generatedAtBeijing": "2026-11-17 17:14",
+  "generatedAt": "2026-11-18T08:33:31.216048+00:00",
+  "generatedAtBeijing": "2026-11-18 16:33",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：Port Adelaide player Josh Sinn banned for betting on AFL matches: ‘I knew the rules’",
-      "titleZh": "实时讨论：阿德莱德港球员乔希·辛因投注澳式橄榄球联赛比赛而被禁赛：“我知道规则”",
+      "title": "实时讨论：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
+      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 92,
+      "heat": 74,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Power defender accepts six-match ban for placing bets totalling $195 Sinn did not play in the four games he was found to have gambled on Port Adelaide defender Josh Sinn has been banned for ...",
-      "summaryZh": "中文翻译：后卫因下注总计195澳元而被禁赛六场。据查，辛恩在下注的四场比赛中均未上场。波特·阿德莱德后卫乔希·辛恩被禁赛……",
+      "summary": "公开来源显示该议题正在发酵：A new film about the historic World Cup quarter-final clash finds new angles for a new generation “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Mar...",
+      "summaryZh": "中文翻译：一部关于世界杯历史性四分之一决赛对决的新电影，为新一代观众提供了新的视角。“关于这场比赛，还有什么新东西可说的吗？” 加里·莱因克尔问制片人弗洛拉·费尔南德斯-马尔……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/17/port-adelaide-josh-sinn-match-ban-betting-afl-games"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes"
         }
       ],
       "accounts": [
@@ -26,21 +26,21 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
       "platform": "x",
       "title": "实时讨论：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "实时讨论：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？|知识",
+      "titleZh": "实时讨论：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？| 知识",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 84,
       "sentiment": "low",
@@ -73,13 +73,81 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Listener mailbag: Manchester City, media coverage and making gravy | Football Weekly – video",
-      "titleZh": "实时讨论：听众来信：曼城、媒体报道和制作肉汁 |《足球周刊》– 视频",
+      "title": "实时讨论：Jack Grealish recalls a golden age of mavericks – but football has moved on",
+      "titleZh": "实时讨论：杰克·格拉利什回想起特立独行者的黄金时代，但足球已经向前发展了",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 69,
+      "heat": 78,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “every...",
+      "summaryZh": "中文翻译：埃弗顿前锋拥有神奇的天赋和超高人气，但却遭遇了现代足球的残酷现实。托马斯·图赫尔从未征召过这位他曾声称“非常……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+      "titleZh": "实时讨论：足球日报 | 尤尔根·克洛普以独特方式强势启动德国队重建计划",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Barely six weeks ago, Jürgen Klopp’s big home debut in the Germany dugout ended in a deeply frustrating 1-0 Nations League defeat to Greec...",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！仅仅六周前，尤尔根·克洛普在德国队教练席上的主场首秀以0-1不敌希腊的令人沮丧的欧国联失利告终……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Listener mailbag: Manchester City, media coverage and making gravy | Football Weekly – video",
+      "titleZh": "实时讨论：听众来信：曼城、媒体报道和制作肉汁 |《足球周刊》——视频",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 68,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Wilson , John Brewin and Paul Watson for a mid-international break special Continue reading...",
-      "summaryZh": "中文翻译：Jonathan Wilson、John Brewin和Paul Watson将与Max Rushden一起参加国际比赛日间歇期的特别节目。继续阅读……",
+      "summaryZh": "中文翻译：乔纳森·威尔逊、约翰·布鲁因和保罗·沃森将与马克斯·拉什登一起参加国际比赛日期间的特别节目。继续阅读……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -89,82 +157,14 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Record-breaking Andy Robertson is Scotland’s finest captain",
-      "titleZh": "实时讨论：创造纪录的安迪·罗伯逊是苏格兰最出色的队长",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 71,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As he passes Kenny Dalglish’s appearance total, it is important to remember that it is the left-back’s journey that sets him apart Andy Robertson may not be Scotland’s greatest player, but h...",
-      "summaryZh": "中文翻译：在超越肯尼·达格利什的出场总数时，重要的是要记住，正是左后卫的历程使他与众不同。安迪·罗伯逊可能不是苏格兰最伟大的球员，但他……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
-      "titleZh": "实时讨论：温布尔登足球俱乐部：一笔失败的8700万英镑投资竞标，以及球迷所有权面临的挑战",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can When you walk up from Haydons Road railway station to Plo...",
-      "summaryZh": "中文翻译：拥有富裕老板的俱乐部可以维持亏损经营，但当球迷承担责任时，情况可能会更加复杂。当您从海登斯路火车站步行前往普洛……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
         {
           "name": "@goalflexo",
@@ -175,13 +175,81 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
-      "titleZh": "视觉热点：温布尔登足球俱乐部：一笔失败的8700万英镑投资竞标，以及球迷所有权面临的挑战",
+      "title": "视觉热点：Jack Grealish recalls a golden age of mavericks – but football has moved on",
+      "titleZh": "视觉热点：杰克·格拉利什回想起特立独行者的黄金时代，但足球已经向前发展了",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 87,
+      "heat": 91,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “every...",
+      "summaryZh": "中文翻译：埃弗顿前锋拥有神奇的天赋和超高人气，但却遭遇了现代足球的残酷现实。托马斯·图赫尔从未征召过这位他曾声称“非常……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+      "titleZh": "视觉热点：足球日报 | 尤尔根·克洛普以独特方式强势启动德国队重建计划",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Barely six weeks ago, Jürgen Klopp’s big home debut in the Germany dugout ended in a deeply frustrating 1-0 Nations League defeat to Greec...",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！仅仅六周前，尤尔根·克洛普在德国队教练席上的主场首秀以0-1不敌希腊的令人沮丧的欧国联失利告终……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
+      "titleZh": "视觉热点：温布尔登足球俱乐部：一笔8700万英镑的投资竞购失败，以及球迷所有权面临的挑战",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 83,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can When you walk up from Haydons Road railway station to Plo...",
-      "summaryZh": "中文翻译：拥有富裕老板的俱乐部可以维持亏损经营，但当球迷承担责任时，情况可能会更加复杂。当您从海登斯路火车站步行前往普洛……",
+      "summaryZh": "中文翻译：拥有富裕老板的俱乐部可以维持亏损经营，但当球迷承担后果时，情况可能会更加复杂。当您从海登斯路火车站步行前往普洛……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -196,157 +264,89 @@
           "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-      "titleZh": "视觉热点：160道题只错一道：韩国税务考试最高分获得者承认使用人工智能作弊",
+      "title": "视觉热点：Tiger Woods to make golf return after two years at Hero World Challenge",
+      "titleZh": "视觉热点：泰格·伍兹将在两年后于英雄世界挑战赛上重返高尔夫球场",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 82,
+      "heat": 75,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiri...",
-      "summaryZh": "中文翻译：由于一名考生承认将试题照片发送给人工智能工具，人们对下周举行的全国高考表示担忧。在韩国的全国高考中，成绩最高的考生获得了……",
+      "summary": "公开来源显示该议题正在发酵：Former world No 1 last competed at the Open in 2024 Woods was arrested on DUI charge earlier this year Tiger Woods will make ⁠his long-awaited return to competitive golf at the Hero World Ch...",
+      "summaryZh": "中文翻译：前世界排名第一的伍兹上一次参赛是在2024年的公开赛上。伍兹今年早些时候因酒驾被捕。泰格·伍兹将时隔多时重返高尔夫竞技赛场，参加英雄世界挑战赛……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/17/tiger-woods-return-hero-world-challenge-golf"
         }
       ],
       "accounts": [
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Carlos Alcaraz blazes past Frances Tiafoe in ATP Finals tennis group stage – as it happened",
-      "titleZh": "视觉热点：卡洛斯·阿尔卡拉斯在ATP总决赛网球小组赛中轻松击败弗朗西斯·蒂亚福——赛事回顾",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 82,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Carlos Alcaraz was far too good for Francis Tiafoe, thrashing the American debutant 6-2 6-2 in just over an hour So where is the game? Alcaraz will do his usual thing, looking to unleash tha...",
-      "summaryZh": "中文翻译：卡洛斯·阿尔卡拉斯对弗朗西斯·蒂亚福来说实在太强了，他仅用一个多小时就以6-2、6-2的比分横扫这位美国新秀。那么，比赛在哪里进行呢？阿尔卡拉斯将像往常一样打球，希望释放……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/live/2026/nov/16/carlos-alcaraz-v-frances-tiafoe-atp-finals-tennis-group-stage-live"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@lifewithmrsjamaica",
-          "followers": "约6万",
-          "why": "家庭日常和社群互动"
         },
         {
-          "name": "@judge_vondab",
-          "followers": "约5万",
-          "why": "家庭议题和个人故事"
-        },
-        {
-          "name": "@hannahmarieden",
-          "followers": "约2.4万",
-          "why": "亲子活动和家庭生活"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Nations League: Wirtz doubles up as Germany rout Netherlands to top group",
-      "titleZh": "视觉热点：欧国联：维尔茨梅开二度，德国大胜荷兰，登上小组榜首",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：Jürgen Klopp’s side make statement with 5-0 triumph Dutch advance, Greece miss out despite win over Serbia Florian Wirtz scored twice as Germany delivered a 5-0 rout of the Netherlands in Be...",
-      "summaryZh": "中文翻译：尤尔根·克洛普的球队以5-0大胜宣告荷兰晋级，希腊尽管战胜塞尔维亚仍无缘晋级。弗洛里安·维尔茨梅开二度，德国在柏林以5-0大胜荷兰。",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/16/nations-league-roundup-germany-netherlands-greece-serbia"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@nathanallebach",
-          "followers": "约5万",
-          "why": "社媒观点和品牌人格化"
-        },
-        {
-          "name": "@Bennettxai",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "AI 自动化实操拆解"
-        },
-        {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "业务运营和 AI 营销观点"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Port Adelaide player Josh Sinn banned for betting on AFL matches: ‘I knew the rules’",
-      "titleZh": "短视频趋势：阿德莱德港球员乔希·辛因投注澳式橄榄球联赛比赛而被禁赛：“我知道规则”",
+      "title": "短视频趋势：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
+      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 77,
+      "heat": 92,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Power defender accepts six-match ban for placing bets totalling $195 Sinn did not play in the four games he was found to have gambled on Port Adelaide defender Josh Sinn has been banned for ...",
-      "summaryZh": "中文翻译：后卫因下注总计195澳元而被禁赛六场。据查，辛恩在下注的四场比赛中均未上场。波特·阿德莱德后卫乔希·辛恩被禁赛……",
+      "summary": "公开来源显示该议题正在发酵：A new film about the historic World Cup quarter-final clash finds new angles for a new generation “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Mar...",
+      "summaryZh": "中文翻译：一部关于世界杯历史性四分之一决赛对决的新电影，为新一代观众提供了新的视角。“关于这场比赛，还有什么新东西可说的吗？” 加里·莱因克尔问制片人弗洛拉·费尔南德斯-马尔……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/17/port-adelaide-josh-sinn-match-ban-betting-afl-games"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes"
         }
       ],
       "accounts": [
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
       "platform": "tiktok",
       "title": "短视频趋势：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "短视频趋势：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？|知识",
+      "titleZh": "短视频趋势：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？| 知识",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 70,
       "sentiment": "low",
@@ -379,18 +379,18 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Listener mailbag: Manchester City, media coverage and making gravy | Football Weekly – video",
-      "titleZh": "短视频趋势：听众来信：曼城、媒体报道和制作肉汁 |《足球周刊》– 视频",
+      "title": "短视频趋势：Jack Grealish recalls a golden age of mavericks – but football has moved on",
+      "titleZh": "短视频趋势：杰克·格拉利什回想起特立独行者的黄金时代，但足球已经向前发展了",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Wilson , John Brewin and Paul Watson for a mid-international break special Continue reading...",
-      "summaryZh": "中文翻译：Jonathan Wilson、John Brewin和Paul Watson将与Max Rushden一起参加国际比赛日间歇期的特别节目。继续阅读……",
+      "heat": 75,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “every...",
+      "summaryZh": "中文翻译：埃弗顿前锋拥有神奇的天赋和超高人气，但却遭遇了现代足球的残酷现实。托马斯·图赫尔从未征召过这位他曾声称“非常……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/nov/17/listener-mailbag-manchester-city-media-coverage-and-making-gravy-football-weekly-video"
+          "url": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on"
         }
       ],
       "accounts": [
@@ -400,9 +400,9 @@
           "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         },
         {
           "name": "@TacticsJournal",
@@ -413,52 +413,18 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Record-breaking Andy Robertson is Scotland’s finest captain",
-      "titleZh": "短视频趋势：创造纪录的安迪·罗伯逊是苏格兰最出色的队长",
+      "title": "短视频趋势：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+      "titleZh": "短视频趋势：足球日报 | 尤尔根·克洛普以独特方式强势启动德国队重建计划",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 86,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As he passes Kenny Dalglish’s appearance total, it is important to remember that it is the left-back’s journey that sets him apart Andy Robertson may not be Scotland’s greatest player, but h...",
-      "summaryZh": "中文翻译：在超越肯尼·达格利什的出场总数时，重要的是要记住，正是左后卫的历程使他与众不同。安迪·罗伯逊可能不是苏格兰最伟大的球员，但他……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
-      "titleZh": "短视频趋势：温布尔登足球俱乐部：一笔失败的8700万英镑投资竞标，以及球迷所有权面临的挑战",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
+      "heat": 74,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can When you walk up from Haydons Road railway station to Plo...",
-      "summaryZh": "中文翻译：拥有富裕老板的俱乐部可以维持亏损经营，但当球迷承担责任时，情况可能会更加复杂。当您从海登斯路火车站步行前往普洛……",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Barely six weeks ago, Jürgen Klopp’s big home debut in the Germany dugout ended in a deeply frustrating 1-0 Nations League defeat to Greec...",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！仅仅六周前，尤尔根·克洛普在德国队教练席上的主场首秀以0-1不敌希腊的令人沮丧的欧国联失利告终……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership"
+          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter"
         }
       ],
       "accounts": [
@@ -468,55 +434,89 @@
           "why": "垂直球迷号标题和情绪表达"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Port Adelaide player Josh Sinn banned for betting on AFL matches: ‘I knew the rules’",
-      "titleZh": "社区话题：阿德莱德港球员乔希·辛因投注澳式橄榄球联赛比赛而被禁赛：“我知道规则”",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Power defender accepts six-match ban for placing bets totalling $195 Sinn did not play in the four games he was found to have gambled on Port Adelaide defender Josh Sinn has been banned for ...",
-      "summaryZh": "中文翻译：后卫因下注总计195澳元而被禁赛六场。据查，辛恩在下注的四场比赛中均未上场。波特·阿德莱德后卫乔希·辛恩被禁赛……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/17/port-adelaide-josh-sinn-match-ban-betting-afl-games"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
         },
         {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Listener mailbag: Manchester City, media coverage and making gravy | Football Weekly – video",
+      "titleZh": "短视频趋势：听众来信：曼城、媒体报道和制作肉汁 |《足球周刊》——视频",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 76,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Wilson , John Brewin and Paul Watson for a mid-international break special Continue reading...",
+      "summaryZh": "中文翻译：乔纳森·威尔逊、约翰·布鲁因和保罗·沃森将与马克斯·拉什登一起参加国际比赛日期间的特别节目。继续阅读……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/video/2026/nov/17/listener-mailbag-manchester-city-media-coverage-and-making-gravy-football-weekly-video"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
+      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 85,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：A new film about the historic World Cup quarter-final clash finds new angles for a new generation “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Mar...",
+      "summaryZh": "中文翻译：一部关于世界杯历史性四分之一决赛对决的新电影，为新一代观众提供了新的视角。“关于这场比赛，还有什么新东西可说的吗？” 加里·莱因克尔问制片人弗洛拉·费尔南德斯-马尔……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
     {
       "platform": "facebook",
       "title": "社区话题：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "社区话题：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？|知识",
+      "titleZh": "社区话题：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？| 知识",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 81,
       "sentiment": "low",
@@ -531,19 +531,19 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
@@ -555,7 +555,7 @@
       "heat": 74,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros ...",
-      "summaryZh": "中文翻译：以惊人速度积累起来的科技新财富正涌向英国的海岸。科技大佬们身穿运动连帽衫、脚踩白色运动鞋，而不是伦敦银行家和律师阶层所穿的马甲……",
+      "summaryZh": "中文翻译：以惊人速度积累起来的新科技财富正涌向英国的海岸。科技大佬们身穿运动连帽衫和白色运动鞋，而不是伦敦银行家和律师阶层的马甲……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -583,41 +583,41 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
-      "titleZh": "社区话题：《狸猫：庞的夏天》评测——一只可爱的狸猫一次一个包裹地修补着世界",
+      "title": "社区话题：Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
+      "titleZh": "社区话题：对多哈的熟悉感凸显了袋鼠军团近年来取得的进步 | Joey Lynch",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 78,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Nintendo Switch/2, PlayStation 4/5, Xbox One/series X/S, PC; Denkiworks/Inpleron Limited This gentle game of fixing and fetching, in which you play as a furry post office worker on a BMX, ha...",
-      "summaryZh": "中文翻译：Nintendo Switch/2、PlayStation 4/5、Xbox One/Series X/S、PC；Denkiworks/Inpleron Limited在这款轻松愉快的修理和取送游戏中，您将扮演一名骑着BMX自行车的毛茸茸邮局员工，哈……",
+      "heat": 80,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismissal of Qatar at the A...",
+      "summaryZh": "中文翻译：越来越多的证据表明，不仅在战术上，而且在心态上都发生了转变，上周在亚洲杯上以 3-0 大胜卡塔尔就是明证，这让人回想起亚洲杯的惨痛失利……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/games/2026/nov/12/tanuki-pons-summer-review"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "足球/体育预测类内容节奏"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "why": "战术拆解和长图文表达"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：Port Adelaide player Josh Sinn banned for betting on AFL matches: ‘I knew the rules’": {
+    "实时讨论：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -627,42 +627,42 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "实时讨论：Jack Grealish recalls a golden age of mavericks – but football has moved on": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
     "实时讨论：Listener mailbag: Manchester City, media coverage and making gravy | Football Weekly – video": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Record-breaking Andy Robertson is Scotland’s finest captain": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    "视觉热点：Jack Grealish recalls a golden age of mavericks – but football has moved on": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "实时讨论：AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    "视觉热点：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
     "视觉热点：AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating": {
+    "视觉热点：Tiger Woods to make golf return after two years at Hero World Challenge": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Carlos Alcaraz blazes past Frances Tiafoe in ATP Finals tennis group stage – as it happened": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Nations League: Wirtz doubles up as Germany rout Netherlands to top group": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "短视频趋势：Port Adelaide player Josh Sinn banned for betting on AFL matches: ‘I knew the rules’": {
+    "短视频趋势：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -672,22 +672,22 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
+    "短视频趋势：Jack Grealish recalls a golden age of mavericks – but football has moved on": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
     "短视频趋势：Listener mailbag: Manchester City, media coverage and making gravy | Football Weekly – video": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Record-breaking Andy Robertson is Scotland’s finest captain": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "社区话题：Port Adelaide player Josh Sinn banned for betting on AFL matches: ‘I knew the rules’": {
+    "社区话题：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time": {
+    "社区话题：Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
