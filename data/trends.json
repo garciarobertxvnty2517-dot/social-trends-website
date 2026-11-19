@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T08:33:31.216048+00:00",
-  "generatedAtBeijing": "2026-11-18 16:33",
+  "generatedAt": "2026-11-19T08:49:14.154481+00:00",
+  "generatedAtBeijing": "2026-11-19 16:49",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
       "title": "实时讨论：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 74,
       "sentiment": "low",
@@ -45,7 +45,7 @@
       "heat": 84,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most internat...",
-      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的椅子。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
+      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的董事长。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -73,13 +73,47 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Jack Grealish recalls a golden age of mavericks – but football has moved on",
-      "titleZh": "实时讨论：杰克·格拉利什回想起特立独行者的黄金时代，但足球已经向前发展了",
+      "title": "实时讨论：Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
+      "titleZh": "实时讨论：参议员批评苹果和谷歌，尽管有家长控制功能，却仍让青少年使用“裸体化”应用",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 78,
+      "heat": 87,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: three Senate Democrats send letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US senators says Apple and Google are fa...",
+      "summaryZh": "中文翻译：独家报道：三名参议院民主党人致函科技公司首席执行官，指出其平台针对裸体化应用的防护措施不足。三名美国参议员表示，苹果和谷歌……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Jack Grealish recalls a golden age of mavericks – but football has moved on",
+      "titleZh": "实时讨论：杰克·格拉利什回想起特立独行球员的黄金时代，但足球已经向前发展了",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 76,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “every...",
-      "summaryZh": "中文翻译：埃弗顿前锋拥有神奇的天赋和超高人气，但却遭遇了现代足球的残酷现实。托马斯·图赫尔从未征召过这位他曾声称“非常……",
+      "summaryZh": "中文翻译：埃弗顿前锋拥有神奇的天赋和超高人气，但他却遭遇了现代足球的残酷现实。托马斯·图赫尔从未征召过这位他曾声称“非常……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -89,11 +123,6 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
@@ -102,40 +131,11 @@
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
-      "titleZh": "实时讨论：足球日报 | 尤尔根·克洛普以独特方式强势启动德国队重建计划",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Barely six weeks ago, Jürgen Klopp’s big home debut in the Germany dugout ended in a deeply frustrating 1-0 Nations League defeat to Greec...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！仅仅六周前，尤尔根·克洛普在德国队教练席上的主场首秀以0-1不敌希腊的令人沮丧的欧国联失利告终……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@TacticsJournal",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
@@ -147,7 +147,7 @@
       "heat": 68,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Wilson , John Brewin and Paul Watson for a mid-international break special Continue reading...",
-      "summaryZh": "中文翻译：乔纳森·威尔逊、约翰·布鲁因和保罗·沃森将与马克斯·拉什登一起参加国际比赛日期间的特别节目。继续阅读……",
+      "summaryZh": "中文翻译：乔纳森·威尔逊、约翰·布鲁因和保罗·沃森将与麦克斯·拉什登一起，带来一期国际比赛日期间的特别节目。继续阅读……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -176,12 +176,12 @@
     {
       "platform": "instagram",
       "title": "视觉热点：Jack Grealish recalls a golden age of mavericks – but football has moved on",
-      "titleZh": "视觉热点：杰克·格拉利什回想起特立独行者的黄金时代，但足球已经向前发展了",
+      "titleZh": "视觉热点：杰克·格拉利什回想起特立独行球员的黄金时代，但足球已经向前发展了",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 91,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “every...",
-      "summaryZh": "中文翻译：埃弗顿前锋拥有神奇的天赋和超高人气，但却遭遇了现代足球的残酷现实。托马斯·图赫尔从未征召过这位他曾声称“非常……",
+      "summaryZh": "中文翻译：埃弗顿前锋拥有神奇的天赋和超高人气，但他却遭遇了现代足球的残酷现实。托马斯·图赫尔从未征召过这位他曾声称“非常……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -209,18 +209,18 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
-      "titleZh": "视觉热点：足球日报 | 尤尔根·克洛普以独特方式强势启动德国队重建计划",
+      "title": "视觉热点：‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi",
+      "titleZh": "视觉热点：“当我为Burberry走秀时，我遇到了Kanye West”：布罗姆利足球运动员Omar Sowunmi的双重人生",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 72,
+      "heat": 90,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Barely six weeks ago, Jürgen Klopp’s big home debut in the Germany dugout ended in a deeply frustrating 1-0 Nations League defeat to Greec...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！仅仅六周前，尤尔根·克洛普在德国队教练席上的主场首秀以0-1不敌希腊的令人沮丧的欧国联失利告终……",
+      "summary": "公开来源显示该议题正在发酵：Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came up to me and said: ...",
+      "summaryZh": "中文翻译：这位31岁的球员是一名全职后卫和兼职模特，他很乐意让人们了解他的双重职业的两个方面。“有一天，我走在街上，有人走过来对我说：……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter"
+          "url": "https://www.theguardian.com/football/2026/nov/18/omar-sowunmi-bromley-footballer-model-kanye-west"
         }
       ],
       "accounts": [
@@ -228,67 +228,33 @@
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
-      "titleZh": "视觉热点：温布尔登足球俱乐部：一笔8700万英镑的投资竞购失败，以及球迷所有权面临的挑战",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 83,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can When you walk up from Haydons Road railway station to Plo...",
-      "summaryZh": "中文翻译：拥有富裕老板的俱乐部可以维持亏损经营，但当球迷承担后果时，情况可能会更加复杂。当您从海登斯路火车站步行前往普洛……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Tiger Woods to make golf return after two years at Hero World Challenge",
-      "titleZh": "视觉热点：泰格·伍兹将在两年后于英雄世界挑战赛上重返高尔夫球场",
+      "title": "视觉热点：‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan",
+      "titleZh": "视觉热点：“如果我的家人看到这些照片，他们会杀了我”：“无害”的照片对巴基斯坦女性来说可能致命",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Former world No 1 last competed at the Open in 2024 Woods was arrested on DUI charge earlier this year Tiger Woods will make ⁠his long-awaited return to competitive golf at the Hero World Ch...",
-      "summaryZh": "中文翻译：前世界排名第一的伍兹上一次参赛是在2024年的公开赛上。伍兹今年早些时候因酒驾被捕。泰格·伍兹将时隔多时重返高尔夫竞技赛场，参加英雄世界挑战赛……",
+      "heat": 71,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Tech companies urged to adapt moderation of photos online that can trigger violence against women in some countries It was just a photo of a smiling girl in jeans and a vest top, the kind of...",
+      "summaryZh": "中文翻译：敦促科技公司调整对在线照片的内容审核，因为此类照片在一些国家可能会引发针对女性的暴力行为。这只是一张身穿牛仔裤和背心的女孩面带微笑的照片，这种……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/17/tiger-woods-return-hero-world-challenge-golf"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/global-development/2026/nov/18/dangerous-intimate-images-algorithms-selfie-platforms"
         }
       ],
       "accounts": [
@@ -298,21 +264,55 @@
           "why": "AI 自动化教学和工具演示"
         },
         {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+      "titleZh": "视觉热点：Anthropic 以创纪录的 IPO 价格出售了价值 813 亿美元的股份",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 75,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：The sale valued the A.I. company, which makes the Claude chatbot, at more than $1.5 trillion. Shares begin trading on Thursday.",
+      "summaryZh": "中文翻译：此次出售使这家开发Claude聊天机器人的人工智能公司的估值超过1.5万亿美元。该公司的股票将于周四开始交易。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操拆解"
         },
         {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "业务运营和 AI 营销观点"
+        },
+        {
+          "name": "@nathanallebach",
+          "followers": "约5万",
+          "why": "社媒观点和品牌人格化"
         }
       ]
     },
     {
       "platform": "tiktok",
       "title": "短视频趋势：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 92,
       "sentiment": "low",
@@ -351,7 +351,7 @@
       "heat": 70,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most internat...",
-      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的椅子。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
+      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的董事长。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -379,13 +379,47 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Jack Grealish recalls a golden age of mavericks – but football has moved on",
-      "titleZh": "短视频趋势：杰克·格拉利什回想起特立独行者的黄金时代，但足球已经向前发展了",
+      "title": "短视频趋势：Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
+      "titleZh": "短视频趋势：参议员批评苹果和谷歌，尽管有家长控制功能，却仍让青少年使用“裸体化”应用",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
+      "heat": 81,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: three Senate Democrats send letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US senators says Apple and Google are fa...",
+      "summaryZh": "中文翻译：独家报道：三名参议院民主党人致函科技公司首席执行官，指出其平台针对裸体化应用的防护措施不足。三名美国参议员表示，苹果和谷歌……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Jack Grealish recalls a golden age of mavericks – but football has moved on",
+      "titleZh": "短视频趋势：杰克·格拉利什回想起特立独行球员的黄金时代，但足球已经向前发展了",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 73,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “every...",
-      "summaryZh": "中文翻译：埃弗顿前锋拥有神奇的天赋和超高人气，但却遭遇了现代足球的残酷现实。托马斯·图赫尔从未征召过这位他曾声称“非常……",
+      "summaryZh": "中文翻译：埃弗顿前锋拥有神奇的天赋和超高人气，但他却遭遇了现代足球的残酷现实。托马斯·图赫尔从未征召过这位他曾声称“非常……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -395,48 +429,14 @@
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
+          "name": "@goalflexo",
           "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "足球短视频和球星热点二创"
         },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
-      "titleZh": "短视频趋势：足球日报 | 尤尔根·克洛普以独特方式强势启动德国队重建计划",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Barely six weeks ago, Jürgen Klopp’s big home debut in the Germany dugout ended in a deeply frustrating 1-0 Nations League defeat to Greec...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！仅仅六周前，尤尔根·克洛普在德国队教练席上的主场首秀以0-1不敌希腊的令人沮丧的欧国联失利告终……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter"
-        }
-      ],
-      "accounts": [
         {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         },
         {
           "name": "@Alwys_ChsngFPL",
@@ -453,7 +453,7 @@
       "heat": 76,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Jonathan Wilson , John Brewin and Paul Watson for a mid-international break special Continue reading...",
-      "summaryZh": "中文翻译：乔纳森·威尔逊、约翰·布鲁因和保罗·沃森将与马克斯·拉什登一起参加国际比赛日期间的特别节目。继续阅读……",
+      "summaryZh": "中文翻译：乔纳森·威尔逊、约翰·布鲁因和保罗·沃森将与麦克斯·拉什登一起，带来一期国际比赛日期间的特别节目。继续阅读……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -482,7 +482,7 @@
     {
       "platform": "facebook",
       "title": "社区话题：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 85,
       "sentiment": "low",
@@ -521,7 +521,7 @@
       "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most internat...",
-      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的椅子。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
+      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的董事长。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -549,30 +549,30 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
-      "titleZh": "社区话题：百万富翁制造厂：Anthropic的IPO将推动伦敦高端房地产市场的人工智能淘金热",
+      "title": "社区话题：Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
+      "titleZh": "社区话题：参议员批评苹果和谷歌，尽管有家长控制功能，却仍让青少年使用“裸体化”应用",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros ...",
-      "summaryZh": "中文翻译：以惊人速度积累起来的新科技财富正涌向英国的海岸。科技大佬们身穿运动连帽衫和白色运动鞋，而不是伦敦银行家和律师阶层的马甲……",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Exclusive: three Senate Democrats send letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US senators says Apple and Google are fa...",
+      "summaryZh": "中文翻译：独家报道：三名参议院民主党人致函科技公司首席执行官，指出其平台针对裸体化应用的防护措施不足。三名美国参议员表示，苹果和谷歌……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market"
+          "url": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@Bennettxai",
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
-      "titleZh": "社区话题：对多哈的熟悉感凸显了袋鼠军团近年来取得的进步 | Joey Lynch",
+      "title": "社区话题：Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
+      "titleZh": "社区话题：百万富翁制造厂：Anthropic的IPO将推动伦敦高端房地产市场的人工智能淘金热",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismissal of Qatar at the A...",
-      "summaryZh": "中文翻译：越来越多的证据表明，不仅在战术上，而且在心态上都发生了转变，上周在亚洲杯上以 3-0 大胜卡塔尔就是明证，这让人回想起亚洲杯的惨痛失利……",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros ...",
+      "summaryZh": "中文翻译：以惊人速度积累起来的新科技财富正涌向英国海岸。科技大佬们身着运动连帽衫和白色运动鞋，而不是伦敦银行家和律师阶层的马甲……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     }
@@ -627,12 +627,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Jack Grealish recalls a golden age of mavericks – but football has moved on": {
+    "实时讨论：Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style": {
+    "实时讨论：Jack Grealish recalls a golden age of mavericks – but football has moved on": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,17 +647,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style": {
+    "视觉热点：‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership": {
+    "视觉热点：‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Tiger Woods to make golf return after two years at Hero World Challenge": {
+    "视觉热点：Anthropic Sells $81.3 Billion in Shares for a Record IPO": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -672,12 +672,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Jack Grealish recalls a golden age of mavericks – but football has moved on": {
+    "短视频趋势：Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style": {
+    "短视频趋势：Jack Grealish recalls a golden age of mavericks – but football has moved on": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -697,12 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market": {
+    "社区话题：Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch": {
+    "社区话题：Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
