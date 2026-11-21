@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T08:33:48.550400+00:00",
-  "generatedAtBeijing": "2026-11-20 16:33",
+  "generatedAt": "2026-11-21T08:17:46.080970+00:00",
+  "generatedAtBeijing": "2026-11-21 16:17",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
       "title": "实时讨论：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 74,
       "sentiment": "low",
@@ -40,7 +40,7 @@
     {
       "platform": "x",
       "title": "实时讨论：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "实时讨论：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？| 知识",
+      "titleZh": "实时讨论：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 84,
       "sentiment": "low",
@@ -79,7 +79,7 @@
       "heat": 87,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Exclusive: three Senate Democrats send letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US senators says Apple and Google are fa...",
-      "summaryZh": "中文翻译：独家报道：三名参议院民主党人致函科技公司首席执行官，指出其平台针对裸体化应用程序的防护措施不足。三名美国参议员表示，苹果和谷歌……",
+      "summaryZh": "中文翻译：独家报道：三名参议院民主党人致函科技公司首席执行官，指出其平台针对裸体化应用的防护措施不足。三名美国参议员表示，苹果和谷歌……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -107,42 +107,42 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
-      "titleZh": "实时讨论：澳大利亚U17队在世界杯上爆冷击败阿根廷，袋鼠队的未来一片光明",
+      "title": "实时讨论：Lewis Hamilton is now the apex sports protester as US athletes stay silent",
+      "titleZh": "实时讨论：随着美国运动员保持沉默，刘易斯·汉密尔顿现已成为体育界抗议活动的领军人物",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Akol Akon sealed a 2-0 win over football powerhouse in Qatar Joeys mark return to tournament for first time in seven years Sydney FC prodigy Akol Akon has demonstrated why he’s one of the mo...",
-      "summaryZh": "中文翻译：Akol Akon 帮助球队以 2-0 战胜卡塔尔足球劲旅，Joeys 时隔七年首次重返赛事。悉尼足球俱乐部天才球员 Akol Akon 展示了他为何是……",
+      "heat": 72,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Ferrari driver has always used his fame to highlight causes he cares about. Now he stands out as other athletes tone down their rhetoric Most Formula One drivers might slip away to the b...",
+      "summaryZh": "中文翻译：这位法拉利车手一直利用自己的名气来彰显他所关心的事业。如今，当其他运动员都放低姿态时，他却显得格外突出。大多数F1车手可能会悄然退场，前往……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "x",
       "title": "实时讨论：Premier League: 10 things to look out for this weekend",
-      "titleZh": "实时讨论：英超联赛：本周末值得关注的10件事",
+      "titleZh": "实时讨论：英超联赛：本周末的10大看点",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 82,
       "sentiment": "low",
@@ -175,35 +175,35 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
-      "titleZh": "视觉热点：澳大利亚U17队在世界杯上爆冷击败阿根廷，袋鼠队的未来一片光明",
+      "title": "视觉热点：Lewis Hamilton is now the apex sports protester as US athletes stay silent",
+      "titleZh": "视觉热点：随着美国运动员保持沉默，刘易斯·汉密尔顿现已成为体育界抗议活动的领军人物",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Akol Akon sealed a 2-0 win over football powerhouse in Qatar Joeys mark return to tournament for first time in seven years Sydney FC prodigy Akol Akon has demonstrated why he’s one of the mo...",
-      "summaryZh": "中文翻译：Akol Akon 帮助球队以 2-0 战胜卡塔尔足球劲旅，Joeys 时隔七年首次重返赛事。悉尼足球俱乐部天才球员 Akol Akon 展示了他为何是……",
+      "heat": 90,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Ferrari driver has always used his fame to highlight causes he cares about. Now he stands out as other athletes tone down their rhetoric Most Formula One drivers might slip away to the b...",
+      "summaryZh": "中文翻译：这位法拉利车手一直利用自己的名气来彰显他所关心的事业。如今，当其他运动员都放低姿态时，他却显得格外突出。大多数F1车手可能会悄然退场，前往……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza"
         }
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
@@ -244,12 +244,12 @@
     {
       "platform": "instagram",
       "title": "视觉热点：‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi",
-      "titleZh": "视觉热点：“当我为Burberry走秀时，我遇到了Kanye West”：布罗姆利足球运动员Omar Sowunmi的双重人生",
+      "titleZh": "视觉热点：“我在为Burberry走秀时遇到了坎耶·韦斯特”：布罗姆利足球运动员奥马尔·索翁米的两种生活",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 88,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came up to me and said: ...",
-      "summaryZh": "中文翻译：这位31岁的球员是一名全职后卫和兼职模特，他很乐意让人们了解他的双重职业：“有一天，我走在街上，有人走过来对我说：……",
+      "summaryZh": "中文翻译：这位31岁的球员是一名全职后卫，兼职模特，他很乐意让人们了解他的双重职业的两个方面。“有一天，我走在街上，有人走过来对我说：……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -277,42 +277,42 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Google Disrupts Its Search Advertising With Its Embrace of A.I.",
-      "titleZh": "视觉热点：谷歌通过拥抱人工智能来颠覆其搜索广告业务",
+      "title": "视觉热点：‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel",
+      "titleZh": "视觉热点：“我们是所有猿类中最傲慢的！” 与彼得·加布里埃尔（Peter Gabriel）的愉悦邂逅，开拓思维视野",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 68,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent.",
-      "summaryZh": "中文翻译：这家硅谷巨头的搜索广告长期以来一直是公司的营收支柱。但随着人工智能的日益普及，其搜索广告的增长正在放缓。",
+      "heat": 74,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas Pe...",
+      "summaryZh": "中文翻译：从采样到流媒体，这位摇滚传奇人物一直对技术情有独钟——但超智能是否走得太远了？他带着一张史诗般的新专辑回归，并阐述了他非凡的理念……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants"
         }
       ],
       "accounts": [
         {
-          "name": "@patrickcolpron",
-          "followers": "约4万",
-          "why": "餐厅/本地营销和创作者增长"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@nathanallebach",
-          "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "tiktok",
       "title": "短视频趋势：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 92,
       "sentiment": "low",
@@ -346,7 +346,7 @@
     {
       "platform": "tiktok",
       "title": "短视频趋势：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "短视频趋势：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？| 知识",
+      "titleZh": "短视频趋势：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 70,
       "sentiment": "low",
@@ -385,7 +385,7 @@
       "heat": 81,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Exclusive: three Senate Democrats send letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US senators says Apple and Google are fa...",
-      "summaryZh": "中文翻译：独家报道：三名参议院民主党人致函科技公司首席执行官，指出其平台针对裸体化应用程序的防护措施不足。三名美国参议员表示，苹果和谷歌……",
+      "summaryZh": "中文翻译：独家报道：三名参议院民主党人致函科技公司首席执行官，指出其平台针对裸体化应用的防护措施不足。三名美国参议员表示，苹果和谷歌……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -413,42 +413,42 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
-      "titleZh": "短视频趋势：澳大利亚U17队在世界杯上爆冷击败阿根廷，袋鼠队的未来一片光明",
+      "title": "短视频趋势：Lewis Hamilton is now the apex sports protester as US athletes stay silent",
+      "titleZh": "短视频趋势：随着美国运动员保持沉默，刘易斯·汉密尔顿现已成为体育界抗议活动的领军人物",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 75,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Akol Akon sealed a 2-0 win over football powerhouse in Qatar Joeys mark return to tournament for first time in seven years Sydney FC prodigy Akol Akon has demonstrated why he’s one of the mo...",
-      "summaryZh": "中文翻译：Akol Akon 帮助球队以 2-0 战胜卡塔尔足球劲旅，Joeys 时隔七年首次重返赛事。悉尼足球俱乐部天才球员 Akol Akon 展示了他为何是……",
+      "heat": 77,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The Ferrari driver has always used his fame to highlight causes he cares about. Now he stands out as other athletes tone down their rhetoric Most Formula One drivers might slip away to the b...",
+      "summaryZh": "中文翻译：这位法拉利车手一直利用自己的名气来彰显他所关心的事业。如今，当其他运动员都放低姿态时，他却显得格外突出。大多数F1车手可能会悄然退场，前往……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
     {
       "platform": "tiktok",
       "title": "短视频趋势：Premier League: 10 things to look out for this weekend",
-      "titleZh": "短视频趋势：英超联赛：本周末值得关注的10件事",
+      "titleZh": "短视频趋势：英超联赛：本周末的10大看点",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 68,
       "sentiment": "low",
@@ -482,7 +482,7 @@
     {
       "platform": "facebook",
       "title": "社区话题：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 85,
       "sentiment": "low",
@@ -516,7 +516,7 @@
     {
       "platform": "facebook",
       "title": "社区话题：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "社区话题：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？| 知识",
+      "titleZh": "社区话题：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 81,
       "sentiment": "low",
@@ -555,7 +555,7 @@
       "heat": 75,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Exclusive: three Senate Democrats send letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US senators says Apple and Google are fa...",
-      "summaryZh": "中文翻译：独家报道：三名参议院民主党人致函科技公司首席执行官，指出其平台针对裸体化应用程序的防护措施不足。三名美国参议员表示，苹果和谷歌……",
+      "summaryZh": "中文翻译：独家报道：三名参议院民主党人致函科技公司首席执行官，指出其平台针对裸体化应用的防护措施不足。三名美国参议员表示，苹果和谷歌……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -583,35 +583,35 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose",
-      "titleZh": "社区话题：唐纳德·特朗普 posthumously 赦免美国职棒大联盟“超级巨星和传奇人物”皮特·罗斯",
+      "title": "社区话题：England get one-match suspended ban on away tickets for anti-pope chants in Spain",
+      "titleZh": "社区话题：英格兰队因在西班牙高唱反教皇口号而被禁售一场客场比赛的门票",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
+      "heat": 83,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Rose pleaded guilty to tax evasion in 1990 Player also banned from baseball over bets Donald Trump says he has posthumously pardoned Pete Rose more than two years after the baseball star’s d...",
-      "summaryZh": "中文翻译：罗斯于1990年对逃税行为认罪。该球员还因赌博而被禁止参加棒球比赛。唐纳德·特朗普表示，在棒球明星去世两年多后，他已追授彼特·罗斯赦免。",
+      "summary": "公开来源显示该议题正在发酵：Ban by Uefa is suspended for two years Uefa also fines FA £12,500 for offensive chants England have been handed a ­suspended ­one-match ban on away ticket sales by Uefa in relation to “­raci...",
+      "summaryZh": "中文翻译：欧足联的禁令被暂停两年欧足联还对英足总处以12500英镑的罚款，原因是球迷高唱带有攻击性的歌曲。欧足联因“种族……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/19/donald-trump-issues-posthumous-pardon-to-mlb-superstar-and-legend-pete-rose"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa"
         }
       ],
       "accounts": [
         {
-          "name": "@nathanallebach",
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@elliottvenis",
           "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
-        },
-        {
-          "name": "@patrickcolpron",
-          "followers": "约4万",
-          "why": "餐厅/本地营销和创作者增长"
+          "why": "足球/体育预测类内容节奏"
         }
       ]
     }
@@ -632,7 +632,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup": {
+    "实时讨论：Lewis Hamilton is now the apex sports protester as US athletes stay silent": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,7 +642,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup": {
+    "视觉热点：Lewis Hamilton is now the apex sports protester as US athletes stay silent": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -657,7 +657,7 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Google Disrupts Its Search Advertising With Its Embrace of A.I.": {
+    "视觉热点：‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -677,7 +677,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup": {
+    "短视频趋势：Lewis Hamilton is now the apex sports protester as US athletes stay silent": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose": {
+    "社区话题：England get one-match suspended ban on away tickets for anti-pope chants in Spain": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
