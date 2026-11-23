@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T08:00:07.261572+00:00",
-  "generatedAtBeijing": "2026-11-22 16:00",
+  "generatedAt": "2026-11-23T09:08:05.389408+00:00",
+  "generatedAtBeijing": "2026-11-23 17:08",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
       "title": "实时讨论：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
+      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 74,
       "sentiment": "low",
@@ -40,7 +40,7 @@
     {
       "platform": "x",
       "title": "实时讨论：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "实时讨论：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？| 知识",
+      "titleZh": "实时讨论：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 84,
       "sentiment": "low",
@@ -74,12 +74,12 @@
     {
       "platform": "x",
       "title": "实时讨论：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "titleZh": "实时讨论：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS正面交锋",
+      "titleZh": "实时讨论：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS对峙",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 82,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting m...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会持不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会有不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -113,7 +113,7 @@
       "heat": 73,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy. On his first senior start, Luca Williams-Barnett showed just why ...",
-      "summaryZh": "中文翻译：自某位名叫哈里·凯恩的球员横空出世以来，人们对热刺青训营的球员还从未如此兴奋过。在首次一线队首发中，卢卡·威廉姆斯-巴内特就展示了他为何……",
+      "summaryZh": "中文翻译：自从哈里·凯恩横空出世以来，人们对热刺青训营的球员还从未如此兴奋过。在首次一线队首发中，卢卡·威廉姆斯-巴尼特就展示了他为何……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -141,26 +141,21 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
-      "titleZh": "实时讨论：“蓝潮”之后，风向好的硅谷转向远离右翼：“我不是‘让美国再次伟大’（Maga）的拥趸”",
+      "title": "实时讨论：Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "titleZh": "实时讨论：美国参议员表示，据报道的黄仁勋婚外情是“自特洛伊的海伦以来最昂贵的性爱”",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of Democrats A short two years ago, Elon Musk stood before an audience of tens of thou...",
-      "summaryZh": "中文翻译：从埃隆·马斯克到Palantir的亚历克斯·卡普，首席执行官们正软化强硬立场，以期迎来民主党人的涌入。短短两年前，埃隆·马斯克站在数万名……",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized form...",
+      "summaryZh": "中文翻译：约翰·肯尼迪在询问中国显然如何绕过对英伟达顶级人工智能芯片的出口管制时，将目光投向了特朗普政府的领导人。美国参议员约翰·肯尼迪援引希腊神话，将……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms"
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy"
         }
       ],
       "accounts": [
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        },
         {
           "name": "@ImKushanK",
           "followers": "约5万",
@@ -170,18 +165,23 @@
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "instagram",
       "title": "视觉热点：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "titleZh": "视觉热点：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS正面交锋",
+      "titleZh": "视觉热点：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS对峙",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 85,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting m...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会持不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会有不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -209,64 +209,30 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi",
-      "titleZh": "视觉热点：“当我为Burberry走秀时，我遇到了Kanye West”：Bromley足球运动员Omar Sowunmi的双重人生",
+      "title": "视觉热点：I covered myself in sleep trackers to find the very best",
+      "titleZh": "视觉热点：我用各种睡眠追踪器来监测自己的睡眠，以找到最好的那一款",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 90,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came up to me and said: ...",
-      "summaryZh": "中文翻译：这位31岁的球员是一名全职后卫和兼职模特，他很乐意让人们了解他的双重职业的两个方面。“有一天，我走在街上，有人走过来对我说：……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/18/omar-sowunmi-bromley-footballer-model-kanye-west"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel",
-      "titleZh": "视觉热点：“我们是所有猿类中最傲慢的！” 与彼得·加布里埃尔（Peter Gabriel）的愉悦邂逅，开拓思维视野",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 76,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas Pe...",
-      "summaryZh": "中文翻译：从采样到流媒体，这位摇滚传奇人物一直对技术情有独钟——但超级智能是否走得太远了？他带着一张史诗般的新专辑回归，并阐述了他非凡的理念……",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds The best sleep masks and best Bluetooth sleep masks Getting quality slee...",
+      "summaryZh": "中文翻译：通过智能手表、智能戒指、智能手环和睡眠耳机进行监测和指导，享受更优质的睡眠。最好的睡眠眼罩和最好的蓝牙睡眠眼罩。获得优质睡眠……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants"
+          "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers"
         }
       ],
       "accounts": [
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
-        },
-        {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Ivy_Dinma",
@@ -277,42 +243,76 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Google Disrupts Its Search Advertising With Its Embrace of A.I.",
-      "titleZh": "视觉热点：谷歌通过拥抱人工智能来颠覆其搜索广告业务",
+      "title": "视觉热点：‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi",
+      "titleZh": "视觉热点：“当我为Burberry走秀时，我遇到了坎耶·韦斯特”：布罗姆利足球运动员奥马尔·索翁米的两种生活",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 68,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent.",
-      "summaryZh": "中文翻译：这家硅谷巨头的搜索广告长期以来一直是公司的营收支柱。但随着人工智能的日益普及，其搜索广告的增长正在放缓。",
+      "heat": 88,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came up to me and said: ...",
+      "summaryZh": "中文翻译：这位31岁的球员是一名全职后卫，兼职模特，他很乐意让人们了解他的双重职业：“有一天，我走在街上，有人走过来对我说：……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/18/omar-sowunmi-bromley-footballer-model-kanye-west"
         }
       ],
       "accounts": [
         {
-          "name": "@patrickcolpron",
-          "followers": "约4万",
-          "why": "餐厅/本地营销和创作者增长"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Max Verstappen claims dramatic Las Vegas F1 GP win after Ferraris collide",
+      "titleZh": "视觉热点：在法拉利车队发生碰撞事故后，马克斯·维斯塔潘戏剧性地赢得了拉斯维加斯F1大奖赛的冠军。",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 73,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Dutchman under siege before pulling clear in the final lap Charles Leclerc and Lewis Hamilton again clash on track For a race still in its infancy, this year’s Las Vegas Grand Prix provided ...",
+      "summaryZh": "中文翻译：在最后一圈摆脱困境之前，维斯塔潘被围攻。夏尔·勒克莱尔和刘易斯·汉密尔顿再次在赛道上发生碰撞。对于一场仍在起步阶段的比赛来说，今年的拉斯维加斯大奖赛提供了……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-touches-perfection-in-dramatic-las-vegas-grand-prix-win"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@nathanallebach",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "tiktok",
       "title": "短视频趋势：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
+      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 92,
       "sentiment": "low",
@@ -346,7 +346,7 @@
     {
       "platform": "tiktok",
       "title": "短视频趋势：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "短视频趋势：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？| 知识",
+      "titleZh": "短视频趋势：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 70,
       "sentiment": "low",
@@ -380,12 +380,12 @@
     {
       "platform": "tiktok",
       "title": "短视频趋势：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "titleZh": "短视频趋势：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS正面交锋",
+      "titleZh": "短视频趋势：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS对峙",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 76,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting m...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会持不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会有不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -419,7 +419,7 @@
       "heat": 72,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy. On his first senior start, Luca Williams-Barnett showed just why ...",
-      "summaryZh": "中文翻译：自某位名叫哈里·凯恩的球员横空出世以来，人们对热刺青训营的球员还从未如此兴奋过。在首次一线队首发中，卢卡·威廉姆斯-巴内特就展示了他为何……",
+      "summaryZh": "中文翻译：自从哈里·凯恩横空出世以来，人们对热刺青训营的球员还从未如此兴奋过。在首次一线队首发中，卢卡·威廉姆斯-巴尼特就展示了他为何……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -447,30 +447,30 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
-      "titleZh": "短视频趋势：“蓝潮”之后，风向好的硅谷转向远离右翼：“我不是‘让美国再次伟大’（Maga）的拥趸”",
+      "title": "短视频趋势：Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "titleZh": "短视频趋势：美国参议员表示，据报道的黄仁勋婚外情是“自特洛伊的海伦以来最昂贵的性爱”",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 71,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of Democrats A short two years ago, Elon Musk stood before an audience of tens of thou...",
-      "summaryZh": "中文翻译：从埃隆·马斯克到Palantir的亚历克斯·卡普，首席执行官们正软化强硬立场，以期迎来民主党人的涌入。短短两年前，埃隆·马斯克站在数万名……",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized form...",
+      "summaryZh": "中文翻译：约翰·肯尼迪在询问中国显然如何绕过对英伟达顶级人工智能芯片的出口管制时，将目光投向了特朗普政府的领导人。美国参议员约翰·肯尼迪援引希腊神话，将……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms"
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy"
         }
       ],
       "accounts": [
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
-        },
-        {
           "name": "@exploraX_",
           "followers": "<10万需复核",
           "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
           "name": "@Bennettxai",
@@ -482,7 +482,7 @@
     {
       "platform": "facebook",
       "title": "社区话题：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
+      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 85,
       "sentiment": "low",
@@ -516,7 +516,7 @@
     {
       "platform": "facebook",
       "title": "社区话题：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "社区话题：哪家足球俱乐部在同一支球队中拥有最多的国家队队长？| 知识",
+      "titleZh": "社区话题：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 81,
       "sentiment": "low",
@@ -555,7 +555,7 @@
       "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy. On his first senior start, Luca Williams-Barnett showed just why ...",
-      "summaryZh": "中文翻译：自某位名叫哈里·凯恩的球员横空出世以来，人们对热刺青训营的球员还从未如此兴奋过。在首次一线队首发中，卢卡·威廉姆斯-巴内特就展示了他为何……",
+      "summaryZh": "中文翻译：自从哈里·凯恩横空出世以来，人们对热刺青训营的球员还从未如此兴奋过。在首次一线队首发中，卢卡·威廉姆斯-巴尼特就展示了他为何……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -589,7 +589,7 @@
       "heat": 80,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismissal of Qatar at the A...",
-      "summaryZh": "中文翻译：有越来越多的证据表明，不仅在战术上，而且在心态上都发生了转变，上周在亚洲杯上以3-0大胜卡塔尔就是最好的证明，这让人回想起亚洲杯的惨痛失利……",
+      "summaryZh": "中文翻译：越来越多的证据表明，不仅在战术上，而且在心态上都发生了转变，上周在亚洲杯上以3-0大胜卡塔尔就是最好的证明，这支球队重返亚洲杯赛场，一雪前耻。",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -637,7 +637,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’": {
+    "实时讨论：Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -647,17 +647,17 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
+    "视觉热点：I covered myself in sleep trackers to find the very best": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "视觉热点：‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "视觉热点：Google Disrupts Its Search Advertising With Its Embrace of A.I.": {
+    "视觉热点：Max Verstappen claims dramatic Las Vegas F1 GP win after Ferraris collide": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -682,7 +682,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’": {
+    "短视频趋势：Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
