@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T09:08:05.389408+00:00",
-  "generatedAtBeijing": "2026-11-23 17:08",
+  "generatedAt": "2026-11-24T10:56:13.021361+00:00",
+  "generatedAtBeijing": "2026-11-24 18:56",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
@@ -39,18 +39,18 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "实时讨论：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
+      "title": "实时讨论：The line between sports hero and gambling shill is fast disappearing",
+      "titleZh": "实时讨论：体育英雄与赌博托儿之间的界限正在迅速消失",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 84,
+      "heat": 89,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most internat...",
-      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的椅子。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
+      "summary": "公开来源显示该议题正在发酵：For big stars, endorsing companies like Kalshi and Polymarket is just another day in the beautiful business of being – and staying – rich When Giannis Antetokounmpo announced he was taking a...",
+      "summaryZh": "中文翻译：对于大明星来说，为Kalshi和Polymarket等公司代言只是他们致富并保持财富的美好事业中的平常一天。当扬尼斯·安特托昆博（Giannis Antetokounmpo）宣布他将……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/24/prediction-markets-sports-gambling"
         }
       ],
       "accounts": [
@@ -60,6 +60,35 @@
           "why": "Fantasy football 数据和差异化选题"
         },
         {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
+      "titleZh": "实时讨论：文件显示，因凡蒂诺的200亿美元世界杯出售计划将持续长达96年。",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Management team were in line for huge payouts Fifa denies Infantino would have profited from plan Gianni Infantino’s failed Fifa Forward Enterprise plan could have locked football in for up ...",
+      "summaryZh": "中文翻译：管理团队将获得巨额奖金。国际足联否认因凡蒂诺将从该计划中获利。詹尼·因凡蒂诺的国际足联Forward Enterprise计划失败，本可能使足球陷入……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts"
+        }
+      ],
+      "accounts": [
+        {
           "name": "@igoeLFC",
           "followers": "<10万需复核",
           "why": "垂直球迷号标题和情绪表达"
@@ -68,18 +97,23 @@
           "name": "@goalflexo",
           "followers": "约2万",
           "why": "足球短视频和球星热点二创"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
         }
       ]
     },
     {
       "platform": "x",
       "title": "实时讨论：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "titleZh": "实时讨论：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS对峙",
+      "titleZh": "实时讨论：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS正面交锋",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 82,
+      "heat": 80,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting m...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会有不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会持不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -89,70 +123,36 @@
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
-      "titleZh": "实时讨论：少年天才威廉姆斯-巴尼特助热刺走上战胜伊普斯维奇的道路",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 73,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy. On his first senior start, Luca Williams-Barnett showed just why ...",
-      "summaryZh": "中文翻译：自从哈里·凯恩横空出世以来，人们对热刺青训营的球员还从未如此兴奋过。在首次一线队首发中，卢卡·威廉姆斯-巴尼特就展示了他为何……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report"
-        }
-      ],
-      "accounts": [
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
         }
       ]
     },
     {
       "platform": "x",
-      "title": "实时讨论：Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "titleZh": "实时讨论：美国参议员表示，据报道的黄仁勋婚外情是“自特洛伊的海伦以来最昂贵的性爱”",
+      "title": "实时讨论：Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
+      "titleZh": "实时讨论：凯特·布什（Kate Bush）和格蕾丝·琼斯（Grace Jones）敦促澳大利亚政府不要将人工智能“盗窃”合法化",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized form...",
-      "summaryZh": "中文翻译：约翰·肯尼迪在询问中国显然如何绕过对英伟达顶级人工智能芯片的出口管制时，将目光投向了特朗普政府的领导人。美国参议员约翰·肯尼迪援引希腊神话，将……",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Get our breaking news email , free app or daily news podcast Kate Bush, ...",
+      "summaryZh": "中文翻译：面对人工智能公司的游说，7000名艺术家和创作者中的歌手敦促工党保护版权法。订阅我们的突发新闻电子邮件、免费应用程序或每日新闻播客。凯特·布什……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy"
+          "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"
         }
       ],
       "accounts": [
@@ -162,26 +162,26 @@
           "why": "AI 自动化教学和工具演示"
         },
         {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
           "name": "@marcinteodoru",
           "followers": "约4.1万",
           "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
     {
       "platform": "instagram",
       "title": "视觉热点：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "titleZh": "视觉热点：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS对峙",
+      "titleZh": "视觉热点：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS正面交锋",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 85,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting m...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会有不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会持不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -215,7 +215,7 @@
       "heat": 81,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds The best sleep masks and best Bluetooth sleep masks Getting quality slee...",
-      "summaryZh": "中文翻译：通过智能手表、智能戒指、智能手环和睡眠耳机进行监测和指导，享受更优质的睡眠。最好的睡眠眼罩和最好的蓝牙睡眠眼罩。获得优质睡眠……",
+      "summaryZh": "中文翻译：通过智能手表、智能戒指、智能手环和助眠耳机进行监测和指导，享受更优质的睡眠。最好的睡眠眼罩和最好的蓝牙睡眠眼罩。获得优质睡眠……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -243,59 +243,25 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi",
-      "titleZh": "视觉热点：“当我为Burberry走秀时，我遇到了坎耶·韦斯特”：布罗姆利足球运动员奥马尔·索翁米的两种生活",
+      "title": "视觉热点：AI conquered chess. What happened next should give us hope",
+      "titleZh": "视觉热点：人工智能征服了国际象棋。接下来发生的事情应该给我们带来希望。",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 88,
+      "heat": 89,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came up to me and said: ...",
-      "summaryZh": "中文翻译：这位31岁的球员是一名全职后卫，兼职模特，他很乐意让人们了解他的双重职业：“有一天，我走在街上，有人走过来对我说：……",
+      "summary": "公开来源显示该议题正在发酵：As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championshi...",
+      "summaryZh": "中文翻译：两位20岁的神童正准备在世界国际象棋锦标赛中一决高下，这场比赛令人惊讶地揭示了人工智能的优缺点。即将到来的世界国际象棋锦标赛……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/18/omar-sowunmi-bromley-footballer-model-kanye-west"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Max Verstappen claims dramatic Las Vegas F1 GP win after Ferraris collide",
-      "titleZh": "视觉热点：在法拉利车队发生碰撞事故后，马克斯·维斯塔潘戏剧性地赢得了拉斯维加斯F1大奖赛的冠军。",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 73,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Dutchman under siege before pulling clear in the final lap Charles Leclerc and Lewis Hamilton again clash on track For a race still in its infancy, this year’s Las Vegas Grand Prix provided ...",
-      "summaryZh": "中文翻译：在最后一圈摆脱困境之前，维斯塔潘被围攻。夏尔·勒克莱尔和刘易斯·汉密尔顿再次在赛道上发生碰撞。对于一场仍在起步阶段的比赛来说，今年的拉斯维加斯大奖赛提供了……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-touches-perfection-in-dramatic-las-vegas-grand-prix-win"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "why": "AI 自动化教学和工具演示"
         },
         {
           "name": "@lifeof_scoop",
@@ -303,9 +269,43 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@ImKushanK",
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Google Disrupts Its Search Advertising With Its Embrace of A.I.",
+      "titleZh": "视觉热点：Google 通过拥抱人工智能来颠覆其搜索广告业务",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 68,
+      "sentiment": "high",
+      "summary": "公开来源显示该议题正在发酵：The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent.",
+      "summaryZh": "中文翻译：这家硅谷巨头的搜索广告长期以来一直是公司的营收支柱。但随着人工智能的日益普及，其搜索广告的增长正在放缓。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "NYTimes Technology",
+          "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@patrickcolpron",
+          "followers": "约4万",
+          "why": "餐厅/本地营销和创作者增长"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "newsletter 增长案例"
+        },
+        {
+          "name": "@nathanallebach",
           "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "why": "品牌人格化和社媒观点"
         }
       ]
     },
@@ -345,26 +345,21 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "短视频趋势：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
+      "title": "短视频趋势：The line between sports hero and gambling shill is fast disappearing",
+      "titleZh": "短视频趋势：体育英雄与赌博托儿之间的界限正在迅速消失",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 70,
+      "heat": 71,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most internat...",
-      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的椅子。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
+      "summary": "公开来源显示该议题正在发酵：For big stars, endorsing companies like Kalshi and Polymarket is just another day in the beautiful business of being – and staying – rich When Giannis Antetokounmpo announced he was taking a...",
+      "summaryZh": "中文翻译：对于大明星来说，为Kalshi和Polymarket等公司代言只是他们致富并保持财富的美好事业中的平常一天。当扬尼斯·安特托昆博（Giannis Antetokounmpo）宣布他将……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/24/prediction-markets-sports-gambling"
         }
       ],
       "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
         {
           "name": "@goalflexo",
           "followers": "约2万",
@@ -374,18 +369,57 @@
           "name": "@Alwys_ChsngFPL",
           "followers": "<10万，FPL 小号",
           "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
+      "titleZh": "短视频趋势：文件显示，因凡蒂诺的200亿美元世界杯出售计划将持续长达96年。",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 83,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Management team were in line for huge payouts Fifa denies Infantino would have profited from plan Gianni Infantino’s failed Fifa Forward Enterprise plan could have locked football in for up ...",
+      "summaryZh": "中文翻译：管理团队将获得巨额奖金。国际足联否认因凡蒂诺将从该计划中获利。詹尼·因凡蒂诺的国际足联Forward Enterprise计划失败，本可能使足球陷入……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
         }
       ]
     },
     {
       "platform": "tiktok",
       "title": "短视频趋势：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "titleZh": "短视频趋势：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS对峙",
+      "titleZh": "短视频趋势：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS正面交锋",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 76,
+      "heat": 74,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting m...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会有不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会持不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -395,73 +429,44 @@
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
         },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
-      "titleZh": "短视频趋势：少年天才威廉姆斯-巴尼特助热刺走上战胜伊普斯维奇的道路",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 72,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy. On his first senior start, Luca Williams-Barnett showed just why ...",
-      "summaryZh": "中文翻译：自从哈里·凯恩横空出世以来，人们对热刺青训营的球员还从未如此兴奋过。在首次一线队首发中，卢卡·威廉姆斯-巴尼特就展示了他为何……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report"
-        }
-      ],
-      "accounts": [
         {
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
         }
       ]
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "titleZh": "短视频趋势：美国参议员表示，据报道的黄仁勋婚外情是“自特洛伊的海伦以来最昂贵的性爱”",
+      "title": "短视频趋势：Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
+      "titleZh": "短视频趋势：凯特·布什（Kate Bush）和格蕾丝·琼斯（Grace Jones）敦促澳大利亚政府不要将人工智能“盗窃”合法化",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 68,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized form...",
-      "summaryZh": "中文翻译：约翰·肯尼迪在询问中国显然如何绕过对英伟达顶级人工智能芯片的出口管制时，将目光投向了特朗普政府的领导人。美国参议员约翰·肯尼迪援引希腊神话，将……",
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Get our breaking news email , free app or daily news podcast Kate Bush, ...",
+      "summaryZh": "中文翻译：面对人工智能公司的游说，7000名艺术家和创作者中的歌手敦促工党保护版权法。订阅我们的突发新闻电子邮件、免费应用程序或每日新闻播客。凯特·布什……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy"
+          "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"
         }
       ],
       "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
@@ -471,11 +476,6 @@
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
-        },
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
         }
       ]
     },
@@ -515,94 +515,21 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Which football club has had most international captains in the same team? | The Knowledge",
-      "titleZh": "社区话题：哪家足球俱乐部在同一支球队中有过最多的国家队队长？| 知识",
+      "title": "社区话题：The line between sports hero and gambling shill is fast disappearing",
+      "titleZh": "社区话题：体育英雄与赌博托儿之间的界限正在迅速消失",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 81,
+      "heat": 79,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most internat...",
-      "summaryZh": "中文翻译：此外：足球运动员跑得更快的马拉松、本赛季的头球进球以及担任经理的椅子。请将您的所有问题和答案发送给我们：“哪支俱乐部球队拥有最多的国际……",
+      "summary": "公开来源显示该议题正在发酵：For big stars, endorsing companies like Kalshi and Polymarket is just another day in the beautiful business of being – and staying – rich When Giannis Antetokounmpo announced he was taking a...",
+      "summaryZh": "中文翻译：对于大明星来说，为Kalshi和Polymarket等公司代言只是他们致富并保持财富的美好事业中的平常一天。当扬尼斯·安特托昆博（Giannis Antetokounmpo）宣布他将……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/24/prediction-markets-sports-gambling"
         }
       ],
       "accounts": [
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
-      "titleZh": "社区话题：少年天才威廉姆斯-巴尼特助热刺走上战胜伊普斯维奇的道路",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 89,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy. On his first senior start, Luca Williams-Barnett showed just why ...",
-      "summaryZh": "中文翻译：自从哈里·凯恩横空出世以来，人们对热刺青训营的球员还从未如此兴奋过。在首次一线队首发中，卢卡·威廉姆斯-巴尼特就展示了他为何……",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "facebook",
-      "title": "社区话题：Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
-      "titleZh": "社区话题：对多哈的熟悉感凸显了袋鼠军团近年来取得的进步 | Joey Lynch",
-      "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismissal of Qatar at the A...",
-      "summaryZh": "中文翻译：越来越多的证据表明，不仅在战术上，而且在心态上都发生了转变，上周在亚洲杯上以3-0大胜卡塔尔就是最好的证明，这支球队重返亚洲杯赛场，一雪前耻。",
-      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
@@ -612,6 +539,79 @@
           "name": "@marfawe",
           "followers": "约2万",
           "why": "世界杯图文梗和球迷口吻"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
+      "titleZh": "社区话题：对多哈的熟悉感凸显了袋鼠军团近年来取得的进步 | Joey Lynch",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 82,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismissal of Qatar at the A...",
+      "summaryZh": "中文翻译：越来越多的证据表明，不仅在战术上，而且在心态上也发生了转变，上周在亚洲杯上以 3-0 大胜卡塔尔就是明证，这让人回想起亚洲杯的惨痛失利……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@TacticsJournal",
+          "followers": "<10万需复核",
+          "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@elliottvenis",
+          "followers": "约5万",
+          "why": "足球/体育预测类内容节奏"
+        },
+        {
+          "name": "@marfawe",
+          "followers": "约2万",
+          "why": "世界杯图文梗和球迷口吻"
+        }
+      ]
+    },
+    {
+      "platform": "facebook",
+      "title": "社区话题：How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’",
+      "titleZh": "社区话题：我们应该有多么惊慌失措？在经历大规模停电后，专家告诉我们，我们离“世界末日”有多近。",
+      "topic": "社区讨论、家庭消费、本地化、长帖解释",
+      "heat": 71,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Mi...",
+      "summaryZh": "中文翻译：随着技术、旅游和银行业故障席卷美国，分析师和网络安全主管讨论了人工智能、资金不足以及让他们夜不能寐的问题。航班停飞。银行网站崩溃。Mi……",
+      "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     }
@@ -622,7 +622,12 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Which football club has had most international captains in the same team? | The Knowledge": {
+    "实时讨论：The line between sports hero and gambling shill is fast disappearing": {
+      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
+      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
+      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
+    },
+    "实时讨论：Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -632,12 +637,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich": {
-      "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
-      "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
-      "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
-    },
-    "实时讨论：Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says": {
+    "实时讨论：Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -652,12 +652,12 @@
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi": {
+    "视觉热点：AI conquered chess. What happened next should give us hope": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Max Verstappen claims dramatic Las Vegas F1 GP win after Ferraris collide": {
+    "视觉热点：Google Disrupts Its Search Advertising With Its Embrace of A.I.": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -667,7 +667,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Which football club has had most international captains in the same team? | The Knowledge": {
+    "短视频趋势：The line between sports hero and gambling shill is fast disappearing": {
+      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
+      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
+      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
+    },
+    "短视频趋势：Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -677,12 +682,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich": {
-      "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
-      "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
-      "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
-    },
-    "短视频趋势：Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says": {
+    "短视频趋势：Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -692,17 +692,17 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Which football club has had most international captains in the same team? | The Knowledge": {
-      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
-      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
-      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
-    },
-    "社区话题：Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich": {
+    "社区话题：The line between sports hero and gambling shill is fast disappearing": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
     "社区话题：Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch": {
+      "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
+      "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
+      "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
+    },
+    "社区话题：How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
