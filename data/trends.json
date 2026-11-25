@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T10:56:13.021361+00:00",
-  "generatedAtBeijing": "2026-11-24 18:56",
+  "generatedAt": "2026-11-25T09:52:18.156863+00:00",
+  "generatedAtBeijing": "2026-11-25 17:52",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
       "title": "实时讨论：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 74,
       "sentiment": "low",
@@ -45,7 +45,7 @@
       "heat": 89,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：For big stars, endorsing companies like Kalshi and Polymarket is just another day in the beautiful business of being – and staying – rich When Giannis Antetokounmpo announced he was taking a...",
-      "summaryZh": "中文翻译：对于大明星来说，为Kalshi和Polymarket等公司代言只是他们致富并保持财富的美好事业中的平常一天。当扬尼斯·安特托昆博（Giannis Antetokounmpo）宣布他将……",
+      "summaryZh": "中文翻译：对于大明星来说，为Kalshi和Polymarket等公司代言只是他们致富并保持财富的精彩事业中的平常一天。当扬尼斯·安特托昆博（Giannis Antetokounmpo）宣布他将……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -73,86 +73,52 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
-      "titleZh": "实时讨论：文件显示，因凡蒂诺的200亿美元世界杯出售计划将持续长达96年。",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Management team were in line for huge payouts Fifa denies Infantino would have profited from plan Gianni Infantino’s failed Fifa Forward Enterprise plan could have locked football in for up ...",
-      "summaryZh": "中文翻译：管理团队将获得巨额奖金。国际足联否认因凡蒂诺将从该计划中获利。詹尼·因凡蒂诺的国际足联Forward Enterprise计划失败，本可能使足球陷入……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@igoeLFC",
-          "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "titleZh": "实时讨论：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS正面交锋",
-      "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting m...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会持不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
-      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "x",
-      "title": "实时讨论：Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
-      "titleZh": "实时讨论：凯特·布什（Kate Bush）和格蕾丝·琼斯（Grace Jones）敦促澳大利亚政府不要将人工智能“盗窃”合法化",
+      "title": "实时讨论：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+      "titleZh": "实时讨论：“情况真的非常混乱”：Meta内部人士对推动人工智能内容审核表示担忧",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 75,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Get our breaking news email , free app or daily news podcast Kate Bush, ...",
-      "summaryZh": "中文翻译：面对人工智能公司的游说，7000名艺术家和创作者中的歌手敦促工党保护版权法。订阅我们的突发新闻电子邮件、免费应用程序或每日新闻播客。凯特·布什……",
+      "summary": "公开来源显示该议题正在发酵：Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators ...",
+      "summaryZh": "中文翻译：多名员工表示，算法运行速度过快意味着错误可能大规模发生。Meta员工对公司推动用算法取代人工审核员的做法表示担忧……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"
+          "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "x",
+      "title": "实时讨论：Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
+      "titleZh": "实时讨论：古尔为士气高昂的加拉塔萨雷挺身而出，让阿斯顿维拉在欧冠赛场上败北",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 76,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：This was Aston Villa’s third trip to Istanbul in the calendar year but, this time, they departed with different emotions. Unlike on the banks of the Bosphorus at Besiktas Park in May, the sc...",
+      "summaryZh": "中文翻译：这是阿斯顿维拉本年度第三次前往伊斯坦布尔，但这一次，他们带着不同的心情离开。与 5 月在博斯普鲁斯海峡畔的贝西克塔斯公园不同，这次……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report"
         }
       ],
       "accounts": [
@@ -174,70 +140,104 @@
       ]
     },
     {
-      "platform": "instagram",
-      "title": "视觉热点：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "titleZh": "视觉热点：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS正面交锋",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 85,
+      "platform": "x",
+      "title": "实时讨论：Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
+      "titleZh": "实时讨论：“蓝潮”之后，风向好的硅谷转向远离右翼：“我不是‘让美国再次伟大’（Maga）的拥趸”",
+      "topic": "实时讨论、新闻发酵、观点交锋",
+      "heat": 74,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting m...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会持不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "summary": "公开来源显示该议题正在发酵：From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of Democrats A short two years ago, Elon Musk stood before an audience of tens of thou...",
+      "summaryZh": "中文翻译：从埃隆·马斯克到Palantir的亚历克斯·卡普，首席执行官们正软化强硬立场，以期迎来民主党的涌入。短短两年前，埃隆·马斯克站在数万名……",
+      "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms"
         }
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        },
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：I covered myself in sleep trackers to find the very best",
-      "titleZh": "视觉热点：我用各种睡眠追踪器来监测自己的睡眠，以找到最好的那一款",
+      "title": "视觉热点：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+      "titleZh": "视觉热点：“情况真的非常混乱”：Meta内部人士对推动人工智能内容审核表示担忧",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 81,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds The best sleep masks and best Bluetooth sleep masks Getting quality slee...",
-      "summaryZh": "中文翻译：通过智能手表、智能戒指、智能手环和助眠耳机进行监测和指导，享受更优质的睡眠。最好的睡眠眼罩和最好的蓝牙睡眠眼罩。获得优质睡眠……",
+      "heat": 80,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators ...",
+      "summaryZh": "中文翻译：多名员工表示，算法运行速度过快意味着错误可能大规模发生。Meta员工对公司推动用算法取代人工审核员的做法表示担忧……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers"
+          "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation"
         }
       ],
       "accounts": [
         {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@Ivy_Dinma",
-          "followers": "约1.2万-5万",
-          "why": "AI 营销和业务运营内容"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Jannik Sinner’s Australian Open appearance in doubt after knee surgery",
+      "titleZh": "视觉热点：扬尼克·辛纳在膝关节手术后，能否参加澳网比赛尚存疑虑",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 81,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：Wimbledon champion sidelined since winning title ‘We’ve tried everything to treat injury without surgery’ Jannik Sinner faces further time off the court after undergoing knee surgery. The fo...",
+      "summaryZh": "中文翻译：温布尔登冠军自夺冠后一直缺席比赛“我们尝试了各种方法来治疗伤病，以避免手术”扬尼克·辛纳在接受膝盖手术后将面临更长时间的休赛期。",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/24/jannik-sinners-australian-open-in-great-doubt-after-he-has-to-have-knee-surgery"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
@@ -249,7 +249,7 @@
       "heat": 89,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championshi...",
-      "summaryZh": "中文翻译：两位20岁的神童正准备在世界国际象棋锦标赛中一决高下，这场比赛令人惊讶地揭示了人工智能的优缺点。即将到来的世界国际象棋锦标赛……",
+      "summaryZh": "中文翻译：两位20岁的棋坛天才即将角逐世界国际象棋锦标赛，这场比赛将带来一个关于人工智能及其无法复制之处的惊人启示。即将到来的世界国际象棋锦标赛……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
@@ -278,7 +278,7 @@
     {
       "platform": "instagram",
       "title": "视觉热点：Google Disrupts Its Search Advertising With Its Embrace of A.I.",
-      "titleZh": "视觉热点：Google 通过拥抱人工智能来颠覆其搜索广告业务",
+      "titleZh": "视觉热点：谷歌通过拥抱人工智能来颠覆其搜索广告业务",
       "topic": "视觉化热点、Reels、轮播、生活方式",
       "heat": 68,
       "sentiment": "high",
@@ -312,7 +312,7 @@
     {
       "platform": "tiktok",
       "title": "短视频趋势：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 92,
       "sentiment": "low",
@@ -351,7 +351,7 @@
       "heat": 71,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：For big stars, endorsing companies like Kalshi and Polymarket is just another day in the beautiful business of being – and staying – rich When Giannis Antetokounmpo announced he was taking a...",
-      "summaryZh": "中文翻译：对于大明星来说，为Kalshi和Polymarket等公司代言只是他们致富并保持财富的美好事业中的平常一天。当扬尼斯·安特托昆博（Giannis Antetokounmpo）宣布他将……",
+      "summaryZh": "中文翻译：对于大明星来说，为Kalshi和Polymarket等公司代言只是他们致富并保持财富的精彩事业中的平常一天。当扬尼斯·安特托昆博（Giannis Antetokounmpo）宣布他将……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -379,94 +379,21 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
-      "titleZh": "短视频趋势：文件显示，因凡蒂诺的200亿美元世界杯出售计划将持续长达96年。",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 83,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Management team were in line for huge payouts Fifa denies Infantino would have profited from plan Gianni Infantino’s failed Fifa Forward Enterprise plan could have locked football in for up ...",
-      "summaryZh": "中文翻译：管理团队将获得巨额奖金。国际足联否认因凡蒂诺将从该计划中获利。詹尼·因凡蒂诺的国际足联Forward Enterprise计划失败，本可能使足球陷入……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "titleZh": "短视频趋势：足球日报 | 足球界的政治玩家在国际足联与现实生活中的终极大BOSS正面交锋",
+      "title": "短视频趋势：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+      "titleZh": "短视频趋势：“情况真的非常混乱”：Meta内部人士对推动人工智能内容审核表示担忧",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 74,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn’t the most exciting m...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！虽然数百万请病假的玩家可能会持不同意见，但《侠盗猎车手6》的发布并不是最令人兴奋的……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
-      "sources": [
-        {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
-        }
-      ]
-    },
-    {
-      "platform": "tiktok",
-      "title": "短视频趋势：Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
-      "titleZh": "短视频趋势：凯特·布什（Kate Bush）和格蕾丝·琼斯（Grace Jones）敦促澳大利亚政府不要将人工智能“盗窃”合法化",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 68,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Get our breaking news email , free app or daily news podcast Kate Bush, ...",
-      "summaryZh": "中文翻译：面对人工智能公司的游说，7000名艺术家和创作者中的歌手敦促工党保护版权法。订阅我们的突发新闻电子邮件、免费应用程序或每日新闻播客。凯特·布什……",
+      "summary": "公开来源显示该议题正在发酵：Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators ...",
+      "summaryZh": "中文翻译：多名员工表示，算法运行速度过快意味着错误可能大规模发生。Meta员工对公司推动用算法取代人工审核员的做法表示担忧……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
           "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"
+          "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation"
         }
       ],
       "accounts": [
-        {
-          "name": "@Bennettxai",
-          "followers": "<10万需复核",
-          "why": "AI 自动化实操内容"
-        },
         {
           "name": "@exploraX_",
           "followers": "<10万需复核",
@@ -476,13 +403,86 @@
           "name": "@Ivy_Dinma",
           "followers": "约1.2万-5万",
           "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
+      "titleZh": "短视频趋势：古尔为士气高昂的加拉塔萨雷挺身而出，让阿斯顿维拉在欧冠赛场上败北",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 68,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：This was Aston Villa’s third trip to Istanbul in the calendar year but, this time, they departed with different emotions. Unlike on the banks of the Bosphorus at Besiktas Park in May, the sc...",
+      "summaryZh": "中文翻译：这是阿斯顿维拉本年度第三次前往伊斯坦布尔，但这一次，他们带着不同的心情离开。与 5 月在博斯普鲁斯海峡畔的贝西克塔斯公园不同，这次……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
+      "titleZh": "短视频趋势：“蓝潮”之后，风向好的硅谷转向远离右翼：“我不是‘让美国再次伟大’（Maga）的拥趸”",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 71,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of Democrats A short two years ago, Elon Musk stood before an audience of tens of thou...",
+      "summaryZh": "中文翻译：从埃隆·马斯克到Palantir的亚历克斯·卡普，首席执行官们正软化强硬立场，以期迎来民主党的涌入。短短两年前，埃隆·马斯克站在数万名……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        },
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
         }
       ]
     },
     {
       "platform": "facebook",
       "title": "社区话题：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典赛事",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 85,
       "sentiment": "low",
@@ -521,7 +521,7 @@
       "heat": 79,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：For big stars, endorsing companies like Kalshi and Polymarket is just another day in the beautiful business of being – and staying – rich When Giannis Antetokounmpo announced he was taking a...",
-      "summaryZh": "中文翻译：对于大明星来说，为Kalshi和Polymarket等公司代言只是他们致富并保持财富的美好事业中的平常一天。当扬尼斯·安特托昆博（Giannis Antetokounmpo）宣布他将……",
+      "summaryZh": "中文翻译：对于大明星来说，为Kalshi和Polymarket等公司代言只是他们致富并保持财富的精彩事业中的平常一天。当扬尼斯·安特托昆博（Giannis Antetokounmpo）宣布他将……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -549,59 +549,59 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
-      "titleZh": "社区话题：对多哈的熟悉感凸显了袋鼠军团近年来取得的进步 | Joey Lynch",
+      "title": "社区话题：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+      "titleZh": "社区话题：“情况真的非常混乱”：Meta内部人士对推动人工智能内容审核表示担忧",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 82,
+      "heat": 74,
       "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismissal of Qatar at the A...",
-      "summaryZh": "中文翻译：越来越多的证据表明，不仅在战术上，而且在心态上也发生了转变，上周在亚洲杯上以 3-0 大胜卡塔尔就是明证，这让人回想起亚洲杯的惨痛失利……",
+      "summary": "公开来源显示该议题正在发酵：Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators ...",
+      "summaryZh": "中文翻译：多名员工表示，算法运行速度过快意味着错误可能大规模发生。Meta员工对公司推动用算法取代人工审核员的做法表示担忧……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation"
         }
       ],
       "accounts": [
         {
-          "name": "@TacticsJournal",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@elliottvenis",
+          "name": "@ImKushanK",
           "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’",
-      "titleZh": "社区话题：我们应该有多么惊慌失措？在经历大规模停电后，专家告诉我们，我们离“世界末日”有多近。",
+      "title": "社区话题：Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
+      "titleZh": "社区话题：古尔为士气高昂的加拉塔萨雷挺身而出，让阿斯顿维拉在欧冠赛场上败北",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 71,
+      "heat": 85,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Mi...",
-      "summaryZh": "中文翻译：随着技术、旅游和银行业故障席卷美国，分析师和网络安全主管讨论了人工智能、资金不足以及让他们夜不能寐的问题。航班停飞。银行网站崩溃。Mi……",
+      "summary": "公开来源显示该议题正在发酵：This was Aston Villa’s third trip to Istanbul in the calendar year but, this time, they departed with different emotions. Unlike on the banks of the Bosphorus at Besiktas Park in May, the sc...",
+      "summaryZh": "中文翻译：这是阿斯顿维拉本年度第三次前往伊斯坦布尔，但这一次，他们带着不同的心情离开。与 5 月在博斯普鲁斯海峡畔的贝西克塔斯公园不同，这次……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report"
         }
       ],
       "accounts": [
         {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
           "name": "@lifeof_scoop",
@@ -609,9 +609,9 @@
           "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     }
@@ -627,27 +627,27 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show": {
+    "实时讨论：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss": {
+    "实时讨论：Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’": {
+    "实时讨论：Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "视觉热点：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss": {
+    "视觉热点：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：I covered myself in sleep trackers to find the very best": {
+    "视觉热点：Jannik Sinner’s Australian Open appearance in doubt after knee surgery": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
@@ -672,17 +672,17 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show": {
+    "短视频趋势：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Football Daily | Football’s political gamers face off at Fifa with the real-life final boss": {
+    "短视频趋势：Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’": {
+    "短视频趋势：Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -697,12 +697,12 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch": {
+    "社区话题：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’": {
+    "社区话题：Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
