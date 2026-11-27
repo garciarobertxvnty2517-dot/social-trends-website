@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-11-26T09:31:50.963109+00:00",
-  "generatedAtBeijing": "2026-11-26 17:31",
+  "generatedAt": "2026-11-27T09:41:44.047440+00:00",
+  "generatedAtBeijing": "2026-11-27 17:41",
   "sourceNote": "自动抓取公开 RSS/趋势源生成，适合每日运营快照，关键发布前建议人工复核。",
   "trends": [
     {
       "platform": "x",
-      "title": "实时讨论：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "实时讨论：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "title": "实时讨论：‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+      "titleZh": "实时讨论：“如果机器人搞错了，谁来承担责任？” 零售商在黑色星期五借助人工智能购物助手踏入未知领域",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 74,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：A new film about the historic World Cup quarter-final clash finds new angles for a new generation “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Mar...",
-      "summaryZh": "中文翻译：一部关于世界杯历史性四分之一决赛对决的新电影，为新一代观众提供了新的视角。“关于这场比赛，还有什么新东西可说的吗？” 加里·莱因克尔问制片人弗洛拉·费尔南德斯-马尔……",
+      "heat": 72,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop Have you downloaded Meta’s AI assistant Muse or do you plan to? They promise to ...",
+      "summaryZh": "中文翻译：品牌方知道像Meta Muse这样的代理工具的使用正在增加，但不太可能将商店的钥匙交给它们。您是否已经下载了Meta的AI助手Muse，或者您是否打算下载？它们承诺……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@TacticsJournal",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "x",
       "title": "实时讨论：Football Daily | Manchester City get that empty feeling as they fail to win again",
-      "titleZh": "实时讨论：足球日报 | 曼城再次未能取胜，感受到了空虚",
+      "titleZh": "实时讨论：足球日报 | 曼城再次未能取胜，感到空虚落寞",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 88,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Early in the second half of Tuesday night’s National League South match between Torquay United and Chesham, play was briefly suspended due...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！周二晚，在托基联队与切舍姆队进行的英格兰足球南方联赛比赛下半场开始不久，比赛因……而短暂暂停。",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！周二晚间，在托基联队与切舍姆队进行的英格兰足球南方联赛比赛下半场伊始，比赛因……而短暂暂停。",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -73,35 +73,35 @@
     },
     {
       "platform": "x",
-      "title": "实时讨论：Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video",
-      "titleZh": "实时讨论：英超球队在欧洲赛场上失利，贝林厄姆表现出色 |《足球周刊》视频",
+      "title": "实时讨论：Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia",
+      "titleZh": "实时讨论：泰森·富里（Tyson Fury）对阵安东尼·约书亚（Anthony Joshua）：帕丽斯·富里（Paris Fury）撤回了关于其丈夫被诊断患有精神分裂症的说法",
       "topic": "实时讨论、新闻发酵、观点交锋",
-      "heat": 80,
+      "heat": 73,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jonathan Liew as Manchester City’s terrible recent run continues with a draw at home to Napoli. Continue reading...",
-      "summaryZh": "中文翻译：曼城最近的表现糟糕透顶，在主场与那不勒斯的比赛中又以平局收场。Max Rushden与Barry Glendenning、Nicky Bandini和Jonathan Liew一起讨论了这一情况。继续阅读……",
+      "summary": "公开来源显示该议题正在发酵：Paris Fury had told new documentary about condition Disclosure had put Joshua fight at risk of cancellation Paris Fury has retracted her suggestion that her husband, the boxer Tyson Fury, wa...",
+      "summaryZh": "中文翻译：Paris Fury在新的纪录片中谈到，病情披露可能导致约书亚的比赛被取消。Paris Fury已撤回了她的说法，即她的丈夫、拳手泰森·富里（Tyson Fury）……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/nov/25/premier-league-sides-stumble-in-europe-and-bellingham-brilliance-football-weekly-video"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         }
       ]
     },
@@ -113,7 +113,7 @@
       "heat": 84,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give ev...",
-      "summaryZh": "中文翻译：这些股份的总价值可能接近180亿美元，而此时正值科技公司就如何分享人工智能热潮的成果展开辩论。埃隆·马斯克（Elon Musk），这位全球首富，已承诺向……",
+      "summaryZh": "中文翻译：这些股份的总价值可能接近180亿美元，而此时正值科技公司就如何分享人工智能热潮的成果展开辩论。埃隆·马斯克，这位全球首富，已承诺向……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -142,12 +142,12 @@
     {
       "platform": "x",
       "title": "实时讨论：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
-      "titleZh": "实时讨论：“情况真的非常混乱”：Meta内部人士对推动人工智能内容审核表示担忧",
+      "titleZh": "实时讨论：“这真是一团糟”：Meta内部人士对推动人工智能内容审核表示担忧",
       "topic": "实时讨论、新闻发酵、观点交锋",
       "heat": 71,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators ...",
-      "summaryZh": "中文翻译：多名员工表示，算法运行速度过快意味着错误可能大规模发生。Meta员工对公司推动以算法取代人工审核员的做法表示担忧……",
+      "summaryZh": "中文翻译：多名员工表示，算法的运行速度很快，这意味着错误可能以更大的规模发生。Meta员工对公司推动用算法取代人工审核员的做法表示担忧……",
       "operation": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。",
       "sources": [
         {
@@ -157,82 +157,14 @@
       ],
       "accounts": [
         {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
-        },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
-      "titleZh": "视觉热点：“情况真的非常混乱”：Meta内部人士对推动人工智能内容审核表示担忧",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 80,
-      "sentiment": "mid",
-      "summary": "公开来源显示该议题正在发酵：Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators ...",
-      "summaryZh": "中文翻译：多名员工表示，算法运行速度过快意味着错误可能大规模发生。Meta员工对公司推动以算法取代人工审核员的做法表示担忧……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation"
-        }
-      ],
-      "accounts": [
-        {
-          "name": "@marcinteodoru",
-          "followers": "约4.1万",
-          "why": "AI 视觉内容和教程表达"
+          "why": "AI 自动化和增长观点"
         },
-        {
-          "name": "@ImKushanK",
-          "followers": "约5万",
-          "why": "AI 自动化教学和工具演示"
-        },
-        {
-          "name": "@lifeof_scoop",
-          "followers": "<10万需复核",
-          "why": "本地 newsletter 和 AI 小生意拆解"
-        }
-      ]
-    },
-    {
-      "platform": "instagram",
-      "title": "视觉热点：Is grandma asking rude questions at the dinner table again? This Instagram account can help",
-      "titleZh": "视觉热点：奶奶又在餐桌上问无礼的问题了吗？这个Instagram账号可以帮到您",
-      "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Life100 features the wisdom of two women in their 80s and has gone viral by exploring important life lessons It is, unfortunately, a familiar scene. At the dinner table, a woman berates her ...",
-      "summaryZh": "中文翻译：Life100 节目展示了两名 80 多岁女性的智慧，通过探讨重要的人生经验而广为流传。不幸的是，这是一种司空见惯的场景。在餐桌上，一位女士斥责她的……",
-      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
-      "sources": [
-        {
-          "label": "Guardian Technology",
-          "url": "https://www.theguardian.com/wellness/2026/nov/25/life100-viral-instagram-series-susan-thau-sondra-goldstein"
-        }
-      ],
-      "accounts": [
         {
           "name": "@Bennettxai",
           "followers": "<10万需复核",
           "why": "AI 自动化实操内容"
-        },
-        {
-          "name": "@exploraX_",
-          "followers": "<10万需复核",
-          "why": "AI 自动化和增长观点"
         },
         {
           "name": "@Ivy_Dinma",
@@ -243,115 +175,183 @@
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
-      "titleZh": "视觉热点：亚历杭德罗·加尔纳乔和阿斯顿维拉被弃租借球员的离奇遭遇 | 本·费舍尔",
+      "title": "视觉热点：‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+      "titleZh": "视觉热点：“如果机器人搞错了，谁来承担责任？” 零售商在黑色星期五借助人工智能购物助手踏入未知领域",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 71,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Unai Emery wanted the winger but, like Harvey Elliott last season, he has been left out in the cold despite Villa’s attacking struggles It is three years this week since Alejandro Garnacho o...",
-      "summaryZh": "中文翻译：乌奈·埃梅里想要这名边锋，但尽管阿斯顿维拉的进攻陷入困境，他还是像上赛季的哈维·埃利奥特一样被晾在一边。本周是亚历杭德罗·加尔纳乔……三周年。",
+      "heat": 83,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop Have you downloaded Meta’s AI assistant Muse or do you plan to? They promise to ...",
+      "summaryZh": "中文翻译：品牌方知道像Meta Muse这样的代理工具的使用正在增加，但不太可能将商店的钥匙交给它们。您是否已经下载了Meta的AI助手Muse，或者您是否打算下载？它们承诺……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
         }
       ],
       "accounts": [
         {
-          "name": "@marfawe",
-          "followers": "约2万",
-          "why": "世界杯图文梗和球迷口吻"
-        },
-        {
-          "name": "@TacticsJournal",
+          "name": "@exploraX_",
           "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
+          "why": "AI 自动化和增长观点"
         },
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         }
       ]
     },
     {
       "platform": "instagram",
-      "title": "视觉热点：Google Disrupts Its Search Advertising With Its Embrace of A.I.",
-      "titleZh": "视觉热点：谷歌通过拥抱人工智能来颠覆其搜索广告业务",
+      "title": "视觉热点：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+      "titleZh": "视觉热点：“这真是一团糟”：Meta内部人士对推动人工智能内容审核表示担忧",
       "topic": "视觉化热点、Reels、轮播、生活方式",
-      "heat": 68,
-      "sentiment": "high",
-      "summary": "公开来源显示该议题正在发酵：The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent.",
-      "summaryZh": "中文翻译：这家硅谷巨头的搜索广告长期以来一直是公司的营收支柱。但随着人工智能的日益普及，其搜索广告的增长正在放缓。",
+      "heat": 78,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators ...",
+      "summaryZh": "中文翻译：多名员工表示，算法的运行速度很快，这意味着错误可能以更大的规模发生。Meta员工对公司推动用算法取代人工审核员的做法表示担忧……",
       "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "NYTimes Technology",
-          "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation"
         }
       ],
       "accounts": [
         {
-          "name": "@patrickcolpron",
-          "followers": "约4万",
-          "why": "餐厅/本地营销和创作者增长"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@lifeof_scoop",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "newsletter 增长案例"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@nathanallebach",
-          "followers": "约5万",
-          "why": "品牌人格化和社媒观点"
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
-      "platform": "tiktok",
-      "title": "短视频趋势：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "短视频趋势：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
-      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 92,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：A new film about the historic World Cup quarter-final clash finds new angles for a new generation “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Mar...",
-      "summaryZh": "中文翻译：一部关于世界杯历史性四分之一决赛对决的新电影，为新一代观众提供了新的视角。“关于这场比赛，还有什么新东西可说的吗？” 加里·莱因克尔问制片人弗洛拉·费尔南德斯-马尔……",
-      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "platform": "instagram",
+      "title": "视觉热点：Jannik Sinner ruled out of Australian Open with knee injury",
+      "titleZh": "视觉热点：扬尼克·辛纳因膝伤退出澳网公开赛",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 77,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Two-time champion faces four months out after surgery World No 2 last played in July at Wimbledon Organisers have confirmed that two-time Australian Open champion Jannik Sinner has been rule...",
+      "summaryZh": "中文翻译：两届冠军在手术后将休战四个月世界排名第二的选手上一次参赛是在7月的温布尔登公开赛主办方已确认，两届澳网冠军扬尼克·辛纳已被裁定……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/26/jannik-sinner-ruled-out-australian-open-knee-injury"
         }
       ],
       "accounts": [
         {
-          "name": "@elliottvenis",
-          "followers": "约5万",
-          "why": "足球/体育预测类内容节奏"
+          "name": "@Ivy_Dinma",
+          "followers": "约1.2万-5万",
+          "why": "AI 营销和业务运营内容"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@lifeof_scoop",
+          "followers": "<10万需复核",
+          "why": "本地 newsletter 和 AI 小生意拆解"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "title": "视觉热点：Liam Delap’s struggles are symbolic of damaging Chelsea churn",
+      "titleZh": "视觉热点：利亚姆·德拉普的困境象征着切尔西球员流失的破坏性影响",
+      "topic": "视觉化热点、Reels、轮播、生活方式",
+      "heat": 82,
+      "sentiment": "low",
+      "summary": "公开来源显示该议题正在发酵：The constant turnover of players and staff has made consistency an elusive quality at Stamford Bridge Liam Delap came and went. He joined Chelsea in the summer of 2025 and was hailed by Enzo...",
+      "summaryZh": "中文翻译：球员和工作人员的不断更替让斯坦福桥难以保持稳定。利亚姆·德拉普来过又走了。他在2025年夏天加盟切尔西，并受到恩佐的赞誉……",
+      "operation": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。",
+      "sources": [
+        {
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/27/liam-delap-struggles-damaging-chelsea-churn"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@igoeLFC",
+          "followers": "<10万需复核",
+          "why": "垂直球迷号标题和情绪表达"
         },
         {
           "name": "@TacticsJournal",
           "followers": "<10万需复核",
           "why": "战术拆解和长图文表达"
+        },
+        {
+          "name": "@Alwys_ChsngFPL",
+          "followers": "<10万，FPL 小号",
+          "why": "Fantasy football 数据和差异化选题"
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "title": "短视频趋势：‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+      "titleZh": "短视频趋势：“如果机器人搞错了，谁来承担责任？” 零售商在黑色星期五借助人工智能购物助手踏入未知领域",
+      "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
+      "heat": 75,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop Have you downloaded Meta’s AI assistant Muse or do you plan to? They promise to ...",
+      "summaryZh": "中文翻译：品牌方知道像Meta Muse这样的代理工具的使用正在增加，但不太可能将商店的钥匙交给它们。您是否已经下载了Meta的AI助手Muse，或者您是否打算下载？它们承诺……",
+      "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
+      "sources": [
+        {
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+        }
+      ],
+      "accounts": [
+        {
+          "name": "@Bennettxai",
+          "followers": "<10万需复核",
+          "why": "AI 自动化实操内容"
+        },
+        {
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@exploraX_",
+          "followers": "<10万需复核",
+          "why": "AI 自动化和增长观点"
         }
       ]
     },
     {
       "platform": "tiktok",
       "title": "短视频趋势：Football Daily | Manchester City get that empty feeling as they fail to win again",
-      "titleZh": "短视频趋势：足球日报 | 曼城再次未能取胜，感受到了空虚",
+      "titleZh": "短视频趋势：足球日报 | 曼城再次未能取胜，感到空虚落寞",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 72,
       "sentiment": "low",
       "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Early in the second half of Tuesday night’s National League South match between Torquay United and Chesham, play was briefly suspended due...",
-      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！周二晚，在托基联队与切舍姆队进行的英格兰足球南方联赛比赛下半场开始不久，比赛因……而短暂暂停。",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！周二晚间，在托基联队与切舍姆队进行的英格兰足球南方联赛比赛下半场伊始，比赛因……而短暂暂停。",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -379,35 +379,35 @@
     },
     {
       "platform": "tiktok",
-      "title": "短视频趋势：Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video",
-      "titleZh": "短视频趋势：英超球队在欧洲赛场上失利，贝林厄姆表现出色 |《足球周刊》视频",
+      "title": "短视频趋势：Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia",
+      "titleZh": "短视频趋势：泰森·富里（Tyson Fury）对阵安东尼·约书亚（Anthony Joshua）：帕丽斯·富里（Paris Fury）撤回了关于其丈夫被诊断患有精神分裂症的说法",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
-      "heat": 74,
+      "heat": 78,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jonathan Liew as Manchester City’s terrible recent run continues with a draw at home to Napoli. Continue reading...",
-      "summaryZh": "中文翻译：曼城最近的表现糟糕透顶，在主场与那不勒斯的比赛中又以平局收场。Max Rushden与Barry Glendenning、Nicky Bandini和Jonathan Liew一起讨论了这一情况。继续阅读……",
+      "summary": "公开来源显示该议题正在发酵：Paris Fury had told new documentary about condition Disclosure had put Joshua fight at risk of cancellation Paris Fury has retracted her suggestion that her husband, the boxer Tyson Fury, wa...",
+      "summaryZh": "中文翻译：Paris Fury在新的纪录片中谈到，病情披露可能导致约书亚的比赛被取消。Paris Fury已撤回了她的说法，即她的丈夫、拳手泰森·富里（Tyson Fury）……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/nov/25/premier-league-sides-stumble-in-europe-and-bellingham-brilliance-football-weekly-video"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia"
         }
       ],
       "accounts": [
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@Bennettxai",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "AI 自动化实操内容"
         },
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
@@ -419,7 +419,7 @@
       "heat": 82,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give ev...",
-      "summaryZh": "中文翻译：这些股份的总价值可能接近180亿美元，而此时正值科技公司就如何分享人工智能热潮的成果展开辩论。埃隆·马斯克（Elon Musk），这位全球首富，已承诺向……",
+      "summaryZh": "中文翻译：这些股份的总价值可能接近180亿美元，而此时正值科技公司就如何分享人工智能热潮的成果展开辩论。埃隆·马斯克，这位全球首富，已承诺向……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -448,12 +448,12 @@
     {
       "platform": "tiktok",
       "title": "短视频趋势：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
-      "titleZh": "短视频趋势：“情况真的非常混乱”：Meta内部人士对推动人工智能内容审核表示担忧",
+      "titleZh": "短视频趋势：“这真是一团糟”：Meta内部人士对推动人工智能内容审核表示担忧",
       "topic": "短视频挑战、趋势音频、反应视频、创作者经济",
       "heat": 70,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators ...",
-      "summaryZh": "中文翻译：多名员工表示，算法运行速度过快意味着错误可能大规模发生。Meta员工对公司推动以算法取代人工审核员的做法表示担忧……",
+      "summaryZh": "中文翻译：多名员工表示，算法的运行速度很快，这意味着错误可能以更大的规模发生。Meta员工对公司推动用算法取代人工审核员的做法表示担忧……",
       "operation": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。",
       "sources": [
         {
@@ -481,81 +481,81 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "titleZh": "社区话题：重温经典：英格兰和阿根廷球星以全新视角观看 1986 年经典之战",
+      "title": "社区话题：‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+      "titleZh": "社区话题：“如果机器人搞错了，谁来承担责任？” 零售商在黑色星期五借助人工智能购物助手踏入未知领域",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 85,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：A new film about the historic World Cup quarter-final clash finds new angles for a new generation “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Mar...",
-      "summaryZh": "中文翻译：一部关于世界杯历史性四分之一决赛对决的新电影，为新一代观众提供了新的视角。“关于这场比赛，还有什么新东西可说的吗？” 加里·莱因克尔问制片人弗洛拉·费尔南德斯-马尔……",
+      "heat": 92,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop Have you downloaded Meta’s AI assistant Muse or do you plan to? They promise to ...",
+      "summaryZh": "中文翻译：品牌方知道像Meta Muse这样的代理工具的使用正在增加，但不太可能将商店的钥匙交给它们。您是否已经下载了Meta的AI助手Muse，或者您是否打算下载？它们承诺……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes"
+          "label": "Guardian Technology",
+          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
         }
       ],
       "accounts": [
         {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         },
         {
-          "name": "@igoeLFC",
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
         }
       ]
     },
     {
       "platform": "facebook",
-      "title": "社区话题：Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video",
-      "titleZh": "社区话题：英超球队在欧洲赛场上失利，贝林厄姆表现出色 |《足球周刊》视频",
+      "title": "社区话题：Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia",
+      "titleZh": "社区话题：泰森·富里（Tyson Fury）对阵安东尼·约书亚（Anthony Joshua）：帕丽斯·富里（Paris Fury）撤回了关于其丈夫被诊断患有精神分裂症的说法",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 76,
+      "heat": 81,
       "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jonathan Liew as Manchester City’s terrible recent run continues with a draw at home to Napoli. Continue reading...",
-      "summaryZh": "中文翻译：曼城最近的表现糟糕透顶，在主场与那不勒斯的比赛中又以平局收场。Max Rushden与Barry Glendenning、Nicky Bandini和Jonathan Liew一起讨论了这一情况。继续阅读……",
+      "summary": "公开来源显示该议题正在发酵：Paris Fury had told new documentary about condition Disclosure had put Joshua fight at risk of cancellation Paris Fury has retracted her suggestion that her husband, the boxer Tyson Fury, wa...",
+      "summaryZh": "中文翻译：Paris Fury在新的纪录片中谈到，病情披露可能导致约书亚的比赛被取消。Paris Fury已撤回了她的说法，即她的丈夫、拳手泰森·富里（Tyson Fury）……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Football",
-          "url": "https://www.theguardian.com/football/video/2026/nov/25/premier-league-sides-stumble-in-europe-and-bellingham-brilliance-football-weekly-video"
+          "label": "Guardian Sport",
+          "url": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia"
         }
       ],
       "accounts": [
         {
-          "name": "@igoeLFC",
+          "name": "@ImKushanK",
+          "followers": "约5万",
+          "why": "AI 自动化教学和工具演示"
+        },
+        {
+          "name": "@lifeof_scoop",
           "followers": "<10万需复核",
-          "why": "垂直球迷号标题和情绪表达"
+          "why": "本地 newsletter 和 AI 小生意拆解"
         },
         {
-          "name": "@Alwys_ChsngFPL",
-          "followers": "<10万，FPL 小号",
-          "why": "Fantasy football 数据和差异化选题"
-        },
-        {
-          "name": "@goalflexo",
-          "followers": "约2万",
-          "why": "足球短视频和球星热点二创"
+          "name": "@marcinteodoru",
+          "followers": "约4.1万",
+          "why": "AI 视觉内容和教程表达"
         }
       ]
     },
     {
       "platform": "facebook",
       "title": "社区话题：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
-      "titleZh": "社区话题：“情况真的非常混乱”：Meta内部人士对推动人工智能内容审核表示担忧",
+      "titleZh": "社区话题：“这真是一团糟”：Meta内部人士对推动人工智能内容审核表示担忧",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
       "heat": 74,
       "sentiment": "mid",
       "summary": "公开来源显示该议题正在发酵：Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators ...",
-      "summaryZh": "中文翻译：多名员工表示，算法运行速度过快意味着错误可能大规模发生。Meta员工对公司推动以算法取代人工审核员的做法表示担忧……",
+      "summaryZh": "中文翻译：多名员工表示，算法的运行速度很快，这意味着错误可能以更大的规模发生。Meta员工对公司推动用算法取代人工审核员的做法表示担忧……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
@@ -583,18 +583,18 @@
     },
     {
       "platform": "facebook",
-      "title": "社区话题：United States lined up to co-host 2034 men’s T20 World Cup with West Indies",
-      "titleZh": "社区话题：美国将与西印度群岛共同主办 2034 年男子 T20 世界杯",
+      "title": "社区话题：Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch",
+      "titleZh": "社区话题：足球日报 | 拜仁慕尼黑场内场外乌龙不断，情况愈发糟糕",
       "topic": "社区讨论、家庭消费、本地化、长帖解释",
-      "heat": 77,
-      "sentiment": "low",
-      "summary": "公开来源显示该议题正在发酵：World body eager to build on 2028 Los Angeles Olympics England and Wales Cricket Board has ruled out a bid The United States is being lined up to co-host the 2034 men’s T20 World&nbsp;Cup in...",
-      "summaryZh": "中文翻译：国际板球理事会渴望在2028年洛杉矶奥运会的基础上更进一步，英格兰和威尔士板球委员会已排除申办的可能性。美国正准备与……共同主办2034年男子T20世界杯。",
+      "heat": 68,
+      "sentiment": "mid",
+      "summary": "公开来源显示该议题正在发酵：Sign up now! Sign up now! Sign up now? Sign up now! Bayern Munich’s 2-1 defeat to Lille was arguably the most eye-catching of Wednesday night’s Bigger Cup results, but anyone who tuned into ...",
+      "summaryZh": "中文翻译：立即注册！立即注册！现在注册？现在注册！拜仁慕尼黑以2-1不敌里尔，这可能是周三晚大杯赛结果中最引人注目的一场，但任何观看比赛的人都会……",
       "operation": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。",
       "sources": [
         {
-          "label": "Guardian Sport",
-          "url": "https://www.theguardian.com/sport/2026/nov/26/united-states-co-host-2034-cricket-mens-t20-world-cup-west-indies"
+          "label": "Guardian Football",
+          "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich"
         }
       ],
       "accounts": [
@@ -604,20 +604,20 @@
           "why": "世界杯图文梗和球迷口吻"
         },
         {
+          "name": "@goalflexo",
+          "followers": "约2万",
+          "why": "足球短视频和球星热点二创"
+        },
+        {
           "name": "@elliottvenis",
           "followers": "约5万",
           "why": "足球/体育预测类内容节奏"
-        },
-        {
-          "name": "@TacticsJournal",
-          "followers": "<10万需复核",
-          "why": "战术拆解和长图文表达"
         }
       ]
     }
   ],
   "audienceMap": {
-    "实时讨论：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes": {
+    "实时讨论：‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -627,7 +627,7 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
-    "实时讨论：Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video": {
+    "实时讨论：Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia": {
       "audience": "新闻敏感用户、行业从业者、体育/科技评论者、喜欢参与即时讨论的人群。",
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
@@ -642,27 +642,27 @@
       "motivation": "他们想第一时间知道发生了什么，并通过转发、评论、站队表达自己的判断。",
       "mode": "用事实来源 + 一句话判断 + 开放式问题发布。适合 thread、快评、数据截图和创始人视角。"
     },
+    "视觉热点：‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday": {
+      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
+      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
+      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
+    },
     "视觉热点：‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Is grandma asking rude questions at the dinner table again? This Instagram account can help": {
+    "视觉热点：Jannik Sinner ruled out of Australian Open with knee injury": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher": {
+    "视觉热点：Liam Delap’s struggles are symbolic of damaging Chelsea churn": {
       "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
       "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
       "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
     },
-    "视觉热点：Google Disrupts Its Search Advertising With Its Embrace of A.I.": {
-      "audience": "视觉审美用户、生活方式关注者、体育/娱乐粉丝、喜欢保存清单和轮播的人群。",
-      "motivation": "他们需要好看、可保存、可转发的内容，也喜欢把热点变成个人风格表达。",
-      "mode": "把热点拆成 5 页轮播或 15 秒 Reels：背景、原因、影响、可模仿动作、互动问题。"
-    },
-    "短视频趋势：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes": {
+    "短视频趋势：‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -672,7 +672,7 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "短视频趋势：Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video": {
+    "短视频趋势：Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia": {
       "audience": "年轻用户、短视频创作者、meme 参与者、喜欢快速模仿和二创的人群。",
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
@@ -687,12 +687,12 @@
       "motivation": "他们追求参与感、反差、情绪释放和容易复制的模板。",
       "mode": "用 3 秒 hook + 可复制模板 + 评论区任务。优先测试多个开头，再保留完播率最高版本。"
     },
-    "社区话题：Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes": {
+    "社区话题：‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video": {
+    "社区话题：Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
@@ -702,7 +702,7 @@
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
     },
-    "社区话题：United States lined up to co-host 2034 men’s T20 World Cup with West Indies": {
+    "社区话题：Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch": {
       "audience": "家长、本地社区用户、中小企业主、社群管理员和实用信息消费者。",
       "motivation": "他们更关心热点对家庭、社区、工作和日常消费有什么实际影响。",
       "mode": "把热点改写成社区问题、经验征集或实用清单。适合长帖、群组讨论和 Reels 二次分发。"
